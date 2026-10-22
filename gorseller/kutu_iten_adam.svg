@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40 140 720 260" width="720" height="260">
+  <title>Yerdeki kutuyu iten adam ve uyguladığı F kuvveti</title>
+  <defs>
+    <marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#d62828"/>
+    </marker>
+    <marker id="okKucuk" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#d62828"/>
+    </marker>
+  </defs>
+
+  <rect x="40" y="140" width="720" height="260" fill="#ffffff"/>
+
+  <!-- Zemin -->
+  <path d="M62,382 L80,362 M80,382 L98,362 M98,382 L116,362 M116,382 L134,362 M134,382 L152,362 M152,382 L170,362 M170,382 L188,362 M188,382 L206,362 M206,382 L224,362 M224,382 L242,362 M242,382 L260,362 M260,382 L278,362 M278,382 L296,362 M296,382 L314,362 M314,382 L332,362 M332,382 L350,362 M350,382 L368,362 M368,382 L386,362 M386,382 L404,362 M404,382 L422,362 M422,382 L440,362 M440,382 L458,362 M458,382 L476,362 M476,382 L494,362 M494,382 L512,362 M512,382 L530,362 M530,382 L548,362 M548,382 L566,362 M566,382 L584,362 M584,382 L602,362 M602,382 L620,362 M620,382 L638,362 M638,382 L656,362 M656,382 L674,362 M674,382 L692,362 M692,382 L710,362 M710,382 L728,362 M728,382 L746,362" stroke="#7a6a58" stroke-width="2"/>
+  <line x1="60" y1="360" x2="740" y2="360" stroke="#4a3f35" stroke-width="4"/>
+
+  <!-- Kutu -->
+  <rect x="470" y="220" width="150" height="140" fill="#e9c46a" stroke="#8a6d1f" stroke-width="4" rx="3"/>
+  <text x="595" y="250" font-family="Georgia, serif" font-size="26" font-style="italic" fill="#5c4810">m</text>
+
+  <!-- Adam (öne eğilmiş, itiyor) -->
+  <g stroke="#1d3557" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- arka bacak -->
+    <polyline points="348,292 315,325 280,356" stroke-width="15"/>
+    <line x1="268" y1="357" x2="292" y2="357" stroke-width="10"/>
+    <!-- ön bacak -->
+    <polyline points="348,292 388,322 372,356" stroke-width="15"/>
+    <line x1="370" y1="357" x2="394" y2="357" stroke-width="10"/>
+    <!-- gövde -->
+    <line x1="348" y1="292" x2="408" y2="220" stroke-width="22"/>
+    <!-- arka kol -->
+    <polyline points="405,224 432,262 466,282" stroke-width="12"/>
+    <!-- ön kol -->
+    <polyline points="408,220 442,246 466,258" stroke-width="12"/>
+  </g>
+  <!-- eller -->
+  <circle cx="466" cy="282" r="7" fill="#f4a261"/>
+  <circle cx="466" cy="258" r="7" fill="#f4a261"/>
+  <!-- kafa -->
+  <circle cx="432" cy="192" r="21" fill="#f4a261" stroke="#1d3557" stroke-width="3"/>
+
+  <!-- Kuvvet vektörü F (temas noktasından kutuya doğru, yatay) -->
+  <line x1="470" y1="300" x2="572" y2="300" stroke="#d62828" stroke-width="6" marker-end="url(#ok)"/>
+  <circle cx="470" cy="300" r="5" fill="#d62828"/>
+  <!-- F etiketi (vektör işaretli) -->
+  <line x1="514" y1="321" x2="536" y2="321" stroke="#d62828" stroke-width="2" marker-end="url(#okKucuk)"/>
+  <text x="514" y="350" font-family="Georgia, serif" font-size="30" font-style="italic" font-weight="bold" fill="#d62828">F</text>
+</svg>
