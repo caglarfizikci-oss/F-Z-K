@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="40 140 720 260" width="720" height="260">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40 110 720 290" width="720" height="290">
   <title>Yerdeki kutuyu iten adam ve uyguladığı F kuvveti</title>
   <defs>
     <marker id="ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
@@ -7,43 +7,93 @@
     <marker id="okKucuk" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto">
       <path d="M0,0 L10,5 L0,10 z" fill="#d62828"/>
     </marker>
+    <linearGradient id="tahta" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e2b46a"/><stop offset="1" stop-color="#c8924a"/>
+    </linearGradient>
+    <linearGradient id="gomlek" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4a82bd"/><stop offset="1" stop-color="#335f92"/>
+    </linearGradient>
   </defs>
 
-  <rect x="40" y="140" width="720" height="260" fill="#ffffff"/>
+  <rect x="40" y="110" width="720" height="290" fill="#ffffff"/>
+
+  <!-- Gölgeler -->
+  <ellipse cx="335" cy="362" rx="105" ry="6" fill="#000" opacity="0.12"/>
+  <ellipse cx="552" cy="362" rx="92" ry="6" fill="#000" opacity="0.12"/>
 
   <!-- Zemin -->
   <path d="M62,382 L80,362 M80,382 L98,362 M98,382 L116,362 M116,382 L134,362 M134,382 L152,362 M152,382 L170,362 M170,382 L188,362 M188,382 L206,362 M206,382 L224,362 M224,382 L242,362 M242,382 L260,362 M260,382 L278,362 M278,382 L296,362 M296,382 L314,362 M314,382 L332,362 M332,382 L350,362 M350,382 L368,362 M368,382 L386,362 M386,382 L404,362 M404,382 L422,362 M422,382 L440,362 M440,382 L458,362 M458,382 L476,362 M476,382 L494,362 M494,382 L512,362 M512,382 L530,362 M530,382 L548,362 M548,382 L566,362 M566,382 L584,362 M584,382 L602,362 M602,382 L620,362 M620,382 L638,362 M638,382 L656,362 M656,382 L674,362 M674,382 L692,362 M692,382 L710,362 M710,382 L728,362 M728,382 L746,362" stroke="#7a6a58" stroke-width="2"/>
   <line x1="60" y1="360" x2="740" y2="360" stroke="#4a3f35" stroke-width="4"/>
 
-  <!-- Kutu -->
-  <rect x="470" y="220" width="150" height="140" fill="#e9c46a" stroke="#8a6d1f" stroke-width="4" rx="3"/>
-  <text x="595" y="250" font-family="Georgia, serif" font-size="26" font-style="italic" fill="#5c4810">m</text>
-
-  <!-- Adam (öne eğilmiş, itiyor) -->
-  <g stroke="#1d3557" stroke-linecap="round" stroke-linejoin="round" fill="none">
-    <!-- arka bacak -->
-    <polyline points="348,292 315,325 280,356" stroke-width="15"/>
-    <line x1="268" y1="357" x2="292" y2="357" stroke-width="10"/>
-    <!-- ön bacak -->
-    <polyline points="348,292 388,322 372,356" stroke-width="15"/>
-    <line x1="370" y1="357" x2="394" y2="357" stroke-width="10"/>
-    <!-- gövde -->
-    <line x1="348" y1="292" x2="408" y2="220" stroke-width="22"/>
-    <!-- arka kol -->
-    <polyline points="405,224 432,262 466,282" stroke-width="12"/>
-    <!-- ön kol -->
-    <polyline points="408,220 442,246 466,258" stroke-width="12"/>
+  <!-- Kutu (tahta sandık) -->
+  <rect x="470" y="200" width="160" height="160" fill="url(#tahta)" stroke="#7a5420" stroke-width="4" rx="2"/>
+  <g stroke="#a8763a" stroke-width="2" opacity="0.7">
+    <line x1="472" y1="253" x2="628" y2="253"/><line x1="472" y1="306" x2="628" y2="306"/>
   </g>
-  <!-- eller -->
-  <circle cx="466" cy="282" r="7" fill="#f4a261"/>
-  <circle cx="466" cy="258" r="7" fill="#f4a261"/>
-  <!-- kafa -->
-  <circle cx="432" cy="192" r="21" fill="#f4a261" stroke="#1d3557" stroke-width="3"/>
+  <text x="602" y="228" font-family="Georgia, serif" font-size="24" font-style="italic" fill="#4d3410">m</text>
 
-  <!-- Kuvvet vektörü F (temas noktasından kutuya doğru, yatay) -->
-  <line x1="470" y1="300" x2="572" y2="300" stroke="#d62828" stroke-width="6" marker-end="url(#ok)"/>
-  <circle cx="470" cy="300" r="5" fill="#d62828"/>
+  <!-- Adam: arka (uzak) uzuvlar daha koyu -->
+  <g>
+    <!-- uzak bacak (geride, düz, topuk havada) -->
+    <polygon points="334.6,230.2 295.0,283.2 311.0,296.8 357.4,249.8" fill="#2a2e37"/>
+    <polygon points="294.9,283.3 256.2,335.2 267.8,344.8 311.1,296.7" fill="#2a2e37"/>
+    <circle cx="346.0" cy="240.0" r="15.0" fill="#2a2e37"/>
+    <circle cx="303.0" cy="290.0" r="10.5" fill="#2a2e37"/>
+    <circle cx="262.0" cy="340.0" r="7.5" fill="#2a2e37"/>
+    <path d="M250,334 C246,342 250,350 262,356 L286,361 C292,361 292,354 286,351 L268,338 Z" fill="#2b1e16"/>
+    <!-- uzak kol -->
+    <polygon points="395.0,194.4 416.8,234.5 431.2,227.5 413.0,185.6" fill="#2c5785"/>
+    <circle cx="404.0" cy="190.0" r="10.0" fill="#2c5785"/>
+    <circle cx="424.0" cy="231.0" r="8.0" fill="#2c5785"/>
+    <polygon points="421.3,237.5 461.1,251.6 464.9,242.4 426.7,224.5" fill="#c48a63"/>
+    <circle cx="424.0" cy="231.0" r="7.0" fill="#c48a63"/>
+    <circle cx="463.0" cy="247.0" r="5.0" fill="#c48a63"/>
+    <polygon points="465.3,250.4 473.1,242.0 462.9,234.0 456.7,243.6" fill="#c48a63"/>
+    <polygon points="474.4,239.4 475.4,224.9 466.6,223.1 461.6,236.6" fill="#c48a63"/>
+    <circle cx="461.0" cy="247.0" r="5.5" fill="#c48a63"/>
+    <circle cx="468.0" cy="238.0" r="6.5" fill="#c48a63"/>
+    <circle cx="471.0" cy="224.0" r="4.5" fill="#c48a63"/>
+    <!-- yakın bacak (önde, dizden bükük) -->
+    <polygon points="340.8,247.1 397.7,281.0 410.3,263.0 359.2,220.9" fill="#3d4350"/>
+    <polygon points="393.2,269.8 382.2,340.4 397.8,343.6 414.8,274.2" fill="#3d4350"/>
+    <circle cx="350.0" cy="234.0" r="16.0" fill="#3d4350"/>
+    <circle cx="404.0" cy="272.0" r="11.0" fill="#3d4350"/>
+    <circle cx="390.0" cy="342.0" r="8.0" fill="#3d4350"/>
+    <path d="M380,338 C376,346 376,356 380,360 L420,360 C424,358 422,352 414,349 L400,342 Z" fill="#2b1e16"/>
+    <!-- boyun -->
+    <polygon points="417.1,188.8 432.5,176.0 423.5,164.0 406.9,175.2" fill="#e3b08a"/>
+    <circle cx="412.0" cy="182.0" r="8.5" fill="#e3b08a"/>
+    <circle cx="428.0" cy="170.0" r="7.5" fill="#e3b08a"/>
+    <!-- gövde (gömlek) -->
+    <path d="M333.3,228.7 C330.8,223.9 333.0,226.1 337.2,222.9 C341.3,219.7 351.9,214.6 358.3,209.3 C364.7,204.0 370.0,196.4 375.6,191.1 C381.1,185.9 386.5,180.9 391.6,177.9 C396.6,174.8 401.7,173.4 405.6,172.7 C409.6,172.0 412.4,172.2 415.2,173.8 C418.0,175.5 421.5,179.7 422.2,182.3 C423.0,185.0 421.2,186.0 419.7,189.6 C418.2,193.3 416.7,199.0 413.2,204.0 C409.8,209.0 405.1,214.9 399.2,219.6 C393.2,224.3 384.1,227.5 377.4,232.4 C370.7,237.3 363.0,245.9 358.8,249.1 C354.7,252.3 356.7,255.2 352.4,251.8 C348.2,248.4 335.9,233.5 333.3,228.7 Z" fill="url(#gomlek)"/>
+    <line x1="340.4" y1="221.6" x2="361.4" y2="247.0" stroke="#3a2a1e" stroke-width="5" stroke-linecap="butt"/>
+    <!-- yakın kol -->
+    <polygon points="404.2,187.7 421.0,227.0 437.0,221.0 423.8,180.3" fill="#3f74ad"/>
+    <circle cx="414.0" cy="184.0" r="10.5" fill="#3f74ad"/>
+    <circle cx="429.0" cy="224.0" r="8.5" fill="#3f74ad"/>
+    <polygon points="427.0,231.2 463.5,239.3 466.5,228.7 431.0,216.8" fill="#e3b08a"/>
+    <circle cx="429.0" cy="224.0" r="7.5" fill="#e3b08a"/>
+    <circle cx="465.0" cy="234.0" r="5.5" fill="#e3b08a"/>
+    <polygon points="468.3,235.9 475.1,225.4 462.9,218.6 457.7,230.1" fill="#e3b08a"/>
+    <polygon points="475.9,222.9 475.5,207.6 466.5,206.4 462.1,221.1" fill="#e3b08a"/>
+    <circle cx="463.0" cy="233.0" r="6.0" fill="#e3b08a"/>
+    <circle cx="469.0" cy="222.0" r="7.0" fill="#e3b08a"/>
+    <circle cx="471.0" cy="207.0" r="4.5" fill="#e3b08a"/>
+    <path d="M466,216 L470,215 M466,224 L470,224" stroke="#c48a63" stroke-width="1.2" stroke-linecap="round"/>
+    <!-- kafa (profil, öne bakıyor) -->
+    <g transform="translate(434,155) rotate(14)">
+      <path d="M-5,24 C-18,15 -22,-5 -14,-16 C-6,-25 11,-24 16,-12 L17,-4 L22,3 C22,5 19,6 17,6 L18,10 L16,12 L17,15 C15,20 10,21 5,20 L3,25 Z" fill="#e3b08a"/>
+      <path d="M-16,-12 C-9,-27 13,-27 17,-9 C11,-14 2,-15 -4,-9 C-8,-5 -12,0 -18,4 C-21,-2 -20,-8 -16,-12 Z" fill="#3a281c"/>
+      <ellipse cx="-2" cy="3" rx="3.5" ry="5.5" fill="#c48a63"/>
+      <path d="M8,-6 L14,-6" stroke="#3a281c" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="12" cy="-2" r="1.6" fill="#2a1d14"/>
+      <path d="M14,11 L17,10" stroke="#a5654a" stroke-width="1.5" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- Kuvvet vektörü F (ellerin kutuya değdiği yerden, itme yönünde) -->
+  <line x1="478" y1="236" x2="588" y2="236" stroke="#d62828" stroke-width="6" marker-end="url(#ok)"/>
   <!-- F etiketi (vektör işaretli) -->
-  <line x1="514" y1="321" x2="536" y2="321" stroke="#d62828" stroke-width="2" marker-end="url(#okKucuk)"/>
-  <text x="514" y="350" font-family="Georgia, serif" font-size="30" font-style="italic" font-weight="bold" fill="#d62828">F</text>
+  <line x1="516" y1="256" x2="538" y2="256" stroke="#d62828" stroke-width="2" marker-end="url(#okKucuk)"/>
+  <text x="516" y="285" font-family="Georgia, serif" font-size="30" font-style="italic" font-weight="bold" fill="#d62828">F</text>
 </svg>
