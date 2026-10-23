@@ -41,7 +41,7 @@
   p{margin:3px 0}
   .grid{display:grid;grid-template-columns:1fr 1fr;gap:7px}
   .grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:7px}
-  .box{border:1.5px solid;border-radius:8px;padding:6px 8px;break-inside:avoid}
+  .box{border:1.5px solid;border-radius:8px;padding:5px 8px;break-inside:avoid}
   .box h3{margin:0 0 3px;font-size:10pt;display:flex;gap:5px;align-items:center}
   .box ul{margin:2px 0;padding-left:16px}
   .box li{margin:1px 0}
@@ -63,8 +63,11 @@
   .l3{stroke:var(--green);stroke-width:2.4;fill:none}
   .area{fill:var(--shade);stroke:none}
   .dash{stroke:var(--muted);stroke-dasharray:3 3;stroke-width:1}
+  .g2 svg{max-height:31mm}
   .cap{font-size:8.5pt;text-align:center;color:var(--muted);margin-top:1px}
-  footer{margin-top:6px;font-size:8pt;color:var(--muted);text-align:center}
+  .vec{position:relative;display:inline-block}
+  .vec::before{content:"→";position:absolute;left:0;right:0;top:-.72em;text-align:center;font-size:.7em;font-weight:normal}
+  footer{margin-top:4px;font-size:8pt;color:var(--muted);text-align:center}
   @media print{
     @page{size:A4;margin:0}
     body{background:#fff}
@@ -81,227 +84,221 @@
 <!-- ===================== SAYFA 1 ===================== -->
 <section class="page">
   <header>
-    <h1>1. Sabit Hızlı Hareket</h1>
-    <div class="tag">10. Sınıf Fizik · Kuvvet ve Hareket<br>Konu Özeti – Sayfa 1/2</div>
+    <h1>1.1. Sabit Hızlı Hareket</h1>
+    <div class="tag">10. Sınıf Fizik · 1. Ünite: Kuvvet ve Hareket<br>Konu Özeti – Sayfa 1/2 · Ders kitabı s. 16–32</div>
   </header>
 
   <div class="grid">
     <div class="box info">
-      <h3>📌 Temel Kavramlar</h3>
+      <h3>🚗 Sabit Hızlı Hareket Nedir?</h3>
+      <p>Doğrusal yolda hareket eden bir araç <b>eşit zaman aralıklarında eşit yer değiştirmelere</b> sahipse aracın hareketine <b>sabit hızlı hareket</b>, sahip olduğu hıza <b>sabit hız</b> denir.</p>
       <ul>
-        <li><b>Konum (x):</b> Cismin bir başlangıç noktasına (referans) göre yeri. Yönlüdür, (+) ya da (–) olabilir.</li>
-        <li><b>Yer değiştirme (Δx):</b> Son konum – ilk konum. <b>Vektörel</b> büyüklüktür.<br>Δx = x<sub>son</sub> – x<sub>ilk</sub></li>
-        <li><b>Alınan yol:</b> Cismin gerçekte izlediği yolun uzunluğu. <b>Skaler</b>dir, hep (+).</li>
-        <li><b>Sürat:</b> Birim zamanda alınan yol (skaler).</li>
-        <li><b>Hız (v):</b> Birim zamanda yapılan yer değiştirme (vektörel).</li>
+        <li>Hızın <b>büyüklüğü</b> ve <b>doğrultusu</b> değişmez.</li>
+        <li>Hız büyüklüğünde değişim olmadığı için <b>ivme sıfırdır</b>.</li>
+        <li>Örnek: Seçilen kata sabit hızla ilerleyen platform tipi asansör, sabit hızla giden elektrikli scooter.</li>
       </ul>
     </div>
-    <div class="box info">
-      <h3>🚗 Sabit Hızlı Hareket Nedir?</h3>
-      <p>Cisim <b>eşit zaman aralıklarında eşit yer değiştirme</b> yapıyorsa hareketi <b>sabit hızlıdır</b> (düzgün doğrusal hareket).</p>
-      <ul>
-        <li>Hızın hem <b>büyüklüğü</b> hem <b>yönü</b> değişmez.</li>
-        <li>Hız değişmediği için <b>ivme sıfırdır</b> (a = 0).</li>
-        <li>Newton'un 1. yasasına göre cisme etki eden <b>net kuvvet sıfırdır</b>.</li>
-        <li>Örnek: Düz yolda hız sabitleyiciyle giden otomobil.</li>
-      </ul>
+    <div class="box tip">
+      <h3>💡 Sabit Sürat ≠ Sabit Hız</h3>
+      <p><b>Sabit sürat:</b> Cismin eşit zaman aralıklarında <b>eşit yollar</b> alması. Yalnızca büyüklüğü olan <b>skaler</b> bir niceliktir.</p>
+      <p><b>Sabit hız:</b> Hem büyüklüğü hem <b>yönü</b> olan <b>vektörel</b> bir niceliktir.</p>
+      <p class="small">Sabit süratle hareket eden bir cismin hızı değişebilir! Örneğin taşıyıcı bantta eğrisel yolda giden valizin sürati sabit kalsa da yönü değiştiği için hızı değişir.</p>
     </div>
   </div>
 
   <div class="grid" style="margin-top:6px">
-    <div class="box formula">
-      <h3>🧮 Formül Kutusu</h3>
-      <div class="eq">v = Δx / Δt</div>
-      <div class="eq">Δx = v · t &nbsp;&nbsp;|&nbsp;&nbsp; x = x<sub>0</sub> + v · t</div>
-      <div class="eq">Ortalama sürat = Toplam yol / Toplam süre</div>
-      <p class="small">Birimler (SI): x → metre (m), t → saniye (s), v → m/s</p>
+    <div class="box info">
+      <h3>📌 Temel Kavramlar</h3>
+      <ul>
+        <li><b>Konum (x):</b> Cismin başlangıç noktasına (x = 0) göre yeri. +x ya da –x yönünde olabilir.</li>
+        <li><b>Yer değiştirme (<span class="vec">Δx</span>):</b> Δx = x<sub>son</sub> – x<sub>ilk</sub>. Vektörel bir büyüklüktür.</li>
+        <li><b>Alınan yol:</b> Cismin izlediği yolun uzunluğu. Skalerdir.</li>
+        <li><b>Sürat:</b> Alınan yolun geçen süreye oranı.</li>
+        <li><b>Hız (<span class="vec">ϑ</span>):</b> Yer değiştirmenin geçen süreye oranı.</li>
+      </ul>
+      <p class="small">Doğru boyunca giden ve <b>yön değiştirmeyen</b> cismin hızının büyüklüğü ile sürati birbirine eşittir.</p>
     </div>
-    <div class="box tip">
-      <h3>💡 Birim Dönüşümü</h3>
-      <div class="eq">km/h → m/s : 3,6'ya böl</div>
-      <div class="eq">m/s → km/h : 3,6 ile çarp</div>
-      <p class="small">72 km/h = 20 m/s &nbsp;·&nbsp; 90 km/h = 25 m/s &nbsp;·&nbsp; 108 km/h = 30 m/s</p>
+    <div class="box formula">
+      <h3>🧮 Matematiksel Modeller</h3>
+      <div class="eq" style="font-size:9.6pt">ϑ = Δx / Δt = (x<sub>son</sub> – x<sub>ilk</sub>) / (t<sub>son</sub> – t<sub>ilk</sub>)</div>
+      <div class="eq"><span class="vec">Δx</span> = <span class="vec">ϑ</span> · Δt</div>
+      <div class="eq">Sürat = Alınan yol / Geçen süre</div>
+      <p class="small">+x yönünde giden cismin hızı (+), –x yönünde giden cismin hızı (–) alınır: Δx = –ϑ · t.<br>SI birimleri: x → m, t → s, ϑ → m/s. Süre dakika verilirse 1 dk = 60 s.</p>
     </div>
   </div>
 
-  <h2>📈 Sabit Hızlı Hareketin Grafikleri</h2>
+  <h2>📈 Sabit Hızlı Hareketin Grafikleri (zıt yönlerde giden A ve B araçları)</h2>
   <div class="grid3">
     <div>
       <svg viewBox="0 0 200 140" role="img" aria-label="Konum-zaman grafiği">
-        <line class="ax" x1="25" y1="120" x2="190" y2="120"/><line class="ax" x1="25" y1="120" x2="25" y2="8"/>
-        <polygon points="190,120 184,117 184,123" fill="currentColor"/>
-        <text x="182" y="135" font-size="11">t</text><text x="6" y="16" font-size="11">x</text>
-        <line class="l1" x1="25" y1="110" x2="175" y2="25"/>
-        <line class="l2" x1="25" y1="40" x2="175" y2="105"/>
-        <line class="dash" x1="85" y1="76" x2="145" y2="76"/><line class="dash" x1="145" y1="76" x2="145" y2="42"/>
-        <text x="108" y="88" font-size="9">Δt</text><text x="149" y="62" font-size="9">Δx</text>
-        <text x="132" y="22" font-size="9" style="fill:var(--blue)">+ yönde</text>
-        <text x="122" y="116" font-size="9" style="fill:var(--red)">– yönde</text>
+        <line class="ax" x1="25" y1="125" x2="190" y2="125"/><line class="ax" x1="25" y1="125" x2="25" y2="8"/>
+        <text x="182" y="138" font-size="11">t</text><text x="4" y="16" font-size="11">x</text>
+        <text x="8" y="79" font-size="9">x₁</text>
+        <line class="l1" x1="25" y1="75" x2="170" y2="25"/>
+        <line class="l2" x1="25" y1="75" x2="170" y2="118"/>
+        <line class="dash" x1="80" y1="56" x2="135" y2="56"/><line class="dash" x1="135" y1="56" x2="135" y2="37"/>
+        <text x="100" y="67" font-size="9">Δt</text><text x="139" y="50" font-size="9">Δx</text>
+        <text x="150" y="20" font-size="10" style="fill:var(--blue)">A (+x)</text>
+        <text x="125" y="108" font-size="10" style="fill:var(--red)">B (–x)</text>
       </svg>
-      <div class="cap"><b>Konum–zaman (x–t):</b> eğik doğru<br>Eğim = hız</div>
+      <div class="cap"><b>x–t:</b> eğik doğru<br>Eğim = hız (A: + eğim, B: – eğim)</div>
     </div>
     <div>
       <svg viewBox="0 0 200 140" role="img" aria-label="Hız-zaman grafiği">
-        <line class="ax" x1="25" y1="75" x2="190" y2="75"/><line class="ax" x1="25" y1="130" x2="25" y2="8"/>
-        <text x="182" y="90" font-size="11">t</text><text x="6" y="16" font-size="11">v</text>
-        <rect class="area" x="25" y="35" width="120" height="40"/>
-        <line class="l1" x1="25" y1="35" x2="175" y2="35"/>
-        <line class="dash" x1="145" y1="35" x2="145" y2="75"/>
-        <text x="62" y="60" font-size="9.5">Alan = Δx</text>
-        <text x="140" y="88" font-size="9">t</text>
-        <line class="l2" x1="25" y1="110" x2="175" y2="110"/>
-        <text x="118" y="125" font-size="9" style="fill:var(--red)">– yönde hız</text>
+        <line class="ax" x1="25" y1="72" x2="190" y2="72"/><line class="ax" x1="25" y1="132" x2="25" y2="8"/>
+        <text x="182" y="86" font-size="11">t</text><text x="4" y="16" font-size="11">ϑ</text>
+        <rect class="area" x="25" y="35" width="120" height="37"/>
+        <rect x="25" y="72" width="120" height="37" style="fill:rgba(179,38,30,.15)"/>
+        <line class="l1" x1="25" y1="35" x2="170" y2="35"/>
+        <line class="l2" x1="25" y1="109" x2="170" y2="109"/>
+        <line class="dash" x1="145" y1="35" x2="145" y2="109"/>
+        <text x="3" y="39" font-size="9">+ϑ</text><text x="3" y="113" font-size="9">–ϑ</text>
+        <text x="55" y="58" font-size="9">Alan = +Δx</text><text x="55" y="95" font-size="9">Alan = –Δx</text>
+        <text x="155" y="30" font-size="10" style="fill:var(--blue)">A</text>
+        <text x="155" y="124" font-size="10" style="fill:var(--red)">B</text>
       </svg>
-      <div class="cap"><b>Hız–zaman (v–t):</b> yatay doğru<br>Alan = yer değiştirme</div>
+      <div class="cap"><b>ϑ–t:</b> yatay doğru<br>Alan = yer değiştirme (Δx = ϑ · t)</div>
     </div>
     <div>
       <svg viewBox="0 0 200 140" role="img" aria-label="İvme-zaman grafiği">
-        <line class="ax" x1="25" y1="75" x2="190" y2="75"/><line class="ax" x1="25" y1="130" x2="25" y2="8"/>
-        <text x="182" y="90" font-size="11">t</text><text x="6" y="16" font-size="11">a</text>
-        <line class="l3" x1="25" y1="75" x2="175" y2="75" stroke-width="4"/>
-        <text x="65" y="60" font-size="10">a = 0</text>
+        <line class="ax" x1="25" y1="72" x2="190" y2="72"/><line class="ax" x1="25" y1="132" x2="25" y2="8"/>
+        <text x="182" y="86" font-size="11">t</text><text x="4" y="16" font-size="11">a</text>
+        <line class="l3" x1="25" y1="72" x2="175" y2="72" stroke-width="4"/>
+        <text x="70" y="58" font-size="10">a = 0</text>
       </svg>
-      <div class="cap"><b>İvme–zaman (a–t):</b> ivme hep sıfır<br>(grafik zaman ekseni üzerinde)</div>
+      <div class="cap"><b>a–t:</b> ivme sıfır<br>(grafik zaman ekseni üzerinde)</div>
     </div>
   </div>
 
   <div class="grid" style="margin-top:6px">
     <div class="box warn">
-      <h3>⚠️ Dikkat! Sık Yapılan Hatalar</h3>
+      <h3>⚠️ Dikkat!</h3>
       <ul>
-        <li>v–t grafiğinde alan <b>zaman ekseninin altındaysa</b> yer değiştirme <b>negatiftir</b> (cisim – yönde gidiyor).</li>
-        <li>Yol ile yer değiştirme <b>aynı şey değildir</b>. Gidip geri dönen cismin yer değiştirmesi sıfır olabilir, ama aldığı yol sıfır değildir.</li>
-        <li>x–t grafiğinde doğru ne kadar <b>dikse</b> hız o kadar <b>büyüktür</b>.</li>
-        <li>x–t grafiğinin eksenleri kesmesi cismin <b>başlangıç konumunu</b> gösterir, hızını değil.</li>
+        <li>ϑ–t grafiğinde çizgi <b>zaman ekseninin üstündeyse</b> hareket <b>pozitif</b>, <b>altındaysa negatif</b> yöndedir.</li>
+        <li>x–t grafiğinin doğrultusu <b>değişiyorsa</b> o anda hızın büyüklüğü değişmiştir.</li>
+        <li>Gidip geri dönen cismin yer değiştirmesi sıfır olabilir, ama aldığı yol sıfır değildir.</li>
+        <li>x–t grafiğinde doğru ne kadar <b>dikse</b> hızın büyüklüğü o kadar fazladır.</li>
       </ul>
     </div>
     <div class="box ex">
-      <h3>✏️ Örnek Soru</h3>
-      <p>72 km/h sabit hızla giden bir otomobil 10 saniyede kaç metre yol alır?</p>
-      <p><b>Çözüm:</b> Önce birimi çevirelim:<br>
-      v = 72 ÷ 3,6 = <b>20 m/s</b><br>
-      Δx = v · t = 20 · 10 = <b>200 m</b></p>
-      <p class="small">İpucu: Formüle koymadan önce birimlerin aynı sistemde (m, s) olduğunu kontrol et!</p>
+      <h3>✏️ Örnek (Ders kitabı s. 21)</h3>
+      <p>Fabrikadaki bir ürün 12 m'lik ilk banda 4 s'de, 24 m'lik ikinci banda 6 s'de sabit hızlarla gidiyor. Ürünün her banttaki hızı ve (0–9) s'deki yer değiştirmesi nedir?</p>
+      <p><b>Çözüm:</b> 1. bant: ϑ = (12 – 0) / (4 – 0) = <b>3 m/s</b><br>
+      2. bant: ϑ = (36 – 12) / (10 – 4) = <b>4 m/s</b><br>
+      (0–9) s: 12 + 4 · (9 – 4) = 12 + 20 = <b>32 m</b></p>
     </div>
   </div>
 
   <div class="box tip" style="margin-top:6px">
     <h3>🧠 Akılda Kalsın</h3>
     <table>
-      <tr><th>Grafik</th><th>Eğim ne verir?</th><th>Alan ne verir?</th><th>Sabit hızlı harekette şekli</th></tr>
-      <tr><td>x–t</td><td>Hız</td><td>Anlamı yok</td><td>Eğik doğru</td></tr>
-      <tr><td>v–t</td><td>İvme (burada 0)</td><td>Yer değiştirme</td><td>Yatay doğru</td></tr>
+      <tr><th>Grafik</th><th>Eğimi ne verir?</th><th>Alanı ne verir?</th><th>Sabit hızlı harekette şekli</th></tr>
+      <tr><td>x–t</td><td>Hız</td><td>—</td><td>Eğik doğru</td></tr>
+      <tr><td>ϑ–t</td><td>İvme (burada 0)</td><td>Yer değiştirme</td><td>Yatay doğru</td></tr>
       <tr><td>a–t</td><td>—</td><td>Hız değişimi (burada 0)</td><td>Zaman ekseni üzerinde</td></tr>
     </table>
   </div>
-  <footer>Sabit hız ⇒ ivme sıfır ⇒ net kuvvet sıfır</footer>
+  <footer>Kaynak: MEB 10. Sınıf Fizik Ders Kitabı (Türkiye Yüzyılı Maarif Modeli), 1. Ünite, 1.1. Sabit Hızlı Hareket</footer>
 </section>
 
 <!-- ===================== SAYFA 2 ===================== -->
 <section class="page">
   <header>
-    <h1>2. Sabit İvmeli Hareket</h1>
-    <div class="tag">10. Sınıf Fizik · Kuvvet ve Hareket<br>Konu Özeti – Sayfa 2/2</div>
+    <h1>1.2. Sabit İvmeli Hareket</h1>
+    <div class="tag">10. Sınıf Fizik · 1. Ünite: Kuvvet ve Hareket<br>Bir Boyutta · Sayfa 2/2 · Ders kitabı s. 33–58</div>
   </header>
 
   <div class="grid">
     <div class="box info">
-      <h3>📌 İvme Nedir?</h3>
-      <p><b>İvme (a):</b> Birim zamandaki hız değişimidir. Vektörel bir büyüklüktür.</p>
-      <div class="eq">a = Δv / Δt = (v – v<sub>0</sub>) / t</div>
-      <p>Birimi: <b>m/s²</b>. “a = 2 m/s²” demek, cismin hızının <b>her saniye 2 m/s değişmesi</b> demektir.</p>
-      <p>Hız <b>eşit zaman aralıklarında eşit miktarda</b> değişiyorsa hareket <b>sabit ivmelidir</b> (düzgün değişen hareket). Net kuvvet sabittir ve sıfırdan farklıdır.</p>
+      <h3>📌 Hız Değişimi ve İvme</h3>
+      <p><b>Hız değişimi:</b> Son hız ile ilk hız arasındaki farktır.</p>
+      <div class="eq"><span class="vec">Δϑ</span> = <span class="vec">ϑ</span><sub>son</sub> – <span class="vec">ϑ</span><sub>ilk</sub></div>
+      <p>Net kuvvet cismin hızlanmasına ya da yavaşlamasına neden olur. Cismin hızında <b>birim zamanda meydana gelen değişime ivme</b> denir. İvme vektöreldir, birimi <b>m/s²</b>'dir.</p>
+      <div class="eq"><span class="vec">a</span> = <span class="vec">Δϑ</span> / Δt = (<span class="vec">ϑ</span><sub>son</sub> – <span class="vec">ϑ</span><sub>ilk</sub>) / Δt</div>
+      <p class="small">Hız her 1 s'de 5 m/s artıyorsa ivme sabittir ve büyüklüğü 5 m/s²'dir.</p>
     </div>
     <div class="box info">
-      <h3>🔄 Hızlanan mı, Yavaşlayan mı?</h3>
+      <h3>🔄 Düzgün Hızlanan / Düzgün Yavaşlayan</h3>
       <ul>
-        <li><b>Hızlanan hareket:</b> Hız ile ivme <b>aynı yönde</b>. Hızın büyüklüğü artar.</li>
-        <li><b>Yavaşlayan hareket:</b> Hız ile ivme <b>zıt yönde</b>. Hızın büyüklüğü azalır, cisim bir süre sonra durabilir.</li>
+        <li>Hız ve ivme vektörleri <b>aynı yönlü</b> ise cisim <b>düzgün hızlanan</b> hareket yapar.</li>
+        <li>Hız ve ivme vektörleri <b>zıt yönlü</b> ise cisim <b>düzgün yavaşlayan</b> hareket yapar.</li>
+        <li><b>İvmenin yönü her zaman uygulanan kuvvetin yönü ile aynıdır.</b></li>
       </ul>
-      <p class="small">İvmenin işareti tek başına “hızlanıyor/yavaşlıyor” demek değildir! Hızın işaretiyle <b>karşılaştırmak</b> gerekir.</p>
+      <p class="small">Pozitif yönde giden bir araçta Δϑ pozitif ise ivme (+), negatif ise ivme (–) olur. İvmenin işaretine tek başına bakılmaz, <b>hızın yönüyle karşılaştırılır</b>.</p>
     </div>
   </div>
 
   <div class="box formula" style="margin-top:6px">
-    <h3>🧮 Sabit İvmeli Hareketin Denklemleri</h3>
-    <div class="grid" style="gap:3px 10px">
-      <div class="eq">① v = v<sub>0</sub> + a · t</div>
-      <div class="eq">② Δx = v<sub>0</sub> · t + ½ · a · t²</div>
-      <div class="eq">③ v² = v<sub>0</sub>² + 2 · a · Δx</div>
-      <div class="eq">④ Δx = [(v<sub>0</sub> + v) / 2] · t</div>
+    <h3>🧮 Sabit İvmeli Hareketin Matematiksel Modelleri</h3>
+    <div class="grid" style="gap:2px 10px">
+      <div class="eq">① ϑ = ϑ<sub>0</sub> + a · t</div>
+      <div class="eq">② Δx = [(ϑ + ϑ<sub>0</sub>) / 2] · t</div>
+      <div class="eq">③ Δx = ϑ<sub>0</sub> · t + ½ · a · t²</div>
+      <div class="eq">④ Δx = ϑ<sub>ort</sub> · Δt</div>
     </div>
-    <p class="small">v<sub>0</sub>: ilk hız · v: son hız · a: ivme · t: süre · Δx: yer değiştirme. Yavaşlayan harekette a'yı <b>negatif</b> al. Soruda süre verilmiyorsa ③ numaralı denklem çok işe yarar.</p>
+    <p class="small">ϑ<sub>0</sub>: ilk hız · ϑ: son hız · a: ivme · t: süre. Durgun hâlden başlayan cisim için ③ → <b>Δx = ½ · a · t²</b>. Düzgün yavaşlayan cisim için ③ → <b>Δx = ϑ<sub>0</sub> · t – ½ · a · t²</b> (a büyüklük olarak yazılır).</p>
   </div>
 
-  <h2>📈 Sabit İvmeli Hareketin Grafikleri (hızlanan hareket)</h2>
-  <div class="grid3">
+  <h2>📈 Sabit İvmeli Hareketin Grafikleri (pozitif yönde düzgün hızlanan)</h2>
+  <div class="grid3 g2">
     <div>
       <svg viewBox="0 0 200 140" role="img" aria-label="Konum-zaman grafiği parabol">
-        <line class="ax" x1="25" y1="120" x2="190" y2="120"/><line class="ax" x1="25" y1="120" x2="25" y2="8"/>
-        <text x="182" y="135" font-size="11">t</text><text x="6" y="16" font-size="11">x</text>
-        <path class="l1" d="M25,120 Q110,120 175,20"/>
-        <text x="60" y="70" font-size="9">eğim artıyor</text>
-        <text x="60" y="82" font-size="9">→ hız artıyor</text>
+        <line class="ax" x1="25" y1="125" x2="190" y2="125"/><line class="ax" x1="25" y1="125" x2="25" y2="8"/>
+        <text x="182" y="138" font-size="11">t</text><text x="4" y="16" font-size="11">x</text>
+        <path class="l1" d="M25,125 Q110,125 175,20"/>
+        <text x="55" y="70" font-size="9">eğim artıyor</text>
+        <text x="55" y="82" font-size="9">→ hız artıyor</text>
       </svg>
-      <div class="cap"><b>x–t:</b> parabol (eğri)<br>Teğetin eğimi = o andaki hız</div>
+      <div class="cap"><b>x–t:</b> eğri (parabol)<br>Yukarı yönlü eğri → + yönde hızlanma</div>
     </div>
     <div>
       <svg viewBox="0 0 200 140" role="img" aria-label="Hız-zaman grafiği eğik doğru">
-        <line class="ax" x1="25" y1="120" x2="190" y2="120"/><line class="ax" x1="25" y1="120" x2="25" y2="8"/>
-        <text x="182" y="135" font-size="11">t</text><text x="6" y="16" font-size="11">v</text>
-        <polygon class="area" points="25,120 25,95 145,35 145,120"/>
+        <line class="ax" x1="25" y1="125" x2="190" y2="125"/><line class="ax" x1="25" y1="125" x2="25" y2="8"/>
+        <text x="182" y="138" font-size="11">t</text><text x="4" y="16" font-size="11">ϑ</text>
+        <polygon class="area" points="25,125 25,95 145,35 145,125"/>
         <line class="l1" x1="25" y1="95" x2="175" y2="20"/>
-        <line class="dash" x1="145" y1="35" x2="145" y2="120"/>
-        <text x="4" y="99" font-size="9">v₀</text>
-        <text x="55" y="110" font-size="9.5">Alan = Δx</text>
-        <text x="120" y="22" font-size="9">eğim = a</text>
+        <line class="dash" x1="145" y1="35" x2="145" y2="125"/>
+        <text x="5" y="99" font-size="9">ϑ₀</text>
+        <text x="52" y="115" font-size="9.5">Alan = Δx</text>
+        <text x="115" y="22" font-size="9">eğim = a</text>
       </svg>
-      <div class="cap"><b>v–t:</b> eğik doğru<br>Eğim = ivme · Alan = yer değiştirme</div>
+      <div class="cap"><b>ϑ–t:</b> eğik doğru<br>Eğim = ivme · Alan = yer değiştirme</div>
     </div>
     <div>
       <svg viewBox="0 0 200 140" role="img" aria-label="İvme-zaman grafiği yatay doğru">
-        <line class="ax" x1="25" y1="120" x2="190" y2="120"/><line class="ax" x1="25" y1="120" x2="25" y2="8"/>
-        <text x="182" y="135" font-size="11">t</text><text x="6" y="16" font-size="11">a</text>
-        <rect class="area" x="25" y="55" width="120" height="65"/>
+        <line class="ax" x1="25" y1="125" x2="190" y2="125"/><line class="ax" x1="25" y1="125" x2="25" y2="8"/>
+        <text x="182" y="138" font-size="11">t</text><text x="4" y="16" font-size="11">a</text>
+        <rect class="area" x="25" y="55" width="120" height="70"/>
         <line class="l3" x1="25" y1="55" x2="175" y2="55"/>
-        <line class="dash" x1="145" y1="55" x2="145" y2="120"/>
-        <text x="50" y="92" font-size="9.5">Alan = Δv</text>
+        <line class="dash" x1="145" y1="55" x2="145" y2="125"/>
+        <text x="50" y="94" font-size="9.5">Alan = Δϑ</text>
       </svg>
-      <div class="cap"><b>a–t:</b> yatay doğru<br>Alan = hız değişimi (Δv)</div>
+      <div class="cap"><b>a–t:</b> yatay doğru<br>Alan = hız değişimi (Δϑ)</div>
     </div>
   </div>
+  <p class="small" style="text-align:center;margin-top:2px"><b>Pozitif yönde düzgün yavaşlayan</b> harekette: ϑ–t azalan doğru, a–t zaman ekseninin altında, x–t eğimi giderek azalan eğri olur.</p>
 
-  <div class="grid" style="margin-top:6px">
-    <div class="box tip">
-      <h3>🍎 Serbest Düşme (Özel Bir Sabit İvmeli Hareket)</h3>
-      <p>Hava direnci ihmal edilirse yukarıdan <b>serbest bırakılan</b> (v<sub>0</sub> = 0) cisim, yer çekimi ivmesi <b>g ≈ 10 m/s²</b> ile hızlanarak düşer. Kütlesi ne olursa olsun tüm cisimler aynı ivmeyle düşer.</p>
-      <div class="eq">v = g · t &nbsp;&nbsp;|&nbsp;&nbsp; h = ½ · g · t² &nbsp;&nbsp;|&nbsp;&nbsp; v² = 2 · g · h</div>
-    </div>
-    <div class="box warn">
-      <h3>⚠️ Dikkat!</h3>
-      <ul>
-        <li>“Durgun halden harekete başlıyor” ⇒ <b>v<sub>0</sub> = 0</b>.</li>
-        <li>“Cisim duruyor” ⇒ <b>son hız v = 0</b>.</li>
-        <li>v–t grafiğinde doğru <b>zaman eksenini kesiyorsa</b> cisim o anda durup <b>yön değiştirir</b>.</li>
-        <li>Eşit sürelerde alınan yollar 1 : 3 : 5 : 7… oranında artar (v<sub>0</sub> = 0 ise).</li>
-      </ul>
-    </div>
+  <div class="box warn" style="margin-top:4px">
+    <h3>⚠️ Dikkat!</h3>
+    <ul style="columns:2;column-gap:18px">
+      <li>“Durgun hâlden harekete başlıyor” ⇒ <b>ϑ<sub>0</sub> = 0</b>. “Duruyor” ⇒ <b>ϑ = 0</b>.</li>
+      <li>ϑ–t grafiğinde doğru <b>zaman eksenini keserse</b> cisim o anda durur ve <b>yön değiştirir</b>.</li>
+      <li>Durgun hâlden düzgün hızlanan cismin t, 2t, 3t anlarındaki konumları <b>x, 4x, 9x</b> olur. Yani eşit sürelerde yer değiştirmeler 1 : 3 : 5 oranında artar.</li>
+      <li>İvmeleri aynı büyüklükte olan cisimlerin eşit zaman aralıklarındaki hız değişimleri de eşit büyüklüktedir.</li>
+    </ul>
   </div>
-
   <div class="grid" style="margin-top:6px">
     <div class="box ex">
-      <h3>✏️ Örnek 1 – Hızlanan Hareket</h3>
-      <p>Durgun halden 2 m/s² ivmeyle harekete başlayan bir bisikletlinin 5 s sonundaki hızı ve aldığı yol nedir?</p>
-      <p><b>Çözüm:</b> v<sub>0</sub> = 0, a = 2 m/s², t = 5 s<br>
-      v = 0 + 2 · 5 = <b>10 m/s</b><br>
-      Δx = 0 · 5 + ½ · 2 · 5² = <b>25 m</b></p>
+      <h3>✏️ Örnek 1 (Ders kitabı s. 36)</h3>
+      <p>Durmakta olan bir metro aracı 4 m/s² sabit ivmeyle hızlanıyor. 6. s'deki hızı kaç m/s olur?</p>
+      <p><b>Çözüm:</b> Hız her 1 s'de 4 m/s artar: 0, 4, 8, 12, 16, 20, 24 m/s.<br>
+      a = (ϑ<sub>son</sub> – 0) / (6 – 0) ⇒ 4 = ϑ<sub>son</sub> / 6 ⇒ <b>ϑ<sub>son</sub> = 24 m/s</b></p>
     </div>
     <div class="box ex">
-      <h3>✏️ Örnek 2 – Yavaşlayan Hareket</h3>
-      <p>20 m/s hızla giden araç fren yapınca 4 m/s² ile yavaşlıyor. Kaç saniyede ve kaç metrede durur?</p>
-      <p><b>Çözüm:</b> v<sub>0</sub> = 20 m/s, a = –4 m/s², v = 0<br>
-      0 = 20 – 4 · t ⇒ <b>t = 5 s</b><br>
-      0² = 20² – 2 · 4 · Δx ⇒ <b>Δx = 50 m</b></p>
+      <h3>✏️ Örnek 2 (Ders kitabı s. 57)</h3>
+      <p>t = 0'da duran L aracı düzgün hızlanarak 3 s'de 6 m/s'ye çıkıyor. Aynı anda yanından 14 m/s ile geçen K aracı düzgün yavaşlayarak 3 s'de 8 m/s'ye düşüyor. 3 s sonra aralarındaki mesafe kaç m olur?</p>
+      <p><b>Çözüm:</b> a<sub>K</sub> = (8 – 14) / 3 = <b>–2 m/s²</b> · a<sub>L</sub> = (6 – 0) / 3 = <b>2 m/s²</b><br>
+      Δx<sub>K</sub> = 14 · 3 – ½ · 2 · 3² = 42 – 9 = <b>33 m</b> · Δx<sub>L</sub> = ½ · 2 · 3² = <b>9 m</b> ⇒ Aradaki mesafe: 33 – 9 = <b>24 m</b></p>
     </div>
   </div>
 
@@ -309,12 +306,12 @@
     <h3>🧠 Karşılaştırma Tablosu</h3>
     <table>
       <tr><th></th><th>Sabit Hızlı Hareket</th><th>Sabit İvmeli Hareket</th></tr>
-      <tr><td><b>Hız</b></td><td>Sabit</td><td>Eşit sürelerde eşit miktarda değişir</td></tr>
-      <tr><td><b>İvme</b></td><td>a = 0</td><td>a = sabit (≠ 0)</td></tr>
-      <tr><td><b>Net kuvvet</b></td><td>Sıfır</td><td>Sabit, sıfırdan farklı</td></tr>
-      <tr><td><b>x–t / v–t / a–t</b></td><td>Eğik doğru / Yatay doğru / Sıfır</td><td>Parabol / Eğik doğru / Yatay doğru</td></tr>
+      <tr><td><b>Hız</b></td><td>Sabit</td><td>Eşit zaman aralıklarında eşit miktarda değişir</td></tr>
+      <tr><td><b>İvme</b></td><td>Sıfır</td><td>Sabit (sıfırdan farklı)</td></tr>
+      <tr><td><b>x–t / ϑ–t / a–t</b></td><td>Eğik doğru / Yatay doğru / Sıfır</td><td>Eğri / Eğik doğru / Yatay doğru</td></tr>
     </table>
   </div>
+  <footer>Kaynak: MEB 10. Sınıf Fizik Ders Kitabı (Türkiye Yüzyılı Maarif Modeli), 1. Ünite, 1.2. Bir Boyutta Sabit İvmeli Hareket</footer>
 </section>
 
 </body>
