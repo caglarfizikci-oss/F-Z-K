@@ -13,6 +13,7 @@ Her görselin iki hâli vardır:
 |---|---|---|
 | ![+x yönünde araç](arac_pozitif_x.png) | `arac_pozitif_x` | +x yönünde hareket eden araç, hız vektörü ϑ⃗, –x / x = 0 / +x ekseni |
 | ![–x yönünde araç](arac_negatif_x.png) | `arac_negatif_x` | –x yönünde hareket eden araç, hız vektörü –ϑ⃗, –x / x = 0 / +x ekseni |
+| ![İki aracın x–t grafiği](xt_grafigi_iki_arac.png) | `xt_grafigi_iki_arac` | Sabit hızlı hareket, x–t grafiği: A aracı +x yönünde 5 s'de 20 m, B aracı –x yönünde 5 s'de 10 m (ikisi de x = 0'dan başlıyor) |
 
 ## Yeni görsel eklerken
 
