@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sabit Hız Sorusu</title>
+<style>
+  :root{--ink:#1d2433;--muted:#566079;--line:#c9d0dc;--blue:#1f5fbf;--blue-bg:#e9f1fc;--orange:#b55a00;--orange-bg:#fff2e0;--bg:#fff}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:"DejaVu Sans",Arial,sans-serif;font-size:11pt;line-height:1.45}
+  .page{width:210mm;min-height:297mm;margin:12px auto;padding:14mm 16mm;background:#fff;box-shadow:0 2px 12px rgba(0,0,0,.12)}
+  .baslik{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:3px solid var(--blue);padding-bottom:4px;margin-bottom:12px}
+  .baslik h1{margin:0;font-size:15pt;color:var(--blue)}
+  .baslik span{font-size:9pt;color:var(--muted)}
+  .soru-no{display:inline-block;background:var(--blue);color:#fff;font-weight:bold;border-radius:6px;padding:1px 9px;margin-right:6px}
+  .grafik{display:block;width:78%;height:auto;margin:10px auto 4px}
+  ol.maddeler{list-style:none;padding:0;margin:10px 0 0}
+  ol.maddeler>li{margin:0 0 10px}
+  .harf{font-weight:bold;color:var(--blue);margin-right:4px}
+  .cevap{border:1.5px solid var(--line);border-radius:8px;height:30mm;margin-top:5px;position:relative}
+  .cevap::before{content:"Cevap";position:absolute;top:-9px;left:10px;background:#fff;padding:0 5px;font-size:8.5pt;color:var(--muted)}
+  .anahtar{border:1.5px solid var(--orange);background:var(--orange-bg);border-radius:8px;padding:6px 10px;margin-top:5px}
+  @media print{@page{size:A4;margin:0} .page{margin:0;box-shadow:none;page-break-after:always;height:297mm;overflow:hidden}}
+  @media screen and (max-width:820px){.page{width:auto;min-height:0;margin:8px 0;padding:14px 16px} .grafik{width:100%}}
+</style>
+</head>
+<body>
+
+<section class="page">
+  <div class="baslik"><h1>Sabit Hızlı Hareket</h1><span>10. Sınıf Fizik · 1. Ünite: Kuvvet ve Hareket</span></div>
+  <p><span class="soru-no">1</span>Doğrusal bir yolda hareket eden A ve B araçları, t = 0 anında <i>x</i> = 0 konumundan geçmektedir. Sabit hızlarla hareket eden araçlara ait konum-zaman (<i>x</i>-t) grafiği aşağıdaki gibidir.</p>
+  <svg class="grafik" role="img" aria-label="A ve B araçlarının konum-zaman grafiği" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 490" font-family="DejaVu Sans, Arial, sans-serif">
+  <rect width="760" height="490" fill="#ffffff"/>
+  <g stroke="#e3e7ee" stroke-width="1">
+    <line x1="201.7" y1="73.3" x2="201.7" y2="446.7"/>
+    <line x1="293.3" y1="73.3" x2="293.3" y2="446.7"/>
+    <line x1="385.0" y1="73.3" x2="385.0" y2="446.7"/>
+    <line x1="476.7" y1="73.3" x2="476.7" y2="446.7"/>
+    <line x1="568.3" y1="73.3" x2="568.3" y2="446.7"/>
+    <line x1="660.0" y1="73.3" x2="660.0" y2="446.7"/>
+    <line x1="110" y1="446.7" x2="660.0" y2="446.7"/>
+    <line x1="110" y1="423.3" x2="660.0" y2="423.3"/>
+    <line x1="110" y1="400.0" x2="660.0" y2="400.0"/>
+    <line x1="110" y1="376.7" x2="660.0" y2="376.7"/>
+    <line x1="110" y1="353.3" x2="660.0" y2="353.3"/>
+    <line x1="110" y1="306.7" x2="660.0" y2="306.7"/>
+    <line x1="110" y1="283.3" x2="660.0" y2="283.3"/>
+    <line x1="110" y1="260.0" x2="660.0" y2="260.0"/>
+    <line x1="110" y1="236.7" x2="660.0" y2="236.7"/>
+    <line x1="110" y1="213.3" x2="660.0" y2="213.3"/>
+    <line x1="110" y1="190.0" x2="660.0" y2="190.0"/>
+    <line x1="110" y1="166.7" x2="660.0" y2="166.7"/>
+    <line x1="110" y1="143.3" x2="660.0" y2="143.3"/>
+    <line x1="110" y1="120.0" x2="660.0" y2="120.0"/>
+    <line x1="110" y1="96.7" x2="660.0" y2="96.7"/>
+    <line x1="110" y1="73.3" x2="660.0" y2="73.3"/>
+  </g>
+  <line x1="110" y1="458.3" x2="110" y2="40" stroke="#1d2433" stroke-width="2.5"/>
+  <polygon points="110,24 102,44 118,44" fill="#1d2433"/>
+  <line x1="110" y1="330.0" x2="700" y2="330.0" stroke="#1d2433" stroke-width="2.5"/>
+  <polygon points="718,330.0 698,322.0 698,338.0" fill="#1d2433"/>
+  <text x="96" y="20" font-size="20" fill="#1d2433"><tspan font-style="italic">x</tspan> (m)</text>
+  <text x="690" y="364.0" font-size="20" fill="#1d2433"><tspan font-style="italic">t</tspan> (s)</text>
+  <line x1="201.7" y1="325.0" x2="201.7" y2="335.0" stroke="#1d2433" stroke-width="2"/>
+  <text x="201.7" y="318.0" font-size="16" text-anchor="middle" fill="#1d2433" stroke="#ffffff" stroke-width="6" paint-order="stroke">1</text>
+  <line x1="293.3" y1="325.0" x2="293.3" y2="335.0" stroke="#1d2433" stroke-width="2"/>
+  <text x="293.3" y="318.0" font-size="16" text-anchor="middle" fill="#1d2433" stroke="#ffffff" stroke-width="6" paint-order="stroke">2</text>
+  <line x1="385.0" y1="325.0" x2="385.0" y2="335.0" stroke="#1d2433" stroke-width="2"/>
+  <text x="385.0" y="318.0" font-size="16" text-anchor="middle" fill="#1d2433" stroke="#ffffff" stroke-width="6" paint-order="stroke">3</text>
+  <line x1="476.7" y1="325.0" x2="476.7" y2="335.0" stroke="#1d2433" stroke-width="2"/>
+  <text x="476.7" y="318.0" font-size="16" text-anchor="middle" fill="#1d2433" stroke="#ffffff" stroke-width="6" paint-order="stroke">4</text>
+  <line x1="568.3" y1="325.0" x2="568.3" y2="335.0" stroke="#1d2433" stroke-width="2"/>
+  <text x="568.3" y="318.0" font-size="16" text-anchor="middle" fill="#1d2433" stroke="#ffffff" stroke-width="6" paint-order="stroke">5</text>
+  <line x1="660.0" y1="325.0" x2="660.0" y2="335.0" stroke="#1d2433" stroke-width="2"/>
+  <line x1="105" y1="446.7" x2="115" y2="446.7" stroke="#1d2433" stroke-width="2"/>
+  <text x="98" y="452.7" font-size="16" text-anchor="end" fill="#1d2433" stroke="#ffffff" stroke-width="6" paint-order="stroke">–10</text>
+  <line x1="105" y1="388.3" x2="115" y2="388.3" stroke="#1d2433" stroke-width="2"/>
+  <text x="98" y="394.3" font-size="16" text-anchor="end" fill="#1d2433" stroke="#ffffff" stroke-width="6" paint-order="stroke">–5</text>
+  <line x1="105" y1="271.7" x2="115" y2="271.7" stroke="#1d2433" stroke-width="2"/>
+  <text x="98" y="277.7" font-size="16" text-anchor="end" fill="#1d2433" stroke="#ffffff" stroke-width="6" paint-order="stroke">5</text>
+  <line x1="105" y1="213.3" x2="115" y2="213.3" stroke="#1d2433" stroke-width="2"/>
+  <text x="98" y="219.3" font-size="16" text-anchor="end" fill="#1d2433" stroke="#ffffff" stroke-width="6" paint-order="stroke">10</text>
+  <line x1="105" y1="155.0" x2="115" y2="155.0" stroke="#1d2433" stroke-width="2"/>
+  <text x="98" y="161.0" font-size="16" text-anchor="end" fill="#1d2433" stroke="#ffffff" stroke-width="6" paint-order="stroke">15</text>
+  <line x1="105" y1="96.7" x2="115" y2="96.7" stroke="#1d2433" stroke-width="2"/>
+  <text x="98" y="102.7" font-size="16" text-anchor="end" fill="#1d2433" stroke="#ffffff" stroke-width="6" paint-order="stroke">20</text>
+  <text x="98" y="350.0" font-size="16" text-anchor="end" fill="#1d2433" stroke="#ffffff" stroke-width="6" paint-order="stroke">0</text>
+  <line x1="110" y1="96.7" x2="568.3" y2="96.7" stroke="#566079" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <line x1="110" y1="446.7" x2="568.3" y2="446.7" stroke="#566079" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <line x1="568.3" y1="96.7" x2="568.3" y2="446.7" stroke="#566079" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <line x1="110.0" y1="330.0" x2="568.3" y2="96.7" stroke="#1f5fbf" stroke-width="4" stroke-linecap="round"/>
+  <line x1="110.0" y1="330.0" x2="568.3" y2="446.7" stroke="#c62828" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="568.3" cy="96.7" r="5" fill="#1f5fbf"/><circle cx="568.3" cy="446.7" r="5" fill="#c62828"/>
+  <text x="582.3" y="103.7" font-size="22" font-weight="bold" fill="#1f5fbf">A</text>
+  <text x="582.3" y="453.7" font-size="22" font-weight="bold" fill="#c62828">B</text>
+</svg>
+
+  <p>Buna göre</p>
+  <ol class="maddeler">
+    <li><span class="harf">a)</span>Araçların hareket yönleri hakkında bilgi veriniz.<div class="cevap"></div></li>
+    <li><span class="harf">b)</span>A ve B araçlarının hız büyüklüklerini bulunuz.<div class="cevap"></div></li>
+    <li><span class="harf">c)</span>A ve B araçlarının ivmelerini bulunuz.<div class="cevap"></div></li>
+  </ol>
+</section>
+
+<section class="page">
+  <div class="baslik"><h1>Cevap Anahtarı – Soru 1</h1><span>Öğretmen için</span></div>
+  <ol class="maddeler">
+    <li><span class="harf">a)</span>
+      <div class="anahtar">A aracının <i>x</i>-t grafiğinin eğimi pozitiftir. Konumu zamanla arttığı için A aracı <b>+<i>x</i> yönünde</b> hareket eder.<br>
+      B aracının <i>x</i>-t grafiğinin eğimi negatiftir. Konumu zamanla azaldığı için B aracı <b>–<i>x</i> yönünde</b> hareket eder.<br>
+      Araçlar aynı noktadan <b>zıt yönlerde</b> hareket etmektedir.</div></li>
+    <li><span class="harf">b)</span>
+      <div class="anahtar">ϑ = Δ<i>x</i> / Δt matematiksel modeli kullanılır.<br>
+      A aracı: ϑ<sub>A</sub> = (20 – 0) / (5 – 0) = <b>4 m/s</b> (+<i>x</i> yönünde)<br>
+      B aracı: ϑ<sub>B</sub> = (–10 – 0) / (5 – 0) = –2 m/s → hız büyüklüğü <b>2 m/s</b> (–<i>x</i> yönünde)</div></li>
+    <li><span class="harf">c)</span>
+      <div class="anahtar">Araçlar sabit hızla hareket ettiği için hızlarında değişim yoktur (Δϑ = 0).<br>
+      a = Δϑ / Δt = 0 olduğundan <b>a<sub>A</sub> = 0</b> ve <b>a<sub>B</sub> = 0</b> olur.</div></li>
+  </ol>
+</section>
+
+</body>
+</html>
