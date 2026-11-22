@@ -7,6 +7,7 @@ Kullanıcı lise fizik öğretmenidir. Kullanıcıyla **Türkçe** ve lise öğr
 1. `soru-yazim/tymm-2026-fizik-programi-genel-kurallar.md`: **ANA ŞABLON.** TYMM 2026 programının genel esasları, öncelik sırası, çıktı fiili ile soru türü eşlemesi, ünite ünite kritik sınırlar ve kullanıcının bütün materyal kuralları burada.
 2. `soru-yazim/tymm-2026-fizik-ciktilar-tum-siniflar.md`: 9-12. sınıfların 106 öğrenme çıktısı, süreç bileşenleri ve çıktı bazındaki "kaçınılır" / "sınırlı kalınır" notları (programdan birebir).
 3. `soru-yazim/tymm-baglam-temelli-soru-yazim-kurallari.md`: MEB bağlam temelli soru yazım kılavuzunun kuralları ve bizim sayfa düzenimize uyarlanışı.
+4. `soru-yazim/stil-rehberi-aktif-ayt.md`: Kullanıcının kendi kitabı Aktif Fizik AYT'nin sayfa düzeni, örnek/soru eşleşmesi, soru türleri ve TYMM ile çelişen noktaları (Lami, "atış" terimleri, sığaçlar).
 
 Kaynak belgeler `soru-yazim/kaynak/` klasöründedir: `Fizikprg.pdf` (program), bağlam kılavuzunun Ocak 2026 baskısı (`Tymm-1-50`, `Tymm-51-100`, `Tymm-101-138`) ve Mart 2026 web kopyası ile bunların metinleri. Kullanıcının Drive'ında bunlar da var: Tymm.pdf (kılavuzun tamamı, 24 MB; parçalı hali Tymm-1-50/51-100/101-138), 11meb kitap bölümleri (kuvvet, indüksiyon, transformatör), 11zengin.pdf, PISA örnek soruları, AYT çıkmış sorular, Fizikeskikazanımeski.pdf, Manyetik_Aki_v1.pdf.
 
@@ -39,4 +40,4 @@ Kaynak belgeler `soru-yazim/kaynak/` klasöründedir: `Fizikprg.pdf` (program), 
 
 ## Eksik rehberler (kullanıcının talimatında adı geçiyor, depoda yok)
 
-`stil-rehberi-aktif-ayt.md`, `aktif-elektrik-sablon-analizi.md`, `meb11-elektrik-inceleme.md`, `meb11-elektrik-sekil-rehberi.md`, `meb11-destekleme-kilavuzu-analizi.md`, `meb11-zenginlestirme-kilavuzu-analizi.md`, `pisa-fen-ornek-analizi.md`, `mof-11-coulomb-analizi.md`, `orijinal-ayt-elektrostatik-analizi.md`, `345-ayt-elektrostatik-analizi.md`. Bunlar önceki oturumlarda üretilmiş ve kaybolmuş inceleme dosyalarıdır. Kaynakları (MEB 11 bölümleri, 11zengin, PISA) Drive'da duruyor; kullanıcı isterse yeniden üretilir. Aktif Fizik ve yayınevi kitapları Drive'da bulunamadı.
+`aktif-elektrik-sablon-analizi.md`, `meb11-elektrik-inceleme.md`, `meb11-elektrik-sekil-rehberi.md`, `meb11-destekleme-kilavuzu-analizi.md`, `meb11-zenginlestirme-kilavuzu-analizi.md`, `pisa-fen-ornek-analizi.md`, `mof-11-coulomb-analizi.md`, `orijinal-ayt-elektrostatik-analizi.md`, `345-ayt-elektrostatik-analizi.md`. Bunlar önceki oturumlarda üretilmiş ve kaybolmuş inceleme dosyalarıdır. Kaynakları (MEB 11 bölümleri, 11zengin, PISA) Drive'da duruyor; kullanıcı isterse yeniden üretilir. Aktif Fizik AYT'nin yalnız 1-50. sayfaları Drive'da (2026-11-22); elektrik bölümü yok. Diğer yayınevi kitapları Drive'da bulunamadı.
