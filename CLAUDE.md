@@ -39,7 +39,8 @@ Kaynak belgeler `soru-yazim/kaynak/` klasöründedir: `Fizikprg.pdf` (program), 
 - Silinen kısımlar ve eski sürümler silinmez, depoda saklanır. Her yeni sürüm yeni dosya adıyla kaydedilir (v2, v3…).
 - Teslimde yalnız PDF ve sayfaların JPG görüntüleri gönderilir; düzeltmelerde yalnız değişen sayfalar. Mesaj başına en çok 6 ek.
 - Tablet uyumu: Metinde ←, →, ⇒, ⇔ gibi özel işaretler kullanılmaz. Saydam PNG, SVG opaklığı, kesikli kenarlık ile yuvarlak köşe ve konturlu SVG metin kullanılmaz (beyaz zeminli JPG). Göndermeden önce PDF'te /SMask, /Group ve Type3 font olmadığı kontrol edilir.
-- Canva görselleri ortamdan indirilemez: kullanıcı Canva'da üretip yükler, Claude yerleştirir.
+- **Canva iş akışı (2026-11-22):** Claude görseli Canva'da çizer (Canva bağlantısı çalışıyor) ve kullanıcıya Canva bağlantısını verir; kullanıcı indirip sohbete ya da Drive'a yükler; Claude sayfaya yerleştirir. Ortamın ağı `export-download.canva.com` ve `design.canva.ai` adreslerine kapalıdır ve kullanıcı açılmasını istemedi; bu yüzden Claude Canva dosyasını kendisi indirmeye çalışmaz. Kullanıcıdan görsel beyaz zeminli JPG olarak istenir.
+- Gerçekçi insan ve fotoğraf benzeri sahneler Canva'da; şekil, grafik, düzenek, araç ve kuvvet okları kodla (SVG) çizilir.
 
 ## Eksik rehberler (kullanıcının talimatında adı geçiyor, depoda yok)
 
