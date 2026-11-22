@@ -167,7 +167,7 @@ Sekiz adımdan geçen madde denetime gönderilir. Bizde denetim, kodla cevap kon
 ## 12. Soru yazım formu (her bağlam için not edilecek bilgiler)
 
 Ders · Sınıf düzeyi · Beceri · Süreç bileşenleri ve gerekçeleri · Bağlam adı · Yararlanılan kaynak · Güçlük tahmini (kolay/orta/zor) · Her soru için: ölçtüğü süreç bileşeni ve doğru cevap.
-(Bizim materyallerimizde bu bilgiler çözüm ya da öğretmen notu olarak tutulur. Her soru FİZ.x.y.z.b koduyla işaretlenir.)
+(Bizim materyallerimizde bu bilgiler yalnız hazırlık sırasında, içeride kullanılır. Çıktı ve bileşen kodları sayfada, cevap anahtarında ya da öğretmen notunda **hiçbir zaman yazılmaz**.)
 
 ## 13. Bizim düzenimize uyarlama (kullanıcı kuralları)
 
@@ -182,7 +182,7 @@ Ortak özellikler:
 - Fizik bölümünde **üç kitapçık** var. Her kitapçık bir beceriyi ölçer: 1. kitapçık **Problem Çözme** (KB3.2), 2. kitapçık **Sorgulama** (KB2.8), 3. kitapçık **alan becerisi** ("Bilimsel Çıkarım", FBAB8).
 - Bütün fizik sorularında **5 seçenek (A-E)** var (bizim kararımızla uyumlu).
 - Bağlam başlığı: "Aşağıdaki metinden yararlanarak 1-3. soruları cevaplayınız." Her bağlamda 2 ya da 3 soru var (bizim sağ sütundaki 2-3 soru düzenimizle aynı).
-- Mart kopyasında her sorunun sonunda ölçtüğü süreç bileşeni yazılı, ör. `(FBAB8.SB1)`. Bizde bunun karşılığı çıktı ve bileşen kodudur.
+- Mart kopyasında her sorunun sonunda ölçtüğü süreç bileşeni yazılı, ör. `(FBAB8.SB1)`. Bizde kod hiçbir yerde yazılmaz; bağlama yalnız hazırlıkta yapılır.
 - Ocak baskısı problem çözme ve sorgulama sorularında süreç bileşenini yazmıyor. Aşağıda bu sorular için verilen SB kodları **bizim yorumumuzdur**. Kılavuz doğru cevapları da vermiyor; aşağıdaki doğru cevaplar bizim çözümümüzdür.
 - Bağlamların hepsi programdaki 9. sınıf çıktılarına denk geliyor: ısı iletimi ve yalıtım (FİZ.9.4.6), hâl değişimi (FİZ.9.4.3), durgun sıvı basıncı (FİZ.9.3.2), bilim insanının çalışma biçimi (FİZ.9.1.3).
 

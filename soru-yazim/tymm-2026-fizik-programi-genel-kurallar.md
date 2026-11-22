@@ -145,6 +145,9 @@ Program her ünitede şu sırayı kullanır. Konu anlatımlarımız da bu iskele
 
 ## 10. Kullanıcının materyal kuralları (programla birlikte her zaman geçerli)
 
+### Çıktı kodları (2026-11-22)
+- **Çıktı kodları (FİZ.x.y.z, FBAB, SB vb.) materyallerde hiçbir zaman yazılmaz** (kullanıcı kararı, 2026-11-22): sayfada, şıklarda, cevap anahtarında ve öğretmen notunda yer almaz. Çıktıya bağlama yalnızca hazırlık sırasında, içeride yapılır.
+
 ### Şık sayısı (2026-11-22)
 - Bütün şıklı sorular **5 seçeneklidir (A, B, C, D, E)**: çoktan seçmeli, öncüllü (I-II-III), tablo şıklı, eşleştirme, "kim haklı" ve hesap soruları. Kılavuzun ortaöğretim örnekleriyle uyumludur. Beş seçeneğin hepsi işlevsel bir çeldirici olur; dolgu seçenek yazılmaz.
 
@@ -192,7 +195,7 @@ Program her ünitede şu sırayı kullanır. Konu anlatımlarımız da bu iskele
 
 ## 11. Hazırlık kontrol listesi (her soru veya sayfa için)
 
-1. Çıktı kodu ve bileşeni yazıldı mı? Soru tipi çıktının fiiline uyuyor mu? (Bkz. Bölüm 5'teki tablo)
+1. Soru hangi çıktıya ve bileşene göre planlandı? Soru tipi çıktının fiiline uyuyor mu? (Bkz. Bölüm 5'teki tablo) Kod sayfaya **yazılmaz**.
 2. Çıktıya ait "Sınır / not" satırları kontrol edildi mi? (çıktılar dosyası)
 3. Temel kabullerin dışına çıkan ön bilgi var mı?
 4. Yasak soru türü (D/Y, boşluk doldurma, açık uçlu) var mı?
