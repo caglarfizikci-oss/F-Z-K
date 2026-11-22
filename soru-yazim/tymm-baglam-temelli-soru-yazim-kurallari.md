@@ -1,8 +1,10 @@
 # TYMM Bağlam Temelli Soru Yazım Kuralları
 
 Kaynak: *Türkiye Yüzyılı Maarif Modeli Bağlam Temelli Çoktan Seçmeli Soru Yazım Kılavuzu* (MEB, Ocak 2026; Drive: Tymm.pdf).
-Metni: `soru-yazim/kaynak/Tymm-baglam-temelli-soru-yazim-kilavuzu-metin.txt`
-Not: Drive'daki Tymm.pdf (Ocak 2026, 24 MB) bağlayıcı (connector) üzerinden indirilemiyor ve Drive'ın verdiği metni fizik örneklerinden önce kesiliyor. Bu yüzden kılavuzun internette herkese açık Mart 2026 kopyası (123 sayfa, ftso.org.tr) da okundu: `soru-yazim/kaynak/Tymm-baglam-kilavuzu-2026-mart-web-metin.md`. Fizik örnekleri ve öğrenci görüşmelerinin ek bulguları bu kopyadan alındı (bkz. bölüm 14 ve 15).
+Kaynak dosyalar (`soru-yazim/kaynak/`):
+- Ocak 2026 baskısı, 138 sayfa. Kullanıcı Drive'a üç parça halinde yükledi (2026-11-22): `Tymm-1-50.pdf` ve metni, `Tymm-51-100.pdf` ve metni, `Tymm-101-138-metin.txt` (son parça 11 MB olduğu için yalnız metni alınabildi). Tam kılavuz Drive'da Tymm.pdf adıyla da duruyor (24 MB, bağlayıcıyla indirilemiyor); eski kesik metni `Tymm-baglam-temelli-soru-yazim-kilavuzu-metin.txt` dosyasında.
+- Mart 2026 kopyası, 123 sayfa, internette herkese açık: `Tymm-baglam-kilavuzu-2026-mart-web-metin.md`. Bu kopyada fizik bölümü kısalmış, öğrenci görüşmelerinin bulguları genişletilmiş.
+Kılavuzun tamamı okundu. Fizik örnekleri bölüm 14'te, ortaokul fen örnekleri bölüm 16'da, görüşme bulguları bölüm 15'te.
 
 Bu kurallar `tymm-2026-fizik-programi-genel-kurallar.md` ile birlikte uygulanır. Sayfa düzenine ilişkin kullanıcı kuralları (bağlam solda Örnek olarak verilir, sağda 2-3 soru sorulur; konunun başında bağlam olmaz; bölüm sonunda 2 bağlam olur) bu kılavuzun önüne geçer.
 
@@ -146,29 +148,55 @@ Ders · Sınıf düzeyi · Beceri · Süreç bileşenleri ve gerekçeleri · Ba�
 - Bağlam türleri çeşitlendirilir: günlük hayat olayı, deney ya da veri tablosu, grafik, ürün etiketi ya da teknik belge, haber ya da bilim metni, "kim haklı" tartışması, hatalı deney düzeneği, Türkiye'den gerçek proje. Tür, konuya ve zorluğa göre seçilir.
 - Temel seviye: Sayılar basit ve tam sayıdır, kolaydan zora gidilir, zor soru yazılmaz. Doğru-yanlış, boşluk doldurma ve açık uçlu soru yoktur.
 
-## 14. Kılavuzdaki fizik örnekleri (ortaöğretim, "Bilimsel Çıkarım" alan becerisi FBAB8)
+## 14. Kılavuzdaki fizik örnekleri (Ocak 2026 baskısı, s. 132-136)
 
-Kılavuz fizikte iki bağlam veriyor. Ortak özellikleri:
-- Her sorunun sonunda ölçtüğü süreç bileşeni yazılıdır: `(FBAB8.SB1)`, `(FBAB8.SB3)`. Bizde bunun karşılığı çıktı ve bileşen kodudur (ör. FİZ.9.4.3.b).
-- Ortaöğretim örneklerinde **5 seçenek (A-E)** kullanılır.
-- Bağlam başlığı şöyledir: "1-2. soruları aşağıdaki bilgilere göre cevaplayınız."
-- Veri **tabloyla** verilir (Strateji B). Öğrenci veriyi toplamaz, hazır veriyi yorumlar.
+Ortak özellikler:
+- Fizik bölümünde **üç kitapçık** var. Her kitapçık bir beceriyi ölçer: 1. kitapçık **Problem Çözme** (KB3.2), 2. kitapçık **Sorgulama** (KB2.8), 3. kitapçık **alan becerisi** ("Bilimsel Çıkarım", FBAB8).
+- Bütün fizik sorularında **5 seçenek (A-E)** var (bizim kararımızla uyumlu).
+- Bağlam başlığı: "Aşağıdaki metinden yararlanarak 1-3. soruları cevaplayınız." Her bağlamda 2 ya da 3 soru var (bizim sağ sütundaki 2-3 soru düzenimizle aynı).
+- Mart kopyasında her sorunun sonunda ölçtüğü süreç bileşeni yazılı, ör. `(FBAB8.SB1)`. Bizde bunun karşılığı çıktı ve bileşen kodudur.
+- Ocak baskısı problem çözme ve sorgulama sorularında süreç bileşenini yazmıyor. Aşağıda bu sorular için verilen SB kodları **bizim yorumumuzdur**. Kılavuz doğru cevapları da vermiyor; aşağıdaki doğru cevaplar bizim çözümümüzdür.
+- Bağlamların hepsi programdaki 9. sınıf çıktılarına denk geliyor: ısı iletimi ve yalıtım (FİZ.9.4.6), hâl değişimi (FİZ.9.4.3), durgun sıvı basıncı (FİZ.9.3.2), bilim insanının çalışma biçimi (FİZ.9.1.3).
 
-**Bağlam 1, hâl değişimi deneyi** (programda FİZ.9.4.3'e denk gelir): Araştırmacılar erime sıcaklığındaki buz, alkol ve şekerin 30 g ve 60 g'lık örneklerini eritiyor. Tablo sütunları: madde, kütle, erime sıcaklığı, erime ısısı, gerekli ısı, erime süresi.
-- Soru 1 (SB1, değişkenleri belirleme): "'Gerekli Isı' sütunundaki veriler hangi iki sütunla ilişkilidir?" Doğru cevap: Kütle ile Erime Isısı. Çeldiriciler ilgisiz sütun çiftleridir (erime süresi, erime sıcaklığı).
-- Soru 2 (SB3, veriyi yorumlama): Aynı kütledeki maddelerin erimesiyle ilgili yorumlardan hangisi doğrudur? Seçenekler tablodan karşılaştırma ister (en kısa ya da en uzun süre, hangisine daha çok ısı gerekir).
-- Dikkat: Tabloda erime sıcaklığı gibi çözümde kullanılmayan ama ilgili görünen bir sütun da var. Bu, "çok katmanlı bağlam" ilkesinin uygulamasıdır.
+### 1. kitapçık: Problem Çözme
 
-**Bağlam 2, NOAA durgun su basıncı ölçümleri** (FİZ.9.3.2): Gerçek bir kurumun (NOAA) yayımladığı ölçümler anlatılır; ρ = 1000 kg/m³, g = 9,8 m/s², P = ρ·g·h verilir. Tabloda 5, 10 ve 20 m derinlikteki basınç artışı yer alır.
-- Soru 1 (SB1): Basınca etki eden etmenler hangileridir? Çeldiriciler kavram yanılgılarından seçilmiştir: kabın şekli, akış hızı, kabın genişliği, yüzey alanı.
-- Soru 2 (SB3): 15 m'deki basınç artışı kaç Pa'dır? Tablodaki değerler arasından ara değer bulunur (veriye dayalı tahmin). Doğru cevap 147 000 Pa (kodla doğrulandı). Web kopyasında bu şık "467 000" olarak bozuk okunmuş; diğer şıklar 73 500, 98 000, 196 000 ve 245 000.
-- Soru 3 (SB3): Aynı derinlikte, biri kayaya yakın biri açıkta olan iki noktanın basıncı karşılaştırılır. Doğru cevap: Basınçlar eşittir. Çeldiriciler "yüzeye yakınlık basıncı değiştirir" yanılgısını farklı yönlerden işler.
+**Bağlam A, termos kapağı tasarımı.** Sevcan bir proje için termos yemek kabına kapak tasarlıyor. Bağlamda ısı iletim katsayısı ve özgül ısı tanımları, kapağın işlevi ve bir **ısı iletim katsayısı tablosu** var (hava 0,023; cam yünü 0,04; kauçuk 0,13; ahşap 0,15; plastik 0,19; cam 1,05; paslanmaz çelik 16; alüminyum 237 W/m·K).
+- Soru 1 (SB1, problemi yapılandırma): "Tanımlaması gereken en temel fiziksel değişken hangisidir?" Doğru cevap: ısı iletim katsayısı. Güçlü çeldirici: özgül ısı (bağlamda bilerek tanımı verilmiş; ısı ile sıcaklık yanılgısını yakalar).
+- Soru 2 (SB2, problemi özetleme): "Asıl amacı nedir?" Doğru cevap: ısı iletim katsayısı düşük malzemeyle yalıtım sağlamak. Çeldirici: "özgül ısısı yüksek kapak".
+- Soru 3 (SB4, önermelerle akıl yürütme): "Hangi önerme en iyi yalıtımı sağlar?" Seçenekler katmanlı yapılar: ahşap+hava+ahşap, cam+kauçuk+cam, çelik+cam, cam+cam yünü+cam, plastik+hava+ahşap.
+  - **Bizim için uyarı:** Kılavuz cevabı vermiyor. Eşit kalınlıklı katmanlar varsayılınca ısıl direnç (Σ1/k) A için 56,8, E için 55,4, D için 26,9 çıkıyor (kodla hesaplandı). Yani en iyisi A, ama E ona çok yakın. İki seçeneğin neredeyse eşit doğru olması tartışmalı bir soru üretir. Kendi sorularımızda doğru cevap açık bir farkla ayrışmalıdır.
 
-Bu örneklerden bizim için çıkan kalıplar:
-- **Tablodan değişken eşleştirme:** "Hangi sütunla ilişkilidir?"
-- **Tablodan ara değer ya da oran bulma.**
-- **Aynı derinlik, farklı çevre:** Bir yanılgıyı farklı yönlerden işleyen beş çeldirici.
-- Gerçek kurum ve gerçek ölçüm bağlamı kullanılır (NOAA yerine Türkiye'den bir kurum seçilebilir: MGM, AFAD, TÜBİTAK, DSİ).
+**Bağlam B, binalarda ısı yalıtımı.** Türkiye'de binalardaki enerji tüketiminin yaklaşık %30'unun ısıtma ve soğutmaya gittiği, Enerji ve Tabii Kaynaklar Bakanlığının 2023 verileri, taş yünü ve cam yününün hava boşlukları, metallerin hızlı iletimi ve yalıtımla %40'a varan tasarruf anlatılıyor (Türkiye bağlamı ve gerçek kurum verisi).
+- Soru 1 (SB3, tahmin): Metal levha yerine taş yünü kullanılmasının etkisi. Doğru cevap: hava boşlukları iletimi yavaşlatır. Çeldiriciler: "kalın metal daha iyi yalıtır", "metalin iletkenlik katsayısı düşüktür".
+- Soru 2 (SB4, akıl yürütme): Okulda ısı kaybı dış duvar ve çatıda yoğunlaşıyor; en mantıklı çözüm hangisidir? Doğru cevap: düşük iletkenlik katsayılı malzeme eklemek.
+- Soru 3 (SB5, değerlendirme): Belediyenin yalıtım zorunluluğunun etkisi. Doğru cevap: bireyler ve ülke ekonomisi için olumlu sonuç doğurur. Bu soru değer ve sürdürülebilirlik boyutunu da taşıyor.
+
+### 2. kitapçık: Sorgulama
+
+**Bağlam, Marie Curie'nin çalışma yaklaşımı.** Bağlamda iki Nobel ödülü, sınırlı laboratuvar koşulları, ölçümlerin tekrarlanması, "azim, sistematik çalışma, bilginin sürekli sorgulanması" anlatılıyor.
+- Soru 1 (SB5, çıkarım): Bilimsel çalışma yaklaşımıyla ilgili hangi çıkarım yapılabilir? Doğru cevap: verinin güvenilirliği için sistematik tekrar yapmıştır.
+- Soru 2 (SB3/SB4): Toplanan bilgilerden hangisi bağlamla uyumlu ve geçerlidir?
+- Soru 3 (SB4, bilginin doğruluğunu değerlendirme): Üç kaynak veriliyor (A: iki dalda Nobel alan ilk kişi, B: radyoaktiviteyi keşfeden kişi, C: nükleer tıbba katkı). "Bağlama göre kaynakların karşılaştırması" isteniyor. Kaynak B'nin iddiası bağlamda desteklenmiyor (radyoaktiviteyi Becquerel keşfetmiştir); bu, kaynak sorgulama kalıbının iyi bir örneği.
+- Not: Program biyografi ezberletmeyi yasaklıyor. Bu örnek ezber değil, bilim insanının **çalışma biçimini ve kaynak güvenilirliğini** sorguluyor (FİZ.9.1.3 ile uyumlu). Bilim insanı bağlamlarını bu şekilde kurmalıyız.
+
+### 3. kitapçık: Alan becerisi (Bilimsel Çıkarım, FBAB8)
+
+**Bağlam A, hâl değişimi deneyi** (FİZ.9.4.3): Erime sıcaklığındaki buz, alkol ve şekerin 30 g ve 60 g'lık örnekleri. Tablo sütunları: madde, kütle, erime sıcaklığı, erime ısısı, gerekli ısı, erime süresi.
+- Soru 1 (SB1): "'Gerekli Isı' sütunu hangi iki sütunla ilişkilidir?" Doğru cevap: Kütle ile Erime Isısı.
+- Soru 2 (SB3): Aynı kütledeki maddelerin erimesiyle ilgili hangi yorum doğrudur? Tablodan karşılaştırma ister.
+- Erime sıcaklığı sütunu çözümde kullanılmıyor ama ilgili görünüyor; bu, "çok katmanlı bağlam" ilkesinin uygulamasıdır. (Ocak baskısında alkolün erime sıcaklığı eksi işareti olmadan "114" yazılmış; doğrusu −114 °C'dir. Mart kopyasında düzeltilmiş. Kendi tablolarımızda işaret hatası olmamalı.)
+
+**Bağlam B, NOAA durgun su basıncı ölçümleri** (FİZ.9.3.2): Gerçek bir kurumun ölçümleri; ρ = 1000 kg/m³, g = 9,8 m/s², P = ρ·g·h. Tabloda 5, 10 ve 20 m'deki basınç artışı: 49 000, 98 000 ve 196 000 Pa.
+- Soru 1 (SB1): Basınca etki eden temel etmen hangisidir? Çeldiriciler kavram yanılgıları: kabın şekli, akış hızı, kabın genişliği, yüzey alanı.
+- Soru 2 (SB3): 15 m'deki basınç artışı kaç Pa'dır? Doğru cevap **C) 147 000** (kodla doğrulandı). Diğer şıklar: 73 500, 98 000, 196 000, 245 000. Şıklar artan sırada dizilmiş, tablodaki değerler çeldirici olarak kullanılmış.
+- Soru 3 (SB3): Aynı derinlikte, biri kayaya yakın biri açıkta olan iki noktanın basıncı karşılaştırılıyor. Doğru cevap: eşittir. Dört çeldirici "yüzeye yakınlık basıncı değiştirir" yanılgısını farklı yönlerden işliyor.
+
+### Bu örneklerden çıkan kalıplar (bizim sorularımız için)
+- **Tasarım problemi:** Bir öğrenci bir şey tasarlıyor (kapak, düzenek). Sorular sırasıyla şunları istiyor: temel değişken, asıl amaç, en iyi önerme.
+- **Türkiye verisiyle uygulama:** Bakanlık, belediye ya da okul ölçeğinde gerçek bir sorun. Sorular sırasıyla tahmin, çözüm ve değerlendirme istiyor.
+- **Kaynak sorgulama:** Bağlamla karşılaştırılan "Kaynak A, B, C" ifadeleri.
+- **Veri tablosu:** Değişken eşleştirme, tablodan karşılaştırma ve ara değer bulma.
+- **Tek yanılgı, beş yüz:** Bir kavram yanılgısını dört farklı biçimde işleyen çeldiriciler.
 
 ## 15. Öğrenci görüşmelerinden çıkan ek ilkeler (Mart 2026 kopyası, 3.5.2)
 
@@ -181,3 +209,12 @@ Bu örneklerden bizim için çıkan kalıplar:
 - Uzun metin ve yoğun görsel, soru çözülebilir olsa bile öğrencide "zor" algısı yaratıyor ve motivasyonu düşürüyor. **Dilsel sadelik** esastır: yabancı terim ve karmaşık üslup kullanılmaz, gereksiz sözcük olmaz.
 - Soru, alan bilgisinden uzaklaşıp genel kültür, kelime bilgisi ya da okuma hızı ölçer hale gelmemelidir.
 - **Güncel, gerçek ve hayatın içinden** bağlamlar ilgi ve merakı artırıyor (kılavuzdaki örnekler: Doğu Ekspresi, iklim değişikliği). Yapay kurgu yerine bunlar seçilir.
+
+## 16. Ortaokul fen bilimleri örnekleri (kılavuz s. 51-56)
+
+- **Problem çözme:** Plastik kirliliği (ana problem, kesin çözüm, en uygun öneri); okul çatısına güneş paneli (karar dayanağı olan tahmin, verimi artırma önerisi, bir yıl sonra üretim düşüşünün nedeni; olumsuz kök: "hangisi söylenemez?").
+- **Sorgulama:** Anadolu ağaç sincabı (yanlış değerlendirme, amaca uygun soru seçme, bilgi çıkarma); kene araştırması ("hangi soruya cevap veremez?", bilgiyi doğrulamak için en uygun kaynak, genelleme).
+- **Bilimsel çıkarım:** Teleskopla Ay gözlemi (dönme ve dolanma niteliği, süreler eşit); Ay'daki ayak izleri (atmosfer olmadığı için aşınma yok, sıcaklık farkı).
+- Kalıplar: "Ali araştırmasıyla hangi soruya **cevap veremez**?", "Bilgiyi doğrulamak için en uygun kaynak hangisidir?" Bunlar sorgulama çıktılarında (FİZ.9.1.4, 10.3.6, 10.3.7, 10.4.6, 11.2.3, 11.2.7, 11.3.7, 12.3.7) kullanılabilir.
+- Ortaokulda 4 seçenek kullanılıyor; ortaöğretimde (fizik) 5 seçenek. Biz 5 seçenek kullanıyoruz.
+

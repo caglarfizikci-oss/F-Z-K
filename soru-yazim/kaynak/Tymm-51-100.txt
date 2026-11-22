@@ -1,0 +1,2342 @@
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+4.1.3. Fen Bilimleri Dersi Örnek Sorular
+Temel Eğitim Fen Bilimleri alanı 1 numaralı kitapçıkta “Problem Çözme” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Üretilen plastiklerin yalnızca küçük bir kısmı işlenip yeniden değerlendiriliyor. Toplanan plastiklerin
+bir kısmı yakılıyor, bir kısmı ise açık alanlardaki çöplüklere bırakılıyor. Plastiklerin yakılması havayı
+kirletirken çöplüklerdeki plastiklerden sızan zararlı maddeler toprağa ve suya karışarak canlılara
+zarar veriyor. Plastik kirliliği sadece karalarda değil, denizlerde de ciddi bir problemdir. Rüzgâr ve
+nehirler karadaki plastikleri denize taşır. Her yıl milyonlarca ton plastik okyanuslara karışır. Balıklar
+ve deniz kuşları bu plastikleri yiyecek sanarak yutabilir, bu da onların hastalanmasına hatta ölmesine
+yol açabilir.
+1. Plastik atıklar ile ilgili çözülmesi gereken ana problem nedir?
+A) Denizlerdeki rüzgârların plastikleri karaya taşıması
+B) Plastiklerin atıkların az bir kısmının işlenip değerlendirilmesi
+C) Balık ve deniz kuşlarının plastikleri yiyecek sanması
+D) Plastiklerin yakılarak hava kirliliğine yol açması
+
+2. Aşağıdakilerden hangisi probleme yönelik kesin bir çözüm önerisidir?
+A) Nehirlerin denizlere karışmasını engellemek
+B) Balık hastalıklarına karşı ilaç üretmek
+C) Dışarıya su sızdırmaz plastik şişeler üretmek
+D) Plastiklerin toprak ve suya karışmasını engellemek
+
+3. Aşağıdakilerden hangisi plastik kirliliğini azaltmak için en uygun çözüm önerisidir?
+A) Plastik atıkları sıkıştırmak
+B) Plastik atıkları geri dönüştürmek
+C) Plastik atıkları toprağa gömmek
+D) Plastik atıkların yok olmasını beklemek
+
+51
+
+4. BÖLÜM
+
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Bir okulunun elektrik giderleri son dönemde artmaya başlamıştır. Okul yönetimi, çevreci yaklaşımla
+enerji tasarrufu sağlamak amacıyla yenilenebilir enerji kaynaklarını incelemeye karar vermiştir. Mevcut hava durumu verilerini incelemiş ve okul çatısının güneş ışığı alma süresini gözlemlemiştir. Bu
+gözlemlerden hareketle güneş panellerini farklı yerleşim planlarıyla yerleştirerek en yüksek verimde
+enerji üretmeyi planlamaktadır. Yönetim, kurulacak sistemin çevreye ve okul bütçesine etkilerini de
+düşünerek kararlarının avantajlarını ve sınırlılıklarını da değerlendirmiştir.
+1.
+
+Okul yönetimi, aşağıda verilen tahminlerden hangisinin sonucunda okul çatısına güneş
+paneli kurdurmaya karar vermiştir?
+A) Yenilenebilir enerji kaynağı kullanmak elektrik giderlerini azaltır.
+B) Okulun ışıklandırma sistemini yenilemek elektrik giderlerini azaltır.
+C) Enerji tasarrufu ile ilgili posterler hazırlamak elektrik giderlerini azaltır.
+D) Öğrencilerden enerji timleri kurmak elektrik faturasını azaltır.
+
+2. Okul yönetimi, güneş panellerinin verimini artırmak için öğrencilerden çözüm önerileri
+istemiştir. Aşağıdakilerden hangisi problemin çözümüne yönelik uygun bir öneridir?
+A) Panellerin üzerine lambalar yerleştirmek
+B) Panellerin üzerine gölgelik koymak
+C) Panellere ısıtma sistemi eklemek
+D) Panelleri düzenli olarak temizlemek
+
+3. Okul çatısına yerleştirilen güneş panelleri sayesinde elektrik üretimi başlamış ve sorunsuz devam etmiştir. Şirket çalışanları bir yıl sonra yaptıkları ölçümlerde daha az enerji üretildiği sonucunu kaydetmişlerdir. Elektrik üretiminin azalmasına ilişkin aşağıdakilerden hangisi söylenemez?
+A) Havanın bulutluluk ve yağış oranı artmıştır.
+B) Okul çevresindeki ağaçların boyu uzamıştır.
+C) Bölgede kömür kullanımı artmıştır.
+D) Bölgede güneşli gün sayısı artmıştır.
+
+52
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+Fen Bilimleri alanı 2 numaralı kitapçıkta “Sorgulama” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Doğa yürüyüşüne çıkan öğretmen ve öğrenciler, bazı ağaç altlarında meşe palamudu ve badem
+kabukları görürler. Ece “Öğretmenim, bu ağaçlar meşe ya da badem ağacı değiller ama altlarında
+neden bu kabuklar var?” diye sorar. Öğretmen de bu durumun nedeninin Anadolu ağaç sincapları
+olabileceğini söyler. Anadolu ağaç sincabı, ülkemizin ormanlık bölgelerinde yaşayan bir kemirgen
+türüdür. Bu sincaplar çoğunlukla ormanlarda ve dağlık alanlarda görülür ancak zaman zaman fındık
+ve ceviz bahçelerinde ya da park ve bahçelerde insanların yaşam alanlarını da paylaşabilir. Yuvalarını genellikle ağaç kovuklarına ya da eski ağaçkakan yuvalarına yapar. Yuvanın içini yosun, kuru
+yaprak, ot ve ağaç kabuğuyla döşeyerek rahat bir yaşam alanı oluşturur. Beslenmelerinde fındık,
+ceviz, kestane, badem, Antep fıstığı gibi tohumların yanı sıra elma, armut, kiraz, kayısı, dut gibi
+meyveleri de yiyebilirler. Bazı zamanlarda ormandaki kayın ve meşe ağaçlarının tohumlarını hatta
+çam kozalaklarını bile tüketir. Besin bulmakta zorlandıklarında böcek, kuş yumurtası ve çiçeklerle de
+beslenebilir. Sincaplar, ön ayaklarını tıpkı eller gibi kullanarak yiyeceklerini tutar ve kemirir. Tırnakları
+sayesinde ağaçlara kolayca tırmanabilir, yere inebilir ve daldan dala atlayarak orman içinde hareket
+edebilir.
+1. Aşağıdaki ifadelerden hangisini kullanan öğrenci yanlış bir değerlendirmede bulunur?
+A) Dağlık bölgelerde sincaplar yaşayabilir.
+B) İnsan ve sincap aynı bölgede yaşayabilir.
+C) Sincaplar hayvan kökenli besin tüketmez.
+D) Sincaplar ağaç kovuklarında yaşam alanı oluşturur.
+2. Ece’nin sorduğu aşağıdaki sorulardan hangisi Anadolu ağaç sincaplarının yaşam alanlarını anlamaya yöneliktir?
+A) Sincaplar neden kuşlarla aynı ağaçlarda yaşar?
+B) Sincapların yaşadığı bölgelerde hangi ağaç türleri daha yaygındır?
+C) Tüm sincap türleri aynı büyüklükte midir?
+D) Sincaplar ormanda mı yoksa şehirde mi daha fazla görülür?
+3. Sincapların tırnakları onların yaşamında nasıl bir rol oynar?
+A) Yalnızca yuva yapımında görev alır.
+B) Besinlerini tutup taşımalarını sağlar.
+C) Hem beslenme hem de hareket etmesinde kolaylık sağlar.
+D) Soğuk havalarda ağaç kabuklarına tutunarak sıcak kalmalarını sağlar.
+
+53
+
+4. BÖLÜM
+
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Hafta sonu pikniğe giden Ali ve ailesi eve döndüklerinde annesinin bacağına bir kene yapıştığını fark
+eder. Bunun üzerine Ali, keneler hakkında araştırma yapar ve bazı bilgilere ulaşır.
+Keneler çalı, ot ve yapraklarda yaşar. İnsan ve hayvanların kanını emerken mikrop bulaştırabilir.
+Kene kaynaklı hastalıklar arasında Kırım Kongo Kanamalı Ateşi (KKKA) ve Lyme hastalığı bulunur.
+Türkiye’de en sık görülen kene kaynaklı hastalık KKKA’dır.
+Bu hastalık genellikle baş ağrısı, hâlsizlik ve ateşle başlar; tedavi edilmezse daha ağır sağlık sorunlarına yol açabilir. Çoğu kene zararsız olsa da hangisinin mikrop taşıdığını anlamak mümkün değildir.
+Bu nedenle her kene ısırığı ciddiye alınmalıdır. Bazı kişilerde kene ısırmasından sonra hastalık gelişirken bazılarında hiçbir belirti görülmeyebilir.
+
+1. Ali, yaptığı araştırmalarla aşağıdaki soruların hangisine cevap veremez?
+A) Keneler insanlar için risk oluşturur mu?
+B) Keneler nerede yaşar?
+C) Keneler nasıl beslenir?
+D) Kene ısırmasının ilk belirtileri nelerdir?
+
+2. Ali’nin yaptığı araştırma ile elde ettiği bilgileri doğrulamak için aşağıdakilerden hangisini
+yapması en uygundur?
+A) Yeşilaya başvurmak
+B) Sosyal medyadan araştırma yapmak
+C) Sağlık kuruluşuna başvurmak
+D) Kenenin ısırdığı birine danışmak
+
+3. Ali, kenelerle ilgili yaptığı araştırmalar sonucunda ulaştığı bilgilerden hareketle aşağıdaki
+genellemelerden hangisini yapabilir?
+A) Keneler hayvanlara hastalık bulaştırır.
+B) Yalnızca insanların kanını emer.
+C) Her canlı için aynı riski taşır.
+D) Kene ısırmaları dikkatle değerlendirilmelidir.
+
+54
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+Temel Eğitim Fen Bilimleri alanı 3 numaralı kitapçıkta “Bilimsel Çıkarım Yapma Alan” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Babası Burcu’ya bir teleskop hediye etmiştir. Burcu da bir ay boyunca Ay’ı gözlemlemeye karar vermiştir. Her gün aynı saatte Ay’ı gözlemleyerek teleskop görüntüsünün fotoğrafını çekmiştir. Burcu,
+Ay’ın her zaman aynı yüzünü gördüğünü fark etmiştir. Yaptığı gözlemler, çektiği fotoğraflar ve araştırmalarından yola çıkarak bazı sonuçlara ulaşmıştır. Ay’ın gökyüzünde farklı şekillerde görülmesinin
+ve yüzeyinde hep aynı kraterleri gözlemlemesinin sebebinin dönme, dolanma hareketleri ve bu hareketlerin süreleri ile ilgili olduğu sonucuna ulaşmıştır.
+
+1. Burcu’nun gözlemleri dikkate alındığında aşağıdakilerden hangisi Ay’ın dönme ve dolanma hareketlerinin bir niteliğini tanımlar?
+A) Ay, Dünya etrafında dolanırken kendi ekseni etrafında da döner.
+B) Ay; Dünya etrafında hareket eder, kendi etrafında dönmez.
+C) Ay, her gece farklı bir yüzünü gösterdiği için sürekli yön değiştirir.
+D) Ay; gökyüzünde sabit durur, hareket eden Dünya’dır.
+
+2. Burcu’nun elde ettiği verilerden yola çıkarak yaptığı değerlendirmelerden hangisi doğrudur?
+A) Ay’ın dönme ve dolanma hareketlerinin süreleri eşittir.
+B) Ay, Dünya etrafında döndüğü için bize genellikle aynı yüzünü gösterir.
+C) Ay, Dünya’ya yakın olduğu için aynı yüzü görünür.
+D) Ay’ın döndüğünü kanıtlamak için karanlık bölgelerin yer değiştirmesi gerekir.
+
+55
+
+4. BÖLÜM
+
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Ay’daki Ayak İzleri
+1969 yılında Neil Armstrong ve ekibi Ay’a iniş yaptıklarında yüzeyde yürüyerek araştırmalar yapmışlardır. Armstrong’un attığı ilk adımlar, Ay yüzeyinde belirgin izler bırakmıştır. Aradan uzun yıllar
+geçmesine rağmen Ay’a gönderilen uzay araçlarının çektiği fotoğraflarda bu izlerin hâlâ durduğu
+görülmüştür. Bilim insanları, Dünya’da bir yüzeyde oluşan izlerin zamanla kaybolduğunu ancak Ay’da
+bunun yaşanmadığını belirtmektedir. Bu durum Ay’ın atmosfer koşullarının Dünya’dan çok farklı olmasından kaynaklanmaktadır. Ayrıca Ay’ın yüzeyinde gündüzlerin çok sıcak, gecelerin ise çok soğuk
+olduğunu gösteren ölçümler kaydedilmiştir.
+
+1. Bu duruma göre Ay’ın özellikleriyle ilgili aşağıdaki çıkarımlardan hangisine ulaşılabilir?
+A) Ay’da gece ve gündüz sıcaklığı birbirine çok yakındır.
+B) Ay yüzeyi sürekli hareket ettiği için izler korunur.
+C) Ay’ın kalın bir atmosferi vardır, bu da izleri sabit tutar.
+D) Ay’da rüzgâr ve yağmur gibi aşındırıcı etkenler bulunmaz.
+
+2. Ay’ın yüzeyinde gündüzlerin çok sıcak, gecelerin ise çok soğuk olduğunu gösteren ölçümler alınmasının nedeni ne olabilir?
+A) Ay’da kalın bir atmosfer tabakasının bulunması
+B) Ay’ın kendi ekseni etrafında çok yavaş dönmesi
+C) Ay’da ısıyı tutacak yoğun bir atmosferin bulunmaması
+D) Ay yüzeyinin tamamen su ve buz tabakasıyla kaplı olması
+
+56
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+4.1.4. Sosyal Bilgiler Dersi Örnek Sorular
+Temel Eğitim Sosyal Bilgiler alanı 1 numaralı kitapçıkta “Problem Çözme” becerisini ölçmeyi hedefleyen
+sorular aşağıda verilmiştir.
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Efe’nin Gayreti
+Efe, dedesiyle tarlaya gitti. Tarla işlerinin çok zaman aldığını ve yorucu olduğunu duymuştu. Tarlaya
+ulaştıklarında her yerin çamur olduğunu gördü. Bunun üzerine dedesine bitkilerin gerçekten bu kadar çok suya ihtiyaç duyup duymadığını sordu. Dedesi “Hayır, bu kadar suya gerek yok.” dedi. Efe,
+dedesinin cevabı üzerine genel ağda sulama yöntemleri hakkında bir araştırma yaptı ve araştırmasının sonucunda aşağıdaki bilgilere ulaştı.
+
+Sulama Yöntemi
+
+Olumlu Yönleri
+
+Olumsuz Yönleri
+
+Metrekare Fiyatı (₺)
+
+Salma
+
+Su kaynaklarına yakın
+yerlerde kullanılır.
+Tarım amaçlı sulamada
+kullanılır.
+
+Su kaybı oldukça
+fazladır.
+
+120-150
+
+Fıskiye
+
+Suyu geniş alana yayar. Kurulumu kolaydır.
+
+Zaman ve sensör ayarı
+yoktur. Suyun %50’si
+israf olur.
+
+150-300
+
+Akıllı
+
+%50 su tasarrufu
+sağlar. Bitkilerin ihtiyacı
+kadar sulama yapar.
+
+Kurulum maliyeti
+yüksektir ve teknolojik
+altyapı gerektirir.
+
+800–1.100
+
+Damla
+
+% 60 kadar su tasarrufu sağlar. Suyu
+doğrudan bitki köklerine ulaştırır ve toprağın
+nemli kalmasını sağlar.
+
+Filtrelerin tıkanma
+olasılığı yüksektir.
+
+350–550
+
+1. Sulama yöntemleri, su tasarrufu yönünden incelendiğinde aşağıdakilerden hangisi doğrudur?
+A) Salma sulama, suyu verimli kullanmak için en etkili yöntemdir.
+B) Damla sulama, en fazla su tasarrufu sağlayan yöntemdir.
+C) Fıskiye sulamada su israfı, damla sulamaya göre daha azdır.
+D) Akıllı sulamada su israfı, damla sulamaya göre daha fazladır.
+2. Efe’nin dedesi su tasarrufunu ve maliyeti dikkate aldığında tarlasını hangi yöntemle sulamalıdır?
+A) Salma
+B) Fıskiye
+C) Akıllı
+D) Damla
+
+57
+
+4. BÖLÜM
+
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Öğretmenimiz “Yaşadığınız çevrede var olan bir sorunu çözmek isteseydiniz bu sorun ne olurdu?”
+diye sordu. Belediyenin mahallemize yaptığı bisiklet yollarına yasak olmasına rağmen komşularımızın
+araçlarını park ettiğini söyledim. Bu yüzden bisiklet yolunu kullanamadığımızı ve araç trafiğine ait yollarda bisiklet sürmek zorunda kaldığımızı da dile getirdim. Arkadaşlarımın da anlattıklarıma katılması
+üzerine öğretmenimiz bu soruna çözüm önerileri üretmemizi istedi.
+
+1. Aşağıdakilerden hangisi metinde verilen sorunu özetler?
+A) Araçların bisiklet yoluna park edilmesi
+B) Araç trafiğine ait yollarda bisiklet sürülmesi
+C) Araçların park edecek yer bulamaması
+D) Araç yolunun yanına bisiklet yolu yapılması
+
+2. Öğrencilerin sorunun çözümü için aşağıdakilerden hangisini dile getirmesi uygun değildir?
+A) Araçlar için yeni park alanlarının yapılması
+B) Bisiklet yollarının daha geniş yapılması
+C) Bisiklet yoluna araç geçişinin engellenmesi
+D) Araçlar için uyarı levhalarının artırılması
+
+58
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+Temel Eğitim Sosyal Bilgiler alanı 2 numaralı kitapçıkta “Sorgulama” becerisini ölçmeyi hedefleyen sorular
+aşağıda verilmiştir.
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+HAKLARIMI BİLİYORUM
+Market müdürü ile bir müşterinin ürün değişimi hakkında konuşmalarına tanık olan Eylül, olayı ilgiyle takip etmiştir. Müşteri, aldığı ürünü beğenmediği için değiştirmek istemiştir. Bunun üzerine müdür,
+müşteriden alışveriş fişini göstermesini istemiştir fakat müşteri fişi attığı için gösterememiştir. Bunun
+üzerine ürün değişimi yapılamamıştır. Müşteri ise ürün değişimi yapılmadığı takdirde ilgili kurumlara
+şikâyet edeceğini belirtmiştir. Eylül, böyle bir durumu yaşasaydı ne yapması gerektiğini düşünerek
+bir araştırma yapmaya karar vermiştir.
+
+1. Eylül’ün araştırmak istediği konu hangisidir?
+A) Tüketici haklarının nasıl kullanılabileceği?
+B) Market müdürünün ürünü neden değiştirmediği?
+C) Müşterinin ürünü neden değiştirmek istediği?
+D) Hangi kurumlara şikâyette bulunulabileceği?
+
+2. Aşağıdakilerden hangisi Eylül’ün araştırmasında cevap arayacağı sorulardan biri olamaz?
+A) Müşteriyi koruyan yasalar var mıdır?
+B) Müşteri ürünü neden beğenmemiştir?
+C) Müşteri alışverişten sonra fişi neden saklamalıdır?
+D) Müşteri ürünü iade edemezse ne yapmalıdır?
+
+3. Eylül, yaptığı araştırmalar sonucunda mağazadan yapılan alışverişlerde yalnızca kusurlu ürünün gerekli
+belgeler­le (satış belgesi, iade talep formu, ürünün orijinal paketi ve aksesuarları) değişim veya iadesinin yapılabileceği bilgisine ulaşmıştır.
+Eylül şahit olduğu olay ve yaptığı araştırmadan sonra aşağıdakilerden hangisine ulaşabilir?
+A) Ürün değişimi koşulsuz yapılmalıdır.
+B) Ürün değişimine satıcı karar vermelidir.
+C) Satıcı, ilgili kurumlara şikâyet edilmelidir.
+D) Müşteri, sorumluluklarını bilmelidir.
+
+59
+
+4. BÖLÜM
+
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Yiğit, günlük hayatta davranışlarımızı düzenleyen kuralların nasıl belirlendiğini merak etmiştir.
+Örneğin, mahalleye yapılacak park alanı için insanlar en uygun yer ve şartları belirlemek amacıyla
+fikirlerini paylaşmış ve ortak bir sonuca ulaşmışlardır. Benzer şekilde evde aile fertlerinin fikir alışverişinde bulunarak kuralları belirlediğini, öğrenci kulüplerinde öğrencilerin ilgi ve yeteneklerine göre
+seçim yaptığını, vatandaşların ise dilekçe ve şikâyet haklarının bulunduğunu gözlemlemiştir.
+
+1. Verilen bilgilere göre Yiğit’in öğrenmek istediği temel konu nedir?
+A) Park yerinin belirlenmesi
+B) Öğrenci kulüp seçimleri
+C) Dilekçe hakkının kullanılması
+D) Toplumu düzenleyen kurallar
+
+2. Yiğit, merak ettiği konu hakkında araştırma yaparken hangi soruya odaklanmış olabilir?
+A) Birlikte karar almak toplum düzeni için fayda sağlar mı?
+B) Şikâyetlerimizin sadece dilekçe yoluyla yapılması doğru mudur?
+C) Sosyal alanlar yapılması için vatandaşların görüşü yeterli midir?
+D) Sorunlar sadece şikâyet yoluyla mı çözülmelidir?
+
+3. Aşağıdakilerden hangisi ortak karar almayı ifade eder?
+A) Farklı düşünceler uzlaşmayı zorlaştırdığından kararların bir kişi tarafından alınması doğru olabilir.
+B) Kararların benzer fikirde olan kişiler tarafından alınması süreci kolaylaştırabilir.
+C) Farklı düşüncelerin bir araya gelmesiyle toplum için daha adil kararlar alınabilir.
+D) Ortak karar alırken çocukların düşüncelerine başvurmak sürecin uzamasına yol açabilir.
+
+60
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+Temel Eğitim Sosyal Bilgiler alanı 3 numaralı kitapçıkta “Değişim ve Sürekliliği Algılama Alan” becerisini
+ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1-4. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Benim köyüm Afyonkarahisar’a bağlı Ayazin’dir. Önceleri köyümüz tarım ve hayvancılık faaliyetleriyle geçimini sağlamaktaydı. Afyonkarahisar Valiliği, Belediye Başkanlığı ve Kocatepe Üniversitesi iş birliğiyle köyümüzde arkeolojik kazı çalışmaları başlatıldı. Kazı sonucunda Frig medeniyetine
+ait yaşam yerleri bulundu. Yapılan çalışmalar ile tarihî alan turizme kazandırıldı. Çok geçmeden
+köyümüze marketler, restoranlar, oteller yapıldı ve ziyaretçi sayısının artmasıyla köyümüzün altyapısı hızlıca yenilendi. Ayrıca genel ağ hizmetleri güçlendirildi, belediye otobüsleri düzenli seferler
+gerçekleştirmeye başladı. Yeni ortaokul açıldı, yerel ürünlere rağbet oldu ve ekonomik kazancımız
+çeşitlendi. Dahası, bazı ulusal film ve diziler burada çekilmeye başlandı. Buna karşın gelen turistlerin
+yoğunluğu çevredeki atıkların toplanmasında aksamalara yol açtı.
+1. Ayazin köyünde yaşanan değişimin temel nedeni aşağıdakilerden hangisidir?
+A) Tarım ve hayvancılık faaliyetlerinin yerine turizm yapılması
+B) Tarihî mekânlarda ulusal film ve dizilerin çekilmesi
+C) Arkeolojik kazılar sonucunda tarihî mekânların ortaya çıkması
+D) Organik şekilde üretildiği için yerel ürünlere rağbetin artması
+2. Aşağıdakilerden hangisi köyde yaşanan gelişmelerin etkilediği unsurlara örnek verilemez?
+A) Eğitim
+B) Çevre
+C) Altyapı
+D) Sağlık
+3. Aşağıdakilerden hangisi köyde yaşanan değişimlerin etkilerinden biridir?
+A) Atıklar geri dönüştürülmüştür.
+B) Tarımsal faaliyetler artmıştır.
+C) Kazılar hemen tamamlanmıştır.
+D) İş imkânları çeşitlenmiştir.
+4. Aşağıdaki neden-sonuç ilişkilerinden hangisi Ayazin köyünün değişiminden çıkarılamaz?
+A) Tarım ve hayvancılık faaliyetleriyle ekonomik çeşitlilik yaşanmıştır.
+B) Çevredeki çöplerin alınmasıyla ilgili sorunlar yaşanmıştır.
+C) Yaşanan nüfus artışıyla yeni eğitim kurumları yapılmıştır.
+D) Ulusal dizi ve filmlerin bu bölgede çekilmesi, ziyaretçi sayısını artırmıştır.
+
+61
+
+4. BÖLÜM
+
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Ankara, küçük ve sakin bir yerleşim yeriydi. Evlerin çoğu kerpiçten, sokaklar dar ve taş döşemeliydi.
+İnsanlar genellikle yürüyerek ya da at arabalarıyla ulaşım sağlardı. Şehrin çevresinde geniş tarlalar,
+bağlar ve bostanlar uzanırdı. Ankara’nın Türkiye’nin başkenti ilan edilmesiyle şehir hızla büyümeye
+başladı. Yeni yollar yapıldı ve tren istasyonu genişletildi. Farklı şehirlerden Ankara’ya göç eden insanlar için yeni mahalleler kuruldu. Tarlaların yerini apartmanlar aldı. Yeni okullar, hastaneler ve parklar yapıldı. Günümüzde Ankara’da metro, otobüs ve otomobillerle ulaşım sağlanıyor. Bu gelişmeler
+doğal çevreyi de etkiledi. Bazı dereler kurudu ve yeşil alanlar zarar gördü. Şehirde gürültü ve hava
+kirliliği arttı. İnsanlar doğayı korumak için çaba gösterdi ve ağaç dikme kampanyaları düzenledi.
+
+1. Ankara’nın hızla büyüyüp gelişmesine etki eden durum aşağıdakilerden hangisidir?
+A) Ankara’nın Türkiye’nin merkezi olması
+B) Ankara’nın ulaşım ağının genişlemesi
+C) Ankara’da park ve bahçelerin sayısının artması
+D) Ankara’da okullar ve hastaneler yapılmış olması
+
+2. Ankara’nın büyümesiyle aşağıdakilerden hangisi doğal çevrede yaşanan bir değişimdir?
+A) Yeni yolların ve binaların yapılması
+B) Şehirdeki derelerin kuruması
+C) Farklı şehirlerden göçlerin artması
+D) Metro ve otobüs hatlarının çoğalması
+
+62
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+4.1.5. Temel Eğitim Din Kültürü ve Ahlak Bilgisi Dersi Örnek Sorular
+Temel Eğitim Din Kültürü ve Ahlak Bilgisi alanı 1 numaralı kitapçıkta “Sorgulama” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1 ve 2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Doğa Kulübü’nün düzenlediği yürüyüşe katılan Erdem; rotanın yakınında yemyeşil, hafif ıslak ve
+kuş seslerinin duyulduğu bir bölgeden geçer. Erdem gökyüzünde süzülen kuşları, çevresindeki rengarenk bitkileri gözlemler ve Allah’ın evrende kurduğu düzenle ilgili aklına takılan birkaç soruyla eve
+döner. Hemen araştırma yapmaya başlayan Erdem, bir doğa dergisinde bataklıklarla ilgili aşağıdaki
+bilgilere ulaşır:
+
+Bataklıklar iklim değişikliğinin olumsuz
+etkilerine karşı doğamızı korurlar. Bataklıklarda bulunan yoğun bitki örtüsü, suyu
+filtreleyerek akarsulara karışan suyun
+daha temiz olmasını sağlar.
+
+Bataklıklar su akışının düzenli ve dengeli olmasında önemli rol oynar. Yağışlı dönemlerde
+suyu sünger gibi emerek bulundukları bölgede
+sel oluşumunu önler, kurak dönemlerdeyse
+bu suyu yavaş yavaş bırakarak toprağın kurumasını engellerler. Sahil bölgelerinin fırtınalara
+karşı korunmasında da etkilidirler.
+
+Bataklıklar; Antarktika
+hariç yeryüzündeki
+tüm kıtalarda
+bulunur.
+
+Bataklıklar sulak alanların bir türüdür. Yıl boyunca veya bazı mevsimlerde
+kısmen ya da tamamen sular altında kalırlar. Suyun olmadığı dönemlerde
+bile toprakları suya doygun yani nemli ve ıslak olur. Su seviyeleri derin
+değildir. Bu nedenle bitkiler dibe kök salarak su yüzeyine kadar erişebilir ve
+orada büyümeye devam edebilir. Bu alanlar, yağmur sularının yanı sıra yer
+altı sularıyla da beslenebilir. Deniz, göl, nehir gibi su kaynaklarına yakın bir
+konumda bulunurlar. Bu bakımdan sucul ve karasal bölgeler arasında geçiş
+görevi görürler.
+
+1. Bu parçadan hareketle Erdem’in araştırdığı konu aşağıdaki ayetlerden hangisiyle ilgili
+olabilir?
+A) Gerçekten biz, her şeyi bir ölçü ve dengede yarattık. (Kamer suresi, 49. ayet)
+B) “… Allah onların yapmakta olduklarını eksiksiz görür.” (Bakara suresi, 96. ayet)
+C) “İnsanların kendi elleriyle yapıp ettikleri yüzünden karada ve denizde düzen bozuldu…” (Rum suresi, 41.
+ayet)
+D) “Yeryüzünde hiçbir canlı yoktur ki rızkı Allah’a ait olmasın…” (Hud suresi, 6. ayet)
+2. Aşağıdakilerden hangisi Erdem’in aklına takılan sorulardan biri olamaz?
+A) Bataklıkların yaratılma amacı ne olabilir?
+B) Evrende yaratılan her şeyin bir amacı var mıdır?
+C) Bataklıklarda hangi canlılar yaşar?
+D) Bataklıkların çevresel düzendeki yeri nedir?
+
+63
+
+4. BÖLÜM
+
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Hilal, Ayşe, Burak ve Ahmet öğretmenlerinden aldıkları bir görevle şehir parkında bir gözlem yaparlar. Görevleri, doğada karşılaştıkları düzenin izlerini keşfetmektir. Gözlemleriyle ilgili konuşma şu
+şekildedir:
+Hilal: Şu meşe ağacının yaprağına yakından baktım. Üzerindeki damarlar, sanki haritalardaki
+yollar gibi! Her biri belirli bir yöne gidiyor. Bu damarlar, yaprağın en uç noktasına bile su ve besin
+taşıyacak şekilde düzenlenmiş.
+
+Burak: Ben de bir serçe yuvası buldum. Yuvanın altı güçlü dallarla desteklenmiş, içi ise yumuşacık otlarla kaplı. Rüzgârda sallansa bile bozulmuyor. Düşünsene, kuşlar marangoz değil ama
+her yıl aynı şekilde sağlam yuvalar yapıyorlar. Acaba onlara yuva yapmayı kim öğretiyor?
+
+Ayşe: Ben de yerde büyük bir karınca yuvası buldum. Dikkat ettim, karınca yuvasının giriş
+kısmı rüzgârın az estiği yöne bakıyor. Karıncalar durmadan bir şeyler taşıyor. Bir belgeselde
+görmüştüm, yuvanın içinde de farklı bölmeler varmış. Odaları hangi amaçla yapacaklarını nereden öğreniyorlar?
+Ahmet: Ben de insan vücudunun yapısını gözlemledim. Kalbimiz durmadan atıyor, nefes alıp
+veriyoruz, terliyoruz. Tüm bunlar biz farkında bile olmadan oluyor. Bir çoğunu biz kontrol etmiyoruz ama her şey kusursuz çalışıyor. Yaprağın damarları, kuşun yuvası, karıncanın evi ve bizim
+vücudumuz…
+
+1. Öğrencilerin gözlem notlarında aşağıdaki bilgilerden hangisine değinilmemiştir?
+A) Canlılardaki sistemlerin bir amaca hizmet etmesi
+B) Tabiattaki düzenin matematiksel oranlara sahip olması
+C) Canlıların çevreye uyum sağlayacak şekilde yaratılması
+D) Tabiatta aksamadan devam eden bir sistemin olması
+2. Öğrencilerin gözlemlerini desteklemek için aşağıdaki ayetlerden hangisi kullanılabilir?
+A) “İyilikle kötülük bir olmaz. Sen kötülüğü en güzel şekilde sav.” (Fussilet suresi, 34. ayet)
+B) “Kim zerre kadar iyilik yaparsa, onu görür.” (Zilzal suresi, 7. ayet)
+C) “…Güneş de kendi yörüngesinde akıp gitmektedir…” (Yasin suresi 38. ayet)
+D) “Mallarını Allah yolunda harcayanların durumu, yedi başak bitiren bir tohum gibidir.” (Bakara suresi, 261.
+ayet)
+3. Bu konuşmalardan hareketle öğrencilerin ulaştığı sonuç aşağıdakilerden hangisidir?
+A) Doğadaki olaylar kendiliğinden meydana gelir.
+B) Kainattaki düzen, bir yaratıcının varlığını gösterir.
+C) Canlılar hayatta kalmayı deneme yanılma yoluyla öğrenir.
+D) Tabiattaki olaylar bilimsel verilerle açıklanır.
+
+64
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+Temel Eğitim Din Kültürü ve Ahlak Bilgisi alanı 2 numaralı kitapçıkta “Özetleme” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1-3. soruları aşağıdaki bilgi görseline göre birbirinden bağımsız olarak cevaplayınız.
+Sınıfınız, “Dijital Din Kültürü Fuarı” için “Akıllı Namaz Paneli” adlı bir proje geliştiriyor. Bu özel panel,
+üzerinde namazla ilgili bilgilerin ve ışıklı uyarıların olduğu interaktif bir teknoloji ürünüdür.
+AKILLI NAMAZ PANELİ
+SABAH
+
+Gecenin bitimi
+
+ÖĞLE
+
+Güneşin tepe noktası
+
+İKİNDİ
+
+Gölgelerin uzaması
+
+AKŞAM
+
+Güneşin batışı
+
+YATSI
+
+Gecenin karanlığı
+
+Namaz, Müslüman'ın Allah'la konuşmasıdır.
+Günlük hayatımızda bize verilen sayısız
+nimet için şükür etme fırsatıdır. Ayrıca
+namaz, bizi kötülüklerden uzaklaştıran bir
+hayat rehberidir."
+
+Mutlaka Yap
+(Farz)
+
+Yaparsan Çok İyi
+(Vacip)
+
+Ekstra Sevap
+(Nafile)
+
+1. Bu ışıklı panele göre namaz vakitleriyle ilgili aşağıdakilerden hangisi söylenebilir?
+A) İnsanların uyku ve çalışma düzenine göre belirlenmiş zamanlardır.
+B) Güneş’in farklı konumları esas alınarak bir düzen içinde belirlenmiştir.
+C) Dünyanın her yerinde vakit namazlar aynı saatte kılınır.
+D) Gündüz saatlerinde kılınıp geceleri ara verilen bir ibadettir.
+2. Buna göre bir öğrenci kırmızı ve yeşil butonlara sırasıyla basarsa aşağıdakilerden hangisi
+doğru olur?
+A) Teravih namazı – Sabah namazı
+B) Bayram namazı – Cenaze namazı
+C) Vitir namazı – Beş vakit namaz
+D) Akşam namazı – Teheccüt namazı
+3. Bu paneldeki sesli anlatıma aşağıdaki açıklamalardan hangisi anlamca en yakındır?
+A) Namaz, insanın Allah ile bağını güçlendirir ve daha iyi bir insan olmasına rehberlik eder.
+B) Namaz, kişinin dünya işlerini etkilemeyip ahiret hayatı için yapılan bir ibadettir.
+C) Namazın temel amacı, Müslümanları aynı mekânda toplayarak sosyal dayanışmayı sağlamaktır.
+D) Namaz, belirli zamanlarda yerine getirilmesi zorunlu olan bir ibadettir.
+
+65
+
+4. BÖLÜM
+
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Ortaokul 5. sınıf öğrencileri, Kadir Gecesi’nde öğretmenleri ve aileleriyle birlikte mahallelerindeki camiye gittiler. Burada yatsı, teravih, vitir namazını beraber kıldılar ve bu önemli geceyi cemaatle ibadet
+ederek geçirdiler. Bu deneyim, onlara hem manevi bir atmosferi tanıma hem de cemaatle ibadet etme
+fırsatı sundu. Cemaatle namaz kılmanın huzurunu yaşayan öğrenciler vakit namazları için de sıklıkla
+camiye gitme kararı aldılar.
+
+1. Bu parçaya göre öğrencilerin kıldığı namazlar, namazın hangi temel özelliğini göstermektedir?
+A) Namaz, belirli vakitlerde kılınan bir ibadettir.
+B) Namaz, Ramazan ayında yerine getirilir.
+C) Namazın kabul olması için camide kılınması gerekir.
+D) Namaz ibadetinden önce hazırlık gerekir.
+2. Aşağıdakilerden hangisi öğrencilerin öğretmenleriyle birlikte kıldığı namaz türlerinden
+değildir?
+A) Beş vakit kılınan farz namazlar
+B) Ramazan ayına özgü nafile namazlar
+C) Cemaatle kılınması zorunlu olan namazlar
+D) Vakit namazlarıyla birlikte kılınan nafile namazlar
+
+66
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+4.1.6. Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Örnek Sorular
+Ortaöğretim Din Kültürü ve Ahlak Bilgisi alanı 10. Sınıf 1 numaralı kitapçıkta “Sorgulama” becerisini ölçmeyi
+hedefleyen sorular aşağıda verilmiştir.
+1 ve 2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Aşağıda bir öğrencinin din kültürü ve ahlak bilgisi dersinde hazırladığı bir öğrenme günlüğünün bazı bölümleri
+verilmiştir.
+Öğrenme Günlüğüm
+Bugün Öğrendiklerim:
+a. .............................................................................................................................................................................................................
+.............................................................................................................................................................................................................
+• insanın yaratılışı,
+• gök cisimlerinin hareketleri,
+• gece ile gündüzün oluşması,
+• bütün canlıların belli bir ölçüye göre varlığını devam ettirmesi
+Yüce Allah, her şeyi belirli bir amaç ve ölçüyle yaratmıştır. Hiçbir şey başıboş değildir.
+Aşağıdaki ayetler de bu konuya dikkat çeker.
+“Şüphesiz biz, her şeyi bir ölçüye göre yarattık.” (Kamer, 54:49),
+“Güneş ve Ay bir hesaba göre hareket etmektedir.” (Rahman 55:5) ve
+“Biz gökleri, yeri ve bunlar arasındakileri oyun olsun diye yaratmadık.” (Duhan, 44:38)
+b. İnsan, "Ben kimim, nereden geldim?" gibi sorularla yaratılış amacını arayan bir varlıktır.
+Biz -insanlar- toprak ve sudan yaratıldık ve Allah bize akıl, irade ve üstün özellikler vererek şerefli kıldı.
+Dünyaya bir emanet yüklenmiş olarak gönderildik. Asıl görevimiz Rabbimizi tanımak, O'na kulluk etmek
+ve ahiret hayatı için hazırlanmaktır. Ayrıca sosyal bir varlık olduğumuz için ailemize, çevremize ve topluma
+karşı da sorumluluk bilinciyle yaşamalıyız. Özetle yaratılış amacımızı bilerek hareket etmek ve güzel ahlak­
+lı bir insan olmak en temel vazifemizdir.
+
+1. Öğrenme günlüğünün a bölümünde alınan notlara göre boş bırakılan yere yazılacak en uygun
+soru aşağıdakilerden hangisidir?
+A) İnsanın yaratılışının aşamaları nelerdir?
+B) Allah’ın âlemi var etmesinin hikmetleri nelerdir?
+C) Belirli bir düzende gerçekleşen olaylar neyin göstergesidir?
+D) Allah'ın evrende var ettiği düzenle ilgili örnekler nelerdir?
+E) Evrendeki düzende canlıların yerini gösteren örnekler nelerdir?
+2. Aşağıdakilerden hangisi bu öğrenme günlüğünden çıkarılabilecek en kapsamlı yargıdır?
+A) Evrendeki gök cisimlerinin hareketleri, gece ile gündüzün birbirini izlemesi gibi fiziksel olaylar belirli bir
+sistem dâhilinde gerçekleşir.
+B) Canlıların varlığını sürdürmesi, evrenin genel düzeni içinde kendilerine biçilen ölçüye bağlıdır.
+C) Evrenin işleyişi, her bir parçasının birbiriyle uyum içinde çalıştığı bütüncül bir yapı sergiler.
+D) Allah’ın yaratma düzeni rastlantısal değildir, insan da bu düzenin bilinçli ve sorumlu bir parçasıdır.
+E) Güneş ve Ay’ın yörüngelerindeki matematiksel hassasiyet, evrenin rastlantısal olmadığının bir
+göstergesidir.
+
+67
+
+4. BÖLÜM
+
+1. ve 2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+Bir lise öğrencisi, yaz tatilinde İstanbul'u ziyaret eder ve şehrin
+tarihî mekânlarını gezmeye karar verir. İlk durağı Süleymaniye
+Camii olur. Burada caminin mimari düzeni ve çevresindeki yapılar
+dikkatini çeker. Ertesi gün Eminönü'ndeki Valide Sultan Camii'ni
+ziyaret ettiğinde orada da benzer şekilde camiye bağlı çarşı ve
+aşevi gibi birimler olduğunu gözlemler. Eyüp Sultan Camii'ne
+yaptığı ziyarette ise avluda üzerinde oyuk bulunan tuhaf bir
+taşın ne işe yaradığını merak eder. Bu gözlemlerinin ardından bir
+araştırma yapmaya karar verir. Yaptığı incelemeler sonucunda
+Süleymaniye ve Valide Sultan Cami’leri gibi yapıların aslında birer
+"külliye" olduğunu öğrenir. Geçmişte bu külliyeler aracılığıyla
+Osmanlı toplumuna camiyle birlikte eğitim, sağlık, barınma ve
+yemek gibi kapsamlı hizmetler sunulduğunu öğrenir. Eyüp Sultan
+Camii'ndeki gizemli taşla ilgili araştırması ise onu “sadaka taşı”na
+götürür. Sadaka taşının, yardım etmek isteyenlerle ihtiyaç sahiplerini, taraflar birbirini görmeden buluşturan
+bir sosyal yardım sistemi olduğunu öğrenir.
+1. Bu parçadan hareketle aşağıdakilerden hangisine ulaşılabilir?
+A) Süleymaniye Camii dönem mimarisinin temel özelliklerini taşır.
+B) Osmanlı İmparatorluğu fethettiği topraklarda kalıcı izler bırakmıştır.
+C) Camiler ibadetle birlikte farklı işlevler için kullanılmıştır.
+D) Aşevleri yatılı öğrencilerin barınma ve eğitim ihtiyaçlarını karşılar.
+E) Sadaka taşları Osmanlı Dönemi camilerinin bölümlerindendir.
+
+2. Bu parçaya göre aşağıdakilerden hangisi öğrencinin geziden çıkardığı sonuçlardan biridir?
+A) Osmanlı'daki sosyal yardım sisteminin temel hedefi, devletin gücünü sergilemektir.
+B) Osmanlı'da sosyal yardım faaliyetlerinde kişinin mahremiyeti ve itibarı korunmuştur.
+C) Osmanlı Dönemi’nde sosyal yardımlaşma kurumları devlet tarafından denetlenmiştir.
+D) Osmanlı toplumunda yardımlaşma bireylerin çabasına bağlı olarak gelişmiştir.
+E) Osmanlı’da sosyal yardım kurumları, Müslüman vatandaşlara hizmet etmek için vardır.
+
+68
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+Din Kültürü ve Ahlak Bilgisi alanı 10. Sınıf 2 numaralı kitapçıkta “Yorumlama” becerisini ölçmeyi hedefleyen
+sorular aşağıda verilmiştir.
+1-3. soruları aşağıdaki bilgi görseline göre birbirinden bağımsız olarak cevaplayınız.
+
+1. Aşağıdakilerden hangisi broşürdeki ibadet anlayışının toplumsal bağları güçlendirmesine örnek
+verilemez?
+A) Mahallesindeki yardıma muhtaç bir aile için bir kişinin fitre ve zekât toplaması
+B) Cami cemaatinin yetimler için düzenlenen iftar programında hizmet etmesi
+C) Müslüman bir kişinin ramazan ayında sünnete uymak için sahura kalkması
+D) Bir grup gencin huzurevini ziyaret edip yaşlılara kitap okuma etkinliği düzenlemesi
+E) Cemaatle kılınan bayram namazı sonrasında mahallelinin birbirleriyle bayramlaşması
+
+69
+
+4. BÖLÜM
+
+2. Bu broşürdeki ana düşünceye aşağıdakilerden hangisi daha uygundur?
+A) Mahallelinin, çevre temizliği farkındalığı oluşturmak amacıyla hep birlikte park ve sokakları temizleme etkinliği
+düzenlemesi
+B) Öğrenci velilerinin, okulun bahçe düzenlemesi için imece usulüyle yardım toplaması ve bahçe düzenlemesinde
+birlikte çalışması
+C) Komşusunun maddi sıkıntı içinde olduğunu öğrenen bir kişinin, mahallelinin de katılımıyla bir dayanışma kampan­
+yası başlatması
+D) Bir grup gencin, yaşlıların alışverişlerini ve ev işlerini yapmada gönüllü olarak sırayla nöbet tutması
+E) Apartman sakinlerinin, yangın güvenliğini artırmak için toplanıp ortak bir güvenlik planı oluşturması
+
+3. Aşağıdaki örneklerden hangisi broşürdeki anlayışı en bütüncül şekilde yansıtır?
+A) Beş vakit namazını düzenli kılan bir öğrencinin, ailesi ve komşularıyla birlikte mahallesinin parkını temizleme
+etkinliğine katılması
+B) Ramazan ayında oruç tutan bir kişinin, iftar vakti yaklaştığında hasta komşusuna yemek götürüp onunla birlikte
+orucunu açması
+C) Bir Müslümanın zekâtını, ihtiyaç sahibi komşusuna bizzat ulaştırarak komşusunun halini hatırını sorması ve onunla
+dostluk bağı kurması
+D) Hac ibadetini yerine getiren bir müminin, Arafat’ta tüm Müslümanlar için dua etmesi ve kurban kesmesi
+E) Cuma namazı için camiye giden bir esnafın, namaz sonrası müşterileri ve diğer esnaflarla helal kazanç ve yardım­
+laşma üzerine sohbet etmesi
+
+70
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+1-2. soruları aşağıdaki gazete haberine göre birbirinden bağımsız olarak cevaplayınız.
+
+4 Kasım 2025 - Salı
+
+Yerel Haber
+
+Dayanışma Köşesi
+Gizemli Hayırsever Zimem Defterini Kapattı.
+İlçedeki bir mahalle bakkalında bir olay yaşandı. Kimliği açıklanmayan bir hayırsever, akşam vakitlerinde
+dükkâna gelerek bakkalın zimem defterindeki tüm borçları ödedi. Bakkal sahibi Mehmet Usta, “Defteri
+inceledi, borçları kapattı ve kimliğini gizli tutmamı istedi. ‘Allah rızası için’ dedi” sözleriyle olayı anlattı.
+
+1. Aşağıdakilerden hangisi bu parçadaki uygulamaların yaygınlaşması sonucunda toplumda meydana
+gelecek değişimi en kapsamlı ifade eder?
+A) Kültürel değerlere sahip çıkılması
+B) Güven ve huzur ortamının güçlenmesi
+C) Bireylerde sorumluluk duygusunun gelişmesi
+D) Geleneklerin korunmasına önem verilmesi
+E) Sorunların çözümünde birlikte hareket edilmesi
+2. Bu haberin içeriğini örnek alan bir öğrencinin aşağıdakilerden hangisini gerçekleştirmesi beklenir?
+A) İhtiyaç sahiplerine verilmek üzere bağışta bulunması
+B) İhtiyaç sahiplerine erzak kolisi götürmesi
+C) Yaptığı iyiliği tüm sınıfa anlatarak öğretmeninden takdir beklemesi
+D) Sosyal medyada yardım faaliyetlerini paylaşması
+E) Arkadaşının yemek parasını ödemesi
+
+71
+
+4. BÖLÜM
+
+4.1.7. Ortaöğretim Matematik Dersi Örnek Sorular
+Matematik alanı bir numaralı kitapçıkta “Alan” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+Aslı “Enerji Kaynaklarının Bilinçli Kullanımı ve Sürdürülebilir Çevre” adlı projesi için elektrikli ev aletlerinin ener­
+ji tasarrufundaki yeri ve önemini araştırmaktadır. Bunun için ailesi ile yaşadığı evde kullanılan elektrikli aletle­
+rin 1 saatte tükettiği yaklaşık elektrik değerlerini watt cinsinden bulmuş, verileri aşağıdaki tabloda sıralamıştır.
+
+Elektrikli Aletler
+
+Elektrik Tüketimi (1 SAATTE)
+
+Akkor Ampül
+
+26 watt
+
+Led Ampül
+
+24 watt
+
+Buzdolabı
+
+26 watt
+
+Çamaşır Makinesi
+
+26.102 watt
+
+Ütü
+
+52.102 watt
+
+1. Aslı’nın ailesi bir günde
+•
+
+2 saat ütü,
+
+•
+
+24 saat buzdolabı,
+
+•
+
+8 saat LED ampul,
+
+•
+
+4 saat akkor ampul,
+
+•
+
+1 saat çamaşır makinesi
+
+kullanmıştır.
+Buna göre ailenin bir günlük toplam elektrik tüketimi watt/saat cinsinden aşağıdakilerden hangisidir?
+A) 27.26 + 110.102
+B) 25.26 + 112.102
+C) 15.27 + 114.102
+D) 25.27 + 114.102
+E)
+
+15.27 + 112.103
+
+2. Aslı, enerji tasarrufu konulu projesi kapsamında evdeki elektrikli aletlerin enerji tüketimlerini ölçüp ailesiyle paylaş­
+mıştır. Önerileri doğrultusunda ailesi
+•
+
+Akkor ampul yerine led ampul kullanmaya başlamış,
+
+•
+
+Ütüyü gereksiz yere çalıştırmamış,
+
+•
+
+Çamaşır makinesini haftada 3 kez çalıştıracak şekilde planlama yapmıştır.
+
+Bu durumda bir ayın sonunda elektrik faturasında %25 oranında tasarruf gözlenmiştir.
+Buna göre aşağıdaki ifadelerden hangisi Aslı’nın bu süreçte yaşadığı deneyimleri en iyi anlatan yorumlardan biridir?
+A) "Enerji tasarrufu için en doğru çözüm tüm cihazları kapatmaktır."
+B) "Aldığımız önlemler sayesinde faturamızda azalma meydana geldi.”
+C) "Sadece ampul değiştirerek büyük bir tasarruf beklemek gerçekçi değilmiş."
+D) "Led ampul kullanmamıza rağmen faturada beklediğimizden az bir düşüş oldu."
+E)
+
+72
+
+"Çamaşır makinesini daha az kullanıp ütüyü daha fazla çalıştırarak tasarrufu dengeledik.”
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+Aslı, Burak ve Can isimli üç kardeş babalarına beğendikleri bir kalemi hediye olarak almak istemektedir. Ancak
+her biri biriktirdikleri tüm parayı kullansalar da tek başlarına iistedikleri bu kalemi alamamaktadır. Çünkü
+kalemin fiyatı
+• Aslı’nın parasından 180 TL fazla
+• Burak’ın parasının 3 katı
+• Can’ın parasından da 150 TL fazladır.
+Kardeşlerden herhangi ikisi paralarını birleştirirse kalemi satın alamıyor ancak üçü tüm paralarını birleştirdi­
+ğinde hem kalemi satın alabiliyor hem de 70 TL paraları artıyor.
+1. Aslı’nın parası TL cinsinden x değişkeni ile ifade edildiğinde Burak ve Can’ın biriktirdiği
+para ile almak istedikleri kalem fiyatının x cinsinden cebirsel ifadesi aşağıdakilerden hangisinde doğru verilmiştir?
+Burak'ın Parası
+Can'ın Parası		
+Kalem Fiyatı (TL)
+A) 3x				x + 150				x + 180
+B) 3x – 180 			
+x
+C) 3 + 180			
+x
+D) 3 + 60			
+x
+E) 3 + 60			
+
+x + 150				
+
+x + 180
+
+x + 30				
+
+x + 180
+
+x + 30				
+
+x + 180
+
+x + 30				
+
+x + 150
+
+2. Buna göre Buna göre aşağıdakilerden hangisi kardeşlerin babalarına almak istediği kalemin
+fiyatıdır?
+A) 270 TL
+B) 300 TL
+C) 330 TL
+D) 360 TL
+E)
+
+390 TL
+
+73
+
+4. BÖLÜM
+
+Matematik alanı iki numaralı kitapçıkta “Problem Çözme” becerisini ölçmeyi hedefleyen sorular aşağıda
+verilmiştir.
+
+1-4. soruları aşağıdaki bilgilere göre cevaplayınız.
+Bir şirket, şehre yeni kurduğu dondurucu ve soğutucu bölümlerinden oluşan bir soğuk hava deposunda ürün­
+ler saklamaktadır.
+Depo kontrol paneli sıcaklıkları Celsius (°C) cinsinden gösterilmektedir ve her iki bölmenin sıcaklığı aşağıda
+verilen aralıklarda istenilen dereceye ayarlanabilmektedir.
+Dondurucu bölme: −24 °C ile 0 °C
+Soğutucu bölme: 0 °C ile 15 °C
+Ürünler yalnızca kendi uygun sıcaklık aralığında saklanırsa bozulmadan korunmaktadır. Ürünlerin saklama
+sıcaklıkları ürün etiketlerinde Celsius (°C) cinsinden yazılmıştır. Aşağıdaki tabloda pizza, somon, yengeç, beyaz
+peynir, yumurta ürünlerinin en düşük ve en yüksek uygun saklama sıcaklık aralıkları verilmiştir.
+Ürün
+
+En Düşük Uygun Sıcaklık (°C)
+
+En Yüksek Uygun Sıcaklık (°C)
+
+Pizza
+
+−24
+
+−8
+
+Somon
+
+−10
+
+1
+
+Yengeç
+
+−12
+
+−4
+
+Beyaz Peynir
+
+0
+
+4
+
+Yumurta
+
+0
+
+8
+
+1. Depoya ürün girişi sırasında çalışanlar, her ürünün saklama koşullarını kontrol ederek ürünlerin bozulmaması için
+hangi bölmenin hangi sıcaklığa ayarlanması gerektiğine karar vermektedirler.
+Depo çalışanı dondurucu bölmede aynı anda en fazla sayıda ürünü bozulmadan saklamak istemektedir.
+Buna göre dondurucu bölmenin Celsius (°C) cinsinden sıcaklık ayarı aşağıdaki aralıklardan hangisinde
+olmalıdır?
+A) [–24, –12]
+B) [–14, –8]
+C) [–10, –8]
+D) [–12, –4]
+E)
+
+[–8, 0]
+
+2. Tabloya göre soğuk hava deposunun her iki bölümünde de saklanabilecek ürünler aşağıdakilerden
+hangisidir?
+A) Pizza ve yengeç
+B) Somon ve yengeç
+C) Pizza, somon ve yengeç
+D) Beyaz peynir ve yumurta
+E)
+
+74
+
+Somon, beyaz peynir ve yumurta
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+3. Depoya yeni bir ürün gelmiştir. Ürün etiketinde uygun saklama sıcaklığı Fahrenheit (°F) cinsinden verilmiştir. Depo
+çalışanı ürünün hangi bölümde saklanması gerektiğini belirlemek istemektedir.
+Celsius (°C) cinsinden sıcaklık Fahrenheit (°F) cinsinden sıcaklığa °F= °C × + 32 formülü ile dönüştürülebilmektedir.
+Ürün etiketinde uygun saklama sıcaklıkları en düşük 10,4 °F, en yüksek 23 °F olarak belirtilmiştir.
+Buna göre ürünün Celsius (°C) cinsinden uygun saklama sıcaklık aralığı ve bölümü aşağıdakilerden hangisidir?
+Sıcaklık Aralığı (oC)
+
+Saklama Bölümü
+
+A) [–12, –5]		
+
+Dondurucu
+
+B) [–10, 0]			
+
+Dondurucu
+
+C) [0, 5]			
+
+Soğutucu
+
+D) [5, 10]			
+
+Soğutucu
+
+E)
+
+[–20, –15] 		
+
+Dondurucu
+
+4. Her iki bölümünde de ürünler bulunan soğuk hava deposunun sıcaklığında ısı yalıtımındaki bir hata nedeniyle
+istenmeyen değişimler meydana gelebilmektedir.
+Depoda meydana gelen bu sıcaklık değişimlerine göre aşağıdaki durumlardan hangisi gerçekleşebilir?
+A) Dondurucu bölümdeki ürünler sıcaklık azaldığında çözülebilir.
+B) Soğutucu bölümdeki ürünler sıcaklık arttığında dondurularak korunabilir.
+C) Dondurucu bölümdeki ürünlerin bir kısmı sıcaklık arttığında çözülmeye başlayabilir.
+D) Soğutucu bölümdeki ürünlerin tamamı sıcaklık azaldığında daha uzun süre taze kalabilir.
+E)
+
+Soğutucu bölümdeki tüm ürünler sıcaklık arttığında dondurucu bölüme taşınarak korunabilir.
+
+75
+
+4. BÖLÜM
+
+1-4. soruları aşağıdaki bilgilere göre cevaplayınız.
+Reklam ajansında görev yapan Barış, bir müşterisinin siparişi doğrultusunda belirli sayıda anahtarlık üretmeyi
+planlamaktadır. Üretim sürecinde kullanılacak ham madde miktarı ve üretim süresi sınırlıdır. Barış, üretimi
+gerçekleştirmek için atölyesinde bulunan farklı teknik özelliklere sahip M ve Q marka üç boyutlu yazıcıları
+kullanacaktır. Aşağıdaki tabloda yazıcıların 1 saat sonunda bastığı anahtarlık sayısı ve kullandığı ham madde
+bilgisi verilmiştir.
+Basılan anahtarlık sayısı
+
+Kullanılan ham madde (gram)
+
+M yazıcısı
+
+2
+
+80 gram
+
+Q yazıcısı
+
+1
+
+30 gram
+
+1. Barış'ın yazıcılarda bastığı toplam anahtarlık sayısını belirleyen temel faktör aşağıdakilerden hangisidir?
+A) Her bir anahtarlığın basımı için gereken süre
+B) Yazıcılardan birinin diğerinden daha hızlı olması
+C) Sahip olunan toplam zaman ve ham madde miktarı
+D) Atölyede bulunan toplam yazıcı sayısının az olması
+E)
+
+Yazıcılardan birinin daha fazla ham madde kullanması
+
+2. Barış'ın istenen anahtarlıkları basabilmesi için 600 gram ham maddesi ve 15 saat süresi vardır. Ancak elektrik
+sistemindeki bir arıza sebebiyle yazıcıların ikisi aynı anda birlikte çalıştırılamamaktadır.
+Bu koşullarda M yazıcı ile basılan anahtarlık sayısı x, Q yazıcısı ile basılan anahtarlık sayısı y olmak
+üzere verilen zamanda tüm ham maddeyi kullanarak basılan anahtarlık sayılarınıiçeren cebirsel
+ifadeler aşağıdakilerden hangisidir?
+A) 4x + 3y = 60
+3x + 2y = 30
+B) 4x + 3y = 60
+x + 2y = 30
+C) x + 2y =60
+4x + 3y =30
+D) 3x + 4y = 60
+3x + 2y = 30
+E) 2x + y = 30
+3x + 4y = 60
+
+76
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+3. Barış 960 gramlık ham madde ile en kısa sürede en çok anahtarlık basabilmek için 4 senaryo belirlemiştir.
+Senaryolar ile ilgili bilgiler aşağıdaki tabloda verilmiştir.
+1. Senaryo
+
+Sadece M yazıcısı kullanılır.
+
+2. Senaryo
+
+Sadece Q yazıcısı kullanılır.
+
+3. Senaryo
+
+Her iki yazıcı da kullanılır.
+
+4. Senaryo
+
+Önce M yazıcısı 6 saat çalıştırılıp kapatılır daha sonra ham madde bitene kadar Q yazıcısı kullanılır.
+
+Buna göre her senaryo için gerekli süre ve basılan anahtar sayısı ile ilgili aşağıdaki bilgilerden
+hangisi yanlıştır?
+A) 1. senaryoya göre 12 saatte 24 adet anahtarlık basılır.
+B) 2. senaryoya göre 32 saatte 32 adet anahtarlık basılır.
+C) 3. senaryoya göre 9 saatte 26 adet anahtarlık basılır.
+D) 4. senaryoya göre 22 saatte 24 adet anahtarlık basılır.
+E)
+
+Birim zamanda en çok anahtarlık 3. senaryoda basılır.
+
+4. Barış daha fazla anahtar basabilmek için bir P yazıcısı satın almış ve üç yazıcı birlikte 1 saatte 6 anahtar
+basarken 170 gram ham madde kullanmıştır.
+Bu verilere göre Barış’ın üretim planına ilişkin en doğru değerlendirme aşağıdakilerden
+hangisidir?
+A) M yazıcısı en fazla ham madde harcadığı için üretim açısından en güçlü seçenektir.
+B) Q yazıcısı ham maddeyi en az tükettiği için üretim açısından en verimli seçenektir.
+C) P yazıcısı üretim hızı ve ham madde kullanımı bakımından diğerlerinden daha verimlidir.
+D) 1 saatte M ve Q yazıcıları birlikte çalışırsa P yazıcısından daha az ham madde harcar.
+E)
+
+Üç yazıcı da aynı oranda verimlidir, aralarında anlamlı bir fark yoktur.
+
+77
+
+4. BÖLÜM
+
+Matematik alanı 3 numaralı kitapçıkta “Sorgulama” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+
+1-3. soruları aşağıdaki bilgilere göre cevaplayınız.
+Selin, egzersizler sırasında yaktığı kalori miktarını takip etmek için mobil uygulama kullanmaktadır. Uygulama, her eg­
+zersiz türü için birim zamanda yakılan ortalama kalori miktarını otomatik olarak hesaplamaktadır. Selin, haftalık hedefler
+belirlemekte ve bu hedeflere ulaşıp ulaşmadığını kontrol etmek için aşağıdaki uygulama verilerini kullanmaktadır.
+•
+
+•
+
+Egzersiz ve kalori yakım hedefi:
+•
+
+Haftalık minimum egzersiz süresi: 150 dakika
+
+•
+
+Haftalık kalori yakım hedefi: 1000 kalori
+
+Uygulamadaki egzersiz verileri:
+•
+
+Yürüyüş: 1 dakikada 6 kalori yakar.
+
+•
+
+Bisiklet: 1 dakikada 8 kalori yakar.
+
+•
+
+Koşu: 1 dakikada 10 kalori yakar.
+
+1. Selin, haftalık minimum egzersiz süresi hedefine ulaştığında yaktığı toplam kalori miktarının mobil uygulamada her
+zaman aynı olmadığını fark etmiştir.
+Buna göre Selin'in yaktığı toplam kalori miktarını hesaplayabilmek için aşağıdakilerden hangisine
+ihtiyacı vardır?
+A) Farklı egzersizlerin toplam kalori yakımına olan katkısına
+B) Egzersiz türlerine göre birim zamanda yakılan kalori miktarına
+C) Tükettiği yiyeceklerin egzersizde yaktığı kalorilere olan etkisine
+D) Haftalık toplam egzersiz süresine ve yaktığı toplam kalori miktarına
+E)
+
+Toplam sürenin, farklı egzersiz türleri arasında nasıl paylaştırıldığına
+
+2. Selin, bir egzersiz seansında toplam 40 dakika koşu ve yürüyüş yapmıştır.
+Selin, bu seansın toplam kalori yakımını hesaplamak için aşağıdaki sorulardan hangisini ilk olarak sormalıdır?
+A) Koşu ve yürüyüş için harcadığım süreler ayrı ayrı ne kadardır?
+B) Yürüyüş egzersizi birim zamanda ne kadar kalori yakılmasını sağlar?
+C) Kaç dakika daha egzersiz yaparak haftalık hedefime ulaşmış olurum?
+D) Koşu ve yürüyüşün toplam süresi haftalık hedefe ulaşmak için yeterli midir?
+E)
+
+78
+
+Koşarak ve yürüyerek yaktığım toplam kalori haftalık hedefime ne kadar yakındır?
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+3. Selin bir hafta boyunca 60 dakika yürüyüş yaptığını, 30 dakika bisiklet sürdüğünü ve 50 dakika koşu yaptı­
+ğını not almıştır.
+Buna göre Selin'in mobil mobil uygulama ekranında karşılaşması muhtemel görüntü aşağıdakilerden hangisidir?
+(Mobil uygulama ekranında hedefe ulaşıldığı
+A)					
+
+☺, ulaşılamadığı ☹ ile gösterilmektedir.)
+
+B)				
+
+☹
+☺
+
+C) 		
+
+☺
+☺
+
+☺
+☺
+
+Haftalık Süre
+
+Haftalık Süre
+
+Haftalık Süre
+
+Kalori Hedefi
+
+Kalori Hedefi
+
+Kalori Hedefi
+
+Yakılan Kalori
+1060
+
+Yakılan Kalori
+1100
+
+Yakılan Kalori
+1140
+
+				
+D)
+
+E
+
+☹
+☺
+
+☹
+☹
+
+Haftalık Süre
+
+Haftalık Süre
+
+Kalori Hedefi
+
+Kalori Hedefi
+
+Yakılan Kalori
+1100
+
+Yakılan Kalori
+960
+
+79
+
+4. BÖLÜM
+
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+Ömer Bey, cep telefonu için aylık 40 GB genel ağ kullanımına sahip bir paket satın almıştır. Ancak bir süre sonra genel ağ
+paketinin beklenenden daha kısa sürede tükendiğini gözlemlemiştir. Durumun nedenini anlayabilmek için telefonunda­
+ki internet kullanım istatistiklerini incelemiş ve aşağıdaki bilgilere ulaşmıştır.
+Ömer Bey’in günlük ortalama sosyal medya kullanım süresi 2 saattir ve bu uygulamalar saatte yaklaşık 800 MB veri tü­
+ketmektedir. Ömer Bey’in günlük ortalama web tabanlı tasarım uygulamaları kullanma süresi 1 saat ve bu uygulamalar
+saatte yaklaşık 1400 MB internet tüketmektedir (1 GB = 1024 MB, 1ay 30 gün kabul edilir.).
+
+1. Ömer Bey’in internet paketinin erken bitmesi ile ilgili sorunu tanımlaması için aşağıdaki sorulardan
+hangisini sorması gerekir?
+A) İnternet ücretlerinin yüksek olmasının sebepleri nelerdir?
+B) Satın aldığım internet paketinin türü ihtiyaçlarıma uygun mu?
+C) Mevcut internet paketinin beklenenden daha hızlı bitmesinin sebebi nedir?
+D) Sosyal medya kullanım süremi sınırlandırabilir miyim?
+E)
+
+Web tabanlı tasarım uygulamalarına ayırdığım süreyi kontrol edebilir miyim?
+
+2. Ömer Bey, günlük sosyal medya kullanımı süresini yarım saate düşürmüş, web tabanlı tasarım uygulamalarını da
+gün aşırı (iki günde bir) kullanmaya başlamıştır.
+Buna göre aylık genel ağ paketi ile ilgili aşağıdaki bilgilerden hangisi doğrudur?
+A) Paket yaklaşık 8 GB aşılmıştır.
+B) Paket yaklaşık 4 GB aşılmıştır.
+C) Paketin tamamı kullanılmıştır.
+D) Paketten yaklaşık 4 GB artmıştır.
+E)
+
+80
+
+Paketten yaklaşık 8 GB artmıştır.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+4.1.8. Coğrafya Dersi Örnek Sorular
+Coğrafya alanı 1 numaralı kitapçıkta “Alan” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+
+1-5. soruları aşağıdaki metne ve görsellere göre cevaplayınız.
+
+Aşağıda Doggerland (Dagırlınd) kara parçasına ait bilgi kartları ve Avrupa kıtasının Son Buzul Dönemi’nden günümüzdeki hâline gelme sürecini gösteren haritalar verilmiştir.
+
+BİLGİ KUTUSU
+
+BİLGİ KUTUSU
+
+BİLGİ KUTUSU
+
+Doggerland, Son Buzul Dönemi’nde
+Britanya'yı Avrupa ana karasına bağlayan geniş bir kara parçasıydı.
+
+MÖ 15 000-5000 yılları arasında Doggerland sular altında kalmaya başladığında deniz seviyesi her yüz yılda 1
+veya 2 metre kadar yükseliyordu.
+
+Doggerland kara parçası, yerleşme
+tarihini ve iklim değişiminin etkilerini
+anlamak açısından önemli arkeolojik
+ve jeolojik araştırma alanı olarak görülmektedir.
+
+BİLGİ KUTUSU
+
+BİLGİ KUTUSU
+
+BİLGİ KUTUSU
+
+Mezolitik Çağ'da avcı ve toplayıcı toplulukların yağşadığı bu bölge; nehirleri, bataklıkları ve zengin biyoçeşitliliğiyle önemli bir yaşam alanıydı.
+
+6000 yıl önce Mezolitik halk, bugün
+Britanya ve Hollanda'nın bulunduğu
+yerler de dahil olmak üzere daha yüksek yerlere göç etmek zorunda kaldı.
+
+Güncel buzulların tamamının erimesi
+sonucu deniz seviyesini maksimum 60
+m yükseleceği öngörülmektedir.
+
+Son Buzul Dönem
+MÖ 20 000
+
+Buzul Sonrası Dönem
+MÖ 15 000
+
+Günümüz
+
+K
+
+5000 m
+
+Buzul örtüsü
+
+0m
+
+Doggerland
+Britanya
+Adaları
+izi
+en
+D
+nş
+Ma
+
+Viking Bank Karası
+Doggerland Karası
+MÖ 16 000 Yıl Öncesi Kara Sınırı
+MÖ 8000 Yıl Öncesi Kara Sınırı
+MÖ 7000 Yıl Öncesi Kara Sınırı
+Paleo (Antik) Göl
+Buzul Örtüsü
+Dağ Buzulu
+
+0
+
+350
+
+700
+km
+
+Harita: Avrupa Kıtasının Son Buzul Dönemi’nden Günümüzdeki Hâline Gelme Süreci
+
+81
+
+4. BÖLÜM
+
+1. Verilen haritalar incelendiğinde Avrupa kıtasının bugüne kadar yaşadığı değişimlerle ilgili aşağıdakilerden hangisi yanlıştır?
+
+A) Günümüzdeki Britanya adalarının Son Buzul Dönemi’nde Avrupa ana karasına bağlı olduğu görülmektedir.
+B) Buzul Sonrası Dönem’de deniz seviyesinin günümüzdekine göre daha alçak olduğu görülmektedir.
+C) Buzul Sonrası Dönem’de Avrupa karası yüz ölçümünün Buzul Dönem’dekine göre azaldığı görülmektedir.
+D) Buzul Sonrası Dönem’de günümüze göre Avrupa’daki dağlık bölgelerin bazılarının dağ buzullarıyla
+kaplı olduğu görülmektedir.
+E) Son Buzul Dönemi’nde Kuzey Avrupa’nın büyük bölümünün günümüze göre daha fazla buzul örtüsüyle
+kaplı olduğu görülmektedir.
+
+2. MÖ 20 000 yılından günümüze kadar Avrupa kıtasında yaşanan değişimler aşağıdakilerin hangisinde
+doğru olarak verilmiştir?
+
+A) Buzulların geri çekilmesi → Deniz seviyesinin yükselmesi → Doggerland’ın sular altında kalması
+B) Doggerland’ın sular altında kalması → Buzulların geri çekilmesi → Deniz seviyesinin yükselmesi
+C) Deniz seviyesinin yükselmesi → Doggerland’ın oluşması →Buzulların ilerlemesi
+D) Doggerland’ın oluşması → Deniz seviyesinin yükselmesi → Buzulların ilerlemesi
+E) Buzulların ilerlemesi → Doggerland’ın oluşması →Deniz seviyesinin alçalması
+
+3. Verilen metin ve haritalar incelendiğinde küresel iklim değişikliğiyle ilgili aşağıdaki yargılardan
+hangisine ulaşılabilir?
+
+A) İklim sistemi, sadece Mezolitik Çağ’daki avcı-toplayıcı toplulukların çevresel etkileriyle değişmiştir.
+B) Doggerland’ın batışı, insan kaynaklı ısınmanın doğal döngülere göre daha yavaş ilerlediğini kanıtlamaktadır.
+C) Doğa kaynaklı küresel ısınma, coğrafi değişimin en önemli nedenidir.
+D) Bölgede yaşanan köklü değişimler doğal nedenlerden kaynaklanmaktadır.
+E) Doggerland’ın sular altında kalmasının sebepleri arasında insan etkisi de vardır.
+
+82
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+4. İklim sistemi ve sürecindeki köklü değişimlerin insan topluluklarına etkisine dair ulaşılabilecek
+sonuç aşağıdakilerden hangisidir?
+
+A) İklimdeki doğal ısınma veya soğuma süreçleri, yerleşimleri yeni ve daha verimli ekosistemlere yönlendirmiştir.
+B) Geçmişteki iklim değişimleri; deniz seviyesini, insan hayatını ve coğrafi dağılımı belirleyen ana etkenler
+olmuştur.
+C) Coğrafi değişimler, geçmişteki insan topluluklarının tarım ve hayvancılığa geçiş sürecini hızlandıran
+temel faktördür.
+D) İnsan etkisinden bağımsız gelişen jeolojik olaylar, iklim değişiminden daha büyük coğrafi yıkımlara
+sebep olmuştur.
+E) Mezolitik Çağ’da Doggerland sakinleri, iklim şartlarındaki kalıcılığa güvenerek yerleşik bir medeniyet
+kurmayı başarmıştır.
+
+5. Avrupa kıtasının Son Buzul Dönemi’den günümüze kadar geçirdiği değişim süreci dikkate alındığın-
+
+da gelecekte Avrupa kıtasının görünümü aşağıdaki haritalardan hangisine benzer bir şekilde değişebilir?
+
+A)
+
+B)
+
+C)
+
+K
+
+0
+
+K
+
+1000
+km
+
+0
+
+D)
+
+K
+
+1000
+km
+
+0
+
+1000
+km
+
+E)
+
+K
+
+K
+
+83
+
+4. BÖLÜM
+
+1-5. soruları aşağıdaki metne ve görsellere göre cevaplayınız.
+Küresel iklim değişikliği farkındalık eğitimi kapsamında seminere katılan öğrenciler, sunum yapan kişi tarafından
+iklim değişikliğinin olası etkileri üzerine bilgilendirilmektedir. Sunumda Hükûmetlerarası İklim Değişikliği Paneli
+(IPCC) raporlarından hareketle emisyonlarda azalma olmadığı takdirde küresel sıcaklık artışının üç farklı senaryoda 4 °C’ye kadar ulaşabileceği öngörülmektedir. Ayrıca küresel ısınmadaki bu yukarı yönlü seyir, iklim değişikliğinin yanı sıra bölgesel ölçekte yağış ve toprak nemini de etkilemektedir. Sunumda farklı düzeylerdeki sıcaklık
+artışı sonucu yıllık ortalama yüzey sıcaklığındaki değişiklikler, yıllık ortalama yağıştaki değişiklikler, yıllık ortalama
+toprak nemindeki değişiklikler gibi farklı senaryolar ve oluşabilecek değişimler aşağıdaki görseller eşliğinde öğrencilerle paylaşılmakta ve öğrenciler her bir senaryonun olası çevresel etkilerini tartışmaya teşvik edilmektedir.
+Sunum ayrıca öğrencilerin yaşadıkları bölgedeki olası değişiklikleri öngörmeleri, bu bilgiler ışığında kişisel ve
+toplumsal önlemler üzerine düşünmelerine olanak tanıyacak şekilde tasarlanmıştır. ,
+
+1,5 °C Sıcaklık Artış Senaryosu
+
+2 °C Sıcaklık Artış Senaryosu
+
+4 °C Sıcaklık Artış Senaryosu
+
+a
+
+Değişim (°C)
+Soğuk
+
+0
+
+0,5
+
+1
+
+1,5 °C Sıcaklık Artış Senaryosu
+
+1,5
+
+2
+
+2,5
+
+3
+
+3,5
+
+4
+
+4,5
+
+5
+
+5,5
+
+6
+
+6,5
+
+7
+
+2 °C Sıcaklık Artış Senaryosu
+
+4 °C Sıcaklık Artış Senaryosu
+
+b
+
+Değişim (%)
+Kuru
+
+-40
+
+-30
+
+1,5 °C Sıcaklık Artış Senaryosu
+
+c
+
+Sıcak
+
+0
+
+-10
+
+0
+
+10
+
+20
+
+30
+
+40 Nemli
+
+2 °C Sıcaklık Artış Senaryosu
+
+4 °C Sıcaklık Artış Senaryosu
+
+Değişim (Yıllar arası değişkenliğin standart sapması)
+
+5000
+km
+
+-20
+
+Kuru
+
+-1,5
+
+-1,0
+
+-0,5
+
+0
+
+0,5
+
+1,0
+
+1,5
+
+Nemli
+
+Harita: Sıcaklık artışının gelecekteki durumu ve buna bağlı değişkenler ile ilgili senaryolar (IPCC, 2022), a) Yıllık ortalama
+yüzey sıcaklığındaki değişiklikler b) Yıllık ortalama yağıştaki değişiklikler c) Yıllık ortalama toprak nemindeki değişiklikler
+
+84
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+1. Yıllık ortalama yüzey sıcaklığındaki değişikliklerin verildiği görsellere göre aşağıdakilerden hangisi
+1,5 °C sıcaklık artış senaryosu ile 4 °C sıcaklık artış senaryosu arasındaki farklılıklardan biridir?
+
+A) Güney yarım küredeki yüzey sıcaklığı artışı, her iki senaryoda da kuzey yarım küreye kıyasla çok daha
+yüksek değerlere ulaşmaktadır.
+B) Her iki senaryoda da okyanuslardaki yüzey sıcaklığı karalara göre daha yüksek seviyede gerçekleşmektedir.
+C) Yüzey sıcaklığı artışı, 4 °C senaryosunda yeryüzüne daha dengeli dağılırken 1,5 °C senaryosunda
+sadece belirli bölgelerle sınırlı kalmıştır.
+D) Yüzey sıcaklığı artışı, 4 °C senaryosunda karaların iç kesimlerinde yavaşlarken 1,5 °C senaryosundaki
+benzer alanlarda daha hızlı artış göstermektedir.
+E) Kutup bölgelerindeki yüzey sıcaklığı artışı, 4 °C senaryosunda 1,5 °C senaryosuna göre çok daha
+belirgindir.
+
+2. 2 °C sıcaklık artış senaryosuna göre yüzey sıcaklığı, yağış ve toprak neminde meydana gelen değişiklikler aşağıdakilerin hangisinde doğru olarak verilmiştir?
+
+A) Yüzey sıcaklığı artışı yeryüzünün her bölgesinde benzer hızda gerçekleşmek, yağışlar küresel ölçekte
+artmakta, toprak nemi genel olarak yükselmektedir.
+B) Okyanuslar karalardan daha hızlı ısınmakta, tropikal kuşak kuraklaşmakta, toprak nemi tropik bölgelerde artmaktadır.
+C) Küresel ısınma tüm bölgeleri etkilemekte, yağışlar yeryüzünde azalmakta, toprak nemi önemli ölçüde
+düşmektedir.
+D) Karalar okyanuslara göre daha fazla ısınmakta, yağışlar subtropiklerde azalmakta, Akdeniz ve Güney
+Afrika’da toprak nemi azalmaktadır.
+E) Kutup bölgeleri daha az ısınmakta, Ekvator çevresinde yağışlar azalmakta, toprak nemi artmaktadır.
+
+3. Yıllık ortalama toprak nemindeki değişikliklerin yer aldığı görseller incelendiğinde aşağıdaki ifadelerden hangisine ulaşılabilir?
+
+A) Küresel sıcaklık artışı, dünya genelindeki karasal alanlarda toprak neminin önemli ölçüde azalmasına
+neden olmaktadır.
+B) Sıcaklık artış senaryolarının aşamalı olarak gerçekleşmesiyle Akdeniz Havzası ve Güney Afrika’da
+toprak nemi belirgin şekilde azalmaktadır.
+C) Her üç senaryoda da kutup bölgeleri ve çevresindeki toprakların nem oranında belirgin bir azalma
+gözlemlenmektedir.
+D) Ekvatoral bölge, toprak nemi açısından küresel sıcaklık artışından en az etkilenen ve bu değişimin en
+yavaş yaşandığı yerler arasındadır.
+E) Toprak neminin artış ve azalış gösterdiği alanların dağılımı ve şiddeti her üç senaryoda da değişmemektedir.
+
+85
+
+4. BÖLÜM
+
+4. 4 °C sıcaklık artış senaryosuna ait üç harita birlikte değerlendirildiğinde Akdeniz Havzası için aşağıdakilerden hangisine ulaşılabilir?
+
+A) Bölgede hem yüzey sıcaklıkları aşırı artacak hem de yağışların azalmasına bağlı olarak ciddi toprak
+kuruluğu ve çölleşme riski ortaya çıkacaktır.
+B) Bölgede yıllık ortalama yüzey sıcaklığında önemli değişiklik olmasına rağmen yağış ve toprak neminde
+önemli bir değişim yaşanmayacaktır.
+C) Yüzey sıcaklığı artışına rağmen toprak neminde artış yaşanarak bölge tarımsal açıdan daha verimli
+hâle gelecektir.
+D) Akdeniz Havzası, artan yağışlar nedeniyle gelecekte sel felaketleriyle daha sık karşılaşacaktır.
+E) Bölge, küresel iklim değişikliğinin etkilerinin en az hissedileceği yerlerden biri olacaktır.
+
+5.
+
+4 °C’lik bir sıcaklık artışı senaryosunun gerçekleşmesi durumunda Türkiye gibi Akdeniz Havzası ülkelerinin
+gelecekte aşağıdaki politikalardan hangisine öncelik vermesi gerektiği söylenebilir?
+A) Deniz seviyesindeki alçalmaya karşı kıyı ve liman iyileştirme çalışmaları yapılmalıdır.
+
+B) Aşırı soğuklara ve don olaylarına karşı tarımsal üretimin sürdürülebilirliği sağlanmalıdır.
+C) Su kaynaklarının sürdürülebilir yönetimi ve kuraklıkla mücadele stratejileri geliştirilmelidir.
+D) Artan yağışların neden olacağı sel risklerini yönetmek için yeni altyapı projeleri geliştirilmelidir.
+E) Tarımsal üretim yağış miktarının artacağı bölgelere kaydırılmalıdır.
+
+86
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+Coğrafya alanı 2 numaralı kitapçıkta “Problem Çözme” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1-5. soruları aşağıdaki metne ve grafiğe göre cevaplayınız.
+
+Göl kenarında olta balıkçılığı yapan Kağan, gök gürültülü fırtınanın başladığını ve rüzgârın güneye doğru
+estiğini gözlenmiştir. Yanında getirdiği Doğa Rehberi adlı kitabın “Yıldırım” bölümüne göz atarak alınması
+gereken önlemleri incelemiştir. Bir süre sonra, kuzey yönünde şimşek çakmış ve 8 saniye sonra gök gürültüsü duyulmuştur. Kağan, bulunduğu yerle ilgili riskli bir durum olup olmadığını ve ne yapması gerektiğini değerlendirmiştir.
+Aşağıdaki haritalarda Kağan’ın bulunduğu yerin coğrafi özellikleri verilmiştir.
+DOĞA REHBERİ: YILDIRIM
+
+Yıldırım, bulutlar ile yer arasında gerçekleşen yüksek gerilimli bir elektrik boşalmasıdır ve açık alanda ciddi hayati risk taşır. Şimşek ile gök gürültüsü arasındaki zaman farkı, yıldırımın yaklaşık uzaklığını tahmin etmeye yarar. Bu fark her 3 saniyede yaklaşık 1 kilometreye karşılık gelir. Aradaki süre 10
+saniyeden azsa, yıldırım tehlikeli derecede yakındır ve hemen güvenli bir yere geçmek gerekir.
+Arazide Yıldırımdan Korunma Yolları
+•
+
+Çevresine göre yüksek alanlarda durmayın. Alçak sahalara doğru hareket edin.
+
+•
+
+Ağaç altına sığınmayın.
+
+•
+
+Akarsu, göl gibi su kütlelerinden uzak durun.
+
+•
+
+Metal veya karbon içeren uzun nesneler (olta, direk, bayrak sopası vb.) yıldırım için risklidir. Bu
+eşyalardan uzak durun.
+
+•
+
+Çevrenizdeki kişilerle aranıza en az 1,5 metre güvenlik mesaisi bırakın.
+
+•
+
+Yere çömelin, ayaklarınızı birbirine yakın tutun, yere temasınızı en aza indirin. Ayakta durmak
+veya yere uzanmak yıldırım tehlikesini artırır.
+
+k
+
+l
+
+m
+
+1
+
+2
+
+3
+
+4
+Göl
+
+Köy
+
+Orman
+
+Yüksek gerilim hattı
+
+Kamp
+
+Kağan'ın Bulunduğu konum
+
+Eş yükselti eğrisi
+
+K
+
+0
+
+1
+
+2
+
+3
+km
+
+87
+
+4. BÖLÜM
+
+1. Kağan’ın gözlemleri dikkate alındığında aşağıdakilerden hangisi söz konusu yerde karşılaşılabilecek
+temel sorunu ifade eder?
+
+A) Rüzgâr yönünün değişmesinden dolayı gölde dalgaların artması
+B) Rüzgârın güneye doğru esmesi nedeniyle bulunulan yere yıldırım düşme riskinin yüksek olması
+C) Metal olta kullanılmasının yıldırım tehlikesini artırması
+D) Yağışa bağlı olarak göl yüzeyinde görüş mesafesinin azalması
+E) Fırtınanın etkisiyle hava sıcaklığının hızla düşmesi
+
+2. Verilen bilgilere göre Kağan’ın karşılaştığı problem aşağıdakilerden hangisiyle açıklanabilir?
+A) Rüzgârın güneye doğru esmesi
+B) Göl kenarında balık tutması
+C) Açık alanda fırtınaya yakalanması
+D) Şimşekle gök gürültüsü arasındaki süreyi hesaplayamaması
+E) Rüzgârın yönünü fark edememesi
+
+3. Bu bilgilere göre Kağan, önümüzdeki dakikalarda aşağıdaki davranışlardan hangisini yerine
+getirmelidir?
+
+A) Fırtınanın kendi bulunduğu bölgeye doğru ilerleyebileceğini öngörerek daha alçak ve kapalı bir alana
+yönelmelidir.
+B) Yağışın şiddetini artıracağını tahmin ederek kıyıdan uzaklaşmalıdır.
+C) Gök gürültüsünün tamamen kesileceğini düşünerek balık tutmaya devam etmelidir.
+D) Rüzgârın yön değiştireceğini tahmin ederek bulunduğu yerde kalmalıdır.
+E) Havanın yeniden açılacağını düşünerek kıyıda beklemelidir.
+
+4. Göl kenarında balık tutan Kağan, kuzey yönünde şimşek çaktıktan 8 saniye sonra gök gürültüsü duymuştur.
+Rüzgârın güneye doğru estiği göz önünde bulundurulduğunda, aşağıdakilerden hangisi Kağan’ın
+bulunduğu yerle ilgili ulaşılabilecek bir çıkarımdır?
+A) Fırtına güney yönünde hareket ettiği için bulunduğu yer tehlike altında değildir.
+B) Yıldırım yaklaşık 2,5 km uzaklıkta olduğu için güvenli bir alana geçmesi gerekir.
+C) Gök gürültüsünün 8 saniye sonra duyulması yıldırım tehlikesinin geçtiğini gösterir.
+D) Rüzgârın yönü, Kağan’ın bulunduğu yere yıldırım düşme riskini ortadan kaldırır.
+E) Fırtına kuzeyde kaldığı için göl kenarında kalmak güvenlidir.
+
+5. Tüm riskler değerlendirildiğinde yıldırımdan korunmak için gidilebilecek en uygun yer topoğrafya
+haritasındaki hangi alana karşılık gelir?
+A) 1-k
+B) 1-m
+C) 2-l
+D) 3-k
+E) 4-m
+
+88
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+1-5. soruları aşağıdaki metne ve görsellere göre cevaplayınız.
+
+Küresel ölçekte gerçekleşen iklim değişiklikleri su kaynaklarını doğrudan etkilemektedir. Söz konusu
+değişikliklerin yanı sıra yürütülen beşerî faaliyetler de su kaynakları üzerinde büyük baskı oluşturmaktadır. Su kaynaklarının yıllar içerisindeki değişimlerine bakıldığında özellikle göllerdeki değişimlerin daha
+hızlı gerçekleştiği görülmektedir. Türkiye’deki göl yüzeylerinde gerçekleşen alansal değişimler de ciddi
+sorunlara neden olmaktadır. Türkiye’de son 50 yılda 36 göl tamamen kurumuştur. Uzaktan Algılama yöntemleri kullanılarak yapılan gözlemlerde bu değişimler belirgin olarak görülebilmektedir. Uydu görüntüleri göl yüzeylerindeki değişimleri açıkça ortaya koymaktadır. Burdur Gölü’nün yüzey alanındaki değişimler
+bu duruma güzel bir örnek teşkil etmektedir.
+
+BURDUR GÖLÜ UYDU GÖRÜNTÜLERİ
+1985
+
+2020
+
+Burdur Gölü
+
+Burdur Gölü
+K
+
+0
+
+K
+
+1000
+km
+
+0
+
+1000
+km
+
+1985-2020
+Burdur Gölü Seviye Değişimleri ile Yağış ve Buharlaşma İlişkisi
+1800
+
+860
+
+855
+
+1400
+1200
+
+850
+
+1000
+800
+
+845
+
+600
+400
+
+Göl Yüzeyi Yüksekliği (m)
+
+Yağış ve Buharlaşma (mm)
+
+1600
+
+840
+
+200
+835
+
+0
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+2015
+
+2020
+
+Yıllar
+Buharlaşma (mm)
+
+Yağış (mm)
+
+Göl Yüzeyi Yüskeliği (m)
+
+89
+
+4. BÖLÜM
+
+1. Yukarıda verilen bilgilere göre Burdur Gölü’ndeki değişimi en doğru şekilde yansıtan ifade
+aşağıdakilerden hangisidir?
+
+A) Göl yüksekliğinin azalması yalnızca yağış miktarının düşmesinden kaynaklanmaktadır.
+B) Göl yüksekliğinin azalması, yağış miktarının değişimi ve buharlaşma artışıyla ilişkilidir.
+C) Göl yüksekliğindeki değişim yalnızca beşerî faaliyetlerden kaynaklanmaktadır.
+D) Göl yüksekliğinin azalması tamamen doğal süreçlerden kaynaklanmaktadır.
+E) Göl yüksekliğinin değişmesi buharlaşmanın azalmasıyla ilişkilidir.
+
+2. Son 50 yılda Türkiye’deki göllerde gerçekleşen en önemli sorun aşağıdakilerin hangisinde
+belirtilmiştir?
+
+A) Yağış değerlerinin sürekli azalması
+B) Tarımda sulama faaliyetlerinin artması
+C) Göllerin turizm faaliyetleri için kullanılması
+D) Sıcaklıkların yükselmesi nedeniyle buharlaşmanın artması
+E) Göllerin yüzey alanlarında daralmalar gerçekleşmesi
+
+3. Aşağıdakilerden hangisi Burdur Gölü’nün alan kaybının azaltılabilmesi için gelecek yıllarda
+yapılabilecek uygulamalardan biri olabilir?
+
+A) Göl havzasındaki beşerî faaliyetlerin gölün kuzeydoğusuna kaydırılması
+B) Göl havzasındaki su kaynaklarının doğru kullanımıyla ilgili kamu kurumları tarafından teknolojik
+altyapıya dayalı önlemler alınması
+C) Göl yüzey alanının daraldığı bölgelerde toprak oluşum süreçlilerini hızlandırmak için kimyasal
+yöntemler uygulanması
+D) Gölün çevresindeki tarım faaliyetlerinde yüzey suları yerine yer altı sularının yoğun olarak kullanılması
+E) Konumu ve taşıdığı ekolojik özellikler nedeniyle göl ve çevresinin rekreasyon ve turizm alanı olarak
+projelendirilmesi
+
+4. Burdur Gölü’nün alanında gerçekleşen değişimi önlemek için aşağıdakilerden hangisi yapılmalıdır?
+A) Tarımsal sulamada yer altı suyunun daha fazla kullanılmasını sağlayan yöntemler geliştirilmelidir.
+B) Göl çevresindeki yerleşim yerlerinden göle atık su girişini engelleyen çözümler üretilmelidir.
+C) Gölü besleyen akarsular üzerinde barajlar kurularak kullanım suyu bu barajlardan karşılanmalıdır.
+D) Göl çevresindeki bitki örtüsü kuraklığa dayanıklı olacak şekilde çeşitlendirilmelidir.
+E) Budur Gölü Havzası’nda yer altı barajları yapılarak gölün sürekli beslenmesi sağlanmalıdır.
+
+5. Türkiye’deki göllerin yüzey alanlarında gerçekleşen değişimlerin önüne geçebilmesinde
+aşağıdakilerden hangisi daha etkili bir çözüm olur?
+
+A) İklim değişikliğiyle mücadele kapsamında su tasarrufu uygulamalarının geliştirilmesi
+B) Türkiye’deki bütün göllerin yakın çevresinde tarım faaliyetlerinin engellenmesi
+C) Gölleri besleyen akarsular üzerinde hidroelektrik barajlarının yapılması
+D) Göllerin rekreasyon alanı olarak kullanılmasının engellenmesi
+E) Göl havzalarının korunması için özel kuruluşların desteklenmesi
+
+90
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+Coğrafya alanı 3 numaralı kitapçıkta “Sorgulama” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1-4. soruları aşağıdaki metne ve görsellere göre cevaplayınız.
+
+Konya Ovası’nda yaşayan lise öğrencisi Ayşe, ailesiyle birlikte yaz tatillerinde tarlada çalışmaktadır. Ayşe
+son yıllarda sulama için kullanılan suyun kuyulardan daha geç geldiğini, bazı ürünlerin eskisi kadar verimli
+yetişmediğini, toprağın da daha hızlı kuruduğunu fark eder. Bu durumun nedenlerini tespit edebilmek
+amacıyla çeşitli kaynaklardan bilgi toplar. Bu doğrultuda Konya Kapalı Havzası’na ait bir yağış haritası ile
+bazı tarım ürünlerinin su tüketimini gösteren bir grafiğe ulaşır ve elde ettiği bilgileri aşağıda listeler.
+
+K
+
+Harita İşaretleri
+İl sınırları
+
+Yıllık Ortalama Yağış Dağılışı
+Yüksek
+
+Düşük
+
+Tuz Gölü
+
+0
+
+80
+
+160
+km
+
+Harita: Konya Kapalı Havzası’na Düşen Yılık Ortalama Yağışın Dağılışı
+
+1063
+
+Harcanan Su Miktarı (Litre)
+661
+
+181
+
+Fiğ
+
+284
+
+Buğ
+day
+, Ar
+pa
+
+411
+
+Ayç
+içeğ
+i
+
+429
+
+Fas
+ulye
+, No
+hut
+
+479
+
+Me
+yve
+ler
+
+482
+
+Mıs
+ır
+
+Pat
+ate
+s, S
+ebz
+eler
+
+Şek
+er P
+anc
+arı
+
+Yon
+ca
+
+500
+
+Ürünler
+
+Grafik: Konya Kapalı Havzası’ndaki Tarımsal Üretimde Kilogram Başına Harcanan Su Miktarı (Litre)
+
+91
+
+4. BÖLÜM
+
+1. Bilgi Kartı
+
+2. Bilgi Kartı
+
+Genel Bilgiler
+
+Bölgeye Ait Bazı Veriler
+
+• Türkiye’nin farklı bölgelerinde yer
+altı su seviyeleri azalmaktadır.
+• Konya Ovası düşük yağış miktarına
+sahip bölgeler arasındadır.
+• Bazı kaynaklarda su tasarrufu
+sağlamaya yönelik damla sulama
+yöntemi gibi sulama yöntemlerinden
+söz edilmektedir.
+
+• Konya’da ekili alanların %40’ında
+sulu tarım yapılmaktadır.
+• Bölgede yonca, şeker pancarı,
+patates, mısır gibi suya fazla ihtiyaç
+duyan ürünler yetiştirilmektedir.
+• Yer altı su oranı, yıldan yıla azalma
+eğilimi göstermektedir.
+
+• Çiftçiler, sulama sistemleriyle ilgili
+maliyetlerin yüksek olduğunu belirtmektedir.
+
+Konya Kapalı Havzası’na Ait Bilgi Kartları
+
+1. Konya Kapalı Havzası’nda tarım yapmak isteyen Ayşe ve ailesinin bilgi sahibi olması gereken
+öncelikli konu aşağıdakilerden hangisidir?
+
+A) Yağış oranının hangi alanlarda fazla olduğunu öğrenmek
+B) En fazla su kuyusunun nerede yoğunlaştığını tespit etmek
+C) Su tasarrufuna en uygun olan tarım ürünlerini belirlemek
+D) Yerleşim alanlarına uzak tarım alanlarının yerlerine karar vermek
+E) Ekonomik değeri en yüksek olan tarım ürünlerini belirlemek.
+
+2. Sürdürülebilir tarımsal faaliyetlerde bulunmak isteyen Ayşe ve ailesinin doğru kararlar alabilmesi
+için aşağıdaki sorulardan hangisini sorması daha anlamlı olur?
+
+A) Konya Ovası’nda yağış miktarının artması için çiftçiler neler yapabilir?
+B) Toprak verimliliğinin düşmesinin tek nedeni ürünlerin yanlış seçilmesi midir?
+C) Suya fazla ihtiyaç duyan ürünlerin ekim alanlarını sınırlamak tarımsal üretimi nasıl etkiler?
+D) Sulama amacıyla kurulan barajlara en yakın tarım alanları nerelerde yer almaktadır?
+E) Yüzey ve yer altı sularını doğru kullanmak için hangi sulama yöntemleri kullanılabilir?
+
+92
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+3. Aşağıdakilerden hangisi Ayşe’nin topladığı bilgilerin doğrulanmasına katkı sağlamaz?
+A) Konya Kapalı Havzası’ndaki sulama yöntemlerinin olumlu ve olumsuz yönlerinin karşılaştırmalı şekilde
+araştırılması
+B) Önceki yıllarda tarımsal faaliyetlerde yapılan yanlış uygulamaların neden ve sonuçlarının araştırılması
+C) Uzun yıllara ait yağış ortalamaları, buharlaşma ve yer altı su seviyesi verileriyle tarımsal üretim
+verimliliğinin karşılaştırılması
+D) Konya Kapalı Havzası’nda ekimi yapılan ve sulama tasarrufu en yüksek tarım ürününün üretim
+verilerinin incelenmesi
+E) Son bir yılın sulama ve tarımsal üretim verimlilik bilgilerinin değerlendirilerek yapılacak tarımsal
+faaliyete karar verilmesi
+
+4. Konya Kapalı Havzası’nda verimli tarımsal üretim ve sürdürülebilir su kullanımı için Ayşe ve
+ailesinin tercih etmesi gereken en uygun yaklaşım aşağıdakilerden hangisidir?
+
+A) Yer altı suyu Türkiye’nin bütün bölgelerinde sürekli azaldığı için önlem amacıyla her yere yer altı
+barajları kurulması
+B) Konya Kapalı Havzası’nda su kaynaklarının sürdürülebilirliği, uygun ürün deseni seçimi ve modern
+sulama tekniklerinin yaygınlaştırılması
+C) Yer altı suyunun doğal döngüyle zaman içinde yenileneceği düşünülerek mevcut sulama şeklinin
+sürdürülmesi
+D) Fazla su isteyen tarım ürünlerinin Konya Kapalı Havzası’nın orta bölümlerinde ekilmesi
+E) Çiftçilerin bilinçlenmesi sağlanmadan yalnızca denetimlerin artırılmasıyla su kullanımının sürdürülebilir
+hâle getirilmeye çalışılması
+
+1-4. soruları aşağıdaki metne ve görsellere göre cevaplayınız.
+2024 yılı Ağustos ayında, Artvin’in Arhavi ilçesinde 72 saat boyunca aralıksız devam eden şiddetli yağışlar sonucu büyük
+bir sel felaketi meydana gelmiştir. Meteoroloji Genel Müdürlüğü verilerine göre bu süreçtebölgede metrekareye 255
+kilogram yağış düşmüştür. Bu değer, ağustos ayı uzun yıllar ortalamasının yaklaşık üç katına eşittir.
+Yoğun yağışlar, özellikle eğimli topoğrafyaya sahip alanlardaki küçük akarsuların kısa sürede taşmasına neden olmuştur.
+Sel; toprağın neme doyması, dere yataklarının daraltılması ve kıyı bölgelerindeki plansız yapılaşma nedeniyle daha da
+şiddetlenmiştir. AFAD ile Tarım ve Orman İl Müdürlüğü verilerine göre yaşanan sel sonucu ilçe merkezinde 145 konut ve
+37 iş yeri sular altında kalmış, tarım arazilerinin %65’i zarar görmüş, mısır ve fındık üretiminde büyük kayıplar meydana
+gelmiştir.
+AFAD, Meteoroloji Genel Müdürlüğü ve üniversitelerden uzman ekipler, yaşanan afetin ardından hemen bölgeye sevk
+edilmiştir. Yapılan çalışmada yağış verileri, uydu görüntüleri ve arazi gözlemlerinden yararlanılarak selin oluşum süreci
+analiz edilmiştir. Sonuç olarak yoğun yağış, eğimli topoğrafya gibi doğal faktörlerle dere yataklarının daraltılması, plan­
+sız yapılaşma gibi insan kaynaklı etkenlerin afetin boyutunu önemli ölçüde artırdığı belirlenmiştir.
+
+93
+
+4. BÖLÜM
+
+1. Arhavi’de meydana gelen sel felaketinde ele alınan temel konu aşağıdakilerden hangisidir??
+A) Selin tarımsal üretimde meydana getirdiği değişimlerin nedenlerini araştırmak
+B) Selin oluşum sürecinde etkili olan doğal ve beşerî faktörleri ortaya koymak
+C) Selin bölgedeki kıyı turizmi üzerindeki mevsimsel etkilerini belirlemek
+D) Ağustos ayı yağış ortalamalarının uzun yıllar eğilimini değerlendirmek
+E) Selin oluşturduğu ekonomik kayıpların sektörel dağılımını ayrıntılı incelemek
+
+2. Metinde verilen bilgilere göre aşağıdakilerden hangisi, Arhavi’de meydana gelen sel felaketiyle ilgili
+sorulması gereken sorulardan biri değildir?
+A) Selin meydana geldiği tarih aralığı nedir?
+B) Selden etkilenen başlıca yerleşim alanları nerelerdir?
+C) Selin oluşumunda etkili olan meteorolojik ve beşerî süreçler nelerdir?
+D) Sel sırasında uygulanan acil müdahale yöntemleri nasıl değerlendirilmiştir?
+E) Sel sonrası konut fiyatlarında yaşanan değişimlerin sebepleri nelerdir?
+
+3. “Arhavi’deki tarım arazilerinin %65’i sel nedeniyle zarar gördü.” bilgisinin doğruluğunu teyit etmek
+isteyen bir araştırmacı için en uygun yöntem aşağıdakilerden hangisidir?
+A) Yerel basında çıkan haber içeriklerini ayrıntılı biçimde karşılaştırmak
+B) Bölgedeki üreticilerle anket yaparak kapsamlı bilgi derlemek
+C) Tarım ve Orman İl Müdürlüğü kayıtlarını afet raporlarıyla karşılaştırmak
+D) Sel öncesi ve sonrası uydu görüntülerini uzman incelemesine tabi tutmak
+E) Bölgedeki çiftçilerin bireysel anlatımlarına dayanarak hasar miktarını tahmin etmek
+
+4. Metinde verilen bilgiler ve yapılan bilimsel incelemeler birlikte değerlendirildiğinde aşağıdaki
+çıkarımlardan hangisine ulaşılabilir?
+
+A) A) Selin oluşumunda doğal süreçler belirleyici olmuş, beşeri faktörlerin etkisi sınırlı kalmıştır.
+B) Sel sonrası yapılan bilimsel değerlendirmeler, doğal ve beşerî faktörlerin afetin boyutunu etkilediğini
+göstermektedir.
+C) Yoğun ve uzun süreli yağışlar ile eğimli topoğrafya sel riskini artırmaktadır.
+D) Dere yataklarının daraltılması ve plansız yapılaşma, selin etkilerini artıran önemli faktörlerdendir.
+E) Sel felaketlerinin etkilerini azaltmak için alınacak önlemler, bölgedeki doğal koşullar dikkate alınarak
+planlanmalıdır.
+
+94
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+4.1.9. Tarih Dersi Örnek Sorular
+Tarih alanı 1 numaralı kitapçıkta “Sorgulama” becerisini ölçmeyi hedefleyen örnek sorular aşağıda verilmiştir.
+1-4. soruları metinden faydalanarak cevaplayınız.
+BOZKIRIN İZİNDE
+
+Ali sınıfta coğrafya dersinde öğrendiklerini pekiştirmek için Asya fiziki haritasını dikkatle inceliyordu. Gözleri Türklerin ana yurdu Orta Asya’ya yöneldi. Dağlar, yükseltiler, sonsuz gibi görünen bozkırlar, çöller ve aralarda mavilikleriyle dikkat çeken göller görülmekteydi. Asya’nın bu coğrafyasında
+o zamanlar insanlar nasıl yaşıyorlardı diyerek hayalinde canlandırmaya çalıştı. Bir grup Türk boyu,
+atları ve koyun sürüleriyle göç hazırlığındaydı. Kadınlar keçeden yapılmış çadırları söküyor, erkekler yükleri deve sırtına yüklüyordu. Ali neden göçe hazırlandıklarını sorduğunda aldığı cevap “Bizim
+geçimimiz hayvancılıktır evlat. Kışlakta kışlar, yaylada yazlarız. Hayvanlarımız nerede ot bulursa biz
+de oradayız. Ama bazen kış çok sert geçer, bazen hastalık vurur. Hayvanlarımız ölür, o zaman yeni
+yurtlar bulmak zorunda kalır ve göç ederiz” oldu. Ali’nin gözleri özgürce koşturan yüzlerce ata takıldı. Tarih kitaplarında atın ilk kez Anav Kültürü döneminde, MÖ 4000–1000 yılları arasında evcilleştirildiği yazıyordu. Yine tarih kitaplarından öğrendiğine göre Yenisey ırmağı kıyısında yapılan kazılarda ele geçen buluntuları inceleyen arkeologlar kemer tokalarının, keçelerin madeni birçok eşyanın
+üzerinde hayvan figürlerinin örneklerine ulaşmışlardı. Bunlar Tagar-Taştık kültürüne (MÖ 700–300)
+ait Türk sanatının özünü oluşturan “hayvan üslubu”nun eşsiz örneklerindendi.
+Ali haritasına geri döndüğünde artık o coğrafyada yaşamış insanların günlük uğraşlarını, sorunlarını, göçlerinin zorlu hikâyesini ve bir kültürün izini hissetmekteydi. Bozkır, artık onun için sadece bir
+coğrafya değil, yaşayan bir tarihti.
+
+1. Aşağıdakilerden hangisi Orta Asya ile ilgili araştırmanın temelini oluşturmaktadır?
+A) Orta Asya Türklerinin konar göçer yaşamlarının özellikleri
+B) Bozkır yaşamının insanlar ve hayvanlar üzerindeki etkisi
+C) Türk kültürünün özelliklerini ortaya çıkaran kültür bölgeleri
+D) Orta Asya’nın fiziki özelliklerinin, insanların yaşam biçimlerine etkisi
+E) Asya Fiziki haritasında Orta Asya bölümünün yüzey şekilleri ve iklimi
+
+2. Orta Asya Türkleri üzerine araştırmasını derinleştirmek isteyen Ali’nin aşağıdaki sorulardan hangisini sorması beklenmez?
+
+A) Toplumların temel uğraşları sanat anlayışlarını etkilemiş midir?
+B) Türkler liman kentlerinde ticaret faaliyetlerini kimlerle yürütmüşlerdir?
+C) Bozkır yaşamında insanların temel ekonomik uğraşları neden hayvancılık olmuştur?
+D) Türk kültürünün oluşumundaki gelişmeleri ortaya koyan kültür merkezleri var mıdır?
+E) Konar göçer bir yaşamın ortaya çıkmasında yeryüzü şekillerinin ve iklimin etkisi var mıdır?
+
+95
+
+4. BÖLÜM
+
+3. Yukarıda verilen metne göre aşağıdaki ifadelerden hangisi doğrudur?
+A) Orta Asya’da hâkim olan kara iklimi toplumları göçe zorlamıştır.
+B) Konar göçer bir yaşamda Türklerin temel uğraşları hayvancılık olmuştur.
+C) Fiziki haritalar coğrafyadaki bitki örtüsünü ve hayvan türlerinin çeşitliliğini göstermektedir.
+D) Anav ve Tagar-Taştık kültürleri Türklerin tarih çağlarını aydınlatmada önemli merkezlerdir.
+E) Eski çağlarda kurulan önemli medeniyetler su kenarlarına yakın bölgelerde ortaya çıkmıştır.
+
+4. Verilen metinden hareketle Orta Asya’nın coğrafi konumu ve ikliminin Türklerin yaşamına etkileriyle
+ilgili çıkarımlardan hangisine ulaşılamaz?
+
+A) Türkler hayvancılığın ve iklimin gereği mevsimsel olarak yer değiştirmişlerdir.
+B) Eski Türk sanatının temelini oluşturan hayvan üslubu Orta Asya’da ortaya çıkmıştır.
+C) Orta Asya’nın dağlık ve engebeli yapısı Türkleri konar göçer yaşama zorlamıştır.
+D) Yaylak ve kışlaklar arasında yapılan göçler, iklim koşullarına uyum sağlamayı kolaylaştırmıştır.
+E) Bozkırların geniş yer kaplaması, at ve koyun yetiştiriciliğinde ilerlemelerine zemin hazırlamıştır.
+
+96
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+1-3. soruları aşağıdaki metinden faydalanarak cevaplayınız.
+
+TARİH NEDİR?
+
+GELİBOLU KALESİ’NİN FETHİ
+
+Tarih, insanlığın ortak belleğidir. Geçmişte
+yaşanmış savaş, göç, kıtlık gibi toplumları
+ve milletleri derinden etkileyen olaylar, tarih
+bilimi aracılığıyla incelenir, değerlendirilir ve
+yorumlanır. Böylelikle yaşananları öğrenebilmek, geçmişle ilişki kurarak dersler çıkarabilmek ve yaşanabilecek benzer olaylara
+karşı önlemler alabilmek mümkün hâle gelir.
+İnsan faaliyetleri dışında meydana gelen
+fırtına, deprem, sel, çığ, heyelan gibi doğal
+afetler tarih biliminin araştırma ve inceleme
+kapsamına girmez. Fakat sonuçları bakımından değerlendirildiğinde doğa olaylarının
+insanlara etkisi bulunuyorsa bunlar, tarih
+biliminin araştırma konusu içinde yer alır.
+
+Osmanlı’nın Balkan toprakları ile ilk temasları Orhan Gazi’nin oğlu Süleyman Paşa ile
+başlamıştır. Rumeli’ye geçen Süleyman Paşa
+1352’de Bizans İmparatoru Kantakuzenos’un
+ona kiralamak için teslim ettiği Çimpe Kalesi’ne yerleşmiştir.
+Bizanslılar haraç vermek şartıyla Osmanlıları
+bölgeden uzaklaştırmaya çalışırken 2 Mart
+1354’te meydana gelen şiddetli deprem surların yıkılmasına (Gelibolu Kalesi) ve şehrin
+harap olmasına yol açmıştır. Meydana gelen
+deprem sonrasında halkın bir kısmı hayatını kaybetmiş, bir kısmı da soğuk ve kıtlık
+yüzünden buradan kaçmıştır. Osmanlılar, savunmasız ve boş şehri kolayca fethetmiştir.
+Bu haberi duyan Süleyman Paşa, Biga’dan
+buraya gelmiş ve kaleyi yeniden onartmıştır.
+Daha sonra Anadolu’dan Türk nüfus getirilip
+şehre yerleştirilmiştir.
+
+1. Metne göre aşağıda verilen sorulardan hangisinin cevabını tarih biliminden yararlanarak açıklayabiliriz?
+A) Karadeniz Bölgesi’nde yaşanan heyelanların nedenleri nelerdir?
+B) Kuzey Anadolu fay hattı üzerinde hangi şehirler yer almaktdır?
+C) Türkistan’da yaşanan kuraklığın göçler üzerindeki etkisi ne olmuştur?
+D) Çığ felaketlerini engelelemek için geçmişte hangi önlemler alınmıştır?
+E) Tarih boyunca sel felaketlerinin sık yaşandığı alanlar nerelerdir?
+
+2. Gelibolu Kalesi’nin fetih süreci hakkında bilgi toplamak isteyen bir araştırmacı aşağıdakikaynaklardan hangisinden yararlanırsa amacına en uygun veriler toplamış olur?
+A) Rasathane kayıtları
+B) 14.yy Bizans kronikleri
+C) Sismoloji raporları
+D) Gelibolu şehir planı
+E) Tahrir defterleri
+
+3. Gelibolu’da yaşanan deprem neden tarihî bir incelemeye konu edilmiştir?
+A) Rumeli’deki siyasi faaliyetleri engellemesi
+B) Gelibolu kalesinin fethedilmesini etkilemesi
+C) Osmanlı Devletinin Rumeli’ye geçmek istemesi
+D) Çimpe Kalesi’nde Süleyman Paşa’nın bulunması
+E) Bizans surlarını etkileyen hasarlar yaratması
+
+97
+
+4. BÖLÜM
+
+Tarih alanı 2 numaralı kitapçıkta “Problem Çözme” becerisini ölçmeyi hedefleyen sorular aşağıda verilmiştir.
+1-5. soruları metinden faydalanarak cevaplayınız.
+Bir üniversitede tarih bölümü öğrencileri, dönem sonunda düzenlenen “Tarihi Nasıl Yazarız?” başlıklı
+seminer için hazırlık yapıyordu. Her öğrenciye “Osmanlı İmparatorluğu’nun son döneminde yaşanan
+bir reform girişimi” adlı olay verilmişti. Amaç, herkesin aynı olayı farklı kaynaklardan araştırıp kendi
+yorumuyla anlatmasıydı. Seminer günü geldiğinde sınıfta ilginç bir tablo oluşmuştu. Bazı öğrenciler
+reformu “modernleşmeye açılan büyük bir kapı” olarak tanımlarken bazıları “toplumun değerlerinden
+kopuş” olarak yorumlamıştı.
+Aynı olay, farklı sunumlarda birbirine hiç benzemeyen iki farklı hikâyeye dönüşmüştü. Sunumlar bittikten sonra Profesör, aynı olay hakkındaki farklı yorumlardan dolayı öğrencilere şu açıklamayı yaptı:
+“Olaylar yaşandığında bir gerçektir. ama tarihçi onları anlamlandırdığında o artık bir yorum hâline
+gelir. Çünkü geçmişte olan her şeyi bütünüyle bilmek, ya da hepsini anlatmak mümkün değildir. Her
+tarihçi, seçtiği kaynaklara ve bakış açısına göre bir tablo çizer.”
+Bir öğrenci araya girdi:
+— “O zaman geçmişi tamamen yansıtmak imkânsız mı?”
+Nermin Hanım başını salladı:
+“Bir tarihçi geçmişi bire bir yeniden kuramaz; sadece anlamaya çalışır.
+Bu yüzden farklı tarihçiler aynı olayı farklı şekillerde anlatabilirler.”
+Seminerin sonunda profesör, öğrencilerden farklı sunumları karşılaştırmalarını ve ortak noktaları bulmalarını istedi. “Bunu yaparken de şu sözleri ekledi.”
+“Tarihçiler yorum yapar, ama bu yorumları karşılaştırmak, bize gerçeği biraz daha yaklaştırabilir.”
+“Ders sonunda öğrenciler, öğrendiklerinden mutlu bir şekilde profesöre teşekkür etti.”
+
+1. Metindeki seminer sürecine bakıldığında öğrencilerin aynı olayı farklı biçimlerde sunmalarına yol
+açan temel problem aşağıdakilerden hangisidir?
+
+A) Tarihî olayların tüm ayrıntılarının günümüze eksiksiz ulaşmaması ve araştırmaların sınırlı bilgiyle yürütülmesi
+B) Öğrencilerin tarihî olayları aktarırken kişisel değerlendirmelerini kaynaklardan tamamen bağımsız
+biçimde öne çıkarması
+C) Tarihçilerin yorum yaparken seçtikleri kaynakların ve bakış açılarının anlatım biçimini farklılaştırması
+D) Tarihî olaylarla ilgili sunumların hazırlanmasında yöntem birliği bulunmaması ve öğrencilerin ortak bir
+dil kullanmaması
+E) Tarihsel gerçeklerin çoğunlukla araştırmacılar tarafından bilinçli olarak değiştirilmesi ve yorumların bu
+değişime dayanması
+
+98
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+2. Metinde anlatılan seminer sürecinde ortaya çıkan temel problem aşağıdakilerden hangisidir?
+A) Öğrencilerin araştırma konularını yeterince ayrıntılandırmadan aynı sunum biçimini tercih etmeleri
+B) Tarihî bir olayın farklı kaynaklar ve bakış açıları nedeniyle birbirinden farklı yorumlara dönüşmesi
+C) Seminerde sunulan bilgilerin doğruluğunu denetleyecek ortak bir değerlendirme ölçütü bulunmaması
+D) Öğrencilerin hazırladığı sunumlarda modernleşme kavramına beklenenden daha dar bir çerçeveden
+yaklaşmaları
+E) Tarih bölümünde uygulanan öğretim yöntemlerinin öğrencileri benzer sonuçlara yönlendirmede yetersiz
+kalması
+
+3. Metindeki seminer süreci dikkate alındığında, öğrencilerin aynı olayı farklı şekillerde yorumlaması
+sorununu azaltmak için hangi yaklaşımın daha etkili olacağı düşünülebilir?
+
+A) Öğrencilerin sunum yapmadan önce yalnızca birincil kaynaklara yönlendirilerek yorum çeşitliliğinin
+sınırlandırılması
+B) Tüm öğrencilerin ortak bir kronolojik şema oluşturup sunum sırasında aynı sıralamayı takip etmelerinin
+sağlanması
+C) Farklı yorumları karşılaştırma alıştırmalarının artırılarak öğrencilerin kaynak çeşitliliğini daha bilinçli
+değerlendirmesinin sağlanması
+D) Öğrencilerin hazırladıkları sunumlarda kişisel görüş belirtmekten kaçınmalarının zorunlu tutulması
+E) Sunum öncesinde öğretim üyesinin olayın tek ve kesin yorumunu açıklayarak sınıfta bir standart oluşturması
+
+4. Metindeki duruma göre aşağıdaki önermelerden hangisi, öğrencilerin aynı tarihî olayı farklı şekillerde yorumlaması sorununu azaltmaya yönelik bir çözümü destekler?
+
+A) Eğer tüm öğrenciler yalnızca benzer içerikli kaynakları seçerse, ortaya çıkan anlatımların farklılaşma
+olasılığı büyük ölçüde azalacaktır.
+B) Eğer profesör seminer öncesinde olayın doğru kabul edilen yorumunu belirlerse, öğrencilerin sunumlarında çeşitlilik oluşması engellenebilir.
+C) Eğer öğrenciler kullandıkları kaynakları karşılaştırıp farklı bakış açılarını birlikte değerlendirmeyi öğrenirse, yorumlardaki ayrışma daha bilinçli biçimde yönetilebilir.
+D) Eğer sunumlar sırasında öğrencilerin kişisel değerlendirmeleri sınırlanırsa, tarihî olayın anlatımı daha
+tutarlı ve tekdüze hâle getirilebilir.
+E) Eğer sınıf içinde tarihî olaylar için zorunlu bir anlatım şablonu uygulanırsa, öğrenciler arasında yorum
+farklılığı neredeyse tamamen ortadan kalkabilir.
+
+5. Metinde anlatılan seminer sürecine göre, öğrencilerin aynı tarihî olayı farklı biçimlerde yorumlaması
+sorununu çözmeye yönelik değerlendirmelerden hangisi doğru bir yaklaşımı yansıtır?
+
+A) Farklı sunumları karşılaştırmak ve ortak noktaları belirlemek, öğrencilerin olayın çeşitli yönlerini daha iyi
+anlamalarını sağlar.
+B) Profesörün olayın tek doğru yorumunu önceden açıklaması, öğrencilerin kendi analizlerini geliştirmesini
+engeller.
+C) Öğrencilerin yalnızca benzer kaynakları kullanması, yorum farklılıklarını tamamen ortadan kaldırır.
+D) Sunumlarda kişisel yorumlara yer verilmemesi, tarihî olayların aktarımında her zaman en doğru sonucu
+verir.
+E) Sınıfta standart bir anlatım şablonu uygulamak, öğrenciler arasındaki yorum çeşitliliğini tamamen önler.
+
+99
+
+4. BÖLÜM
+
+1-5. soruları metinden faydalanarak cevaplayınız.
+Anadolu topraklarında yürütülen arkeolojik kazılar, geçmiş uygarlıkların yaşamına dair her geçen gün
+yeni ipuçları sunmaktadır. Ancak bazı dönemler hâlâ aydınlatılamamıştır . Bu dönemlerden biri de,
+Hititlerin Anadolu’da güçlü bir uygarlık kurmasından önceki zamanlardır. Kayseri yakınlarında, Kültepe-Kaniş adıyla bilinen bir yerleşim alanında yapılan kazılar, araştırmacılar için büyük önem taşır.
+Burada ortaya çıkarılan çivi yazılı kil tabletler, Asurlu tüccarlara ait ticaret kayıtlarını içerir. Bu kayıtlar,
+dönemin ekonomik ilişkileri, ticaret yolları, mal değişimi ve borç anlaşmaları gibi konularda oldukça
+ayrıntılı bilgiler verir. Fakat kazı ekibinde görevli tarihçiler, bu belgeleri incelediklerinde önemli bir
+zorlukla karşılaşmıştır. Tabletlerde, siyasi olaylara ya da toplumsal düzene dair bilgiler oldukça sınırlıdır. Arada sırada şehirde yaşanan karışıklıklar, taht mücadelesi söylentileri veya bir hükümdarın
+ölümünden bahseden kısa notlar görülse de, bunlar olayların nedenlerini ya da sonuçlarını açıklayacak
+derinlikte değildir. Bu durum, dönemin siyasal yapısını anlamayı güçleştirmektedir. Belgeler, yalnızca
+ticaret yapan kişilerin gözlemleriyle sınırlı olduğundan, yerli halkın, yöneticilerin veya devlet düzeninin
+nasıl işlediğine dair kesin bir tablo çizmek mümkün olmamaktadır.
+Tarihçiler, bu sınırlı kanıtlardan hareketle şu sorularla karşı karşıya kalır:
+“O dönemde şehirleri kim yönetiyordu?”
+“Farklı yerleşimler arasında nasıl ilişkiler kuruluyordu?”
+“Birlik içinde mi, yoksa birbirinden bağımsız topluluklar hâlinde mi yaşıyorlardı?”
+Araştırma ekibi, mevcut verilerden olabildiğince çok anlam çıkarabilmek için yeni kazılar planlamakta,
+başka merkezlerde benzer belgeler bulmayı ummaktadır. Tarihçiler, geçmişin eksik parçalarını tamamlamaya çalışırken, bir tüccarın bakış açısından yazılmış birkaç satırlık notun, bir dönemin bütününü anlamada ne kadar sınırlı bir kaynak olabileceğini her geçen gün daha iyi fark etmektedir.
+1. Metne göre Hitit öncesi dönemi inceleyen tarihçilerin karşılaştığı temel problem aşağıdakilerin hangisidir?
+
+A) Yazı dilinin yerel dillerle karışık olması ve tarihi terimlerin tam olarak çözümlenememesi
+B) Tabletlerin karmaşık siyasi gelişmeleri ve sonuçlarını detaylı aktarmada yetersiz kalması
+C) Kazılarda bulunan tabletlerin, o dönemde yaşayan toplulukların farklı yönlerine ilişkin yeterli ve güvenilir bilgi sunmaması
+D) Belgelerin daha çok isyanlar veya salgın hastalıklar gibi kriz dönemlerine odaklanması
+E) Belgelerin Asurlu tüccarlara ait olmasının, yerel bakış açısının belgelere yansımasını engellemesi
+
+2. Tarihçilerin, Hitit öncesi dönemi araştırırken karşılaştıkları sorun aşağıdakilerden hangisinde özetlenmiştir?
+
+A) Belgelerin Anadolu’nun dar bir bölgesini kapsaması nedeniyle genel bir tarih çerçevesinin oluşturulması
+mümkün görünmemektedir.
+B) Kültepe tabletleri ekonomik konularda zengin bilgi sunarken siyasi yapı ve toplumsal düzen hakkında
+yetersiz kaldığından dönemin bütününü anlamak mümkün olamamaktadır.
+C) Belgelerin Asur dilinde yazılması nedeniyle yerel Anadolu dillerindeki terminoloji anlaşılamamakta,
+sadece Asur bakış açısı tarihsel bilgi için yetersiz görünmektedir.
+D) Bölgedeki arkeolojik kazıların henüz tarihi olayların ana kaynaklarını ortaya çıkaracak düzeyde tamamlanmaması bölge tarihinde belirsizliklerin artmasına yol açmaktadır.
+E) Tabletlerde anlatılan tarihî olaylar arasında neden sonuç ilişkileri kurulamadığı için bölgenin tarihini inşa
+etmekte tarihçiler sorun yaşamaktadır.
+
+100
+
+

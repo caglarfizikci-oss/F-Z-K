@@ -8,7 +8,7 @@ Kullanıcı lise fizik öğretmenidir. Kullanıcıyla **Türkçe** ve lise öğr
 2. `soru-yazim/tymm-2026-fizik-ciktilar-tum-siniflar.md`: 9-12. sınıfların 106 öğrenme çıktısı, süreç bileşenleri ve çıktı bazındaki "kaçınılır" / "sınırlı kalınır" notları (programdan birebir).
 3. `soru-yazim/tymm-baglam-temelli-soru-yazim-kurallari.md`: MEB bağlam temelli soru yazım kılavuzunun kuralları ve bizim sayfa düzenimize uyarlanışı.
 
-Kaynak belgeler `soru-yazim/kaynak/` klasöründedir: `Fizikprg.pdf` (program) ve metinleri. Kullanıcının Drive'ında bunlar da var: Tymm.pdf (kılavuz, 24 MB), 11meb kitap bölümleri (kuvvet, indüksiyon, transformatör), 11zengin.pdf, PISA örnek soruları, AYT çıkmış sorular, Fizikeskikazanımeski.pdf, Manyetik_Aki_v1.pdf.
+Kaynak belgeler `soru-yazim/kaynak/` klasöründedir: `Fizikprg.pdf` (program), bağlam kılavuzunun Ocak 2026 baskısı (`Tymm-1-50`, `Tymm-51-100`, `Tymm-101-138`) ve Mart 2026 web kopyası ile bunların metinleri. Kullanıcının Drive'ında bunlar da var: Tymm.pdf (kılavuzun tamamı, 24 MB; parçalı hali Tymm-1-50/51-100/101-138), 11meb kitap bölümleri (kuvvet, indüksiyon, transformatör), 11zengin.pdf, PISA örnek soruları, AYT çıkmış sorular, Fizikeskikazanımeski.pdf, Manyetik_Aki_v1.pdf.
 
 ## Öncelik sırası
 
