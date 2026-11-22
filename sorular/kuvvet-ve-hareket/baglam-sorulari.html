@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Kuvvet ve Hareket – I · Bağlam Temelli Sorular</title>
+<style>
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: "Liberation Sans", Helvetica, Arial, sans-serif; font-size: 9.5pt; color: #222; line-height: 1.45; }
+  .page { width: 210mm; height: 297mm; padding: 10mm 14mm 0 14mm; position: relative; page-break-after: always; overflow: hidden; }
+  .page:last-child { page-break-after: auto; }
+
+  /* Üst bant */
+  .band { display: flex; align-items: stretch; height: 15mm; margin-bottom: 5mm; }
+  .badge { width: 22mm; background: #fff; border: 1.2px solid #c9c9c9; border-radius: 3mm 0 0 3mm; display: flex; flex-direction: column; align-items: center; justify-content: center; color: #2f3e5c; font-weight: bold; line-height: 1.05; box-shadow: 0 1.5px 3px rgba(0,0,0,.18); }
+  .badge b { font-size: 17pt; }
+  .badge span { font-size: 8pt; letter-spacing: .5px; }
+  .band-title { flex: 1; background: #2f3e5c; color: #fff; display: flex; align-items: center; justify-content: center; font-size: 13pt; font-weight: bold; letter-spacing: 1px; border-radius: 0 3mm 3mm 0; box-shadow: 0 1.5px 3px rgba(0,0,0,.25); }
+
+  /* Başlık şeridi */
+  .title-row { display: flex; align-items: center; gap: 3mm; margin-bottom: 3.5mm; }
+  .title-pill { background: linear-gradient(90deg, #2e9e5b, #46b56f); color: #fff; font-weight: bold; font-size: 11.5pt; padding: 1.6mm 6mm 1.6mm 4mm; border-radius: 0 5mm 5mm 0; letter-spacing: .4px; box-shadow: 0 1px 2px rgba(0,0,0,.2); }
+  .title-pill::before { content: "»» "; opacity: .75; }
+  .title-sub { color: #c4314b; font-weight: bold; font-size: 9pt; letter-spacing: 1px; }
+
+  /* Bağlam kutusu */
+  .context { background: #fff4ea; border-radius: 3mm; padding: 3.5mm 4.5mm; box-shadow: 2px 2px 0 #f2a65a; border: 1px solid #f5c9a0; margin-bottom: 4mm; }
+  .context h3 { margin: 0 0 1.5mm 0; font-size: 9pt; color: #d9682b; letter-spacing: 1.2px; }
+  .context p { margin: 0 0 1.6mm 0; text-align: justify; }
+  .context p:last-child { margin-bottom: 0; }
+
+  .figs { display: flex; gap: 5mm; align-items: center; justify-content: center; margin-bottom: 4mm; }
+  .fig { text-align: center; }
+  .fig .cap { font-size: 8pt; color: #555; margin-top: 1mm; }
+
+  table.data { border-collapse: separate; border-spacing: 1.2px; width: 100%; margin: 0 0 4mm 0; font-size: 9pt; }
+  table.data th { background: #f7b77a; color: #3a2a1a; padding: 1.8mm 2mm; text-align: left; }
+  table.data td { background: #fde6d2; padding: 1.8mm 2mm; vertical-align: middle; }
+  table.data td:first-child { font-weight: bold; text-align: center; background: #f9cfaa; width: 15mm; }
+
+  /* Soru */
+  .q-head { display: flex; align-items: center; gap: 2mm; margin: 0 0 2mm 0; }
+  .q-head .lbl { color: #2f5d9a; font-weight: bold; font-size: 11pt; }
+  .q-head .lbl::before { content: "» "; color: #8fb0d8; }
+  .q-head .num { background: #2f5d9a; color: #fff; font-weight: bold; width: 6.5mm; height: 6.5mm; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; font-size: 9.5pt; }
+  .question { border-left: 2px solid #2f5d9a; padding-left: 4mm; }
+  .question p { margin: 0 0 1.6mm 0; }
+  .items { margin: 0 0 1.8mm 0; padding: 0; list-style: none; }
+  .items li { display: flex; gap: 2mm; margin-bottom: 1mm; }
+  .items li b { width: 6mm; flex-shrink: 0; }
+  .stem { font-weight: bold; }
+  .opts { display: grid; grid-template-columns: repeat(3, 1fr); row-gap: 1.6mm; margin-top: 2.5mm; }
+  .opts.wide { grid-template-columns: 1fr 1fr; }
+  .opts.col { grid-template-columns: 1fr; }
+
+  .solve { margin-top: 5mm; border: 1px dashed #9bb3d3; border-radius: 2mm; position: relative; background-image: radial-gradient(#c9d6e8 0.6px, transparent 0.7px); background-size: 5mm 5mm; }
+  .solve span { position: absolute; top: -2.3mm; left: 4mm; background: #fff; padding: 0 1.5mm; font-size: 8pt; color: #2f5d9a; font-weight: bold; letter-spacing: .5px; }
+
+  /* Alt şerit */
+  .foot { position: absolute; left: 14mm; right: 14mm; bottom: 8mm; display: flex; align-items: center; justify-content: space-between; }
+  .answers { background: #eef3f9; border-radius: 2mm; padding: 1.3mm 4mm; font-size: 8pt; color: #2f5d9a; }
+  .answers b { color: #222; }
+  .pno { background: #e0457b; color: #fff; font-weight: bold; padding: 1mm 4mm; border-radius: 5mm; font-size: 9pt; }
+  .side { position: absolute; right: 5mm; top: 50%; transform: rotate(90deg); transform-origin: right center; font-size: 7pt; color: #aaa; letter-spacing: 2px; }
+
+  .phys { font-family: "Liberation Serif", "Times New Roman", serif; font-style: italic; }
+</style>
+</head>
+<body>
+
+<!-- ===================== SAYFA 1 ===================== -->
+<section class="page">
+  <div class="band">
+    <div class="badge"><b>02</b><span>ÜNİTE</span></div>
+    <div class="band-title">KUVVET VE HAREKET – I</div>
+  </div>
+
+  <div class="title-row">
+    <div class="title-pill">KOŞU UYGULAMASI</div>
+    <div class="title-sub">BAĞLAM TEMELLİ SORU</div>
+  </div>
+
+  <div class="context">
+    <h3>BAĞLAM</h3>
+    <p>Deniz, beden eğitimi dersinde okulun atletizm pistinde koşuyor. Pistin en iç kulvarının bir turu 400 m'dir.</p>
+    <p>Deniz, telefonundaki koşu uygulamasını başlangıç çizgisinde başlatıyor. İki tam tur koştuktan sonra uygulamayı yine başlangıç çizgisinde durduruyor. Koşu bittiğinde uygulamanın ekranı aşağıdaki gibi görünüyor.</p>
+  </div>
+
+  <div class="figs">
+    <div class="fig">
+      <svg width="365" height="215" viewBox="0 0 365 215" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#7cc576"/><stop offset="1" stop-color="#5aa856"/>
+          </linearGradient>
+          <marker id="ar" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+            <path d="M0,0 L8,4 L0,8 z" fill="#d62828"/>
+          </marker>
+        </defs>
+        <!-- pist (dış kenar) -->
+        <rect x="18" y="18" width="330" height="180" rx="90" fill="#c8553d"/>
+        <!-- kulvar çizgileri -->
+        <rect x="27" y="27" width="312" height="162" rx="81" fill="none" stroke="#f3d9cf" stroke-width="1"/>
+        <rect x="36" y="36" width="294" height="144" rx="72" fill="none" stroke="#f3d9cf" stroke-width="1"/>
+        <rect x="45" y="45" width="276" height="126" rx="63" fill="none" stroke="#f3d9cf" stroke-width="1"/>
+        <!-- çim saha -->
+        <rect x="54" y="54" width="258" height="108" rx="54" fill="url(#grass)" stroke="#fff" stroke-width="1.6"/>
+        <line x1="183" y1="58" x2="183" y2="158" stroke="#e8f5e5" stroke-width="1"/>
+        <circle cx="183" cy="108" r="14" fill="none" stroke="#e8f5e5" stroke-width="1"/>
+        <!-- başlangıç / bitiş çizgisi -->
+        <line x1="240" y1="162" x2="240" y2="198" stroke="#fff" stroke-width="3"/>
+        <!-- koşu yönü okları (iç kulvar üzerinde, saat yönünün tersine) -->
+        <path d="M130,168 L205,168" stroke="#d62828" stroke-width="2.4" fill="none" marker-end="url(#ar)"/>
+        <path d="M235,48 L160,48" stroke="#d62828" stroke-width="2.4" fill="none" marker-end="url(#ar)"/>
+        <path d="M316,140 A58,58 0 0 0 316,76" stroke="#d62828" stroke-width="2.4" fill="none" marker-end="url(#ar)"/>
+        <path d="M50,76 A58,58 0 0 0 50,140" stroke="#d62828" stroke-width="2.4" fill="none" marker-end="url(#ar)"/>
+        <!-- etiketler -->
+        <line x1="240" y1="198" x2="262" y2="209" stroke="#333" stroke-width="0.8"/>
+        <text x="264" y="212" font-size="10" fill="#222" font-family="Liberation Sans">Başlangıç çizgisi</text>
+        <text x="135" y="112" font-size="10" fill="#fff" text-anchor="middle" font-family="Liberation Sans" font-weight="bold">Çim saha</text>
+      </svg>
+      <div class="cap">Okulun atletizm pisti (üstten görünüm) ve koşu yönü</div>
+    </div>
+
+    <div class="fig">
+      <svg width="150" height="230" viewBox="0 0 150 230" xmlns="http://www.w3.org/2000/svg">
+        <rect x="6" y="4" width="138" height="222" rx="18" fill="#1d2230"/>
+        <rect x="13" y="20" width="124" height="192" rx="6" fill="#f4f6fa"/>
+        <rect x="58" y="10" width="34" height="4" rx="2" fill="#3a4152"/>
+        <!-- üst başlık -->
+        <rect x="13" y="20" width="124" height="30" rx="6" fill="#2e9e5b"/>
+        <rect x="13" y="38" width="124" height="12" fill="#2e9e5b"/>
+        <text x="75" y="40" font-size="11.5" fill="#fff" text-anchor="middle" font-family="Liberation Sans" font-weight="bold">Koşu Özeti</text>
+        <!-- satırlar -->
+        <g font-family="Liberation Sans">
+          <text x="22" y="72" font-size="8.5" fill="#6b7280">Mesafe</text>
+          <text x="22" y="90" font-size="16" fill="#111" font-weight="bold">800 m</text>
+          <line x1="20" y1="100" x2="130" y2="100" stroke="#dde2ea"/>
+          <text x="22" y="117" font-size="8.5" fill="#6b7280">Süre</text>
+          <text x="22" y="135" font-size="16" fill="#111" font-weight="bold">3 dk 20 s</text>
+          <line x1="20" y1="145" x2="130" y2="145" stroke="#dde2ea"/>
+          <text x="22" y="162" font-size="8.5" fill="#6b7280">Ortalama hız</text>
+          <text x="22" y="180" font-size="16" fill="#111" font-weight="bold">14,4 km/h</text>
+        </g>
+        <rect x="40" y="192" width="70" height="13" rx="6.5" fill="#e5e7eb"/>
+        <text x="75" y="201.5" font-size="7.5" fill="#374151" text-anchor="middle" font-family="Liberation Sans">Kaydedildi ✓</text>
+      </svg>
+      <div class="cap">Uygulamanın ekranı</div>
+    </div>
+  </div>
+
+  <div class="q-head"><span class="lbl">Soru</span><span class="num">1</span></div>
+  <div class="question">
+    <p class="stem">Buna göre,</p>
+    <ul class="items">
+      <li><b>I.</b><span>Deniz'in aldığı yol 800 m, yer değiştirmesi sıfırdır.</span></li>
+      <li><b>II.</b><span>Ekranda “ortalama hız” olarak gösterilen değer, fizikte Deniz'in ortalama süratine karşılık gelir.</span></li>
+      <li><b>III.</b><span>Deniz'in ortalama hızının büyüklüğü 4 m/s'dir.</span></li>
+    </ul>
+    <p class="stem">yargılarından hangileri doğrudur?</p>
+    <div class="opts">
+      <div>A) Yalnız I</div><div>B) Yalnız II</div><div>C) I ve II</div>
+      <div>D) I ve III</div><div>E) I, II ve III</div>
+    </div>
+  </div>
+
+  <div class="solve" style="height: 66mm;"><span>ÇÖZÜM ALANI</span></div>
+
+  <div class="side">AKTİF FİZİK</div>
+  <div class="foot">
+    <div class="answers">Soru 1 / <b>C</b></div>
+    <div class="pno">1</div>
+  </div>
+</section>
+
+<!-- ===================== SAYFA 2 ===================== -->
+<section class="page">
+  <div class="band">
+    <div class="badge"><b>02</b><span>ÜNİTE</span></div>
+    <div class="band-title">KUVVET VE HAREKET – I</div>
+  </div>
+
+  <div class="title-row">
+    <div class="title-pill">KONFORLU OTOBÜS</div>
+    <div class="title-sub">BAĞLAM TEMELLİ SORU</div>
+  </div>
+
+  <div class="context">
+    <h3>BAĞLAM</h3>
+    <p>Belediye, otobüs yolcularının ayakta dururken dengelerini kaybettikleri yerleri belirlemek istiyor. Bir mühendis, bir otobüsün K durağından P durağına kadar olan hareketini kaydediyor. Otobüsün izlediği yol krokide, kayıtlar ise tabloda verilmiştir.</p>
+    <p>Mühendis, otobüsün <b>ivmeli hareket yaptığı</b> bölümleri yolcuların dengesini kaybedebileceği bölümler olarak işaretleyecektir.</p>
+  </div>
+
+  <div class="figs">
+    <div class="fig">
+      <svg width="560" height="200" viewBox="0 0 560 200" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <marker id="ar2" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+            <path d="M0,0 L8,4 L0,8 z" fill="#d62828"/>
+          </marker>
+        </defs>
+        <!-- zemin -->
+        <rect x="0" y="0" width="560" height="200" rx="8" fill="#eef4e8"/>
+        <!-- yol: alt düz, sağda yarım çember, üst düz -->
+        <path d="M30,155 L420,155 A55,55 0 0 0 420,45 L70,45" fill="none" stroke="#7a7f87" stroke-width="30" stroke-linejoin="round"/>
+        <path d="M30,155 L420,155 A55,55 0 0 0 420,45 L70,45" fill="none" stroke="#fff" stroke-width="1.4" stroke-dasharray="9 7"/>
+        <!-- duraklar -->
+        <rect x="22" y="174" width="44" height="14" rx="3" fill="#2f5d9a"/>
+        <text x="44" y="184.5" font-size="9" fill="#fff" text-anchor="middle" font-family="Liberation Sans" font-weight="bold">DURAK</text>
+        <rect x="62" y="12" width="44" height="14" rx="3" fill="#2f5d9a"/>
+        <text x="84" y="22.5" font-size="9" fill="#fff" text-anchor="middle" font-family="Liberation Sans" font-weight="bold">DURAK</text>
+        <!-- otobüs (üstten görünüm) K noktasında -->
+        <g transform="translate(36,145)">
+          <rect x="0" y="0" width="46" height="20" rx="4" fill="#f2b632" stroke="#9a6d10" stroke-width="1"/>
+          <rect x="38" y="3" width="6" height="14" rx="1.5" fill="#4a6a8a"/>
+          <rect x="6" y="4" width="28" height="12" rx="2" fill="#f7cd6b"/>
+        </g>
+        <!-- yön okları -->
+        <path d="M140,128 L210,128" stroke="#d62828" stroke-width="2.2" marker-end="url(#ar2)"/>
+        <path d="M485,150 A82,82 0 0 0 485,52" stroke="#d62828" stroke-width="2.2" fill="none" marker-end="url(#ar2)"/>
+        <path d="M300,72 L230,72" stroke="#d62828" stroke-width="2.2" marker-end="url(#ar2)"/>
+        <!-- noktalar -->
+        <g font-family="Liberation Serif" font-style="italic" font-size="15" font-weight="bold" fill="#111">
+          <circle cx="40" cy="155" r="4" fill="#111"/><text x="36" y="133">K</text>
+          <circle cx="230" cy="155" r="4" fill="#111"/><text x="225" y="187">L</text>
+          <circle cx="420" cy="155" r="4" fill="#111"/><text x="414" y="187">M</text>
+          <circle cx="420" cy="45" r="4" fill="#111"/><text x="414" y="22">N</text>
+          <circle cx="80" cy="45" r="4" fill="#111"/><text x="118" y="22">P</text>
+        </g>
+        <line x1="84" y1="45" x2="113" y2="20" stroke="#111" stroke-width="0.7"/>
+        <!-- bölüm adları -->
+        <g font-family="Liberation Sans" font-size="9.5" fill="#444">
+          <text x="135" y="188" text-anchor="middle">düz yol</text>
+          <text x="325" y="188" text-anchor="middle">düz yol</text>
+          <text x="530" y="104" text-anchor="middle">viraj</text>
+          <text x="250" y="22" text-anchor="middle">düz yol</text>
+        </g>
+      </svg>
+      <div class="cap">Otobüsün K durağından P durağına kadar izlediği yolun krokisi (üstten görünüm)</div>
+    </div>
+  </div>
+
+  <table class="data">
+    <tr><th>Bölüm</th><th>Yolun durumu</th><th>Süratölçerdeki değer</th></tr>
+    <tr><td>K–L</td><td>Düz yol</td><td>Duraktan kalkıyor, 10 saniyede 0'dan 36 km/h'e çıkıyor.</td></tr>
+    <tr><td>L–M</td><td>Düz yol</td><td>20 saniye boyunca hep 36 km/h</td></tr>
+    <tr><td>M–N</td><td>Yarım çember şeklinde viraj</td><td>Viraj boyunca hep 36 km/h</td></tr>
+    <tr><td>N–P</td><td>Düz yol</td><td>8 saniyede 36 km/h'ten 0'a inip durakta duruyor.</td></tr>
+  </table>
+
+  <div class="q-head"><span class="lbl">Soru</span><span class="num">2</span></div>
+  <div class="question">
+    <p class="stem">Buna göre mühendisin işaretlemesi gereken bölümler hangileridir?</p>
+    <div class="opts wide">
+      <div>A) Yalnız K–L</div><div>B) K–L ve N–P</div>
+      <div>C) K–L ve M–N</div><div>D) K–L, M–N ve N–P</div>
+      <div>E) K–L, L–M, M–N ve N–P</div>
+    </div>
+  </div>
+
+  <div class="solve" style="height: 40mm;"><span>ÇÖZÜM ALANI</span></div>
+
+  <div class="side">AKTİF FİZİK</div>
+  <div class="foot">
+    <div class="answers">Soru 2 / <b>D</b></div>
+    <div class="pno">2</div>
+  </div>
+</section>
+
+</body>
+</html>
