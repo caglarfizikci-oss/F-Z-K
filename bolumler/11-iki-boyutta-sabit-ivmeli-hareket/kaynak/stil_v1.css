@@ -1,0 +1,94 @@
+@page { size: 198mm 281mm; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: "Liberation Sans", Arial, sans-serif; color: #231F20; font-size: 9pt; line-height: 1.27; }
+.sayfa { position: relative; width: 198mm; height: 281mm; background: #FFFFFF; overflow: hidden; page-break-after: always; }
+.sayfa:last-child { page-break-after: auto; }
+/* ust bant */
+.bant { position: absolute; top: 19mm; left: 0; width: 198mm; height: 4.9mm; font-family: Carlito, "Liberation Sans", sans-serif; font-weight: bold; }
+.b-sol, .b-sag, .b-orta { position: absolute; top: 0; height: 4.9mm; line-height: 4.9mm; text-align: center; color: #FFFFFF; font-size: 10pt; letter-spacing: 0.02em; }
+.b-sol small, .b-sag small { font-size: 8.2pt; }
+.b-sol { left: 0; width: 49.6mm; background: #F05A89; clip-path: polygon(0 0, 92% 0, 100% 50%, 92% 100%, 0 100%); padding-left: 5mm; }
+.b-sol.konu { background: #F8992F; }
+.b-orta { left: 50.3mm; width: 94.4mm; background: #FEE0C8; color: #5C3716; font-size: 11pt; clip-path: polygon(0 0, 100% 0, 97% 50%, 100% 100%, 0 100%, 3% 50%); }
+.b-sag { left: 145.6mm; width: 52.4mm; background: #00AEEF; clip-path: polygon(8% 0, 100% 0, 100% 100%, 8% 100%, 0 50%); padding-left: 3mm; text-align: left; padding-left: 7mm; }
+.b-sag.konu2 { background: #1678BE; }
+/* sutunlar: tek sayfa */
+.ayirici { position: absolute; left: 97.6mm; top: 29mm; height: 229mm; border-left: 0.18mm solid #F47920; }
+.sutun { position: absolute; top: 28mm; width: 78.4mm; height: 230mm; display: flex; flex-direction: column; justify-content: space-between; }
+.sutun.sol { left: 16.5mm; }
+.sutun.sag { left: 101mm; }
+.konu-alan { position: absolute; top: 28mm; left: 18.5mm; width: 158.9mm; height: 230mm; display: flex; flex-direction: column; justify-content: space-between; }
+.cift .ayirici { left: 100.6mm; }
+.cift .sutun.sol { left: 19.5mm; }
+.cift .sutun.sag { left: 104mm; }
+.cift .konu-alan { left: 21.5mm; }
+/* etiketler */
+.etiket { font-family: "Liberation Sans", Arial, sans-serif; font-weight: bold; font-size: 11pt; margin-bottom: 1.2mm; }
+.ornek { color: #DA5273; }
+.soru { color: #00AEEF; }
+.etiket b { color: #231F20; }
+p { margin-bottom: 0.9mm; text-align: justify; hyphens: auto; }
+.kok { font-weight: bold; text-align: left; }
+.nk { font-weight: normal; }
+.baslik { font-weight: bold; margin-bottom: 0.8mm; }
+.cozum-bas { color: #F05A89; font-weight: bold; margin-top: 1.6mm; margin-bottom: 0.5mm; }
+.satir { margin-bottom: 0.25mm; }
+.cevap { color: #F05A89; font-weight: bold; text-align: right; margin-top: 1mm; }
+.cevap span { color: #231F20; }
+.sekil-orta { text-align: center; margin: 1mm 0 1.2mm 0; }
+.graf2 { display: flex; justify-content: space-around; margin: 1mm 0; }
+.oncul { margin: 0.6mm 0 1mm 0; }
+.oncul div { padding-left: 6mm; text-indent: -6mm; margin-bottom: 0.4mm; }
+.oncul b { display: inline-block; width: 6mm; text-indent: 0; }
+.sik5 { display: flex; flex-wrap: wrap; margin-top: 1mm; }
+.sik5 > span { width: 33.3%; margin-bottom: 0.9mm; }
+.sik5.bes > span { width: 20%; }
+.sik2 { display: flex; flex-wrap: wrap; margin-top: 1mm; }
+.sik2 > span { width: 50%; margin-bottom: 0.9mm; }
+.sikalt div { margin-bottom: 0.8mm; padding-left: 5mm; text-indent: -5mm; }
+.sikalt b, .sik5 b, .sik2 b { margin-right: 0.8mm; }
+table.siktab { border-collapse: collapse; margin: 1mm 0 0.5mm 0; }
+table.siktab th { background: #FDE9F1; border: 0.18mm solid #EC008C; padding: 0.6mm 3mm; font-weight: bold; text-align: center; }
+table.siktab td { border: 0.18mm solid #EC008C; padding: 0.5mm 3mm; text-align: center; }
+table.siktab td.harf { border: none; font-weight: bold; text-align: left; padding: 0 2mm 0 0; }
+table.veri { border-collapse: collapse; margin: 1mm 0 1.2mm 0; width: 100%; font-size: 8.5pt; }
+table.veri th { background: #FDE9F1; border: 0.18mm solid #EC008C; padding: 0.6mm 1mm; }
+table.veri td { border: 0.18mm solid #EC008C; padding: 0.6mm 1mm; text-align: center; }
+table.veri td:first-child { text-align: left; }
+.cozumbosluk { height: 16mm; }
+.cozumbosluk.kisa { height: 5mm; }
+.cozumbosluk.orta { height: 10mm; }
+.kesir { display: inline-flex; flex-direction: column; vertical-align: middle; text-align: center; font-size: 8.5pt; line-height: 1.1; margin: 0 0.5mm; }
+.kesir span { display: block; padding: 0 0.4mm; }
+.kesir span:last-child { border-top: 0.15mm solid #231F20; }
+.mag { color: #EC008C; font-weight: bold; }
+/* konu kutusu */
+.kutu { position: relative; background: #FFF5E9; box-shadow: 1mm 1mm 0 #F8992F; padding: 7.5mm 4mm 2.5mm 4mm; margin-top: 3mm; }
+.sekme { position: absolute; left: 0; top: 0; background: #FDC992; color: #5C3716; font-weight: bold; font-size: 10pt; padding: 1mm 6mm 1mm 7mm; }
+.sekme::before { content: ""; position: absolute; left: 2mm; top: 1.8mm; border-left: 2.6mm solid #F47920; border-top: 1.6mm solid transparent; border-bottom: 1.6mm solid transparent; }
+.yan { display: flex; gap: 4mm; align-items: center; }
+.yan .metin { flex: 1; }
+.yan .sekil { flex: none; }
+.kucuk { font-size: 8.3pt; }
+.formul { background: #FFFFFF; border: 0.25mm solid #00AEEF; text-align: center; padding: 1mm; margin: 1mm 8mm 1.4mm 8mm; font-weight: bold; }
+table.bilgi { border-collapse: collapse; width: 100%; margin-top: 1.5mm; background: #FFFFFF; }
+table.bilgi th { background: #FDE9F1; border: 0.18mm solid #EC008C; padding: 0.7mm; }
+table.bilgi td { border: 0.18mm solid #EC008C; padding: 1mm 2mm; text-align: center; vertical-align: middle; }
+.ust-bosluk { margin-top: 1.5mm; }
+.ic { margin-bottom: 1mm; }
+.grafsatir { display: flex; align-items: center; justify-content: space-between; margin: 0.5mm 0; }
+.grafbas { width: 16mm; font-weight: bold; color: #5C3716; }
+/* aktif not */
+.aktifnot { position: relative; background: #FFF5EA; box-shadow: 1mm 1mm 0 #F99F3D; padding: 7mm 4mm 2mm 4mm; margin-top: 3mm; }
+.an-etiket { position: absolute; left: 4mm; top: -1.5mm; background: #D2232A; color: #FFFFFF; font-weight: bold; font-size: 11pt; padding: 0.6mm 4mm; border-radius: 3mm; }
+.kisasoru { margin-top: 3mm; }
+/* sayfa alti */
+.sayfano { position: absolute; left: 93mm; top: 264mm; width: 12mm; height: 4.8mm; border-radius: 2.4mm; overflow: hidden; background: #FFFFFF; }
+.sayfano .p { position: absolute; left: 0; width: 3.2mm; height: 100%; background: #F05A89; }
+.sayfano .c { position: absolute; right: 0; width: 3.2mm; height: 100%; background: #00AEEF; }
+.sayfano .n { position: absolute; width: 100%; text-align: center; font-family: Carlito, sans-serif; font-weight: bold; font-size: 10pt; line-height: 4.8mm; }
+.cevapserit { position: absolute; left: 110.6mm; top: 264.1mm; width: 87.4mm; height: 16.9mm; background: #E1F4FD; font-size: 7pt; padding: 2mm 3mm; }
+.cevapserit span { color: #00AEEF; }
+.cevapserit b { margin-right: 3mm; }
+
+sub { font-size: 70%; vertical-align: -0.3em; line-height: 0; }
