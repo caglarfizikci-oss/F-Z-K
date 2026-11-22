@@ -145,6 +145,9 @@ Program her ünitede şu sırayı kullanır. Konu anlatımlarımız da bu iskele
 
 ## 10. Kullanıcının materyal kuralları (programla birlikte her zaman geçerli)
 
+### Şık sayısı (2026-11-22)
+- Bütün şıklı sorular **5 seçeneklidir (A, B, C, D, E)**: çoktan seçmeli, öncüllü (I-II-III), tablo şıklı, eşleştirme, "kim haklı" ve hesap soruları. Kılavuzun ortaöğretim örnekleriyle uyumludur. Beş seçeneğin hepsi işlevsel bir çeldirici olur; dolgu seçenek yazılmaz.
+
 ### Yasaklar (2026-11-18)
 - Boşluk doldurma ve doğru-yanlış (D/Y, Evet/Hayır tabloları dahil) **hiç** kullanılmaz.
 - Sağ sütunda öğrencinin cevabı kendisinin yazdığı açık uçlu ya da kısa cevaplı soru yoktur; bunlar şıklı türe dönüştürülür. Hesap sorularında sonuç şıklardan seçilir.

@@ -72,6 +72,7 @@ Cevap **evet** ise bağlam işlevsizdir ve soru yeniden kurgulanır. Bağlam bir
 - Bariz yanlış, dolgu niteliğinde seçenek yazılmaz.
 - Seçenekler uzunluk, dil yapısı ve karmaşıklık bakımından **benzer** olur. Doğru seçenek daha uzun ya da daha ayrıntılı olmaz.
 - Bağlamdaki cümle seçenekte **aynen tekrarlanmaz**; aynı anlam farklı sözcüklerle verilir.
+- **Seçenek sayısı 5'tir (A-E)** (kullanıcı kararı, 2026-11-22). Beşinin de işlevsel çeldirici olması gerekir.
 - Sayısal seçenekler artan ya da azalan sırada dizilir (kendi uygulamamız). Doğru cevabın yeri seçenekler arasında dengeli dağıtılır.
 
 ## 8. Bilişsel yük ve görsel tasarım

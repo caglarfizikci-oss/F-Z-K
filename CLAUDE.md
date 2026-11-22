@@ -17,6 +17,7 @@ Kaynak belgeler `soru-yazim/kaynak/` klasöründedir: `Fizikprg.pdf` (program) v
 ## Değişmez kurallar (özet; ayrıntısı genel kurallar dosyasında)
 
 - Her soru ya da etkinlik bir çıktı koduna ve bileşene bağlanır (ör. FİZ.11.1.5.b). Soru türü çıktının fiiline uyar.
+- **Şıklı sorular 5 seçeneklidir (A, B, C, D, E)** (kullanıcı kararı, 2026-11-22). Öncüllü ve tablo şıklı sorular da buna dahildir.
 - **YASAK:** boşluk doldurma; doğru-yanlış (D/Y, Evet/Hayır tabloları dahil); öğrencinin cevabı kendisinin yazdığı açık uçlu ya da kısa cevaplı soru (bunlar şıklı türe dönüştürülür, hesap sonucu da şıklardan seçilir); pekiştirme sayfası ya da çalışma yaprağı.
 - **Bağlam düzeni:** Bağlam ayrı sayfa olmaz. Sol sütunda Örnek olarak verilir ve çözümü adım adım yapılır; sağ sütunda aynı bağlamla 2-3 soru sorulur. Konunun başında bağlam olmaz, konu anlatımından sonra doğrudan Örnek 1 başlar. Bölüm sonunda 2 bağlam olur (önce kolay ve hesapsız olan, sonra son bağlam).
 - Konu anlatımı tam genişliktedir (iki sütun yok). KONU ANLATIMI / KAVRAMA BÖLÜMÜ / UYGULAMA BÖLÜMÜ bantları kullanılır.
