@@ -168,7 +168,7 @@ Program her ünitede şu sırayı kullanır. Konu anlatımlarımız da bu iskele
 - Konu anlatımı sayfaları iki sütuna bölünmez, tam genişlikte kullanılır. Metin ve şekil kutu içinde yan yana durur. KONU ANLATIMI / KAVRAMA BÖLÜMÜ / UYGULAMA BÖLÜMÜ bantları kullanılır.
 - Her örnek ile aynı numaralı soru karşılıklı durur; ilk örnek ile ilk sorunun üstleri aynı hizada başlar. Sayfadaki 2. örnek ile 2. sorunun aynı hizada olması gerekmez.
 - Örneğin karşısındaki soru kısa kalırsa o numarada iki soru yazılır (2A, 2B).
-- Sağ sütun sayfaya orantılı yayılır, sayfanın altı boş kalmaz. Hangi sayfada olursa olsun (konu anlatımı dahil) boş yer konuya uygun kısa, 5 şıklı sorularla doldurulur.
+- Sağ sütun sayfaya orantılı yayılır, sayfanın altı boş kalmaz. Hangi sayfada olursa olsun (konu anlatımı dahil) boş yer konuya uygun kısa, 5 şıklı sorularla doldurulur. **Kısa bir soru sığmayacak kadar az yer kalırsa** soru yerine konuyla ilgili bir **AKTİF NOT** kutusu konur (kırmızı "AKTİF NOT" etiketi, krem zemin, turuncu gölge; bkz. tasarım şablonu 4.3) (kullanıcı kararı, 2026-11-22).
 - İşlem gerektiren soruların altında çözüm boşluğu bırakılır.
 
 ### Temel seviye (2026-11-06)

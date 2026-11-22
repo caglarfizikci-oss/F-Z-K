@@ -89,6 +89,7 @@ Bu şablon `tymm-2026-fizik-programi-genel-kurallar.md` dosyasındaki görsel ve
 - Üstte solda turuncu aşağı bakan üçgen; yanında **kırmızı (`#D2232A`) hap biçimli etiket**, içinde beyaz "AKTİF NOT" (Helvetica Bold 12).
 - Kutu `#FFF5EA` zeminli, `#F99F3D` turuncu gölgeli (konu kutusuyla aynı yapı).
 - İçerikte kesinlikle bilinmesi gereken kısa bir kural ya da püf noktası bulunur.
+- **Boşluk doldurma işlevi:** Bir sayfada kısa bir sorunun sığmayacağı kadar az yer kalırsa o boşluğa konuyla ilgili bir AKTİF NOT konur. Yer yeterliyse önce kısa, 5 şıklı soru tercih edilir.
 
 ### 4.4. Yerleşim
 - Vektör ünitesinin 7-9. sayfalarında konu kutuları **iki sütunlu** dizilmiştir. Tork ünitesinin 33. sayfasında kutular **tam genişliktedir**.
