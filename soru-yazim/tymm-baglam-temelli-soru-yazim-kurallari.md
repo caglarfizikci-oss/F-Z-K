@@ -2,7 +2,7 @@
 
 Kaynak: *Türkiye Yüzyılı Maarif Modeli Bağlam Temelli Çoktan Seçmeli Soru Yazım Kılavuzu* (MEB, Ocak 2026; Drive: Tymm.pdf).
 Metni: `soru-yazim/kaynak/Tymm-baglam-temelli-soru-yazim-kilavuzu-metin.txt`
-Not: Drive'ın verdiği metin kesik. Kılavuzun bölüm 1-3'ü (ilkeler, süreç, hatalar, form, beceri stratejileri) tam okundu. Bölüm 4'teki fizik örnek soruları (kılavuzun 132. sayfası) metne gelmedi. Dosya 24 MB olduğu için bağlayıcı (connector) üzerinden indirilemiyor. Fizik örnekleri gerekirse kullanıcı ilgili sayfaları ayrıca yükleyebilir.
+Not: Drive'daki Tymm.pdf (Ocak 2026, 24 MB) bağlayıcı (connector) üzerinden indirilemiyor ve Drive'ın verdiği metni fizik örneklerinden önce kesiliyor. Bu yüzden kılavuzun internette herkese açık Mart 2026 kopyası (123 sayfa, ftso.org.tr) da okundu: `soru-yazim/kaynak/Tymm-baglam-kilavuzu-2026-mart-web-metin.md`. Fizik örnekleri ve öğrenci görüşmelerinin ek bulguları bu kopyadan alındı (bkz. bölüm 14 ve 15).
 
 Bu kurallar `tymm-2026-fizik-programi-genel-kurallar.md` ile birlikte uygulanır. Sayfa düzenine ilişkin kullanıcı kuralları (bağlam solda Örnek olarak verilir, sağda 2-3 soru sorulur; konunun başında bağlam olmaz; bölüm sonunda 2 bağlam olur) bu kılavuzun önüne geçer.
 
@@ -144,3 +144,39 @@ Ders · Sınıf düzeyi · Beceri · Süreç bileşenleri ve gerekçeleri · Ba�
 - Konunun başında bağlam olmaz. Bölüm sonunda iki bağlam olur: önce kolay ve hesapsız olan, sonra son bağlam.
 - Bağlam türleri çeşitlendirilir: günlük hayat olayı, deney ya da veri tablosu, grafik, ürün etiketi ya da teknik belge, haber ya da bilim metni, "kim haklı" tartışması, hatalı deney düzeneği, Türkiye'den gerçek proje. Tür, konuya ve zorluğa göre seçilir.
 - Temel seviye: Sayılar basit ve tam sayıdır, kolaydan zora gidilir, zor soru yazılmaz. Doğru-yanlış, boşluk doldurma ve açık uçlu soru yoktur.
+
+## 14. Kılavuzdaki fizik örnekleri (ortaöğretim, "Bilimsel Çıkarım" alan becerisi FBAB8)
+
+Kılavuz fizikte iki bağlam veriyor. Ortak özellikleri:
+- Her sorunun sonunda ölçtüğü süreç bileşeni yazılıdır: `(FBAB8.SB1)`, `(FBAB8.SB3)`. Bizde bunun karşılığı çıktı ve bileşen kodudur (ör. FİZ.9.4.3.b).
+- Ortaöğretim örneklerinde **5 seçenek (A-E)** kullanılır.
+- Bağlam başlığı şöyledir: "1-2. soruları aşağıdaki bilgilere göre cevaplayınız."
+- Veri **tabloyla** verilir (Strateji B). Öğrenci veriyi toplamaz, hazır veriyi yorumlar.
+
+**Bağlam 1, hâl değişimi deneyi** (programda FİZ.9.4.3'e denk gelir): Araştırmacılar erime sıcaklığındaki buz, alkol ve şekerin 30 g ve 60 g'lık örneklerini eritiyor. Tablo sütunları: madde, kütle, erime sıcaklığı, erime ısısı, gerekli ısı, erime süresi.
+- Soru 1 (SB1, değişkenleri belirleme): "'Gerekli Isı' sütunundaki veriler hangi iki sütunla ilişkilidir?" Doğru cevap: Kütle ile Erime Isısı. Çeldiriciler ilgisiz sütun çiftleridir (erime süresi, erime sıcaklığı).
+- Soru 2 (SB3, veriyi yorumlama): Aynı kütledeki maddelerin erimesiyle ilgili yorumlardan hangisi doğrudur? Seçenekler tablodan karşılaştırma ister (en kısa ya da en uzun süre, hangisine daha çok ısı gerekir).
+- Dikkat: Tabloda erime sıcaklığı gibi çözümde kullanılmayan ama ilgili görünen bir sütun da var. Bu, "çok katmanlı bağlam" ilkesinin uygulamasıdır.
+
+**Bağlam 2, NOAA durgun su basıncı ölçümleri** (FİZ.9.3.2): Gerçek bir kurumun (NOAA) yayımladığı ölçümler anlatılır; ρ = 1000 kg/m³, g = 9,8 m/s², P = ρ·g·h verilir. Tabloda 5, 10 ve 20 m derinlikteki basınç artışı yer alır.
+- Soru 1 (SB1): Basınca etki eden etmenler hangileridir? Çeldiriciler kavram yanılgılarından seçilmiştir: kabın şekli, akış hızı, kabın genişliği, yüzey alanı.
+- Soru 2 (SB3): 15 m'deki basınç artışı kaç Pa'dır? Tablodaki değerler arasından ara değer bulunur (veriye dayalı tahmin). Doğru cevap 147 000 Pa (kodla doğrulandı). Web kopyasında bu şık "467 000" olarak bozuk okunmuş; diğer şıklar 73 500, 98 000, 196 000 ve 245 000.
+- Soru 3 (SB3): Aynı derinlikte, biri kayaya yakın biri açıkta olan iki noktanın basıncı karşılaştırılır. Doğru cevap: Basınçlar eşittir. Çeldiriciler "yüzeye yakınlık basıncı değiştirir" yanılgısını farklı yönlerden işler.
+
+Bu örneklerden bizim için çıkan kalıplar:
+- **Tablodan değişken eşleştirme:** "Hangi sütunla ilişkilidir?"
+- **Tablodan ara değer ya da oran bulma.**
+- **Aynı derinlik, farklı çevre:** Bir yanılgıyı farklı yönlerden işleyen beş çeldirici.
+- Gerçek kurum ve gerçek ölçüm bağlamı kullanılır (NOAA yerine Türkiye'den bir kurum seçilebilir: MGM, AFAD, TÜBİTAK, DSİ).
+
+## 15. Öğrenci görüşmelerinden çıkan ek ilkeler (Mart 2026 kopyası, 3.5.2)
+
+- Öğrencilerin bir kısmı bazı soruları bağlama hiç bakmadan çözebildi. Bu yüzden soruların **bağlama bağımlılığı güçlendirilir.**
+- Öğrenciler genellikle önce kökü okuyup bağlamda neye bakacaklarını seçiyor. Bu nedenle çeldiriciler basit bilgi yanlışı değil, **muhakeme hatası ya da eksik analiz** olmalıdır. Öğrenci bir seçeneği "bilgi yanlış" diye değil, "çıkarım bağlamdaki veriyle uyuşmuyor" diye elemelidir.
+- **Soru, bağlamdaki tek bir cümleyi bularak çözülmemelidir.** Öğrenci birden fazla veriyi birbirine bağlayarak sonuca ulaşmalıdır.
+- Seçenekler **kısalık ve uzunluk bakımından homojen** olur. Uzun seçenekler okuma yükü yaratır.
+- Metinle ilişkisiz seçenek, eleme yoluyla doğruyu kolay buldurur. Çeldiriciler bağlamla ilişkili olmalıdır.
+- Doğru seçenek dil, uzunluk ya da kuruluş biçimiyle diğerlerinden ayrışmamalıdır.
+- Uzun metin ve yoğun görsel, soru çözülebilir olsa bile öğrencide "zor" algısı yaratıyor ve motivasyonu düşürüyor. **Dilsel sadelik** esastır: yabancı terim ve karmaşık üslup kullanılmaz, gereksiz sözcük olmaz.
+- Soru, alan bilgisinden uzaklaşıp genel kültür, kelime bilgisi ya da okuma hızı ölçer hale gelmemelidir.
+- **Güncel, gerçek ve hayatın içinden** bağlamlar ilgi ve merakı artırıyor (kılavuzdaki örnekler: Doğu Ekspresi, iklim değişikliği). Yapay kurgu yerine bunlar seçilir.
