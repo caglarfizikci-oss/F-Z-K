@@ -155,7 +155,8 @@ Program her ünitede şu sırayı kullanır. Konu anlatımlarımız da bu iskele
 - Boşluk doldurma ve doğru-yanlış (D/Y, Evet/Hayır tabloları dahil) **hiç** kullanılmaz.
 - Sağ sütunda öğrencinin cevabı kendisinin yazdığı açık uçlu ya da kısa cevaplı soru yoktur; bunlar şıklı türe dönüştürülür. Hesap sorularında sonuç şıklardan seçilir.
 - Pekiştirme sayfası, çalışma yaprağı ya da benzeri ayrı alıştırma sayfası **hiç** yapılmaz; eski bölümlerde varsa silinir (silinen kısım depoda saklanır).
-- "Kendimizi deneyelim" gibi konu anlatımı içine konan soru ve alıştırma kutuları da kullanılmaz (kullanıcı kararı, 2026-11-22). Konu anlatımı yalnız anlatım, şekil, tablo, AKTİF NOT ve Dikkat kutularından oluşur; sorular Örnek ve Soru sayfalarında yer alır.
+- "Kendimizi deneyelim" gibi konu anlatımı içine konan soru ve alıştırma kutuları da kullanılmaz (kullanıcı kararı, 2026-11-22). Konu anlatımı anlatım, şekil, tablo, AKTİF NOT ve Dikkat kutularından oluşur.
+- **Konu anlatımında boş yer kalırsa** kısa, 5 şıklı bir soru eklenir (2026-11-22). Kutusuz, "Soru" etiketiyle (`#00AEEF`) ve şekilli yazılır; cevabı sayfa altındaki açık mavi cevap şeridinde verilir. Bu, aşağıdaki "boş kalan yer kısa şıklı sorularla doldurulur" kuralının konu anlatımı sayfalarındaki uygulamasıdır.
 
 ### Bağlam sorusu düzeni (2026-11-18; 2026-11-21)
 - Bağlam ayrı soru sayfası olarak yazılmaz. Bağlam sol sütunda **Örnek** olarak verilir ve çözümü solda adım adım yapılır. Sağ sütunda aynı bağlamla ilgili 2 ya da 3 soru sorulur.
