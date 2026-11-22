@@ -120,11 +120,39 @@ Sorgulama bağlamı her konuya zorla yerleştirilmez. Olgusal bilgi ve basit iş
 
 ## 10. Bağlam temelli soru yazım süreci (akış)
 
+### 10.1. Yazım akışı (kılavuz 2.4, s. 20)
 1. Hedef netleştirilir: beceri, öğrenme çıktısı ve süreç bileşeni belirlenir.
 2. Gerçekçi bir bağlam oluşturulur.
 3. Süreç bileşenleri bağlama yerleştirilir.
 4. Doğru cevap ve çeldiriciler kurulur; bilenle bilmeyeni ayıracak seçenekler yazılır.
 5. Bağlamın işlevselliği test edilir: "Bağlam olmadan soru çözülüyor mu?" Cevap evet ise 2. adıma dönülür.
+
+### 10.2. Sekiz adımlı denetim akışı (kılavuz 3.1, s. 25)
+Her soru yazıldıktan sonra bu sırayla denetlenir. Bir adımda olumsuz cevap çıkarsa süreç durur ve o adım düzeltilir.
+
+| Adım | Denetim sorusu | Olumsuzsa yapılacak |
+|---|---|---|
+| 1 | Öğrenme çıktısı belirlendi mi? | Soru yazımına başlanmaz. |
+| 2 | Hedef beceri net mi? | Beceri tanımı gözden geçirilir. |
+| 3 | Süreç bileşeni belirlendi mi? | Soru yazımı ertelenir. |
+| 4 | Davranış göstergesi ölçülebilir mi? | Gösterge yeniden tanımlanır. |
+| 5 | Bağlam çözüm için zorunlu mu? | Bağlam sadeleştirilir ya da çıkarılır. |
+| 6 | Okuma yükü bilişsel yük üretiyor mu? (evetse sorun) | Bağlam yeniden düzenlenir. |
+| 7 | Çeldiriciler süreç hatasına dayanıyor mu? | Çeldiriciler yeniden tasarlanır. |
+| 8 | Madde diğer maddelere ipucu veriyor mu? (evetse sorun) | Madde ya da bağlam yeniden kurgulanır. |
+
+Sekiz adımdan geçen madde denetime gönderilir. Bizde denetim, kodla cevap kontrolü (assert) ve kullanıcı onayıdır.
+
+### 10.3. Soru tasarımı denetim rehberi (kılavuz 3.5.3, s. 36)
+Öğrencinin verebileceği geri bildirimden hareketle kusur bulunur ve düzeltilir:
+
+| Öğrenci ne der? | Kusur | Düzeltme |
+|---|---|---|
+| "Bağlamı okumadım, cevabı zaten biliyordum." | **Bağlam işlevsizliği:** Bağlam çıkarılınca hiçbir kayıp olmuyor. | Bağlam değiştirilir; cevap bağlamdaki metne, veriye ya da grafiğe bağımlı hale getirilir. |
+| "Cevabı bulamadım ama B daha ayrıntılı yazılmış, B dedim." | **Yapısal ipucu:** Doğru seçenek daha uzun, ayrıntılı ya da daha profesyonel dille yazılmış. | Seçenekler homojen yapılır: benzer uzunluk ve yapı. |
+| "Bir kelimenin anlamını bilmediğim için çözemedim." | **Hedef dışı kelime zorluğu:** Soru beceri yerine kelime bilgisini ölçüyor. | Kelime teknik bir terim değilse daha yaygın bir eş anlamlısıyla değiştirilir. |
+| "Grafik çok karışık, nereye bakacağımı bilemedim." | **Gereksiz bilişsel yük:** Görsel karmaşık ya da çözümle ilgisiz ayrıntı içeriyor. | Grafik sadeleştirilir; süs, renk ve gereksiz veri çıkarılır. |
+| "Bağlamda A deniyor ama seçeneklerde A yok, kafam karıştı." | **Sorunun kapalı olması (belirsizlik):** Ulaşılacak sonuç aşırı gizlenmiş, soru bilmeceye dönmüş. | Çıkarım basamağı daha net verilir, belirsizlik giderilir. |
 
 ## 11. Kontrol listesi (kılavuzun Tablo 1'i; her bağlam ve soru için)
 
@@ -198,7 +226,7 @@ Ortak özellikler:
 - **Veri tablosu:** Değişken eşleştirme, tablodan karşılaştırma ve ara değer bulma.
 - **Tek yanılgı, beş yüz:** Bir kavram yanılgısını dört farklı biçimde işleyen çeldiriciler.
 
-## 15. Öğrenci görüşmelerinden çıkan ek ilkeler (Mart 2026 kopyası, 3.5.2)
+## 15. Öğrenci görüşmelerinden çıkan ek ilkeler (kılavuz 3.5.2; Ocak ve Mart baskılarında aynı)
 
 - Öğrencilerin bir kısmı bazı soruları bağlama hiç bakmadan çözebildi. Bu yüzden soruların **bağlama bağımlılığı güçlendirilir.**
 - Öğrenciler genellikle önce kökü okuyup bağlamda neye bakacaklarını seçiyor. Bu nedenle çeldiriciler basit bilgi yanlışı değil, **muhakeme hatası ya da eksik analiz** olmalıdır. Öğrenci bir seçeneği "bilgi yanlış" diye değil, "çıkarım bağlamdaki veriyle uyuşmuyor" diye elemelidir.
