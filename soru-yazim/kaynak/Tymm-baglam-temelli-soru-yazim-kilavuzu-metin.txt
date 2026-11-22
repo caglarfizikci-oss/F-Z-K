@@ -1,0 +1,2775 @@
+TÜRKİYE YÜZYILI MAARİF MODELİ BAĞLAM TEMELLİ ÇOKTAN SEÇMELİ SORU YAZIM KILAVUZU
+
+2
+
+GENEL YAYIN YÖNETMENİ
+
+Halil İbrahim TOPÇU
+
+Ebubekir Sıddık SAVAŞÇI
+
+Dr. Yasin Elçi
+
+YAYIN KOORDİNATÖRLERİ
+
+Dr. Bilgen KERKEZ
+
+Dr. Mustafa KANDIRMAZ
+
+EDİTÖR
+
+Prof. Dr. Nuri DOĞAN • Hacettepe Üniversitesi
+
+YAZARLAR
+
+Arş. Gör. İsa KOYUNCU • Hacettepe Üniversitesi
+
+Leyla Burcu DİNÇSOY • MEB
+
+Osman DANIŞMAN • MEB
+
+DİL UZMANI
+
+Fulya KIZILOK • MEB
+
+GÖRSEL TASARIMCI
+
+Mehmet MEŞE • MEB
+
+ISBN:
+
+Ocak, 2026
+
+KATKI SAĞLAYANLAR
+
+Dr. Ayşe Gül Özbilen Dr. Burcu Demiröz Dr. Emine Serap Djaballah Dr. Fatma Zehra İçigen Dr. Gülten Sakarya Erkek Dr. Harun Dilek Dr. Hasan Nasirci Dr. Kevser Kara Dr. Kubilay Ünsal Dr. Mahmet Erdem Dr. Mehmet Koca Dr. Mustafa Topu Dr. Nebile Eroğul Dr. Oğuz Kalafat Dr. Özge Göktürk Dr. Şeref Yiğit Akpinar Dr. Sibel Kadioğlu Dr. Yunus Özkul Araş. Gör. Aybüke Doğaç Araş. Gör. Emre Yaman Araş. Gör. Semih Topuz Araş. Gör. Tuğay Kaçak Abdullah Aydin Adem Güneş Ahmet Aslan Ahmet Çilingir Ahmet Kahya Ahmet Özen Ahmet Soyuer Akif Çevik Ali Aydin Alim Altunkaynak Alper Yildiz Arif Akkaya Arife Yilmaz Ayça Akin Erdem
+
+Aydin Sellioğ Aykut Pekince Aysel Eroğlu Aysun Yilmaz Bahriye Develioğlu Berna Korkut Betül Gürüncüoğlu Betül Sena Alabey Beyza Günay Şiren Burcu Demiröz Burcu Varli Burhan Sinan Çamyar Büşra Akyüz Cem Erdebil Çağri Kani Deniz Çitak Dilek Berber Döndü Karaca Duygu Çelik Duygu Saykan Yildirim Duygu Yilmaz Ebru Karataşoğlu Şenkoş Ebru Köse Eflak Malgaca Vargel Elif Albayrak Elif Ay Emanet Elif Güngör Elif Saadet Kirbiyik Elif Yildiz Özenç Emel Aksan Emine Etkü Emine Karahan Emrullah Baştuğ Engin Bezirkan Ensari Yavuz Esra Doğan
+
+Eyyüp Kayaci Faruk Gökalp Yilmaz Faruk Sözen Fatma Keleş Fatma Tomris Yolcu Fatma Zerrin Görgün Feraye İdil Fidan Yavuz Figen Sarigül Filiz Çinarbay Filiz Kaya Kul Fulya Kizilok Gökçe Civil Yilmaz Gözde Atik Gözde Köprülü Gökçen Akyildirim Gül Koç Gülhanim Tulum Gülnaz Subaşi Gurbet Filazi Gürkan Semiz Halil İbrahim Özden Hanife Tekeli Akdemir Harun Dilek Havva Aldemir Emek Havva Nur Altaş Hayati Güler Hediye Aslan Hilmi Zambak Hülya Erdul Hülya Yeşiltaş Hüseyin Ayhan İbrahim Karasu İlker Demir İlknur Keskin İpek Gündüz Çetin
+
+3
+
+4İpek Yiğit İrfan Akar İrfan Metin Coşkunoğlu İsmail Gürüncüoğlu Kadir Duru Kadir Eker Kamile Kirbaş Kenan Türkez Kevser Çetin Korhan Yilmaz Levent Şen Leyla Akin Lütfü Tunç Mehmet Çiçen Mehmet Karaoğlan Mehmet Korkut Mehmet Meşe Mehmet Oruç Mehmet Uçgun Mehtap Yildiz Melike Güney Melis Hatun Savaş Tihni Melis Paksoy Bekcan Mert Çetinkaya Merve Ereli Merve Kaya Meryem Sonkaya Metin Candemir Metin Ulusoy Mihrican Odabaşi Muammer Karaca Muhammet Raşit Güzel Murat Akpinar Murat Çinici Müslüm Yildiz Mustafa Albaş Mustafa Özdamar
+
+Mustafa Salih Gündaş Mustafa Yeşilkaya Nergiz Saritaş Neslihan Biçer Kurt Nesrin Şirin Nezir Torul Nihan Akyön Nuray Özgüner Nurcan Sezer Nurgül Kendirlioğlu Nurten Kule Nurullah Balşen Oktay Okumuş Ömer İpek Osman Danişman Özgün Özaşik Özgür İsmail Mangir Özgür Zeynep Taciroğlu Özlem Kavakli Özmen Akça Ramazan Demirci Raşit Düzgün Reşat Selek Şafak Cansu Cirit Salih Göcen Salih Göcen Saliha Nur Ekrem Saliha Özdeğirmenci Samet Eker Sami Demirbağ Seda Gündüz Tülay Selahattin Çekcen Serkan Akin Serkan Pala Serpil Çakir Serpil Özşen Seval Şahin
+
+Sevgi Bayrak Sevgi Tutumlu Şeyda Bozarslan Şeyma Yildiz Sezin Güneş Soner Cirik Sümeyye Aslan Suna Kaya Tahsin Findik Tamer Aslan Timur Kumbar Tuba Ulusoy Tuğba Arik Tuğba Demir Tuğba Gülşen Hür Tuğba Özkan Tuğrul Ciğal Tuncay Gökmen Palulu Turan Şahin Turan Sinan Çelebi Ufuk Yildirimer Ülke Semra Düzenli Vatansever Vesile Güllü Yağmur Tunç Bostanci Yalçin Efe Yildiz Yildirim Görgülü Yunus Emre Lazaloğlu Yunus Seylan Yusuf Mehmet Bağci Zafer Gülsar Zafer Ocak Zahide Nur Gümüş Zeynep Can Zuhal Aydin Zülfiye Beril Şerbetçioğlu
+
+İÇİNDEKİLER
+
+1\. BÖLÜM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+1.1. GİRİŞ .................................................................7
+
+2\. BÖLÜM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+2.1. TÜRKİYE YÜZYILI MAARİF MODELİ’NDE ÖLÇME VE DEĞERLENDİRME YAKLA- ŞIMI VE BECERİLERİN ÖLÇÜLMESİ ..........................................8
+
+2.2. BİLGİ VE BECERİ NEDİR? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+
+2.2.1. Öğrenme Çıktılarında Bilgi ve Becerilerin Bütünleşik Yapısı . . . . . . . . . . . . . . . . . . . . 12
+
+2.3. BAĞLAM TEMELLİ SORU NEDİR? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+2.4. TYMM BAĞLAM TEMELLİ SORU YAZIM SÜRECİ . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+2.4.1. Otantik Bağlamın Kurgulanması . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+2.4.2. Süreç Bileşenlerinin Bağlama Entegrasyonu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+2.4.3. Soru Kökü ve Seçeneklerin Oluşturulması . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+2.4.4. Bilişsel Yük ve Dilsel Yetkinlik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+
+2.4.5. Soru Yazımına Yönelik Kontrol Listesi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+
+2.5. BAĞLAM TEMELLİ SORU YAZIMINDA SIK YAPILAN HATALAR . . . . . . . . . . . . . 20
+
+2.5.1. Bağlam Hataları . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .20
+
+2.5.2. Soru Kökü Hataları . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+2.5.3. Seçenek ve Çeldirici Hataları . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+
+2.5.4. Görsel Tasarım ve Bilişsel Yük Hataları . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23
+
+2.6. SORU YAZIM FORMU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24
+
+3\. BÖLÜM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+3.1. BECERİ TÜRLERİNE GÖRE SORU YAZIM STRATEJİLERİ . . . . . . . . . . . . . . . . . . . 25
+
+3.2. ÜST DÜZEY DÜŞÜNME BECERİLERİ NASIL ÖLÇÜLÜR? . . . . . . . . . . . . . . . . . . . 26
+
+3.3. BÜTÜNLEŞİK BECERİLER NASIL ÖLÇÜLÜR? . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+3.4. ALAN BECERİLERİ NASIL ÖLÇÜLÜR? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+
+3.5. BİLİŞSEL GÖRÜŞME (SESLİ DÜŞÜNME) PROTOKOLÜ . . . . . . . . . . . . . . . . . . . . . 30
+
+3.5.1. Uygulama Adımları . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+5
+
+63.5.2. Bilişsel Görüşme Sonucu Öneriler . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .33 3.5.3. Soru Tasarımı Denetim Rehberi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .36
+
+4\. BÖLÜM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+
+4.1.1. Türkçe Dersi Örnek Sorular . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+
+4.1.2. Ortaokul Matematik Dersi Örnek Sorular . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .46
+
+4.1.3. Fen Bilimleri Dersi Örnek Sorular . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+
+4.1.4. Sosyal Bilgiler Dersi Örnek Sorular . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+
+4.1.5. Temel Eğitim Din Kültürü ve Ahlak Bilgisi Dersi Örnek Sorular . . . . . . . . . . . . . . . . . .63
+
+4.1.6. Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Örnek Sorular . . . . . . . . . . . . . . . . . . 67
+
+4.1.7. Ortaöğretim Matematik Dersi Örnek Sorular . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+
+4.1.8. Coğrafya Dersi Örnek Sorular . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+
+4.1.9. Tarih Dersi Örnek Sorular . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .95
+
+4.1.10. Türk Dili ve Edebiyatı Dersi Örnek Sorular . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+
+4.1.11. Biyoloji Dersi Örnek Sorular . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .115
+
+4.1.12. Kimya Dersi Örnek Sorular . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
+
+4.1.13. Fizik Dersi Örnek Sorular . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+
+KAYNAKÇA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+
+1\. BÖLÜM
+
+1.1. GİRİŞ
+
+Türkiye Yüzyili Maarif Modeli (TYMM) ile eğitim sistemimizde gerçekleşen öğretim programi değişikliği, ölçme ve değerlendirme yaklaşimlarinda da yapisal bir dönüşümü zorunlu kilmiştir. Öğrenci ne biliyor?” sorusunu, “öğrenci bildiğiyle ne yapabiliyor?” sorusuyla bütünleştiren bu modelin geçerli biçimde uygula- nabilmesi için, teorik ilkelerin ölçülebilir göstergelere dayali standartlaştirilmiş soru formatlarina dönüştü- rülmesi gerekmektedir. Bu kilavuz, söz konusu dönüşümün sinav materyallerine yansimasini standartlaş- tirmak ve soru yazarlari için teknik bir kaynak oluşturmak amaciyla hazirlanmiştir.
+
+Kilavuzun öncelikli hedeflerinden biri, soru ve ders kitabi yazarlari ile öğretmenlerin TYMM’deki öğrenme çiktilarinin temelini oluşturan kavramsal beceriler ile alan becerilerinin doğru ve güvenilir bir şekilde ölçül- mesine yönelik soru yazma yeterliklerini geliştirmektir. Bu doğrultuda kilavuzda uygun bağlam seçiminden çok adimli problem durumlarinin kurgulanmasina kadar olan geliştirme aşamalari ele alinmiştir. Ayrica su- nulan formlar ve bağlamlar ile otantik ölçme görevlerinin tasarim sürecinin kolaylaştirilmasi, bu yaklaşimin benimsenmesinin teşvik edilmesi ve üretim sürecinin standartlaştirilmasi amaçlanmaktadir.
+
+Bu kilavuz, gerçekleştirilen pilot uygulamadan elde edilen veriler ile “bilişsel görüşme” (öğrencilerle ya- pilan sesli düşünme protokolleri) sonuçlari temel alinarak oluşturulmuştur. Dokümanda yer alan öneriler ve kontrol listeleri; sahadaki uygulamalarda karşilaşilan yapisal kusurlari gidermek ve geçerli, güvenilir, standart bir ölçme dili oluşturmak amaciyla hazirlanmiş yönergelerdir. TYMM’de yer alan bütün kavramsal beceriler ile alan becerilerine yönelik birer örnek oluşturulmasi kilavuzun içerik yükünü artiracağindan, kilavuzda yer alan örnekler pilot sinav uygulamasinda ele alinan problem çözme, sorgulama ve seçilen alan becerileri üzerinden yapilandirilmiştir.
+
+Kilavuzda yer alan uygulama adimlari ve örnekler; pilot çalişmalari tamamlanmiş ve psikometrik özellikleri saha verileriyle kanitlanmiş olan problem çözme, sorgulama ve seçilen alan becerileri üzerine yoğunlaşmiş olsa da TYMM beceri setinde yer alan eleştirel düşünme, karar verme ve diğer becerilerin ölçülmesi de bu- rada sunulan “Bağlam Temelli Soru Yazim Yaklaşimi”na dayandirilabilir. Dolayisiyla bu doküman, sadece adi geçen beceriler için değil, modelin hedeflediği tüm becerilerin ölçülmesi için bir çerçevedir.
+
+Kilavuz, TYMM’nin sahip olduğu bütüncül eğitim yaklaşiminin ölçme ve değerlendirme süreçlerine hâkim olmak isteyen tüm eğitim paydaşlari için yazilmiştir. Ölçme ve değerlendirme süreçlerinde bilgi odakli yak- laşimlarin ötesine geçilmesini hedefleyerek bağlam temelli, gerçek yaşamla ilişkili ve becerileri harekete geçiren nitelikli değerlendirme uygulamalarinin geliştirilmesine rehberlik etmesi beklenmektedir. Kilavuz- da bağlam seçimi, bilişsel düzeylerin yapilandirilmasi, özgün değerlendirme görevlerinin tasarlanmasi ve kalite güvencesi mekanizmalarinin işletilmesi gibi ölçme sürecinin aşamalarina yönelik bütüncül bir çerçe- ve sunulmaktadir. Bu bütüncül çerçeve ile öğrencilerin yalnizca ne bildiklerini değil, bildiklerini gerçek ya- şam durumlarini içeren bağlamlarda ve nasil kullanabildiklerini ortaya koyan bir değerlendirme anlayişinin eğitim ortamlarinda tutarli sürdürülebilir biçimde hayata geçirilmesini amaçlanmakta; bu yönüyle öğretim, değerlendirme ve materyal geliştirme süreçlerinde görev alan farkli paydaş gruplarina doğrudan rehberlik etmesi beklenmektedir.
+
+Bu kapsamda öğretmenler, kilavuzda sunulan ilke ve örnekler doğrultusunda sinif içi değerlendirme uygu- lamalarini bağlam temelli bir yaklaşimla yapilandirma yetkinliğini artirabilecek; soru yazarlari, merkezî ve okul tabanli değerlendirmeler için nitelikli, geçerli ve güvenilir sorular geliştirme sürecinde kilavuzu temel bir referans kaynaği olarak kullanabilecek; ders kitabi yazarlari ise bağlam odakli ölçme etkinliklerini öğ- retim materyallerine sistematik biçimde entegre etmeye yönelik somut strateji ve örneklerden yararlana- bilecektir.
+
+7
+
+82\. BÖLÜM 2.1. TÜRKİYE YÜZYILI MAARİF MODELİ’NDE ÖLÇME VE DEĞERLENDİRME YAKLAŞIMI VE BECERİLERİN ÖLÇÜLMESİ
+
+Yaşadiğimiz yüzyilda toplumsal, ekonomik ve teknolojik dinamiklerin hizla dönüşmesi, eğitim sistemlerinin yalnizca bilgi aktarimina odaklanan klasik yapisinin yeniden şekillendirilmesini gerektirmiştir. Bireylerin toplum ve iş hayatinda başarili olabilmeleri için problem çözme, eleştirel düşünme, iletişim ve iş birliği gibi çağin gerektirdiği becerilere sahip olmalari bir zorunluluk hâline gelmiştir. Dijital dönüşüm ve yapay zekâ gibi teknolojik gelişmeler, öngörülmesi güç bir geleceğe hazirlanan öğrencilerin yalnizca ne bildiklerini de- ğil, bildiklerini nasil kullandiklarini da ortaya koyabilmelerini gerektirmektedir. Bu yönüyle eğitim, bireylerin bilgiye erişiminin ötesinde, bilgiyi anlamlandirma ve gerçek yaşam durumlarina transfer etme yeterliklerini geliştiren bir süreç olarak yeniden tanimlanmaktadir. Bu anlayiş değişimi, öğretim programlarinin içerik odakli yapisindan beceri temelli bir çerçeveye dönüşümünü zorunlu kilmiştir. Ülkelerin politika belirleyici- leri, araştirmacilar ve eğitim kuruluşlari; öğrencilerin sahip olmasi gereken becerileri tanimlama, beceri çerçeveleri oluşturma ve bunlari öğretim programlarina entegre etme yönünde çeşitli çalişmalar yürüt- mektedir.
+
+Türkiye’de bu doğrultuda 2024 yilindan itibaren hayata geçirilen TYMM, öğrencinin bilgiyi ürettiği, becerile- rini geliştirdiği ve topluma katki sağladiği bütüncül bir yapi sunmaktadir. Bu modelde eğitim; zihinsel, sos- yal, duygusal ve fiziksel gelişimi kapsayan çok yönlü bir süreç olarak ele alinmaktadir (MEB, 2025). TYMM kapsaminda öğrencilerin çok yönlü gelişimini destekleyen eğilimler ve kavramsal, alan, okuryazarlik ve sosyal-duygusal öğrenme becerileri esas alinmiştir. Bu modele dayali olarak K-12 düzeyinde tüm derslerde öğretim programlari güncellenmiştir. TYMM öğretim programlari; “öğrenme çiktilari ve süreç bileşenleri”, “içerik çerçevesi”, “öğrenme kanitlari (ölçme ve değerlendirme)”, “öğrenme-öğretme yaşantilari”, “farklilaş- tirma” ve “öğretmen yansitmalari” olmak üzere alti temel bileşenden oluşmaktadir.
+
+TYMM öğretim programlarinda “kazanim” terimi yerine içerik ve becerinin bütünleştiği “öğrenme çiktilari” kavrami getirilmiştir. Öğrenme çiktilari, kavramsal veya alan becerileri ile içerik çerçevesinin birleştirilme- siyle oluşturulmuş ve süreç bileşenlerine göre aşamalandirilmiştir (MEB, 2025). TYMM’de ölçme ve değer- lendirme yaklaşimi, hem TYMM Öğretim Programlari Ortak Metni’nde hem de her alan için “Öğretim Progra- minin Temel Yaklaşimi” alt başliğinda açiklanmiştir. Ayrica tüm öğretim programlarinda “Öğrenme Kanitlari (Ölçme ve Değerlendirme)” başliği altinda ilgili tema/ünite/öğrenme alanindaki öğrenme çiktilarina yönelik ölçme ve değerlendirme araçlari önerilmiştir. Önerilen ölçme ve değerlendirme araçlarinin öğretim süre- cinde nasil uygulanacaği “Öğrenme-Öğretme Uygulamalari” alt başliğinda açiklanmiştir.
+
+TYMM’de ölçme ve değerlendirme yaklaşiminda amacina göre değerlendirme türleri arasinda bir dengenin sağlanmasi gerektiği vurgulanmiş ayrica öğrenmeleri iyileştirmek amaciyla biçimlendirici değerlendirme- nin kullanilmasi önerilmiştir (MEB, 2025). TYMM’nin süreç odakli ölçme yaklaşimi, Black ve Wiliam (1998) tarafindan çerçevesi çizilen “öğrenme için değerlendirme” (assessment for learning) ilkeleriyle paralellik gösterir. Bu yaklaşimda ölçme sonucu, sadece öğrenme sürecinin sonundaki bir çikti değil, öğrenciye sü- rekli ve nitelikli geri bildirim sağlayan pedagojik bir müdahale aracidir. Shepard (2000)’in belirttiği üzere bu tür bir değerlendirme döngüsü, öğrencilerin üst bilişsel farkindaliklarini artirarak kendi öğrenme süreçle- rini yönetmelerine olanak tanir. Kilavuzda sunulan bağlam temelli sorular, sadece sonuç odakli bir başari puani üretmekten ziyade, öğrencinin bilişsel süreç bileşenlerindeki gelişimini izlemeyi hedeflemektedir. Biçimlendirici değerlendirme; öğretme ve öğrenme sürecinde hem öğretmen hem de öğrenci tarafindan, hedeflenen öğrenme çiktilarina yönelik anlayişi geliştirmek ve öğrencinin öz-düzenleme (self-regulation)
+
+2\. BÖLÜM
+
+becerilerini desteklemek amaciyla öğrenme kanitlarinin sistematik olarak ortaya çikarilmasi ve kullanil- masi sürecidir (Heritage, 2007). Bu kavramsal çerçeveyle uyumlu olarak TYMM öğretim programlarinda “geriye doğru tasarim” (backward design) ilkesi temel alinmiştir (Wiggins ve McTighe, 2005). Bu ilke uyarin- ca, öğrenmenin değerlendirilmesi için gerekli olan kanitlar, henüz öğretim yaşantilari planlanmadan önce stratejik olarak belirlenir. Belirlenen bu kanitlar, öğretimin doğasini doğrudan şekillendirerek sürecin he- deflenen çiktilara odakli bir biçimde yapilandirilmasini sağlar. Bu yaklaşimin bir gereği olarak TYMM öğre- tim programlarinda “Öğrenme Kanitlari” bölümü, içerik çerçevesi ile öğrenme yaşantilari arasinda konum- landirilmiştir. Böylece ölçme ve değerlendirme, öğretim sürecinin sonunda not vermeye odakli statik bir etkinlik olmaktan çikarilarak, sürecin doğal ve planli bir bileşeni haline getirilmiştir. Temel amaç; öğrenme süreçlerinin anlik ve periyodik olarak izlenmesi, öğrenme çiktilarina ilişkin kanitlarin toplanmasi ve öğren- ciye güçlü ve geliştirilmesi gereken yönlerini ifade eden nitelikli ve betimleyici geri bildirimler sunulmasidir.
+
+Becerilerin öğretim programlarinin merkezine yerleşmesi, bu yetkinliklerin edinim düzeylerinin geçerli, güvenilir ve sistematik biçimde ölçülmesini bir zorunluluk hâline getirmiştir. Buna karşin becerileri ölçmek, bilgi ve kavram gibi daha yalin zihinsel bileşenleri ölçmekten çok daha güç bir süreçtir. Bu zorluğun temel kaynaği, becerilerin çok boyutlu ve gelişimsel doğasi nedeniyle gözlemlenen performansin yalnizca bil- gi hatirlamadan mi yoksa karmaşik bir beceri kullanimindan mi kaynaklandiğini ayriştirmanin güçlüğüdür (Care ve Kim, 2018). Bu bağlamda TYMM’de her alan için tanimlanan bilgi ve becerilerle bütünleşik oluştu- rulmuş öğrenme çiktilarini ve süreç bileşenlerini yansitan özgün görevlerin nasil tasarlanacaği, öğrenci performansinin hangi ölçütlerle puanlanacaği ve elde edilen sonuçlarin öğrenme-öğretme sürecine nasil dâhil edileceği gibi sorular, bağlam temelli değerlendirme gündeminin en önemli başliklaridir. Bu kapsam- da öğretim programlarinin öğrenme kanitlari başliği altinda, her öğrenme çiktisina yönelik en az bir ölçme ve değerlendirme aracina yer verilmiştir. Bu araçlar öğrenme-öğretme sürecinin doğal bir parçasi olarak yapilandirilmiş, öğrencilerin farkli öğrenme biçimleri ve bireysel özellikleri dikkate alinarak çeşitlendiril- miştir. Ayrica her ünite, tema veya öğrenme alani için en az bir performans görevi verilmesi ve bu görevle- rin, ölçütlerin ayrintili olarak belirlendiği değerlendirme araçlariyla izlenmesi esas alinmiştir.
+
+TYMM’de ölçme ve değerlendirme, öğrencinin gelişiminin incelenmesi, öğrenme çiktilarina ulaşilip ulaşil- madiğinin izlenmesi amaciyla öğretim süreciyle bütünleştiren bir anlayişla tasarlanmiştir. Bu tasarimda, öğrencinin gelişiminin süreç içinde izlenmesi esas olmakla birlikte, mevcut eğitim sistemindeki geniş öl- çekli sinavlarda da bu çiktilarin ölçülmesi ve değerlendirilmesi zorunlu bir ihtiyaçtir. Türkiye’de Liselere Giriş Sistemi (LGS) ve Yükseköğretim Kurumlari Sinavi (YKS) gibi geniş ölçekli sinavlar; katilimci sayisinin fazlaliği ile puanlama nesnelliği, adillik ve kullanişlilik gibi gerekçelerle ağirlikli olarak çoktan seçmeli so- rulara dayanmaktadir. İçerik ve becerilerden oluşan öğrenme çiktilarinin çoktan seçmeli sorularla nasil ölçüleceği bu noktada önem kazanmaktadir. Yorumlama ve karşilaştirma gibi becerilerden oluşan öğren- me çiktilarinin bu soru türü ile ölçülmesi görece daha kolay iken, problem çözme, sorgulama ve eleştirel düşünme gibi daha karmaşik üst düzey bilişsel süreç gerektiren becerilerin ölçülmesi farkli yaklaşimlar gerektirmektedir. Özellikle öğrenme çiktilarini oluşturan süreç bileşenlerinin sorulara nasil yansitilacaği konusunda stratejilerin belirlenmesine ihtiyaç duyulmaktadir.
+
+Becerilerin ölçülmesinde gerçek yaşam bağlamlari önemli bir yer tutmaktadir. Bu doğrultuda becerilerin çoktan seçmeli formatla ölçümünde bağlam temelli çoktan seçmeli sorularin kullanimi esas alinmiştir. Bu sorularda bir bağlamdan hareketle becerileri/öğrenme çiktilarini ölçmeye yönelik bir veya birden fazla çoktan seçmeli soru yer almaktadir. Bağlam temelli sorular; öğrencinin edindiği bilgileri daha önce karşilaşmadiği gerçek yaşam durumlarinda ya da karşilaşma olasiliği bulunan kurgusal senaryolarda kullanmasina, ilgili beceriyi veya öğrenme çiktisini edinme düzeyine karar verilmesine olanak tanimaktadir. Bağlamlarin gerçek yaşami yansitmasi, öğrencinin yakin veya uzak çevresinde karşilaşabileceği durumlardan seçilmesi, ilgisini çekecek ve ölçülmek istenen beceriyi harekete geçirecek nitelikte olmasi
+
+2.1. TÜRKİYE YÜZYILI MAARİF MODELİ’NDE ÖLÇME VE DEĞERLENDİRME YAKLAŞIMI VE BECERİLERİN ÖLÇÜLMESİ
+
+9
+
+10gerekmektedir. Ayrica bağlamlar öğrencinin gelişimine, sinif düzeyine ve içerik çerçevesine uygun biçimde yapilandirilmalidir. İçerikte gereksiz metin, görsel, tablo, grafik vb. unsurlar yer almamali ve öğrenciye gereksiz bir bilişsel yük yüklenmemelidir.
+
+Bağlam temelli çoktan seçmeli sorular hazirlanirken dikkat edilmesi gereken ilkeler bulunmaktadir.
+
+• Sorular mutlaka bağlamda yer alan içerikten hareketle çözülmeli, ayni bağlama dayali hazirlanan sorular birbirinin çözümüne ipucu oluşturmamalidir. Bu sorularda becerilerin/öğrenme çiktilarinin süreç bileşenleri ölçülmelidir.
+
+• Tek bağlam üzerinden becerinin/öğrenme çiktisinin tüm süreç bileşenlerini ölçen sorular yazilabilir ancak bu yaklaşim her durum için uygulanamayabilir. Bağlamin kapsami, süreç bileşenlerinin kar- maşikliği ya da bileşenler arasindaki ilişkisel veya hiyerarşik yapi bu durumun olasi nedenleri arasin- da sayilabilir. Bu noktada farkli stratejiler benimsenebilir.
+
+• Süreç bileşenlerinin farkli bağlamlar üzerinden ölçülmesi, mevcut bağlama ek bağlamlar eklenmesi, bazi süreç bileşenlerinin bağlam içinde verilerek diğerlerinin ölçülmesi ya da tek bir soruyla birden fazla süreç bileşeninin ölçülmesi bu stratejiler arasinda yer almaktadir.
+
+Becerilerin ölçümünde bir diğer tartişma konusu, yalnizca becerinin mi yoksa içerik bilgisiyle birlikte be- cerinin mi ölçüleceğidir. Literatürde bu konuya ilişkin bilgi bağimsiz (alan genel) ve bilgi bağimli (alan özgü) olmak üzere iki temel yaklaşim bulunmaktadir.
+
+Bilgi bağimsiz yaklaşim, herhangi bir konu alani sinirlamasi olmaksizin farkli problemlerin çözümünde kul- lanilabilecek geniş kapsamli strateji ve yetkinlikleri ifade etmektedir. Bu yaklaşima göre bir alanda edinilen bilişsel beceriler diğer alanlara transfer edilebilir niteliktedir. Ancak bu yaklaşima yönelik, genel becerilerin içerikten bağimsiz olarak öğretilmesinin etkisiz olduğuna dair eleştiriler bulunmaktadir. Örneğin bir kişi fizik alaninda yeterli bilgiye sahip olmadan fizik konularinda eleştirel düşünme becerisini harekete geçire- meyebilir. Bilgi bağimli yaklaşimda ise bilgi ve beceri iç içe geçmiş durumdadir, beceri içerikten bağimsiz olarak ele alinmamaktadir.
+
+Becerilerin ölçülmesinde kullanilan bağlam temelli soru yazimi kapsaminda hem bilgi bağimsiz yaklaşimi hem de bilgi bağimli yaklaşimi yansitan testler geliştirilmiştir. Bilgi bağimsiz yaklaşimin tercih edilmesinin birinci nedeni, TYMM’de tanimlanan bu becerilerin süreç bileşenleri arasindaki ilişkisel ve hiyerarşik yapinin içerikten bağimsiz olarak incelenmek istenmesidir. Bu becerilerin süreç bileşenlerinin birbiriyle nasil bir ilişki içinde olduğunun ve hangilerinin ön koşul niteliği taşidiğinin belirlenmesi, bağlam temelli değerlen- dirme için temel bir gerekliliktir. İkinci neden, hem bilgi bağimsiz hem de bilgi bağimli yaklaşimlarda soru yazma stratejilerinin belirlenmesinin hedeflenmesidir. Bunun yani sira her alan için, alan becerilerinin kul- lanildiği öğrenme çiktilarina yönelik bilgi bağimli yaklaşima dayali testler de geliştirilmiştir.
+
+Bu kilavuzda yer alan ilke ve stratejiler TYMM kapsaminda hazirlanan ve uygulanan pilot sinavdan elde edilen ampirik verilere dayanmaktadir. Pilot uygulamada, bağlam temelli kurgulanan çoktan seçmeli so- rularin, öğrencilerin sadece bilgi hatirlama düzeyini değil, ayni zamanda problem çözme, çikarim yapma gibi becerilerini de geçerli ve güvenilir bir şekilde ölçebildiği istatistiksel analizlerle incelenmiştir. Açik uçlu sorular ve performans görevleri süreç değerlendirmesi için vazgeçilmez olmakla birlikte; geniş ölçekli merkezî sinavlarda puanlama nesnelliğini sağlamak ve standartlaşmayi korumak adina bu kilavuzda, pilot çalişmada kullanilan “Bağlam Temelli Çoktan Seçmeli Soru” formatina odaklanilmiştir.
+
+2\. BÖLÜM
+
+2.2. BİLGİ VE BECERİ NEDİR?
+
+Ölçme ve değerlendirme açisindan bilgi ve becerinin ölçülmesi farkli yöntemler, teknikler ve soru türleri gerektirmektedir. Bu nedenle bilgi ve becerinin doğasina ilişkin anlayişi netleştirmekte yarar vardir. Bilgi- nin edinimi veya öğrenimi, eğitim süreçlerinin ve günlük yaşamin vazgeçilmez bir parçasidir. Türkiye Ye- terlikler Çerçevesi (TYÇ) kapsaminda “bilgi”; bir çalişma veya öğrenme alani ile ilgili gerçeklerin, ilkelerin, teorilerin ve uygulamalarin anlaşilmasini içeren kuramsal ve/veya olgusal bilgi olarak tanimlanmiştir (TYÇ, 2020). Psikolojide “bildirime dayali bilgi” (declarative knowledge) olarak adlandirilan bu kavram, zihinde or- ganize edilmesi gereken ve içeriğe bağli bir yapi olarak görülür.
+
+Winterton vd. (2006)’ya göre “nedenini bilmek” ile “ne olduğunu bilmek” arasinda ayrim yapilabilir. Nedenini bilmek (know-how) genellikle örtük bilgiyle, ne olduğunu bilmek (know-that) ise önerme bilgisiyle ilişkilen- dirilir ve bu, bildirimsel bilgi (ne olduğunu bilmek) ile işlemsel bilgi (nasil olduğunu bilmek) arasindaki ayrim- da yansitilir. Bu bakiş açisiyla, bildirimsel bilgiyi edinmenin, bilgiyi bağlam içinde kullanmakla ilgili olan pro- sedürel bilgiyi geliştirmeden önce gelmesi gerektiği siklikla savunulur (Winterton vd., 2006). Kisacasi bilgi, bireyin bir öğrenme alanina ilişkin gerçekleri, kavramlari, ilkeleri, kuramlari ve uygulamalari zihinsel olarak yapilandirmasi ve anlamlandirmasi yoluyla edindiği bilişsel içeriktir. Ölçme ve değerlendirme bağlaminda bilgi, bireyin bir alana ilişkin kavramlari, tanimlari, gerçekleri ve ilkeleri taniyabilmesi, hatirlayabilmesi, ayirt edebilmesi ve açiklayabilmesi yoluyla ortaya çikan bilişsel çiktidir.
+
+Modern eğitim anlayişinda bilginin sadece “edinilmesi” değil, ayni zamanda “kullanilmasi” da ön plana çik- miştir. Bilgi, becerinin ön koşulu olmakla birlikte, tek başina yeterli değildir; anlamli ve işlevsel hâle gelmesi, bilginin bağlam içinde kullanilmasini sağlayan beceriler yoluyla mümkündür. Bu aşamada “bilgiyi kullanma” boyutu, doğal olarak beceri kavramiyla ilişkilendirilir. Bilgi, beceriyi besleyen bir kaynak olmakla birlikte; beceriler, bilginin performans yoluyla görünür hâle geldiği ve somut ürünlere dönüştüğü alandir.
+
+Türkiye Yeterlikler Çerçevesi (2020) kapsaminda “beceri” bir çalişma veya öğrenme alaninda edinilen man- tiksal, sezgisel ve yaratici düşünme ile el becerisi, yöntem, materyal, araç ve gereçleri kullanabilmeyi ge- rektiren “bilgiyi kullanma” ve “problem çözme” olarak tanimlanmiştir. Son zamanlarda yapilan beceri araş- tirmalari, problem çözme ve karar verme gibi daha geniş bilişsel becerileri de içermekte olup, bu tür bilişsel yetkinlikleri beceri değil bilgi olarak değerlendirmenin zorluğunu ortaya koymaktadir. Beceri, pratik yoluyla edinilen ve az çaba ile gerçekleştirilen, hedefe yönelik, iyi organize edilmiş davraniş olarak tanimlanmiştir (Winterton vd., 2006).
+
+TYÇ, bilginin yalnizca edinilmesini ya da ezberlenmesini yeterli görmemekte; bilginin beceriyle bütünle- şik biçimde kullanilmasini merkeze almakta ve bu bütünleşik kullanimin performans yoluyla görünür hâle gelmesini hedeflemektedir. Çünkü bilgi, zihinde tek başina “depolanan” statik bir içerik değil; aksine dü- zenlenen, örgütlenen ve öğrenme hedefleriyle ilişkilendirilen dinamik bir yapidir. Haladyna (1992, s. 21), bil- ginin ölçülmesindeki kritik noktaya şöyle dikkat çeker: “Sadece bilgiye sahip olmak yeterli değildir; bilginin ‘kullanim boyutu’ da mutlaka ölçme ve değerlendirme sürecine dâhil edilmelidir.” Haladyna’nin bilginin öl- çülmesine ilişkin bu anlayişi TYMM ile örtüşmektedir. TYMM’de bilgi tek başina duran bir içerik değil, bece- rilerin bağlamsal altyapisidir. TYMM’nin anlayişina göre beceriden bağimsiz olmayan bilgi; alanlara özgü bilgi kümeleri olarak tanimlanmakta, tek başina değil becerilerle anlam kazanmakta ve becerilerle birlikte öğrenme çiktisini oluşturmaktadir.
+
+Bilgi, düşünme becerilerinin temeli olduğundan, bilginin ölçülmesi büyük önem taşir. Bu nedenle bilgi edin- menin önemi asla küçümsenmemelidir. Ancak yalnizca bilginin ölçülmesi yeterli değildir; bilginin kavram- sal veya alan becerileriyle bütünleşik biçimde anlamli bağlamlarda kullanima taşinmadiği durumlarda de- ğerlendirme süreci de amacina ulaşmiş sayilmaz.
+
+2.2. BİLGİ VE BECERİ NEDİR?
+
+11
+
+122.2.1. Öğrenme Çıktılarında Bilgi ve Becerilerin Bütünleşik Yapısı TYMM’de karmaşik ve soyut fikirleri eyleme dönüştürme sürecinde ortaya çikan kavramsal beceriler ile bu becerilerin derslere özgü yapilarini temsil eden alan becerileri; ilgili derse ait bilgi kümelerini temsil eden içerik çerçevesi ile bütünleşerek öğrenme çiktilarini oluşturmaktadir (TYMM, 2025).
+
+TYMM’nin beceri çerçevesi; Temel Beceriler (KB1), Bütünleşik Beceriler (KB2) ve Üst Düzey Düşünme Bece- rileri (KB3) olmak üzere üç farkli beceri alanindan oluşmaktadir. Temel Beceriler karmaşik bir süreç gerek- tirmeden edinilen, gözlenebilen eylemleri ifade eder. Saymak, okumak, yazmak, çizmek, bulmak, seçmek, belirlemek, işaret etmek, ölçmek, sunmak, çevirmek, kaydetmek gibi eylemler temel beceriler arasinda gösterilebilir.
+
+Bütünleşik Beceriler; süreç modellemesi yapilabilen eylemleri ifade eder. TYMM öğretim programlarinda (I) çelişki giderme, (II) gözlemleme, (III) özetleme, (IV) çözümleme, (V) siniflandirma, (VI) bilgi toplama, (VII) kar- şilaştirma, (VIII) sorgulama, (IX) genelleme, (X) çikarim yapma, (XI) gözleme dayali tahmin etme, (XII) mevcut bilgiye/veriye dayali tahmin etme, (XIII) yapilandirma, (XIV) yorumlama, (XV) yansitma, (XVI) muhakeme (akil yürütme), (XVII) değerlendirme, (XVIII) tartişma, (XIX) mantiksal denetleme ve (XX) sentezleme olmak üzere yirmi bütünleşik beceri tanimlanmiştir.
+
+Üst Düzey Düşünme Becerileri ise bütünleşik becerilerden en az ikisini içeren ve çok boyutlu zihinsel sü- reçler gerektiren eylemleri ifade eder. Kavramsal becerilerde vurgulandiği üzere temel ve bütünleşik be- ceriler arasinda bir aşamalilik ilişkisi bulunmamaktadir. Bu beceriler, üst düzey düşünme becerilerinin ha- yata geçirilmesindeki altyapiyi oluşturmaktadir. TYMM’de (I) karar verme, (II) problem çözme ve (III) eleştirel düşünme olmak üzere üç üst düzey düşünme becerisi tanimlanmiştir.
+
+TYMM’de öğrenme çiktilari, eğitimin temel hedefi olan “yetkin ve erdemli insan” profiline ulaşmak için ta- sarlanmiş; bilgi ve becerinin birbirinden ayrilmaz bir bütün oluşturduğu dinamik yapilardir. Öğrenme çikti- sinin temelini oluşturan içerik çerçevesi, öğrencinin sahip olmasi gereken sağlam, güvenilir ve geçerli bilgi kümesini temsil eder. Bu çerçeve yalnizca bir bilgi listesi değil; disipline özgü, disiplinler arasi, epistemik ve işlemsel bilgi türlerini bir arada barindiran zengin bir yapidir. Modelde bilgi, beceri kazanmak için gerekli zemini sunarken; beceriler de bu bilgiye ulaşmada ve yeni bilgiyi üretmede temel bir araç olarak kullanilir.
+
+2.3. BAĞLAM TEMELLİ SORU NEDİR?
+
+Bağlam temelli sorular, eğitimde son yillarda daha sik kullanilmaya başlanmiş olsa da yeni icat edilmiş bir soru türü değildir. Bu tür sorularin kökeni 20. yüzyilin ortalarina kadar uzanmaktadir. Eğitimde bağlama da- yali soru kullanimi ilk olarak 1940’li ve 1950’li yillarda yorumlayici aliştirmalar, metne dayali sorular ve prob- lem senaryolari biçiminde ortaya çikmiştir (Ebel, 1951). Bu dönemde araştirmacilar, öğrencilerin yalnizca bilgi hatirlamasini gerektiren sorularin gerçekleşen öğrenmeyi yeterince yansitmadiğini öne sürmüşler-
+
+2\. BÖLÜM
+
+dir. Bunun yerine öğrencinin bilgiyi anlamlandirmasini ve kullanmasini sağlayan ölçme araçlarinin gelişti- rilmesi gerektiğini savunmuşlardir. Buna bağli olarak da farkli soru tasarimlari ortaya çikmiştir. Özellikle 1950’lerden itibaren
+
+• Metin temelli okuduğunu anlama sorulari,
+
+• Fen ve matematikte problem durumuna dayali sorular,
+
+• Mesleki alanlardaki uygulama testleri
+
+bağlam temelli soru anlayişinin erken örnekleri olarak kullanilmaya başlanmiştir.
+
+Bağlam temelli sorulari ifade etmek için araştirmacilar tarafindan kullanilan farkli adlandirmalar mevcut- tur. Bağlam temelli sorular literatürde tek bir kavram altinda toplanmamiş; araştirmacilar bu soru tasari- mini kendi kuramsal anlayişlarina ve ölçme amaçlarina göre farkli adlarla ifade etmişlerdir. Haladyna (1992), “Context-Dependent Item Sets” başlikli çalişmasinda belirli bir bağlama özgü soru grubunu/kümesini ifade etmek için kullanilan terimleri şöyle siralamaktadir: “Yorumlama aliştirmalari”, “senaryolar”, “madde ta- kimlari”, “süper maddeler” ve “uygulama testi”. Bunlara ek olarak bazi araştirmacilar tarafindan ise “madde demetleri”, “pasajlar” ve “soru kümeleri” gibi etiketler kullanilmiştir. Bu çeşitlilik, bağlam temelli soru tasa- riminin tek bir disipline, amaç türüne ya da ölçme formatina indirgenemeyecek kadar esnek ve çok boyutlu bir yapiya sahip olduğunu göstermektedir. Bu kavramlarin farkli biçimlerde adlandirilmasinin temel nedeni ise araştirmacilarin bağlam temelli soruyu farkli açilardan ele almalaridir. Bazi araştirmacilar bu sorulari pedagojik işlevine (yorumlama, sorgulama, problem çözme), bazilari yapisal biçimine (soru kümesi, madde takimi), bazilari ise ölçme ve analiz varsayimlarina (yerel bağimlilik, madde gruplama, puanlama) odaklana- rak adlandirmiştir. Bu nedenle farkli terimler kullanilmiş olsa da söz konusu adlandirmalarin ortak özelliği öğrencinin tek tek izole sorular yerine, anlamli bir bağlam içinde birden fazla bilişsel işlemi birlikte gerçek- leştirmesini gerektirmesidir.
+
+Bağlam temelli sorularin günümüzde daha çok öne çikmasinin nedeni, ülkelerin eğitim sistemlerindeki he- deflerin değişmesidir. Günümüzde eğitimden beklenen yalnizca bilgi aktarimi değil; öğrencilerin eleştirel düşünme, problem çözme, yorum yapma ve bilgiyi yeni durumlara aktarma becerilerini edinmeleridir. Bu değişimle birlikte bağlam temelli sorular, özellikle Uluslararasi Öğrenci Değerlendirme Programi \[Prog- ramme for International Student Assessment (PISA)\] ve Uluslararasi Matematik ve Fen Eğilimleri Araş- tirmasi \[Trends in International Mathematics and Science Study (TIMSS)\] gibi uluslararasi değerlendirme programlariyla daha görünür ve merkezî bir rol kazanmiştir. Dolayisiyla bağlam temelli sorular kavramsal ve tarihsel olarak günümüzde ortaya çikmiş değildir. Ancak eğitim hedeflerinin değişmesiyle birlikte daha sistematik, yaygin ve bilinçli biçimde kullanilmaya başlanmiştir.
+
+TYMM ile bu yaklaşim daha da derinleştirilerek, ölçme ve değerlendirme süreci sadece sonuç odakli ol- maktan çikarilip süreç odakli bir yapiya kavuşturulmuştur. TYMM’nin temel yapi taşlarindan olan beceri temelli yaklaşim, öğrencinin bilgiyi yaşamla ilişkilendirmesini ve anlamlandirmasini zorunlu kilar. TYMM’nin vurguladiği yetkinlik ve erdem odakli öğrenci profili; gerçek hayat senaryolari (bağlamlar) içerisinde eleş- tirel düşünen, problem çözen ve analiz yapan bireyi tanimlar. Bu doğrultuda bağlam temelli sorular, TY- MM’de sadece bir sinav tekniği değil, öğrencinin zihinsel ve sosyal becerilerini gerçek dünya katmanlarinda sergileyebildiği birer beceri kaniti işlevi görmektedir. Çünkü yapilan araştirmalarda da vurgulandiği üzere bağlama bağli soru setleri bir kavramin gerçek dünyada nasil ortaya çiktiğini daha yakindan yansitan, birbi- riyle ilişkili görev ve becerilerin ölçülmesini sağlamaktadir (Keller vd., 2003). Diğer taraftan bağlam temelli sorularin, bireylerin analitik düşünme ve problem çözme becerileri dâhil olmak üzere bilgilerini uygulama yeteneklerini değerlendirmek için çok yönlü bir ölçme araci olduklari kanitlanmiştir (Allen ve Sudweeks, 2001).
+
+2.3. BAĞLAM TEMELLİ SORU NEDİR?
+
+13
+
+14Sorulari belirli bir materyale dayandirarak ve bağlam içinde sormak, soyut kavramlari somutlaştirarak öğrencilerin bilgiyi uygulama becerilerini ölçmeyi ve ayni zamanda öğrencilerin motivasyonunu ve ilgisini artirmayi amaçlar (Ahmed ve Pollitt, 2007). Bu çerçevede bağlam temelli sorular, yapisi gereği ölçme iş- leminin birbirinden bağimsiz sorular yerine, bütüncül bir bağlam üzerinden gerçekleştirilmesini sağlar. Bu sayede öğrencilerin yalnizca bilgiyi hatirlamalari değil; onu yeni durumlara uygulamalari, yorumlamalari ve problem çözme süreçlerine dâhil etmeleri hedeflenir. Araştirmacilara göre bağlam temelli sorular, özellikle üst düzey bilişsel süreçlerin ve performans temelli becerilerin ölçülmesinde oldukça etkilidir (Allen ve Su- dweeks, 2001; Haladyna, 1992).
+
+PISA ve TIMSS gibi uluslararasi öğrenci değerlendirme programlarinda, öğrencilerin yalnizca öznel bilgi düzeylerini değil; öğrenilen bilgiyi gerçek yaşam durumlarinda uygulama ve çözüm üretme becerilerini değerlendirmek üzere sorular tasarlandiği bilinmektedir. PISA özellikle öğrencilerin okulda öğrendikleri bilgiyi gerçek dünya bağlaminda kullanma yeteneğini ölçmeye odaklanmiştir; bu nedenle sorular, öğren- cilerin günlük hayat, toplumsal süreçler veya mesleki bağlamlarda bilgi-beceriyi nasil kullandiklarini sor- gular. TIMSS de problem çözme ve kavramlar arasi ilişki kurma becerilerini destekleyen bağlamsal soru yapilarina yer verir. Bu bağlam temelli yaklaşim, sadece içerik bilgisini değil, ayni zamanda öğrencilerin bilgiyi uygulama, akil yürütme ve üst düzey düşünme becerilerini ölçmeyi amaçlayan bir değerlendirme anlayişiyla örtüşür.
+
+Özellikle vurgulamak gerekir ki bağlam temelli sorularin tasarimi; ölçülecek özelliğe, süreç bileşenine veya öğrenme çiktisina bağli olarak değişiklik gösterebilmektedir. Bu nedenle her bağlam temelli soru tasarimi, soru seti biçiminde olmak zorunda değildir. Bir bağlamdan bir veya birden fazla soru üretilebilir. Bununla birlikte alan yazinda, bağlam temelli soru tasarimi sürecinde genellikle bir bağlamdan (metin, görsel, grafik vb.) birden fazla soru üretildiği vurgulanmaktadir.
+
+Bağlam temelli sorularin bir soru tipi/formati değil, bir tasarim yaklaşimi olduğu da unutulmamalidir. Bu nedenle bağlam temelli sorular yalnizca çoktan seçmeli soru tipinde olmak zorunda değildir. Bağlam te- melli olma durumu, sorunun biçiminden çok nasil bir bağlam içinde yapilandirildiği ve öğrenciden ne tür bir bilişsel işlem talep ettiği ile ilgilidir.
+
+Bağlam temelli bir soru; öğrencinin bir metin, problem durumu, veri seti, görsel ya da senaryo gibi anlamli bir bağlamla karşilaşmasini ve bu bağlami kullanarak bir karar vermesini, yorum yapmasini, çözüm üret- mesini ya da açiklama getirmesini gerektirir. Bu bağlam, çoktan seçmeli bir soru biçiminde sunulabileceği gibi; açik uçlu, kisa yanitli, performans görevi, eşleştirme, yapilandirilmiş yanit ya da ürün ortaya koymaya dayali bir görev biçiminde de yapilandirilabilir. Dolayisiyla bağlam temelli sorular
+
+• Çoktan seçmeli,
+
+• Açik uçlu,
+
+• Kisa yanitli,
+
+• Performans görevi (örneğin bir metni düzenleme, bir problemi çözme, bir karar önerisi yazma),
+
+• Birden fazla adimdan oluşan yapilandirilmiş görevler biçiminde olabilir.
+
+Bu çeşitlilik, bağlam temelli yaklaşimin esnekliğini ve farkli öğrenme çiktilarinin ölçülmesine uyarlanabilir- liğini göstermektedir. Sonuç olarak, bağlam temelli olma özelliği sorunun formatinda değil; bağlam ile soru arasindaki işlevsel ilişkide ve öğrencinin bilgiyi kullanma biçiminde ortaya çikar.
+
+Bu kilavuzda bağlam temelli çoktan seçmeli sorular ele alinmiştir. Becerilerin ölçülmesinde çoktan seçme- li sorularin tercih edilmesinin çeşitli sebepleri bulunmaktadir. İlk olarak çoktan seçmeli sorular, açik uçlu veya kisa yanitli sorulara kiyasla nesnel puanlama olanaği sunduğu için büyük gruplarda güvenilir ve tutarli
+
+2\. BÖLÜM
+
+ölçme yapilmasina imkân tanir. Açik uçlu ve performans temelli görevler bağlami daha derinlikli yansita- bilmekle birlikte, puanlama sürecinde öznel yargilara, puanlayici farkliliklarina ve uygulama maliyetlerine daha açiktir. Buna karşilik çoktan seçmeli sorular, bağlam temelli yapi içinde sunulduklarinda hem üst dü- zey bilişsel süreçleri tetikleyebilir hem de yüksek güvenirlikli ölçme yapilmasini mümkün kilar.
+
+İkinci olarak bağlam temelli çoktan seçmeli sorular, geçerlik ve güvenirlik arasinda dengeli bir çözüm su- nar. Bağlam sayesinde soru yüzeysel veya ezber bilgi hatirlamanin ötesine geçerken, çoktan seçmeli for- mat sayesinde ölçme sonuçlari standartlaştirilabilir, karşilaştirilabilir ve izlenebilir hâle gelir. Bu özellik, özellikle merkezî sinavlar, geniş ölçekli değerlendirmeler ve program izleme çalişmalarinda çoğu zaman hayati öneme sahiptir.
+
+Üçüncü olarak çoktan seçmeli format, öğretmenler için soru yazimi, uygulama ve analiz süreçlerini yö- netilebilir kilar. Öğretmenler çoktan seçmeli sorular üzerinden madde güçlüğü, ayirt edicilik ve çeldirici işlevselliği gibi psikometrik göstergeleri inceleyebilir ve sorularini buna göre iyileştirebilirler.
+
+Son olarak bağlam temelli çoktan seçmeli sorular, öğrencilerin yalnizca doğru yaniti bulmalarini değil, yan- liş seçenekler (çeldiriciler) araciliğiyla öğrenme süreci ile ilgili olarak hangi yanliş anlamalara sahip olduk- larini da görünür kilar. Bu yönüyle bu sorular yalnizca ölçme değil, ayni zamanda tanilayici ve geliştirici bir işlev de görür.
+
+Bu gerekçeler doğrultusunda bu kilavuzda bağlam temelli sorularin çoktan seçmeli formatta nasil etkili, geçerli ve güvenilir biçimde yazilabileceğine odaklanilmaktadir. Bu tercih, bağlam temelli yaklaşimin peda- gojik potansiyelini korurken uygulamada sürdürülebilir, ölçme ve değerlendirme açisindan sağlam bir yapi sunmayi amaçlamaktadir.
+
+2.4. TYMM BAĞLAM TEMELLİ SORU YAZIM SÜRECİ
+
+Bu bölüm, TYMM’nin ölçme ve değerlendirme yaklaşimi doğrultusunda teorik olarak tanimlanan becerilerin bağlam temelli sorularla ölçülmesinde izlenecek adimlari kapsamaktadir.
+
+2.4.1. Otantik Bağlamın Kurgulanması
+
+Klasik ölçme ile bağlam temelli ölçme arasindaki farklar, temelde ölçülen özelliklerin doğasi, görevlerin gerçek yaşamla ilişkisi ve ölçme sonuçlarindan elde edilen puanlarin analizi üzerinden açiklanabilir. Bağ- lam temelli ölçme anlayişinda bireyin bilgiyi anlamli, işlevsel ve gerçek yaşamla ilişkili durumlarda kulla- nabilme düzeyini belirlemek amaçlanmaktadir. Bireyin test performansinin, içinde bulunduğu bağlamla birlikte anlam kazandiği kabul edilir.
+
+Soru yazim süreci, ölçülmesi hedeflenen becerinin (problem çözme, eleştirel düşünme, sorgulama vb.) doğasina uygun gerçek yaşam bağlaminin oluşturulmasiyla başlar. Bağlam kurgusunda seçilen durumun öğrencinin günlük hayatta karşilaşabileceği veya akademik merakini uyandiracak nitelikte olmasina özen gösterilmelidir. Metnin dil yapisi, sözcük dağarciği ve cümle uzunluğu; öğrencinin sinif seviyesine ve biliş- sel gelişimine tam uygunluk göstermelidir. Ayrica kullanilan matematiksel modeller, terminoloji ve sayisal veriler; öğrencinin hazirbulunuşluk düzeyini aşmayacak, öğrenme çiktisiyla örtüşecek ve kavram karga- şasi oluşturmayacak netlikte yapilandirilmalidir. Bağlam sadece bir dekor olmamalidir; eğer bir soru bağ- lamdaki metin veya görsel incelenmeden sadece genel kültür veya ön bilgiyle çözülebiliyorsa, o bağlam işlevsizdir ve soru yeniden kurgulanmalidir (Daneman ve Hannon, 2001).
+
+Bağlamlar, sadece belirli bir sosyoekonomik çevrenin veya belirli bir grubun (örneğin golf sporu, borsa işlemleri) anlayabileceği terimlerden seçilmemelidir. Herkesin erişebileceği ortak bağlamlar (okul, park,
+
+2.4. TYMM BAĞLAM TEMELLİ SORU YAZIM SÜRECİ
+
+15
+
+16doğa, alişveriş vb.) tercih edilmelidir. Wiggins (1998) tarafindan tanimlanan “Otantik Değerlendirme” ilkeleri uyarinca, kurgulanan bağlam sadece bir hikâye anlatmamali; öğrenciye gerçek bir disiplin uzmaninin (bilim insani, tarihçi veya mühendis gibi) karşilaştiği türden “karmaşik ve yapilandirilmamiş” bir görev sunmalidir. Bağlamin otantikliği, öğrencinin okulda öğrendiği bilgiyi sadece hatirlamasini değil, bu bilgiyi gerçek dün- ya problemlerini çözmek için stratejik bir araç olarak kullanmasini (transfer) zorunlu kildiği ölçüde başarili sayilir.
+
+Yazar, bağlamı oluşturduktan sonra bağlamın işlevselliğini kontrol etmelidir:
+
+“Öğrenci bu metni veya görseli incelemeden, sadece ön bilgisiyle veya seçeneklerden giderek soruyu ce- vaplayabilir mi?”
+
+Eğer bu sorunun cevabi olumlu ise bağlam işlevsizdir ve soru yeniden kurgulanmalidir. Bağlam, öğrenciye hazir bilgi sunmak yerine onu veriyi ayiklamaya ve işlemeye zorlayan bir veri seti olarak tasarlanmalidir.
+
+Bağlam Oluşturmak İçin Kullanılabilecek Kaynaklar
+
+Bağlam temelli soru yaziminda temel zorluk, hem gerçek yaşamla ilişkili hem de akademik derinliği olan özgün senaryolar üretmektir. Yazarlar, sadece kurgusal metinlere bağli kalmak yerine aşağidaki stratejik veri kaynaklarini ve disipline özgü noktalari kullanarak bağlamlarini yapilandirmalidir.
+
+1\. Bilimsel ve Teknik Veri Kaynaklari (Kanita Dayali Bağlamlar): Fen bilimleri, matematik ve coğrafya
+
+gibi disiplinlerde bağlamin gücü, kullanilan verinin gerçekliğinden gelir.
+
+• Küresel Veri Bankalari (NASA, FAO, Dünya Bankasi): İklim değişikliği senaryolari, dünya gida fi- yatlari endeksi veya ülkelerin enerji tüketim karneleri doğrudan soru uyaricisi olarak kullanilabilir.
+
+• Resmî İstatistikler (TÜİK, MGM, AFAD): Türkiye’nin demografik yapisindaki değişimler, meteorolo- jik uç değerler (aşiri sicakliklar, sel frekanslari) veya deprem riski tablolari kullanilabilir.
+
+• Dijital Vatandaşlik ve Büyük Veri: Bir e-ticaret sitesindeki kullanici yorumlarinin faydalilik oranlari veya bir navigasyon uygulamasinin yoğunluk haritalari, matematiksel modelleme için kullanilabi- lir.
+
+2\. Belge, Kanit ve Arşiv Odakli Bağlamlar (Sosyal ve Beşerî Bilimler): Tarih, edebiyat ve sosyal bilgilerde
+
+bağlam, öğrenciyi kanitlari sorgulamaya teşvik etmelidir.
+
+• Müze ve Sanat Kataloglari: Bir müze objesinin (bir mühür veya para) fiziksel özellikleri üzerinden o dönemin ekonomi ve hukuk sisteminin çikarilmasi sağlanabilir.
+
+• Birincil ve İkincil Kaynaklar: Tarihsel bir kişiliğin hatiratindan bir kesit ile o döneme ait bir gazete haberindeki çelişki sunularak öğrencinin veriyi değerlendirmesi sağlanabilir.
+
+• Edebî Metinler: Bir yazarin taslak notlari veya karalamalari üzerinden, metnin ana düşüncesine ulaşma süreci kurgulanabilir.
+
+3\. Değer Temelli ve Etik İkilem Bağlamlari (DKAB, Felsefe, Rehberlik): Bu disiplinlerde bağlam, TYMM’nin
+
+erdemli insan hedefini bilişsel süreçlerle harmanlamalidir.
+
+• Sürdürülebilirlik ve Etik Tüketim: Bir ürünün fiyat avantaji ile üretimindeki etik kusurlar (çevre tahribati, çocuk işçi kullanimi) arasindaki tercihin gerekçelendirilmesi sağlanabilir.
+
+• Dijital Etik ve Dezenformasyon: Sosyal medyada hizla yayilan ama bilimsel gerçeklerle çelişen bir haberin, öğrenci tarafindan doğruluk denetimine tabi tutulmasi sağlanabilir.
+
+• Bağlamlar, öğrencilerin günlük yaşamlarinda karşilaştiklari gerçek olaylardan alinabileceği gibi, kurgu olarak tasarlanmiş senaryolar da olabilir. Her iki durumda da belirleyici olan, bağlamin öz-
+
+2\. BÖLÜM
+
+günlüğü (authenticity) ve öğrenci için anlamli olmasidir. Başka bir deyişle, öğrencinin kendini o duruma kolayca yerleştirebilmesi, benzer bir durumla gerçek hayatta karşilaşma olasiliğinin bu- lunmasi gerekmektedir.
+
+2.4.2. Süreç Bileşenlerinin Bağlama Entegrasyonu
+
+Bağlam oluşturulduktan sonraki aşama, ölçülecek becerinin alt süreç bileşenlerinin bağlam içerisine man- tiksal bir akişla yerleştirilmesidir. Becerilerin ölçülmesinde problem durumunun soru kökünde doğrudan verilmesi yerine bağlamin içine örtük bir şekilde yerleştirilmesi önerilmektedir. Öğrenciden beklenen, me- tindeki veya görseldeki ipuçlarini takip ederek önce problemi sezmesi, ardindan çözüm yolunu yapilandir- masidir. Eğer ayni bağlama bağli birden fazla soru yazilacaksa sorular arasinda ipucu zinciri oluşmamasina dikkat edilmelidir (Haladyna ve Rodriguez, 2013). Birinci sorunun cevabinin ikinci sorunun ön koşulu olduğu veya bir sorudaki bilginin diğer sorunun cevabina ipucu verdiği durumlar, ölçme güvenirliğini zedelediğin- den bu tür kurgulardan kaçinilmalidir.
+
+TYMM’de bir beceri/öğrenme çiktisi tek bir soruyla ölçülmek zorunda değildir. SÖlçülmesi hedeflenen sü- reç bileşenleri, bir bağlam etrafinda aşağidaki gibi yapilandirilabilir:
+
+Strateji A: Bir bağlam verilir ve altina sorular eklenir.
+
+Madde 1: Problemi yapilandirma/tanimlama basamağini ölçebilir.
+
+Madde 2: Gözleme/veriye dayali tahminde bulunma basamağini ölçebilir.
+
+Strateji B: Bu stratejide amaç, öğrenciye veri toplatarak zaman kaybettirmek değil, öğrencinin eldeki ve- riyi en üst düzeyde işleme becerisini ölçmektir. “Veri toplama” basamaği bir soru olarak sorulmaz; ihtiyaç duyulan tüm bilgiler bağlamin (metin, tablo, grafik) içine önceden yerleştirilir. Öğrenciden hazir verileri kul- lanarak bir sonraki aşamaya geçmesi, yani verileri analiz edip bir yargiya varmasi veya strateji geliştirmesi beklenir. Bu yöntemle öğrencinin işlem hizi değil, karmaşik bilgileri ayiklama ve anlamli bir sonuca dönüş- türme (değerlendirme) becerisi ölçülmüş olur.
+
+2.4.3. Soru Kökü ve Seçeneklerin Oluşturulması
+
+Bağlam ve öğrenme çiktisi/süreç bileşeni ilişkisi kurulduktan sonra, öğrenciyi zihinsel eyleme geçirecek olan soru kökü ve seçeneklerin yazimina geçilir. Soru kökünde, öğrencinin sadece hatirlama düzeyindeki bilgisini değil, bağlamda verilen veriyi transfer etme becerisini sorgulayan ifadeler (örneğin “...durumunda ne olmasi beklenir?”, “...verilerine dayanarak hangi çikarim yapilabilir?”) kullanilmalidir.
+
+Seçeneklerin oluşturulmasinda çeldiricilerin niteliği belirleyicidir. Çeldiriciler, rastgele yanliş ifadelerden değil; öğrencilerin konuyu “eksik öğrenmesi” veya yanliş yapilandirmasi nedeniyle düşebileceği kavram ya- nilgilarindan ya da hatali akil yürütmelerden seçilmelidir (Haladyna ve Rodriguez, 2013). Nitelikli bir çeldirici kurgusu, öğrencilerin zihnindeki “yanliş yapilandirilmiş şemalari” ve “kavram yanilgilarini” hedeflemelidir. Sadler (1998) ‘in vurguladiği gibi, etkili çeldiriciler sadece rastgele yanlişlar değil, öğrencinin belirli bir biliş- sel hata yolunu izlemesi sonucunda ulaşabileceği “mantikli görünen” seçeneklerdir. Bu tür “tanilayici çeldi- riciler”, öğrencinin konunun hangi aşamasinda güçlük yaşadiğina dair değerli veriler sunar. Ayrica “Hepsi” veya “Hiçbiri” gibi öğrencinin muhakeme yapmadan eleyebileceği veya seçebileceği seçenek türleri, bağ- lam temelli ölçmede geçerliği düşürdüğü için kullanilmamalidir. Seçeneklerin uzunluk, dil bilgisi ve karma- şiklik bakimindan benzer olmasi gerekir; doğru seçeneğin diğerlerinden daha uzun veya detayli olmasi, öğrenciye doğru cevabi bulduracak görsel bir ipucu sağlar (Haladyna, 1997).
+
+2.4. TYMM BAĞLAM TEMELLİ SORU YAZIM SÜRECİ
+
+17
+
+182.4.4. Bilişsel Yük ve Dilsel Yetkinlik Soru yazim sürecinin kritik bir aşamasi, sorunun dil ve anlatim yönünden bilişsel yük uygunluğunun de- netlenmesidir. Soru yazari; yönerge, metin ve görsellerin ölçülen yapiya doğrudan hizmet edip etmediğini eleştirel bir süzgeçten geçirmelidir. Kafa kariştirici talimatlar, zayif bütünleştirilmiş görseller ya da içerikle ilgisiz detaylar, çalişma belleği kaynaklarini asil problem çözme sürecinden uzaklaştirarak gereksiz yük oluşturur (Sweller, 1988). Bu nedenle sorular, çözüm için zorunlu olmayan süsleyici görsellerden, gereksiz sifatlardan ve karmaşik cümle yapilarindan arindirilarak bilişsel açidan yalin hale getirilmelidir (Haladyna ve Rodriguez, 2013). Özellikle görsel ya da çoklu ortam kullaniliyorsa, gereksiz kelime / görsel / sesleri ayikla- mayi öne çikaran tutarlilik ilkesi ile açiklayici metni ilgili grafik ya da görselin hemen yaninda konumlandir- mayi öneren uzamsal bütünlük ilkesi, öğrencinin bilişsel kaynaklarinin “sunumu çözmeye” değil, sorunun gerektirdiği akil yürütmeye ayrilmasina yardimci olur. Soru, öğrencinin okuma-anlama becerisini değil, ilgi- li disiplindeki (fen, matematik, sosyal bilimler vb.) akil yürütme becerisini ölçmelidir. Bu hedefi desteklemek için görev karmaşikliği da öğrencinin beklenen uzmanlik düzeyiyle uyumlu tutulmalidir. Bir uzman için uy- gun olabilecek yüksek düzeyde etkileşimli bir yapi, acemi için bilişsel aşiri yüklenmeye neden olup gerçek yeterliğin yanliş ölçülmesine yol açabilir. Bu nedenle sorudaki etkileşimli ögelerin sayisi ve etkileşim düzeyi bilinçli biçimde kontrol edilmelidir. Anlatim bozukluğu içeren veya birden fazla anlama gelebilecek ifadeler, sorunun yapi geçerliğini tehdit eden unsurlar olarak kabul edilip düzeltilmelidir. Bağlam temelli sorularda karşilaşilan en büyük risklerden biri, öğrencinin hedef beceriyi (örneğin matematiksel akil yürütme) sergi- lemesini engelleyen “gereksiz bilişsel yük” oluşturulmasidir. Sweller (1988) tarafindan ortaya konan Bilişsel Yük Teorisi’ne göre, soru içerisinde sunulan ancak çözümle doğrudan ilişkisi olmayan karmaşik dilsel ya- pilar veya dekoratif görseller, öğrencinin sinirli olan işleyen bellek kapasitesini tüketir. Bu durum, sorunun ölçmeyi hedeflediği yapi geçerliğini (construct validity) zedeler. Dolayisiyla, bağlam kurgulanirken metin ile görsel arasindaki bütünlük, “dikkat bölünmesi etkisini” en aza indirecek şekilde tasarlanmalidir.
+
+2.4.5. Soru Yazımına Yönelik Kontrol Listesi
+
+Nitelikli soru yazimi sürecinde yazilan her sorunun teknik, bilimsel ve dilsel standartlara uygunluğu siste- matik olarak denetlenmelidir. Aşağidaki kontrol listesi, soru yazarinin hazirladiği taslak sorulari geçerlik ve güvenirlik ilkeleri doğrultusunda kendi kendine değerlendirmesi amaciyla örnek olarak hazirlanmiştir. Denetim sürecine geçmeden önce sorularin bu listedeki kriterlere göre gözden geçirilmesi, olasi yapisal hatalari en aza indirecek ve redaksiyon sürecini hizlandiracaktir.
+
+Tablo 1: Bağlam Temelli Soru Yazımına Yönelik Kontrol Listesi
+
+Bağlam Adı
+
+Soru Yazarının Adı
+
+Beceri Adı
+
+Süreç Bileşeni
+
+Kontrol Alanı Kontrol Ölçütü Evet Hayır Açıklama /
+
+Düzeltme Notu
+
+Bağlam Seçimi
+
+Bağlam öğrencilerin yaş ve sinif düzeyine uygun mu?
+
+Bağlam gerçek yaşamla ilişkili mi?
+
+Bağlam gereksiz ve karmaşik detaylardan arindi- rilmiş mi?
+
+2\. BÖLÜM
+
+Bağlam uzunluk bakimindan gereksiz okuma yükünden arindirlmiş mi?
+
+Bağlam, ilgili beceriyi harekete geçirecek nitelikte mi?
+
+Bağlam kültür, cinsiyet, coğrafi bölge, din ve ide- oloji gibi unsurlar açisindan tarafsiz ve önyargidan uzak mi?
+
+Soru ve Seçenekler
+
+Soru açik ve anlaşilir bir dille yazilmiş mi?
+
+Sorunun güçlük düzeyi, hedeflenen öğrenci gru- bunun olgunluk düzeyine uygun mu?
+
+Soru, öğrencinin bir önceki öğrenme düzeyine uygun ön bilgiler içeriyor mu?
+
+Sorular arasinda süreç bileşenlerini ölçerken bilişsel bir aşamalilik izlenmiş mi?
+
+Soru kökü ve seçenekler ilgili becerinin ilgili süreç bileşenini/bileşenlerini ölçecek şekilde kurgulan- miş mi?
+
+Soru, ön bilgiden bağimsiz olarak bağlamdaki bil- giyle / bağlamdan hareketle cevaplanabilir mi?
+
+Soru ve seçenekler, bağlamda yer alan metin, tab- lo veya grafiklerden hareketle oluşturulmuş mu?
+
+Seçenekler ifade tarzi, uzunluk ve biçimsel özellik- ler bakimindan birbirine benzer mi?
+
+Çeldiriciler, beceriye/süreç bileşenine sahip olma- yan öğrencileri çekecek kadar güçlü mü?
+
+Soru ve seçeneklerde ipucu içeren ifadelerden ka- çinilmiş mi?
+
+“Yukaridakilerin hepsi/hiçbiri” gibi seçeneklerin kullanimindan kaçinilmiş mi?
+
+Etik ve Tarafsızlık
+
+Bağlam veya soru herhangi bir birey, grup, kül- tür, cinsiyet vb. hakkinda olumsuz çağrişimlardan arindirilmiş mi?
+
+Kullanilan kaynaklar (metin, tablo, grafik vb.) peda- gojik ve etik açidan uygun mu?
+
+Dil ve Anlatım
+
+Bağlam, soru kökü ve seçeneklerde dil bilgisi ku- rallarina uyulmuş mu?
+
+Bağlam, soru kökü ve seçenekler anlatim bozuklu- ğundan arindirilmiş mi?
+
+2.4. TYMM BAĞLAM TEMELLİ SORU YAZIM SÜRECİ
+
+19
+
+20Aşağidaki akiş şemasi, bağlam temelli soru yazim sürecinin aşamalarini göstermektedir. Bağlam Temelli Soru Yazım Süreci
+
+Başla
+
+Bitir
+
+2.5. BAĞLAM TEMELLİ SORU YAZIMINDA SIK YAPILAN HATALAR
+
+2.5.1. Bağlam Hataları
+
+Aşağidaki tablo, soru yazim sürecinde sikça karşilaşilan bağlam kaynakli kurgusal hatalari önlemek ama- ciyla hazirlanmiştir. Tabloda hatali ve doğru yaklaşimlar somut örnekler üzerinden gerekçeleri açiklanarak karşilaştirlmiştir.
+
+1\. Hedefinizi netleştirin (beceri, öğrenme çiktisi, süreç bileşeni belirleme)
+
+2\. Gerçekçi bir bağlam oluşturun (gerçek yaşam ile ilişkili bağlam oluşturma)
+
+3\. Süreç bileşenlerini bağlama dâhil edin
+
+4\. Doğru cevabi ve çeldiricileri yapilandirin (bilenle bilmeyeni ayiracak seçenekler)
+
+Evet 5. Bağlamin işlevselliğini
+
+Hayir test edin (Bağlam olmadan soru çözülüyor mu?)
+
+2\. BÖLÜM
+
+HATALI YAKLAŞIM DOĞRU YAKLAŞIM
+
+Metinde “küresel isinma” anlatilmasina rağmen so- runun “Aşağidakilerden hangisi bir sera gazidir?” şeklinde olmasi
+
+(Soruyu cevaplamak için metni okumaya gerek yok- tur, bağlam işlevsizdir.)
+
+Sorunun çözümü için bağlamda sunulan grafikteki “yillik sicaklik artiş oraninin” okunmasi ve yorumlan- masinin zorunlu olmasi
+
+(Cevap doğrudan bağlama ve analize dayalidir.)
+
+Soruda ihtiyaç duyulan tüm cevaplarin doğrudan metin içerisinde verilmesi
+
+(Bu durum ilgili kazanimi veya alan bilgisini değil, yalnizca Türkçe okuma-anlama becerisini ölçer.)
+
+Bağlamda bir olay tasvir edilip (örneğin gökkuşa- ğinin oluşumu), soru kökünde ise bu olayin bilimsel nedeninin (işiğin kirilmasi/ tam yansima) sorulmasi
+
+(Öğrenci bağlami analiz eder ve kendi alan bilgisini işe koşarak cevaba ulaşir.)
+
+“Ayşe markete gitti, 3×2+5 ekmek aldi.” gibi ifadele- rin kullanilmasi
+
+(Hayatin olağan akişina aykiri, zorlama ve yapay bir kurgudur.)
+
+“Ayşe, marketteki farkli gramajlardaki ürünlerin bi- rim fiyatlarini karşilaştirarak ekonomik bir tercih yapmak istemektedir.” kurgusunun kullanilmasi
+
+(Karşilaşilabilecek gerçek bir problem durumudur.)
+
+”Bir araci kurumda VİOP (Vadeli İşlem ve Opsiyon Pi- yasasi) hesabi açan Mert, spot piyasa yerine türev piyasalari tercih etmektedir.” gibi spesifik bir alan bilgisi içeren senaryolarin kullanilmasi
+
+(Sadece belirli bir sosyoekonomik grubun aşina ol- duğu, firsat eşitliğini zedeleyen kavramlardir.)
+
+“Maket uçak tutkunu olan Ayşe, bir uçağin 1/100 öl- çekli modelini yapmaktadir...” gibi genel geçer se- naryolarin tercih edilmesi
+
+(Her öğrencinin okulda veya günlük yaşamda karşi- laşabileceği, kapsayici durumlar kurgulanir.)
+
+2.5.2. Soru Kökü Hataları
+
+Aşağidaki tablo, soru yazim sürecinde soru kökü ile ilgili sikça yapilan hatalari önlemek amaciyla hazirlan- miştir. Tabloda hatali ve doğru yaklaşimlar somut örnekler üzerinden gerekçeleri açiklanarak karşilaştiril- miştir.
+
+HATALI YAKLAŞIM DOĞRU YAKLAŞIM
+
+“Aşağidakilerden hangisinin ... olmadiği söylene- mez?” şeklinde çift olumsuzluk içeren ifadelerin kullanilmasi
+
+(Zihni gereksiz yere yoran ve ölçme hatasi yaratan dil oyunudur.)
+
+Olumsuzluk ifadesinin tek ve net olmasi, altinin çi- zilmesi veya kelimenin koyu yazilmasi
+
+Örnek: ”... değildir?”
+
+(Zihinsel karmaşayi önleyen net ve anlaşilir bir ya- pidir.)
+
+“Sizce bu metnin ana fikri nedir?” gibi öznel ifadeler kullanilmasi
+
+(Cevabi kişiden kişiye değişebilecek, güvenirliği dü- şük bir ifadedir.)
+
+“Yazarin bu metinde vurguladiği temel düşünce aşağidakilerden hangisidir?” şeklinde metnin refe- rans gösterilmesi
+
+(Metne dayali, tartişmaya kapali bir nesnellik sağ- lar.)
+
+2.5. BAĞLAM TEMELLİ SORU YAZIMINDA SIK YAPILAN HATALAR
+
+21
+
+22
+
+HATALI YAKLAŞIM DOĞRU YAKLAŞIM
+
+Soru kökünde konunun anlatilmaya devam edilmesi
+
+Örnek: ”Hücre canliliğin temel birimidir, buna göre...”
+
+(Sorunun odağini dağitan ve okuma yükünü artiran gereksiz bir bilgidir.)
+
+Bilgi kisminin bağlama yerleştirilmesi ve soru kökü- nün sadece öğrenciyi cevaplamaya yönlendirmesi
+
+(Öğrenciyi doğrudan cevabi bulmaya sevk eden iş- levsel bir yapidir.)
+
+2\. sorunun kökünde “Bir önceki soruda bulduğunuz sonuca göre...” ifadesinin kullanilmasi
+
+(İlk soruyu yanliş cevaplayan öğrencinin, zincirleme olarak diğerini de yanliş yapmasina neden olur.)
+
+“Verilen grafiğe göre...” denilerek her sorunun ortak veriye dayali ama birbirinden bağimsiz çözülebil- mesinin sağlanmasi
+
+(1. soruyu cevaplayamayan öğrenci, grafiğe bakip 2. soruyu cevaplayabilmelidir.)
+
+2.5.3. Seçenek ve Çeldirici Hataları
+
+Aşağidaki tablo, çoktan seçmeli sorularda şans başarisi ile test tekniği etkisini en aza indirmek ve çeldi- ricilerin ayirt ediciliğini artirmak amaciyla hazirlanmiştir. Tabloda seçenek kurgusundaki hatali ve doğru yaklaşimlar somut örnekler üzerinden gerekçeleri açiklanarak karşilaştirilmiştir.
+
+HATALI YAKLAŞIM DOĞRU YAKLAŞIM
+
+“Hepsi”, “Hiçbiri”, “A ve B seçeneği” gibi seçeneklerin kullanilmasi
+
+(Öğrenci seçeneklerden sadece birinin doğrulu- ğundan emin olursa diğerlerini analiz etmeden ce- vabi bulabilir veya eleyebilir.)
+
+Her seçeneğin bağimsiz bir yargi veya veri içerme- si, “Hepsi” gibi kapsayici ifadelerden kaçinilmasi
+
+(Test çözme tekniğini değil, ilgili kazanimi ve bece- riyi ölçen bir yapidir.)
+
+Sadece seçenek sayisini tamamlamak için bariz yanliş seçenek yazilmasi
+
+(Konuyu hiç bilmeyen öğrencinin bile okumadan elediği, ayirt ediciliği olmayan seçeneklerdir.)
+
+Çeldiricilerin rastgele yanlişlar değil, konuyu “eksik öğrenen” veya “yanliş yapilandiran” öğrencinin dü- şeceği bilimsel yanilgilardan seçilmesi
+
+(Bilenle bilmeyeni gerçekten ayirt eden güçlü çeldi- riciler kurgulanir.)
+
+Doğru cevabin diğer seçeneklerden bariz şekilde daha uzun, detayli ve açiklayici olmasi
+
+(Öğrenciye soruyu okumasa bile doğru cevabi işa- ret ettiren “görsel” bir ipucu sağlar.)
+
+Tüm seçeneklerin kelime sayisi, satir uzunluğu ve dil yapisi bakimindan birbirine benzer olmasi
+
+(Cevabin biçimiyle değil, sadece içeriğiyle öne çik- masini sağlayan adil bir yapidir.)
+
+Metinde geçen bir cümlenin, kelime grubunun ya da kelimenin aynen seçeneklerde kullanilmasi
+
+(Öğrenci metni anlamasa bile görsel eşleştirme ya- parak doğru cevabi bulabilir.)
+
+Seçenek, metindeki ifadenin aynisi değil, anlamca özdeşi (farkli kelimelerle ifade edilmiş hâli) olmasi
+
+(Öğrencinin ezberini değil, okuduğunu anlama ve yorumlama becerisini ölçen bir yaklaşimdir.)
+
+2\. BÖLÜM
+
+2.5.4. Görsel Tasarım ve Bilişsel Yük Hataları
+
+Aşağidaki tablo, soru yaziminda bilişsel yükü en aza indirmek ve görselin işlevselliğini artirmak amaciyla hazirlanmiştir. Tabloda görsel tasarim süreçlerindeki hatali ve doğru yaklaşimlar somut örnekler üzerin- den gerekçeleri açiklanarak karşilaştirilmiştir.
+
+HATALI YAKLAŞIM DOĞRU YAKLAŞIM
+
+Metinde yazilani aynen resmeden görsellerin kulla- nilmasi
+
+Örnek: ”Masanin üzerinde 3 elma var” yazarken ya- nina 3 elma resmi koymak.
+
+(Ölçmeye katkisi olmayan, gereksiz bilişsel yük oluşturan bir kullanimdir.)
+
+Görselin metni tekrar etmek yerine metinde yer al- mayan yeni bir veriyi sunmasi
+
+Örnek: Elmalarin değil, elmalarin “çürüme oranini” gösteren bir görsel sunmak.
+
+(Sorunun çözümü için görselin okunmasini zorunlu kilan bir yapidir.)
+
+Veri etiketlerinin (rakamlarin) çok küçük olduğu, çizgilerin birbirine girdiği, gereksiz 3 boyutlu gra- fiklerin kullanilmasi
+
+(Algiyi zorlaştiran ve sorunun odağini bozan görsel gürültü yaratir.)
+
+Sadece sorunun çözümü için gerekli veriyi içeren, 2 boyutlu, sadeleştirilmiş ve net etiketlenmiş gra- fiklerin kullanilmasi
+
+(Öğrencinin doğrudan veriye odaklanmasini sağla- yan, gözü yormayan temiz bir tasarimdir.)
+
+Metnin bir sayfada, sorunun diğer sayfada kalmasi veya görsel ile soru kökü arasina başka metin gir- mesi
+
+(Öğrencinin dikkatini dağitan ve sürekli sayfa çevir- meyi gerektiren ergonomik bir hatadir.)
+
+Bağlam (metin/görsel) ve ona ait sorularin öğrenci- nin göz hareketini yormayacak şekilde ayni görsel alaninda bulunmasi
+
+(Odaklanmayi kolaylaştiran, bilişsel yükü azaltan bütüncül bir sunumdur.)
+
+2.5. BAĞLAM TEMELLİ SORU YAZIMINDA SIK YAPILAN HATALAR
+
+23
+
+242.6. SORU YAZIM FORMU Bağlam temelli ölçme araçlarinin geliştirilmesinde süreci doğru analiz etmek amaciyla oluşturulan soru yazim formu, soru yazarinin teknik tasarim sürecini standartlaştirmayi hedefler. Yazarlarin bu formu dol- durmaya geçmeden önce öğrenme çiktisi, hedef beceri, bağlam analizi ve çeldirici kurgusunu içeren kont- rol basamaklarini titizlikle takip etmeleri gerekmektedir.
+
+Aşağidaki örnek form, söz konusu sistematik süzgeçten geçen sorularin kayit altina alinmasi için kullanilir.
+
+Tablo 1: Soru Yazım Formu
+
+Soru Özelliği
+
+Ders
+
+Sınıf Düzeyi
+
+Beceri
+
+Süreç Bileşenleri Gerekçeleri/Kanıt (Açıklayınız.)
+
+Bağlam Adı
+
+Yararlanılan Kaynak
+
+Güçlük Tahmini
+
+☐ Zor
+
+☐ Orta
+
+☐ Kolay
+
+Soru Yazarı
+
+Ad Soyad
+
+e-posta
+
+Soru 1
+
+Süreç Bileşeni
+
+Soru Doğru Cevabı
+
+Soru 2
+
+Süreç Bileşeni
+
+Soru Doğru Cevabı
+
+Soru 3
+
+Süreç Bileşeni
+
+Soru Doğru Cevabı
+
+2\. BÖLÜM
+
+“Merak Et, Kanıtla Ve Gerçeği Aydınlat.”
+
+3\. BÖLÜM
+
+3.1. BECERİ TÜRLERİNE GÖRE SORU YAZIM STRATEJİLERİ
+
+Soru yazımı bir sanattır (Ebel, 1951).
+
+Becerilerin ölçülmesinde kullanilan bağlam temelli soru yaziminda TYMM beceriler çerçevesinde, kavram- sal beceriler kapsamindaki üst düzey düşünme becerilerinden biri olan “problem çözme” ve bütünleşik be- ceriler arasinda yer alan “sorgulama” becerileri temel alinmiştir. Kilavuzda yer alan uygulama adimlari ve teknik analizler; süreç bileşenlerinin zenginliği nedeniyle problem çözme, sorgulama ve alanlar özelinde seçilen alan becerileri üzerinden örneklendirilmiştir.
+
+Soru yazarlari, ölçülecek becerinin türüne göre aşağidaki özelleşmiş stratejileri uygulamalidir. Aşağidaki akiş şemasi, soru yazarinin planlama aşamasindan teknik denetime kadar izlemesi gereken önemli kontrol noktalarini göstermektedir. Bu süreç; beceriyi doğru ölçmek, bilişsel yükü en uygun seviyede tutmak ve güvenirliği artirmak (teknik hatalari en aza indirmek) amaciyla tasarlanmiştir. Yazar, her bir “Hayir” yanitinda süreci durdurup ilgili adimi revize etmelidir.
+
+Kilavuzda, pilot uygulamalarda önceliklendirilen ve saha verileriyle geçerliği test edilen problem çözme ve sorgulama becerileri ile seçilen alan becerileri detaylandirilmiştir. Ancak TYMM’nin beceri çerçevesi eleş- tirel düşünme, karar verme gibi diğer üst düzey düşünme becerileri ile karşilaştirma, çikarim yapma, yapi- landirma gibi bütünleşik becerileri de kapsayan iç içe geçmiş üç farkli boyut (temel, bütünleşik ve üst düzey düşünme) içeren geniş bir beceri kümesine sahiptir. Bu becerilerin ölçülmesinde de kilavuzun genelinde vurgulanan “Bağlam Temelli Soru Yazim İlkeleri” geçerliğini korumaktadir. Ölçülmek istenen beceri ister bir kararin gerekçelendirilmesi ister bir iddianin tutarliliğinin denetlenmesi olsun; soru yazarinin benimsemesi gereken temel yaklaşim ortaktir. Diğer becerilerde de amaç sadece doğru sonucu bulmak değil, öğrenci- nin veriyi işleme, ilişkilendirme ve yargiya varma süreçlerini görünür kilmaktir. Beceriler, ezberlenmiş bir bilginin tekrari ile değil; öğrencinin bilgisini daha önce karşilaşmadiği yeni bir duruma veya bağlama aktara- bilmesiyle ölçülmelidir. Soru kurgusu, hangi beceriyi hedeflerse hedeflesin öğrenciyi pasif bir okuyucudan, bağlamdaki verileri kullanarak zihinsel bir eylem gerçekleştiren aktif bir katilimciya dönüştürmelidir. Dola- yisiyla bu kilavuzda problem çözme ve sorgulama özelinde sunulan bağlam kurgulama teknikleri, seçenek yapilandirma stratejileri ve bilişsel yük kontrolü ilkeleri; TYMM kapsamindaki tüm becerilerin ölçülmesi için ortak bir çerçeve niteliği taşimaktadir.
+
+3.1. BECERİ TÜRLERİNE GÖRE SORU YAZIM STRATEJİLERİ
+
+25
+
+263.2. ÜST DÜZEY DÜŞÜNME BECERİLERİ NASIL ÖLÇÜLÜR? Üst düzey düşünme becerileri, bütünleşik becerilerden en az ikisini içeren ve çok boyutlu zihinsel süreç- ler gerektiren eylemleri ifade eder. Kavramsal becerilerde vurgulandiği üzere temel ve bütünleşik beceri- ler arasinda bir aşamalilik ilişkisi bulunmamaktadir. Bu beceriler, üst düzey düşünme becerilerinin hayata geçirilmesindeki altyapiyi oluşturmaktadir. TYMM’de karar verme, problem çözme ve eleştirel düşünme olmak üzere üç üst düzey düşünme becerisi tanimlanmiştir. Bu beceriler, öğrencinin bilgiyi sadece hatirla- masini değil; yeni durumlara transfer etmesini, analiz etmesini ve yeniden üretmesini gerektirir. Dolayisiyla bu becerilerin kazanimi ve işlevselliği sonuçtan çok süreçte ortaya konabilecek niteliktedir. Bu durum da “süreç odakli” bir ölçme stratejisi gerektirmektedir.
+
+Üst düzey düşünme becerileri ölçülürken temel ilke, öğrencilerin bilgi ve becerilerini daha önce karşilaş- madiklari yeni bir durumda veya bağlamda kullanmalarini gerektiren sorular kurgulamaktir (Brookhart ve Nitko, 2019; Haladyna, 1992).
+
+Söz konusu becerilerin geçerli ve güvenilir bir şekilde ölçülebilmesi için soru yazımında aşağıdaki ilkeler gözetilmelidir:
+
+A) Rutin Olmayan Problemler Kullanılmalıdır.
+
+Öğrencinin daha önce sinifta karşilaştiği, sadece formülü yerine koyarak sonuca ulaştiği sorular, hedef- lenen üst düzey becerileri ölçmekte yetersizdir. Bu nedenle soru kurgulanirken bağlamdaki değişkenler farklilaştirilmali; yapi, gerçek hayatla ilişkili, disiplinler arasi bağlantilar içeren ve birden fazla çözüm stra- tejisi gerektiren çok boyutlu bir forma dönüştürülmelidir. Temel hedef, öğrenciyi “Burada hangi formülü kullanmaliyim?” ezberinden uzaklaştirip “Bu sorunu çözmek için nasil bir yol haritasi çizmeliyim?” sorgula- masina yöneltmektir.
+
+B) Zihinsel Süreçler Görünür Kılınmalıdır.
+
+Ölçme sürecinde sadece doğru cevabin bulunmasi yeterli değildir; öğrencinin cevaba ulaşirken izlediği yo- lun da analiz edilebilmesi gerekir. Bu nedenle çeldiriciler rastgele yanlişlar olarak değil; öğrencinin olasi zihinsel hatalarini (yanliş akil yürütme, eksik veri analizi, kavram yanilgisi vb.) teşhis edecek nitelikte tasar- lanmalidir.
+
+Örnek: Bir grafik yorumlama sorusunda doğru cevap, verinin bütüncül analizini gerektirirken çeldiriciler, grafiğin bütünü yerine sadece tek bir noktasina veya değişkenine odaklanan öğrencileri ayirt edecek şe- kilde kurgulanabilir.
+
+C) Çok Katmanlı Bağlamlar Kurgulanmalıdır.
+
+Üst düzey düşünme becerilerinin ölçülmesinde öğrenciye tüm değişkenlerin ayiklanip hazir sunulduğu pü- rüzsüz bir ortam sağlanmamalidir. Bağlam kurgulanirken çözüm için doğrudan gerekli olan önemli verile- rin yani sira, konuyla ilişkili görünen ancak çözüm sürecinde kullanilmayacak çeldirici verilere de (okuma yükü oluşturmayacak sadelikte) yer verilmelidir. Bu uygulama, öğrenciyi önüne gelen her bilgiyi kullanmak yerine; veriyi sorgulamaya, anlamli olani ayirt etmeye ve stratejik bir seçim yapmaya yöneltir. Böylece öğ- rencinin dağinik hâldeki bilgiler arasindan doğru olani seçip yapilandirma yetkinliği test edilmiş olur. Üst düzey düşünme becerilerinden “Problem Çözme Becerisi”nin ölçülmesinde dikkat edilecek hususlar aşa- ğida verilmiştir.
+
+3\. BÖLÜM
+
+KB3.2. Problem Çözme Becerisi
+
+TYMM kapsaminda problem çözme becerisi, karşilaşilan sorunla baş edebilmek için duruma ilişkin yapilan- dirma, özetleme, problemin çözümüne yönelik gözleme/mevcut bilgiye/veriye dayali tahmin etme, öner- meler üzerinden akil yürütme, yansitma/değerlendirmede bulunmayi kapsayan zihinsel işlemleri yürüte- bilmeyi ifade eder.
+
+Problem çözme becerisi; öğrencinin karmaşik bir durumla karşilaştiğinda mevcut hâli analiz ederek sade- ce sonuca odaklanmak yerine, çözüm yolundaki aşamalari mantiksal bir siraya koyma ve süreci hedeflenen çiktiya göre yönlendirme yetkinliğidir.
+
+TYMM Ortak Metnindeki Süreç Bileşenleri
+
+Bir problem çözme sorusu veya soru grubu, aşağidaki basamaklardan birini veya birkaçini ölçmelidir.
+
+Kod Süreç Bileşeni
+
+KB3.2.SB1 Problemi yapilandirmak
+
+KB3.2.SB2 Problemi özetlemek
+
+KB3.2.SB3 Problemin çözümüne yönelik gözleme dayali/mevcut bilgiye/veriye dayali
+
+tahminde bulunmak
+
+KB3.2.SB4 Problemin çözümüne yönelik önermeler üzerinden akil yürütmek
+
+KB3.2.SB5 Problemin çözümüne ilişkin yansitma/değerlendirmede bulunmak
+
+Problem çözme becerisi sorusu yazılırken odaklanılması gereken eylemler şunlardır:
+
+Problemi Yapılandırma: Öğrenciye tüm çözüm basamaklarinin hazir sunulduğu bir yapi yerine; bilgilerin, verilerin ve olaylarin harmanlandiği çok katmanli ve gerçekçi bir bağlam sunulabilir. Buradaki temel amaç, öğrencinin sunulan bağlam içerisinden gerekli bilgileri ayiklayip odak noktasini belirlemesini ve “Çözülmesi gereken asil mesele nedir?” sorusuna kendi zihninde yanit bulmasini sağlamaktir.
+
+Problemi Özetleme: Karmaşik ve çok katmanli bir bağlam içerisinde sunulan bilgilerin öğrenci tarafindan filtrelenmesi hedeflenmelidir. Öğrenci, metindeki gereksiz ayrintilari eleyerek eldeki veriyi en yalin hâliyle ifade edebilmeli ve “Elimde hangi temel bilgiler var?” sorusunun cevabini özet bir biçimde ortaya koyabil- melidir.
+
+Gözleme/Mevcut Bilgiye/Veriye Dayalı Tahmin: Öğrenciden mevcut bir gidişati gösteren tablo veya gra- fik üzerinden henüz gerçekleşmemiş bir durumu veya eksik birakilan ara bir değeri belirlemesi istenebilir. Öğrenci, eldeki sayisal örüntüleri analiz ederek geleceğe yönelik tutarli ve kanita dayali tahminler yapabil- melidir.
+
+Akıl Yürütme: Öğrenciye “Eğer mevcut koşullardan biri değiştirilseydi, bu durum genel sonucu nasil etki- lerdi?” şeklinde sorular sorulabilir. Bu yöntemle öğrencinin değişkenler arasindaki sebep-sonuç ilişkilerini kavrama düzeyi belirlenmeli ve farkli senaryolar üzerinde muhakeme yapabilmesi test edilmelidir.
+
+Yansıtma/Değerlendirme: Öğrencinin ulaştiği sonucu veya çözüm yöntemini farkli bir bağlama uyarlamasi ya da sonucun geçerliğini test etmesi sağlanmalidir. “Bu çözüm başka hangi durumlarda işe yarar?” veya “Elde edilen sonuç, başlangiçtaki verilerle ne kadar tutarli?” gibi sorularla bilginin derinlemesine işlenmesi ve transfer edilmesi hedeflenmelidir.
+
+“Bir sorunun kalitesi, yazarın ne sorduğuyla değil; öğrencinin o sorudan ne anladığıyla ölçülür.”
+
+3.2. ÜST DÜZEY DÜŞÜNME BECERİLERİ NASIL ÖLÇÜLÜR?
+
+27
+
+283.3. BÜTÜNLEŞİK BECERİLER NASIL ÖLÇÜLÜR? TYMM öğretim programlarinda yer alan yirmi çeşit bütünleşik becerinin ölçülmesinde, sadece bilişsel sü- reçler değil, ayni zamanda kurgular da esas alinmalidir. Öğrenciye, teknik doğruluk ile etik değerlerin ça- tiştiği karmaşik senaryolar sunulmalidir. Örneğin bir işletme yöneticisinin şirketin finansal kârini artirma hedefi ile üretim sürecinin doğal ekosisteme zarar verme riski “Çevre Bilinci ve Etik Değerler” bağlaminda bir ikilem olarak kurgulanabilir. Soru kökünde öğrenciye sadece kâr-zarar hesabi sorulmamalidir. Bunun yerine öğrencinin “Sürdürülebilirlik ve toplumsal fayda ilkeleri dikkate alındığında yöneticinin alması gereken en uygun karar ne olmalıdır?” sorusuna yönelik bir değerlendirme yapmasi istenmelidir.
+
+Bu tür sorularla öğrencinin sayisal verileri okuma becerisi ile dürüstlük, adalet, sorumluluk gibi değerler bütünleştirilerek karar verme yetkinliği çok boyutlu olarak ölçülür. Bütünleşik becerilerinden “Sorgulama Becerisi”nin ölçülmesinde dikkat edilecek hususlar aşağida verilmiştir.
+
+KB2.8. Sorgulama Becerisi
+
+TYMM kapsaminda sorgulama becerisi, bir olay, konu veya duruma ilişkin farkindalik geliştirme, anlamli sorular sorma, bilgi edinme ve bunlari değerlendirme sürecini ifade eder. Bu süreç; bir gerçeğe ulaşmak amaciyla konunun tanimlanmasini, kanitlarin toplanmasini, değerlendirilmesini ve nihayetinde çikarim ya- pilmasini kapsar. Problem çözme bir engeli aşmaya odaklanirken, sorgulama bir gerçeği aydinlatmayi he- defler. Unutulmamalidir ki sorgulama bağlami her konuya “zorla” entegre edilmeye çalişilmamalidir. Sorgu- lamaya dayali etkinliklerin ders başarisiyla ilişkisi her zaman doğrusal ilerlemeyebilir. Yapilan araştirmalar, sorgulamanin belli bir düzeye kadar başariyla pozitif ilişki gösterebildiğini, ancak çok yoğunlaştiğinda bek- lenen katkinin zayiflayabildiğini göstermektedir. (Chen, Dorn, Krawitz, Lim ve Mourshed, 2017; Oliver vd., 2021; Teig, Scherer ve Nilsen, 2018; Teig, 2022). Bu durum, soru yaziminda da denge gerektirir. Bir testte ya da bir ünite sonunda hazirlanan soru setinde, her şeyi sorgulama senaryosuna çevirmek yerine, ölçülmek istenen hedefe göre farkli soru türlerini birlikte kullanmak daha sağlikli sonuç verir.
+
+Her içerik sorgulama formatina uygun değildir. Olgusal bilgiler ve basit işlemler çoğu zaman kisa sorular- la daha doğru ölçülür. Buna karşilik konu yoruma açik olduğunda, yanliş anlamaya yatkin olduğunda veya kanita dayali açiklama gerektirdiğinde sorgulama bağlami daha anlamlidir. Bu tür sorular, kavramsal an- lamayi ve transferi destekleyen akil yürütmeyi daha görünür kilabilir. Ayrica sorgulama görevlerinin etkisi öğrencinin hazirbulunuşluğu ve alan öz kavramina göre değişebilir. Bu nedenle özellikle bazi öğrenci grup- lari için, gereksiz karmaşiklik yerine iyi seçilmiş veri, net yönergeler ve hedefle uyumlu sinirli adimlar kul- lanmak daha adil ölçmeyi destekler.
+
+Sorgulama Becerisine İlişkin Süreç Bileşenleri
+
+Bir sorgulama sorusu veya soru grubu aşağidaki basamaklardan birini veya birkaçini ölçmelidir.
+
+Kod Süreç Bileşeni
+
+KB2.8.SB1 Merak ettiği konuyu tanimlamak
+
+KB2.8.SB2 İlgili konu hakkinda sorular sormak
+
+KB2.8.SB3 İlgili konu hakkinda bilgi toplamak
+
+KB2.8.SB4 Toplanan bilgilerin doğruluğunu değerlendirmek
+
+KB2.8.SB5 Toplanan bilgiler üzerinde çikarim yapmak
+
+3\. BÖLÜM
+
+Sorgulama becerisi sorusu yazarken odaklanılması gereken eylemler şunlardır:
+
+Merak Ettiği Konuyu Tanımlama: Öğrenciye içinde bir boşluk veya belirsizlik barindiran kapsamli bir olay veya durum sunulabilir. Soruda, öğrencinin bu durumun hangi sinirlarla incelenmesi gerektiğini fark etmesi hedeflenmelidir. Odak noktasi “Bu olayda aydinlatilmasi gereken asil mesele nedir?” veya “Bu çalişmanin kapsami ne olmalidir?” gibi sorularla öğrencinin konunun sinirlarini belirleyebilmesini ölçmek olmalidir.
+
+İlgili Konu Hakkında Sorular Sorma: Öğrenciye belirsizlik içeren bir durum sunulabilir. Soruda bu belirsiz- liği gidermek adina “Bu durumu açiklamak için hangi soru sorulmalidir?” veya “Hangi soru bizi gerçeğe bir adim daha yaklaştirir? gibi sorularla öğrencinin bilgi edinmeye yönelik stratejik soru sorma yetkinliği test edilmelidir.
+
+İlgili Konu Hakkında Bilgi Toplama: Öğrenciye bir araştirma sorusu verilebilir ve öğrenciden bu soruyu ce- vaplamak için gereken veri türlerini veya kaynaklari seçmesi istenebilir. Soruda “Bu iddiayi kanitlamak için ne tür bir gözlem, deney veya kaynak taramasi yapilmalidir?” veya “Hangi ek verinin toplanmasi bu durumu aydinlatir?” gibi sorularla öğrencinin doğru bilgiye ulaşma stratejisi ölçülmelidir.
+
+Toplanan Bilgilerin Doğruluğunu Değerlendirme: Öğrenciye birbiriyle çelişen iki farkli bilgi kaynaği/veri seti/durum sunulabilir. Soruda, “Hangi kaynağin daha güvenilir olduğunu belirlemek için hangi kriter kul- lanilmalidir?” veya “Sunulan verilerden hangisi iddiayi desteklemek için bir kanit niteliği taşimaz?” şeklinde sorular sorulabilir. Böylece öğrencinin sunulan her bilgiyi doğru kabul etme yerine verinin kaynağini sorgu- lama, kanitlari tartma ve bilginin doğruluğunu teyit etme becerileri ön plana çikarilmalidir.
+
+Toplanan Bilgiler Üzerinde Çıkarım Yapma: Öğrenciye doğruluğu teyit edilmiş bulgular, kanitlar ve veriler bir arada sunulabilir. Soruda “Eldeki bu kanitlar bizi hangi sonuca ulaştirir?” veya “Veriler arasindaki ilişki dikkate alindiğinda olayla ilgili yapilabilecek en tutarli çikarim hangisidir?” sorulari yöneltilebilir. Buradaki temel amaç, öğrencinin veriler arasinda mantiksal köprüler kurarak ulaşilan bilgileri sentezlemesi ve bir gerçeği aydinlatacak nihai bir yargiya (çikarima) varmasini sağlamaktir. Bu yöntemle, öğrencinin eldeki ka- nitlara dayali mantiksal sonuçlar üretme, bilgiyi sentezleme ve doğruluğu sorgulanmiş veriden hareketle hakikati ortaya koyma yetkinliği ölçülmelidir.
+
+3.4. ALAN BECERİLERİ NASIL ÖLÇÜLÜR?
+
+Alan becerilerinin ölçülmesinde, Shulman (1986) tarafindan geliştirilen “Pedagojik Alan Bilgisi” \[Pedagogi- cal Content Knowledge, (PCK)\] kavrami temel alinmalidir. Bu çerçeveye göre, bir disipline ait bilginin (örn. kimya yasalari) ölçülmesi, o bilginin bağlam içerisindeki işlevsel sunumuyla (örn. ütüleme sürecindeki mo- leküler etkileşim) bütünleşmelidir. Alan becerisi ölçülürken öğrencinin sadece formülü hatirlamasi değil, o disipline özgü “epistemik pratikleri” (kanit kullanma, modelleme, çikarim yapma) sergilemesi beklenir.
+
+Alan becerileri, kavramsal becerileri ve/veya alana özgü bütünleşik becerileri kapsayacak biçimde yapilan- dirilmiştir. Bu yönüyle alan becerileri, yalnizca alan bilgisinin kullanimini değil; söz konusu becerilerin sü- reç bileşenleri araciliğiyla nasil işe koşulduğunu da içeren bütünleşik bir yapiyi ifade eder. TYMM öğrenme çiktilarinda alan bilgisi ve alan becerileri, bu bütünleşik yapi doğrultusunda birbirini tamamlayan unsurlar olarak ele alinmaktadir. Bu becerilerin ölçülmesinde öğrencinin ilgili alanin terminolojisini, yasalarini veya yöntemlerini bilerek soruyu cevaplamasi hedeflenir.
+
+3.4. ALAN BECERİLERİ NASIL ÖLÇÜLÜR?
+
+29
+
+30Söz konusu becerilerin geçerli ve güvenilir bir şekilde ölçülebilmesi için soru yazımında aşağıdaki ilkeler gözetilmelidir:
+
+A) Bilgi ile Bağlamı Harmanlama
+
+Soruda bağlam verilmeli ancak çözüme ulaşmak için öğrencinin zihnindeki akademik bilgi anahtar görevi görmelidir. Soruda ihtiyaç duyulan tüm cevaplar doğrudan metin içerisinde verilirse bu soru alan becerisini değil, yalnizca Türkçe okuma-anlama becerisini ölçer. Bu nedenle kurgulanan bağlam bir durum ortaya ko- yarken soru kökü, öğrenciyi alan bilgisi ve becerilerini işe koşmaya yönlendirmelidir. Öğrenci bağlami çok iyi anlasa bile alana özgü temel kavramlara hâkim değilse sonuca ulaşamamalidir. Böylece sorunun sadece genel kültürü değil, o disipline özgü “Alan Becerisini” de ölçmesi sağlanir.
+
+B) Alana Özgü Araç/Gereç/Yöntem Kullanımı
+
+Her alanin kendine özgü bir dili ve yöntemi vardir. Nitelikli bir soru bu unsurlari aktif şekilde işe koşmalidir.
+
+Örneğin bir tarih sorusunda öğrenciye doğrudan bilgi sormak yerine; ferman, para veya antlaşma metni gibi birinci elden kaynaklar sunulabilir. Bu kaynaklar üzerinden öğrencinin dönemin şartlarini anlamasi ve olaylara o günün penceresinden bakarak tarihsel empati kurmasi hedeflenmelidir.
+
+Bir coğrafya sorusunda teorik tanimlar yerine harita okuma, izohips yorumlama veya gerçek bir rota plan- lama bağlami kullanilabilir. Öğrencinin coğrafi verileri kullanarak gerçek bir yaşam problemini çözüme ka- vuşturmasi hedeflenmelidir.
+
+Bir fen bilimleri sorusunda öğrenciye işik renginin etkisinin araştirildiği ancak su miktarinin da değiştirildiği hatali bir deney düzeneği sunulabilir. Bu kurguda öğrenciden bilimsel geçerlik adina, bağimsiz değişken (işik rengi) dişindaki tüm koşullarin sabit tutulmasi gerektiğini fark etmesi beklenir. Deney sonucu hazir verilmemeli, bunun yerine gözlem verileri paylaşilmali ve öğrenciden eldeki verilere dayanarak “Bu durumu açiklayan bilimsel tahmin nedir?” sorusuna yanit vermesi istenmelidir.
+
+3.5. BİLİŞSEL GÖRÜŞME (SESLİ DÜŞÜNME) PROTOKOLÜ
+
+Bilişsel görüşmeler, ölçme araçlarinin “kanit temelli geçerlik” çalişmalarinin ayrilmaz bir parçasidir. Mes- sick (1995) tarafindan vurgulanan geçerliğin bütüncül doğasi gereği, bir sorunun sadece istatistiksel (psi- kometrik) başarisi yeterli değildir; öğrencinin zihinsel yanit süreci de (response process) ölçülmek istenen beceriyle teorik olarak uyumlu olmalidir. Bilişsel görüşmeler, sorularin düşük puanli öğrenciler için bir en- gel olup olmadiğini veya yüksek puanli öğrenciler için yapi-dişi kolaylik (onstruct-irrelevant easiness) gibi istenmeyen ipuçlari (construct-irrelevant easiness) barindirip barindirmadiğini ortaya çikararak soru ka- litesini en üst düzeye yükseltir.
+
+Bilişsel görüşme, öğrencilerin bir soruyu çözerken metni nasil yorumladiğini, hangi bilgileri ayirt ettiğini ve hangi zihinsel süreçleri devreye soktuğunu ortaya koymak amaciyla kullanilan nitel bir doğrulama yöntemi- dir. Bağlam temelli ölçmede bilişsel görüşmenin temel işlevi, sorunun hedeflenen süreç bileşenini gerçek- ten harekete geçirip geçirmediğini sinamaktir. Bilişsel görüşmeler, sorunun bağlaminin anlaşilirliği, okuma yükü, veri sunumunun işlevselliği ve öğrencinin hedef davraniş göstergesini kullanip kullanmadiğina ilişkin kanitlar üreterek öğrencinin zihnindeki “kara kutuyu” aralar.
+
+Bir sorunun istatistiksel değerlerinin uygun olmasi o sorunun hedeflenen beceriyi ölçtüğü anlamina gel- mez. Öğrenci soruyu yanliş bir mantikla, seçenek eleyerek veya ezber bilgisiyle de doğru yanitlamiş olabilir. Bilişsel görüşme gerçek yetkinlik ile tesadüfi doğrulari birbirinden ayiran en etkili yöntemdir.
+
+3\. BÖLÜM
+
+Kilavuzda detaylandirilan “Bilişsel Görüşme Protokolü”, gerçekleştirilen pilot çalişmalarda sorularin işle- yişini doğrulamak ve öğrencilerin zihinsel süreçlerini haritalandirmak amaciyla bir doğrulama araci’olarak kullanilmiştir. Bu protokol, profesyonel soru hazirlama süreçlerinde standart bir kalite güvence basama- ğidir.
+
+Sahada görev yapan öğretmenlerimizin her sinav öncesinde bu protokolü tam kapsamli olarak uygulamasi beklenmemektedir.
+
+3.5.1. Uygulama Adımları
+
+Bilişsel görüşme uygulamasi, yapilandirilmiş bir protokol çerçevesinde gerçekleştirilmektedir. İlk olarak gerçek test uygulamasina yakin bir ortam oluşturulmaktadir (Beatty ve Willis, 2007). Uygulama sirasin- da katilimcilara görüşmenin amaci hatirlatilarak başlanir. Daha sonra katilimcidan sorulari yanitlarken eş zamanli olarak düşünme süreçlerini paylaşmasi istenir. “Sesli düşünme” olarak adlandirilan bu aşamada katilimci, sorulari yanitlarken aklindan geçenleri sesli olarak ifade eder. Görüşmecinin dinleyici rolünde olduğu bu aşamada müdahale minimum düzeydedir (Ericsson ve Simon, 1993). Ardindan uygulanan “sözel sorgulama” tekniğinde ise görüşmeci, önceden hazirlanmiş veya anlik gelişen belirli sorular yönelterek (Bu- ers vd., 2014) katilimcinin anlama, yorumlama ve karar verme süreçlerini derinlemesine keşfetmeye çalişir. Sesli düşünme kisa süreli bellek sorunlarini ortaya çikarmada yararliyken, sözel sorgulama terimlerin an- laşilmasi ve karmaşik geri çağirma süreçleri hakkinda daha fazla bilgi sağlamaktadir (Ericsson ve Simon, 1993; Priede ve Farrall, 2011). Görüşme boyunca ses veya görüntü kaydi alinmakta ve gerektiğinde notlar tutulmaktadir. Görüşme sonunda katilimciya genel bir geri bildirim verme imkâni sunulmakta ve deneyim- leri hakkinda görüşleri sağlanmiştir.
+
+Çalişma kapsaminda aşağida sunulan “Bilişsel Görüşme Uygulama Formu” kullanilarak verilerin sistematik bir şekilde kaydedilmesi sağlanir.BİLİŞSEL GÖRÜŞME UYGULAMA FORMU
+
+Adi Soyadi:
+
+Sinif:
+
+Ders:
+
+Soru Sayisi:
+
+Öğrenciye bilişsel görüşme uygulaması aşağıdaki aşamalara göre tarif edilmelidir:
+
+1\. Sana biraz sonra cevaplaman için sorular vereceğim.
+
+2\. Sorulari doğru veya yanliş yanitlaman hiç önemli değil. Sorulari çözerken sesli düşünmeni istiyorum. Sen sorulari yanitlarken müdahale etmeyeceğim, yalnizca çözüme nasil ulaştiğini merak ediyorum.
+
+3\. Sesli düşünerek cevaplama süreci bittikten sonra, çözdüğün sorulari yanitlama sürecinle ilgili sana
+
+sorular yönelteceğim. Bu sorulari sözlü olarak yanitlamani/anlatmani isteyeceğim.
+
+4\. Bu sürecin tamamini iznin dâhilinde sesli olarak kaydedeceğiz. Hazirsan başlamadan önce ufak bir
+
+isinma aliştirmasi yapalim.
+
+3.5. BİLİŞSEL GÖRÜŞME (SESLİ DÜŞÜNME) PROTOKOLÜ
+
+31
+
+32Isınma Alıştırması “Başlamadan önce küçük bir aliştirma yapalim. Lütfen yaşadiğin evin pencerelerini zihninde say ve sayar- ken hangi odada olduğunu, pencerelerin nerede olduğunu sesli olarak bana anlat.”
+
+Bu aşamalar öğrenciye tarif edildikten sonra öncelikle müdahale etmeden sorulari çözerken eş zamanli olarak sesli düşünmesi istenir. Çözüm aninda sesli düşünmeyen öğrencilere minimum müdahale ile “Şu an ne düşünüyorsun?” benzeri sorular yöneltilebilir. Bu aşamada öğrencinin düşünce akişi bölünmemeli, uygulayici dinleyici rolünde kalmalidir.
+
+Sesli düşünmenin tamamlanmasinin ardindan aşağida yer alan “sözel sorgulama” sorulari öğrenciye yönel- tilir. İhtiyaç duyulmasi hâlinde aşağida yer alan sorulara “ek sorular” yöneltilebilir. Ek sorular formun sonuna not edilmelidir.
+
+Sözel Sorgulama
+
+1\. Bağlamı kendi cümlelerinle kısaca özetler misin?
+
+Bu metnin veya bağlamin konusu neydi?
+
+2\. Bağlam ilgini çekti mi?
+
+Okurken aklindan neler geçiyordu?
+
+Bu bilgi sana yaşamindan bir durumu animsatti mi?
+
+3\. Anlamını bilmediğin sözcük veya anlaşılması zor cümle var mıydı?
+
+Zorlandiğin bölümler oldu mu? (Olduysa) Ne yaptin?
+
+Neden böyle olduğunu düşündün?
+
+Seçenekler arasinda sana anlamsiz gelen veya ne demek istediğini anlamadiğin bir ifade var miydi?
+
+4\. Soruları nasıl yanıtladın?
+
+Yanit verirken neleri göz önünde bulundurdun?
+
+Aklindaki cevabi seçeneklerde doğrudan görebildin mi?
+
+Bu cevabi verirken metindeki bir cümleyi mi hatirladin, yoksa daha önceden bildiğin bir bilgiyi mi kullan- din? Cevabi tam olarak nasil buldun?
+
+5\. Cevabından ne kadar eminsin?
+
+Bu soruyu cevaplamak senin için zor muydu, kolay miydi?
+
+Soru ne kadar zordu? Soru ne kadar kolaydi (Amaç, yönlendirme yapmadan sorunun zorluk düzeyini ve tahmin olasiliğini belirlemektir.)?
+
+6\. Soruyu okuduğunda aklına gelen ilk cevabı seçenekler arasında hemen bulabildin mi? Yoksa seçe-
+
+nekleri okuyunca fikrin değişti mi?
+
+Diğer seçenekleri neden eledin? Onlari yanliş yapan neydi?
+
+Seni ikilemde birakan veya arada kaldiğin başka bir seçenek oldu mu? Neden?
+
+Sence seçenekler arasinda “Keşke şu da olsaydi.” dediğin bir cevap var miydi?
+
+3\. BÖLÜM
+
+Sadece cevabı değil çözüme giden düşünceyi ölçüyoruz.
+
+3.5.2. Bilişsel Görüşme Sonucu Öneriler
+
+Çalişma kapsaminda sorularin işlevselliğini ve öğrenci yaklaşimlarini derinlemesine incelemek amaciyla bilişsel görüşmeler gerçekleştirilmiş, elde edilen bulgular doğrultusunda aşağidaki çikarimlara ulaşilmiş- tir.A) Ön Bilgi ve Bağlam Bilgisi Kullanım Durumu: Öğrencilerin sorulari yanitlarken metindeki verileri mi yok- sa daha önce edindikleri bilgileri mi kullandiklarini veya bu ikisi arasinda nasil bir denge kurduklarini ifade eder. Bu duruma yönelik elde edilen veriler işiğinda karşilaşilan durumlar şunlardir:
+
+• Öğrencilerin bazi sorulari bağlam metnine hiç bakmadan, sadece okulda öğrendikleri bilgilerle çö- zebildiği görülmüştür. Bu durum, sorularin “bağlama bağimli” yapisinin güçlendirilmesi gerektiğini ve bu konuda bir geliştirme alanina ihtiyaç duyulduğunu ortaya koymuştur.
+
+• Öğrencilerin yanit verme sürecinde metindeki veriler ile kendi mevcut bilgileri arasinda sürekli bir denge kurmaya çaliştiklari görülmüştür.
+
+• Öğrencilerin sadece doğru cevabi bulurken değil, çeldiricileri elerken de bağlamdan faydalandiği görülmüştür. Bu doğrultuda çeldiricilerin elenmesinin ancak bağlamin dikkatli analiziyle mümkün olduğu “güçlü çeldiriciler” yazilmasi esas alinmalidir.
+
+• Öğrencilerin sadece metni değil, harita ve grafikleri doğrudan analiz ederek çözüme ulaştiklari (gör- sel veriyi yorumlayarak çözüme ulaşma) belirlenmiştir. Örneğin coğrafya Sorularina yönelik gerçek- leştirilen bilişsel görüşmelerde coğrafya dersinde bilginin soyut bir kavramdan ziyade harita, görsel ve metin gibi bağlamsal materyallerle bütünleşik bir şekilde işlenmesi nedeniyle ön bilgi ve bağlam kullanim oraninin yüksek olduğu görülmüştür.
+
+• Öğrencilerin bazi sorularin “metin olmadan cevaplanamayacağini” belirtmeleri TYMM’nin hedeflediği bağlama bağimli ölçme yapisinin öğrencilerce de karşilik bulduğunu göstermektedir.
+
+• Sorularin “zor” algilanma gerekçesi büyük oranda “bağlam ile soru arasinda ilişki kuramama” iken, “kolay” algilanma nedeni “cevabin metinde açikça yer almasi”dir. Bu bulgu, yapisal kurgunun başari algisini doğrudan etkilediğini kanitlamaktadir.
+
+B) Soruların Zorluk Algısı ve Cevaplardan Emin Olma Durumu: Öğrencilerin verdikleri yanitlara duyduklari güven düzeyini, yaşadiklari kararsizliklari ve sorulara ilişkin zorluk algilarini (“zor”, “kolay”, “orta”) inceleyen verileri kapsar. Bu duruma yönelik elde edilen veriler işiğinda karşilaşilan durumlar şunlardir:
+
+7\. Soruları metne/bağlamdaki bilgilere bağlı kalmadan cevaplayabilir misin?
+
+Bu bilgi daha önce duyduğun/okuduğun/bildiğin bir şeyi hatirlatti mi?
+
+8\. Bağlamda veya metinde “Şurası şöyle olsaydı daha iyi veya daha anlaşılır olurdu.” dediğin bir yer var
+
+mı?
+
+Ek Sorular
+
+3.5. BİLİŞSEL GÖRÜŞME (SESLİ DÜŞÜNME) PROTOKOLÜ
+
+33
+
+34
+
+• Öğrencilerin doğru seçeneğe ulaşirken yoğun bir zihinsel muhakeme süreci yaşadiklari, seçenekleri okuduktan sonra fikir değiştirme veya iki seçenek arasinda kalma durumlarini sikça tecrübe ettik- leri gözlenmiştir.
+
+• Öğrencilerin nihai karari vermeden önce seçeneklerdeki ifadeyi doğrulamak için metne veya görse- le tekrar döndükleri, rastgele cevaplama süreci yürütmedikleri ve bu şekilde emin olma düzeylerini artirdiklari tespit edilmiştir.
+
+• Öğrencilerin cevaplarina duyduklari güvenin sadece sezgilere değil, kanita dayali eşleştirmelere bağli olduğu görülmüştür. Seçenekteki ifadeyi bağlamdaki somut bir veri veya cümleyle doğrudan eşleştirebildikleri durumlarda, emin olma düzeylerinin yükseldiği saptanmiştir.
+
+• Öğrencilerin, çözebilecekleri düzeyde olsa dahi, metin uzunluğu veya görsel yoğunluğu fazla olan sorulari henüz okumadan “zor” olarak etiketledikleri ve bu önyarginin çözme motivasyonunu düşür- düğü saptanmiştir.
+
+C) Soru Çözme Stratejileri ve Süreçleri: Öğrencilerin sorulari yanitlarken izledikleri adimlari, kullandiklari yöntemleri (seçenek eleme, metne tekrar bakma, önce soruyu okuma vb.) ve düşünce akişlarini betimleyen ifadeleri kapsar. Bu duruma yönelik elde edilen veriler işiğinda karşilaşilan durumlar şunlardir:
+
+• Öğrencilerin sorulari çözerken sadece bilgi hatirlamaya değil; seçenek eleme, verileri karşilaştirma, mantiksal çikarim yapma ve günlük hayatla ilişkilendirme gibi aktif bilişsel yöntemlere başvurduğu gözlenmiştir.
+
+• Öğrencilerin genellikle önce soru kökünü okuyarak bağlam içerisinde odaklanacaklari veriyi önce- den belirledikleri tespit edilmiştir. Bu doğrultuda çeldiriciler; basit bilgi yanlişlari yerine muhakeme hatalari veya eksik analizler üzerine kurgulanmalidir. Öğrencinin bir seçeneği eleme gerekçesi “bilgi- nin yanlişliği” değil, “çikarimin bağlamdaki verilerle uyuşmamasi” üzerine inşa edilmelidir.
+
+• Öğrencilerin tek bir bilgi parçasiyla değil, verileri birbirine bağlayarak sonuca ulaştiklari tespit edil- miştir. Sorular, metindeki tek bir cümleyi bularak çözülebilecek şekilde yazilmamalidir.
+
+• Öğrencilerin ön bilgileriyle bağlami başarili bir şekilde bütünleştirebildikleri görülmüştür. Bu durum, TYMM temel hedeflerinden biri olan “bilginin yeni durumlara transfer edilmesi” ilkesinin uygulama düzeyinde karşilik bulduğunu kanitlamaktadir.
+
+D) Soru ve Seçeneklerin Yapısı: Öğrencilerin, sorularin veya özellikle cevap seçeneklerinin net olmama- si, birbirine çok benzemesi veya metinle çelişir gibi görünmesi nedeniyle yaşadiklari kafa karişikliğini ve kararsizliği ifade eden verileri kapsar. Bu duruma yönelik elde edilen veriler işiğinda karşilaşilan durumlar şunlardir:
+
+• Öğrencilerin iki seçenek arasinda kalarak karar vermekte zorlandiklari ayrica uzun seçeneklerin okuma yükü nedeniyle kafa karişikliği yarattiği gözlenmiştir. Seçenekler kisalik ve uzunluk bakimin- dan homojen olmalidir.
+
+• Öğrencilerin önce soru kökünü okuma ve bağlama geri dönerek teyit etme gibi stratejik okuma dav- ranişlarini aktif olarak sergiledikleri görülmüştür. Ancak seçeneklerin bazen öğrencinin zihnindeki ilk fikri değiştirecek kadar güçlü çeldiriciler olduğu tespit edilmiştir.
+
+• Yakin anlamli çeldiricilerin varliği kararsizliğa yol açarken; metinle ilişkisiz seçeneklerin bulunmasi öğrencilerin eleme yöntemini kullanarak doğruya daha hizli ulaşmasina yol açmiştir.
+
+3\. BÖLÜM
+
+E) Bağlamların Anlaşılırlığı: Metinlerde kullanilan dilin (eski kelimeler, sade olmayan üslup) ve cümle ya- pisinin (uzunluk, karmaşiklik) öğrencinin soruyu anlama sürecine etkisini kapsar. Bu duruma yönelik elde edilen veriler işiğinda karşilaşilan durumlar şunlardir:
+
+• Metinlerdeki yabanci terimler veya ağdali üslubun, öğrencinin bilişsel kapasitesini asil beceriyi ser- gilemek yerine metindeki anlami çözmeye harcamasina neden olduğu görülmüştür. Bu durumun, sorunun gerçek beceriyi ölçmesini engellediği saptanmiştir.
+
+• Bağlamlarin öğrenci düzeyine uygun seçildiği ancak bazi noktalarda dilsel engellerin sürdüğü ifade edilmiştir. Soru yaziminda hedef yaş grubuna uygun “dilsel sadelik” ilkesine dikkat edilmesi gerektiği tespit edilmiştir.
+
+• Sorularin ölçmeyi hedeflediği alan bilgisinden uzaklaşarak öğrencinin genel kültürünü, kelime hazi- nesini veya okuma hizini ölçen bir yapiya dönüştüğü tespit edilmiştir.
+
+• Gereksiz sözcük kullanimi ve aşiri uzun cümle yapilarinin, öğrenci üzerinde gereksiz okuma yükü oluşturarak zihinsel tikanikliğa ve odak dağilmasina neden olduğu tespit edilmiştir.
+
+• Doğru seçeneğin dili, uzunluğu veya kuruluş biçimiyle diğer seçeneklerden belirgin şekilde ayrişma- sinin; öğrencinin soruyu analiz etmeden, sadece biçimsel bir farkindalikla doğru cevaba ulaşmasina neden olduğu belirlenmiştir.
+
+• Sorularin, öğrencinin zihinsel çaba sarf etmesini gerektiren akil yürütme süreçlerini bazen devre dişi biraktiği görülmüştür. Bu durumun ya dil engelinden kaynakli bir başarisizliğa ya da yapisal ipuç- larindan kaynakli “çabasiz bir başariya” yol açtiği saptanmiştir.
+
+F) Metin İçeriğine Yönelik İlgi: Öğrencilerin okuduklari metinlerin konularina karşi gösterdikleri duygusal ve bilişsel tepkileri, metinleri ilginç, sikici veya kişisel yaşantilariyla bağlantili bulma durumlarini kapsar. Bu duruma yönelik elde edilen veriler işiğinda karşilaşilan durumlar şunlardir:
+
+• Metinlerin ilgi çekici bulunmasinin öğrenci motivasyonunu doğrudan artirdiği; özellikle kişisel dene- yimlerle ilişkilendirilebilen (çağrişim yapan) içeriklerin, bağlamin öğrenci tarafindan içselleştirilme- sini kolaylaştirdiği saptanmiştir.
+
+• Bağlamin öğrenci ilgisini çekme düzeyinin düşük kaldiği durumlarda, materyallerin motivasyonel bir araç olmaktan çikip sadece “zorunlu birer işlevsel veri kaynaği” olarak görüldüğü tespit edilmiştir.
+
+• “Doğu Ekspresi” veya “İklim Değişikliği” gibi güncel ve somut bağlamlarin, öğrencilerin kendi ya- şamlariyla köprü kurmalarina olanak tanidiği; bu durumun bilişsel etkileşimi ve merak duygusunu güçlendirdiği belirlenmiştir. Bu bulgu işiğinda bağlamlar; yapay kurgular yerine öğrencinin zihinsel şemalarini harekete geçirecek güncel, gerçek ve hayatin içinden senaryolardan seçilmelidir.
+
+• Metinlerin ilgi çekicilik ve bilgilendiricilik düzeyinin öğrencinin soruya yönelik dikkat süresini ve ko- nuyu derinlemesine anlama isteğini belirleyen temel unsurlar olduğu tespit edilmiştir.
+
+• Metinle bağ kurulamayan durumlarda sorunun kurgusunun, ölçülmesi hedeflenen süreç bileşenini veya davraniş göstergesini öğrencinin zihninde aktif hâle getiremediği tespit edilmiştir.
+
+3.5. BİLİŞSEL GÖRÜŞME (SESLİ DÜŞÜNME) PROTOKOLÜ
+
+35
+
+363.5.3. Soru Tasarımı Denetim Rehberi Öğrencilerin bir soruyu çözerken verdikleri geri bildirimler, o soruda gizli kalan teknik hatalarin belirlenme- sini sağlar. Aşağidaki tablo, hazirlanan sorulardaki tasarim kusurlarini tespit etmek ve bunlari düzeltmek amaciyla örnek kontrol listesi olarak kullanilabilir.
+
+Öğrenci Geri Bildirimi Teknik Kusur Tanımlama İyileştirme Faaliyeti
+
+“Yukaridaki bağlami okumadim, zaten cevabi biliyordum.”
+
+Bağlam İşlevsizliği: Bağlamda verilen metin veya görsel çikarildiğinda öğrenci, hiçbir kayip yaşama- dan soruyu sadece ezber bilgisiyle çözebiliyorsa bağlam işlevsizdir. Nitelikli bir soruda bağlam, öğ- rencinin bilgisini bir durum içerisinde kullanmasini zorunlu kilar.
+
+Bağlam değiştirilmeli- dir. Cevabin bağlamdaki metne/veriye/grafiğe bağimli olmasi sağlan- malidir.
+
+“Cevabi bulamadim ama B seçeneği diğerlerin- den daha detayli yazil- miş, o yüzden B dedim.”
+
+Yapısal İpucu: Doğru seçenek, diğer seçenekler- den çok daha uzun, daha detayli açiklanmiş veya daha profesyonel bir dille yazilmiş ise öğrenciye ipucu verir. Bu durum, sorunun kalitesini düşürür çünkü öğrenci, soruyu çözmek yerine sadece se- çeneklerin yapisina bakarak doğruya ulaşabilir.
+
+Seçenekler homo- jen hâle getirilmelidir (Seçenekler benzer uzunluk ve yapida yazil- malidir.).
+
+“Soruda ne istediğini anladim ancak kullanilan bir kelimenin anlamini bilmediğim için soruyu çözemedim.”
+
+Eğer hedef kelimenin kendisi teknik bir terim değilse o kelime öğrenci seviyesine uygun, daha yaygin kullanilan bir eş anlamlisiyla değiştiril- melidir.
+
+“Grafik çok karişik, nere- ye bakacağimi bileme- dim.”
+
+Hedef Dışı Kelime Zorluğu: Soru, hedeflediği beceriyi ölçmek yerine öğrencinin genel kelime bilgisini ölçer hâle gelmiştir.
+
+Gereksiz Bilişsel Yük: Soru tasariminda görsel unsurlar, öğrencinin konuyu anlamasini kolaylaş- tirmak için kullanilmali, zihnini bulandiracak bir engel teşkil etmemelidir. Eğer kullanilan grafik, tablo veya resimler karmaşik bir yapiya sahipse veya sorunun çözümüyle doğrudan ilgisi olmayan detaylar barindiriyorsa bu durum öğrenci üzerinde gereksiz bilişsel yük oluşturur.
+
+Grafik sadeleştirilmeli; çözüme katkisi olmayan süslemeler, renkler ve verilerden arindirilma- lidir.
+
+“Bağlamda A deniyor ama seçeneklerde A yok, kafam karişti.”
+
+Sorunun Kapalı Olması (Belirsizlik): Soruda ulaşil- masi beklenen sonuç veya analiz edilmesi gereken nokta aşiri derecede gizli tutulmuşsa soru kapali bir hâl alir. Bu durum, öğrencinin bilgisini kullanma- sini engeller ve soruyu bir akil yürütme testinden ziyade ne sorduğu belli olmayan bir bilmeceye dönüştürür.
+
+Çikarim basamaği daha net verilmeli ve ve be- lirsizlikler içermeyecek şekilde yapilandirilma- lidir.
+
+3\. BÖLÜM
+
+Bugünün Sorusu, Yarının Çözümü.
+
+4\. BÖLÜM
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+Bağlam temelli sorular; literatürde yorumlayici aliştirmalar, süper maddeler veya “testlet”ler olarak da ad- landirilir ve bir uyarici/materyal/girdi/bağlam (metin, grafik, tablo, görsel veya veri seti) ile bu girdiye dayali oluşturulmuş birden fazla ilişkili sorudan oluşur (Cureton, 1965; Ebel, 1951; Wainer ve Kiely, 1987; Haladyna, 1992). Bu doğrultuda farkli alanlardan TYMM öğretim programlari kapsaminda yazilan, deneme uygulamasi sonuçlarina göre hem Klasik Test Kurami hem de Madde Tepki Kurami (2 parametreli model) analizleri yapi- lan sorulardan örnekler sunulmuştur.
+
+Bu bölümde temel eğitim ortaokul kademesi Türkçe, matematik, fen bilimleri, sosyal bilgiler, din kültürü ve ahlak bilgisi; ortaöğretim Türk dili ve edebiyati, matematik, fizik, kimya, biyoloji, tarih, coğrafya, din kültürü ve ahlak bilgisi derslerinden analiz sonuçlariyla birlikte bağlam temelli soru örnekleri verilmiştir.
+
+4.1.1. Türkçe Dersi Örnek Sorular
+
+Temel Eğitim Türkçe alani 5. sinif 1 numarali kitapçikta “Problem Çözme” becerisini ölçmeyi hedefleyen maddeler aşağida verilmiştir.
+
+1-4. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+HAFTA SONU PROGRAMI
+
+Arda, 5. sınıfa giden bir öğrencidir. Öğretmeni onlardan hafta sonu için bir çalışma planı hazırlamalarını iste miştir. Arda ödevlerini yapmak, pazartesi günü yapılacak sınava hazırlanmak, sinemaya gitmek, spor yapmak ve dinlenmek için kendine zaman ayırmak istemektedir. Ayrıca hafta sonu en yakın arkadaşının doğum günü partisi vardır. Hem derslerine zaman ayırmak hem de sosyal etkinliklere katılmak istediği için programını nasıl düzenleyeceğini bilememektedir. Sürekli “Hangisine önce başlamalıyım?” diye düşünmekte ve plan ya parken zaman kaybetmektedir. Bu durum onu hem endişelendirmekte hem de derslerine odaklanmasını zorlaştırmaktadır.
+
+1\. Bu metne göre Arda’nın yaşadığı temel problem aşağıdakilerden hangisidir?
+
+A) Okul ödevleri
+
+B) Zaman yönetimi
+
+C) Arkadaş ilişkileri
+
+D) Sosyal aktiviteler
+
+2\. Aşağıdakilerden hangisi Arda’nın yaşadığı problemi en iyi şekilde özetlemektedir?
+
+A) Ödevleri için yeterli zamanının olmaması
+
+B) Arkadaşının doğum gününe gitmek istememesi
+
+C) Çalışma planını düzenleyememesi
+
+D) Katıldığı sosyal etkinliklerin fazlalığı
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+37
+
+383\. Arda, derslerine ayırdığı zamanı daha iyi planlayabilmek için aşağıdakilerden hangisini yaparsa zamanını daha verimli kullanabilir?
+
+A) Doğum günü partisine gitmeye karar verdiğinde
+
+B) Sosyal etkinlikleri tek bir güne topladığında
+
+C) Ödevlerini hafta içi yapmaya karar verdiğinde
+
+D) Yapacağı işleri öncelik sırasına göre sıraladığında
+
+4\. Arda, öğretmeninin verdiği görevi başarılı bir şekilde yerine getirdikten sonra derslerine daha düzenli çalış- tığını ve boş zamanlarında arkadaşlarıyla rahatça vakit geçirebildiğini fark etmiştir. Bu durumda Arda ile ilgili aşağıdaki değerlendirmelerden hangisi yapılabilir?
+
+A) Sosyal etkinliklere zaman ayırmaya başlamıştır.
+
+B) Okuldaki projelerde daha az yer almaya başlamıştır.
+
+C) Programını başarılı şekilde uygulamaya başlamıştır.
+
+D) Arkadaşlık ilişkilerine daha fazla öncelik vermiştir.
+
+1-4. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+OTEL TATİLİ
+
+Yaz tatili için plan yapan bir aile, aşağıdaki tabloda yer alan otelleri inceleyerek hangi otele gideceklerine karar vermeye çalışmaktadır. Konuyla ilgili aile bireyleri arasında şöyle bir konuşma geçmiştir:
+
+Eray Bey (Baba): Bütçemizi aşmamalı ve mutlaka otoparkı olmalı. Arabayı park edip kilometrelerce eşya ta şıyamayız.
+
+Umay Hanım (Anne): Ahhh\! Kesinlikle açık büfe olmalı. Ne yiyeceğimi kendim seçmek istiyorum. Ayrıca sağ lık hizmeti de olmalı, bir revir ve hemşiresi bulunmalı.
+
+Eray Bey (Baba): Sağlık konusunda sana katılıyorum canım.
+
+Ayça (1. Çocuk): Biliyorsunuz yarışmalara hazırlanıyorum. Kendine ait sahili olmalı ki yüzme antrenmanlarımı sürdürebileyim.
+
+Göktuğ (2. Çocuk): Pamuk’u bırakıp gitmek istemiyorum\! Hayvan dostu bir otel olsun. Aksi hâlde ben gel meyeceğim\!
+
+(Otellerin sahip olduğu özellikler “X” ile gösterilmiştir.)
+
+Otel Bütçeye Uygunluk Açık Büfe Eğlence/ Animasyon Çocuk Havuzu Hayvan Dostu Sağlık Hizmeti Denize Yakınlık Otopark İmkânı
+
+1\. Otel X X X 2. Otel X X X X 3. Otel X X X X 4. Otel X X X
+
+4\. BÖLÜM
+
+1\. Ailenin ortak karar alarak çözmeye çalıştığı durum aşağıdakilerden hangisidir?
+
+A) Her bireyin otelde bulunmasını istediği özelliğin farklı olması
+
+B) Eray Bey’in otele ulaşım için uygun bir fırsat araması
+
+C) Kedileri Pamuk’u emanet edecek bir yer aramaları
+
+D) Annenin temizlik hassasiyetine uygun bir otel istemesi
+
+2\. Umay Hanım ve Eray Bey arkadaşlarıyla yaptığı telefon konuşmasında “Bu otel ikimizin beklentilerini tam ola- rak karşılamasa da sunulan hizmetten memnunuz.” yorumunu yapmıştır. Bu yorumdan hareketle hangi oteli ter- cih etmiş olabilirler?
+
+A) 4. otel
+
+B) 3. otel
+
+C) 2. otel
+
+D) 1. otel
+
+3\. Bu aile 3. otele gitmeye karar verirse aşağıdaki durumlardan hangisinin yaşanması beklenir?
+
+A) Umay Hanım beklentilerini karşılayan bir tatil geçirmemiştir.
+
+B) Ayça, yüzme antrenmanlarını aksatmamıştır.
+
+C) Göktuğ, çok istediği animasyon gösterisini izlememiştir.
+
+D) Eray Bey, hesapladığı bütçe sınırının içinde kalmamıştır.
+
+4\. Bu aile gittikleri otelden çıkış yapacakları zaman kendilerine aşağıdaki tablo sunulmuş ve memnuniyetlerini her bir kritere göre puanlamaları istenmiştir. (Puanlama düşükten yükseğe doğru 1, 2 ve 3 puan üzerinden yapılmıştır ve her bir puan “\*” ile gösterilmiştir. Değerlendirilmek istenmeyen kriter boş bırakılmıştır.)
+
+Otel Memnuniyet Anketi
+
+Otel Bütçeye Uygunluk Açık Büfe Eğlence/ Animasyon Çocuk Havuzu Hayvan Dostu Sağlık Hizmeti Denize Yakınlık Otopark İmkânı
+
+Eray \* \*\*\* \*\* \*\*\* \*\*\* \* Umay \* \*\*\* \*\* \*\* \*\*\* \*\*\* \* Ayça \*\* \*\* Göktuğ \*\* \*\* \*\*\* \*\*
+
+Bu aile bireylerinin otelden beklentileri ve anket puanları dikkate alındığında aşağıdakilerden hangisi söylene- bilir?A) Göktuğ ve Ayça otelin eğlence hizmetinden memnun kalmıştır.
+
+B) Umay Hanım otelin denize olan mesafesini yeterli bulmuştur.
+
+C) Konakladıkları otel Eray Bey’in isteklerini karşılamıştır.
+
+D) Oteldeki sağlık hizmeti ebeveynlerin istediği düzeydedir.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+39
+
+40Temel Eğitim Türkçe alani 2 numarali kitapçikta “Sorgulama” becerisini ölçmeyi hedefleyen sorular aşaği- da verilmiştir.
+
+1-5. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız. Kütüphane Haftası kutlama programında bir öğretmen doğru kitap seçiminin nasıl yapılması gerektiğiyle ilgili aşağıdaki metni okuldaki tüm öğrencilere okumuştur.
+
+Beşinci sınıfa devam eden Gülşah bir ay sonra bu konuda okuldaki 100 arkadaşına anket uygulamış ve anket sonuçlarını aşağıdaki grafikle göstermiştir.
+
+1\. Gülşah’ın merak ettiği konu aşağıdakilerden hangisidir?
+
+A) Öğretmenin okuduğu metnin arkadaşları üzerindeki etkisi
+
+B) Okuldaki arkadaşlarının kitap okuma kültürü
+
+C) Arkadaşlarının okuyacağı kitapları belirleme tercihleri
+
+D) Kitabın tasarımıyla kitap hakkındaki yorumların ilişkisi
+
+Bir kitabı elimize aldığımızda önce kitabın ön kapağında yer alan ismini, sonra arka kapağındaki kısa tanı tımını okumalıyız. Ardından ilk birkaç sayfayı gözden geçirmeliyiz. Eğer anlatımı bizi içine çekiyorsa o kitap bize göre olabilir. Kitabın konusu, kitap seçerken bakmamız gereken önemli özelliklerdendir. Kitabın konu sunun ilgi alanımıza hitap etmesi, okuma heyecanımızı artıracaktır. Örneğin bilimle ilgilenen bir öğrenci, duygusal bir roman yerine deneyleri anlatan bir kitap seçerse hem kitaptan keyif alır hem de yeni bilgiler öğrenir. Kitabı seçerken yazarına bakmamız da yerinde olacaktır. Edebiyatımıza damgasını vurmuş, toplum tarafından kabul görmüş ve alanında uzman yazarların kitapları çoğunlukla bize istediğimizi verecektir.
+
+Bir araştırma, kitap seçimini doğru yapan öğrencilerin okuma kültürünü daha kolay kazandıklarını göster mektedir. Bu öğrencilerin kitap seçimini doğru yapamayan öğrencilere göre ayda iki kitap fazla okudukları tespit edilmiştir.
+
+4\. BÖLÜM
+
+2\. Aşağıdakilerden hangisi Gülşah’ın anketi uygularken arkadaşlarına sorduğu sorulardan biridir?
+
+A) Kütüphane Haftası’nda okuduğunuz kitabın hangi özelliğini beğendiniz?
+
+B) Okuma kültürü oluşturmada görsellerin önemi nedir?
+
+C) Kitap seçimi yaparken o kitapla ilgili nelere dikkat edersiniz?
+
+D) Bir yazarın alanında uzman olduğunu nasıl anlayabilirsiniz?
+
+3\. Gülşah, araştırması sonucu oluşturduğu grafik sayesinde kitap seçimiyle ilgili metinde önerilenlerden hangi-
+
+siyle ilgili bilgi edinmiştir?
+
+A) Kitabın görselleri
+
+B) Okuyucu yorumları
+
+C) Kitabın konusu
+
+D) Arka kapak yazısı
+
+4\. Metindeki araştırmadan hareketle Gülşah’ın anket sonuçları ile ilgili aşağıdakilerden hangisi söylenebilir?
+
+A) Araştırmaya katılan öğrencilerin büyük bir bölümü okuma kültürüne sahiptir.
+
+B) Okuma kültürü kazanmak isteyen öğrenciler kitapla ilgili yorumları dikkate almıştır.
+
+C) Kitap seçimi konusunda görselleri dikkate alan öğrenciler okuma kültürü kazanmıştır.
+
+D) Okuma sevgisi konusunda yazılmış kitaplar öğrenciler tarafından daha fazla tercih edilmiştir.
+
+5\. Öğretmenin okuduğu metindeki ve Gülşah’ın anket sonuçlarını gösteren grafikteki bilgilere göre aşağıdakiler- den hangisi söylenebilir?
+
+A) Öğrencilerin yarısından fazlasının kitap seçimi okunan metinde sunulan önerilere uygundur.
+
+B) En az sayıda öğrencinin belirttiği tercih nedeni, okunan metinde sunulan önerilerle örtüşmektedir.
+
+C) Öğrencilerin %30’u, okunan metinde sunulan önerilerle uyumlu bir davranış sergilemiştir.
+
+D) Kitap seçimi ile ilgili önerilere uygun davranış sergilemeyen öğrencilerin toplam oranı %15’tir.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+41
+
+42
+
+1-5. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+1\. Aybüke’yi araştırmaları sonucunda büyük veri tanımına ulaştıran durum nedir?
+
+A) Dijital ortamdaki bilgilerin nasıl oluştuğunu merak etmesi
+
+B) Veri madenciliği mesleğinin ne olduğunu merak etmesi
+
+C) Genel ağ ortamında ihtiyaç duyulan bilgilere nasıl ulaşılacağını merak etmesi
+
+D) Karmaşık bilgiler arasından ulaşılan bilgilerin satışları artırmak amacıyla nasıl kullanıldığını merak etmesi
+
+2\. Aşağıdakilerden hangisi Aybüke’nin merak ettiği konu ile ilgili öğretmenine sorduğu sorulardan biri olabilir?
+
+A) Doğru bilgiye ulaşmak için hangi arama motorunu kullanmalıyım?
+
+B) Araştırma yaparken kullanabileceğim yöntemler nelerdir?
+
+C) Ulaştığım bilgilerin doğruluğunu nasıl kontrol edebilirim?
+
+D) Büyük veri tam olarak ne anlama gelmektedir?
+
+3\. Aybüke’nin merak ettiği konu hakkında edindiği bilgilerle ilgili aşağıdakilerden hangisi söylenebilir?
+
+A) Büyük verinin oluşmasıyla birlikte bu devasa bilgi yığınlarını depolama sorunu ortaya çıkmıştır.
+
+B) Dijital ortamdaki bilgiler ayrıştırılarak ilgili alanlarda kullanılabilecek faydalı bilgilere dönüştürülebilmektedir.
+
+C) Madencilik alanındaki insan gücüne olan ihtiyaç büyük verinin analiz edilmesiyle en aza indirilmiştir.
+
+D) Veri madenciliğinin gelişimiyle birlikte ülkemizdeki altın madenlerinin keşfi ve işlenmesi hızlanmıştır.
+
+Aybüke, bir dergide “Büyük Veri” başlıklı bir yazı okur ancak büyük verinin ne olduğunu tam olarak anla yamaz ve konuyla ilgili merakı daha da artar. Bu konuyu araştırmaya karar verir ve öğretmenine sorar. Öğ retmeninden genel ağda yapılan her işlemin, girilen her bilginin bir veri olduğunu ve bu verilerin birikerek “Büyük Veri”yi oluşturduğunu öğrenir. “Peki, genel ağ ortamında bu kadar çok bilginin arasından ihtiyacı mız olan bilgiye kısa sürede nasıl ulaşıyoruz?” diye düşünür.
+
+Devasa bilgi yığınlarının arasından ihtiyaç duyulan bilgileri bulmak için veri madenciliği adında bir meslek olduğunu öğrenir. Tıpkı bir maden işçisi gibi karmaşık bilgilerin arasından altın değerinde bilgilere ulaşıl maktadır. Ayrıca veri madenciliğinin eğitim, sağlık, ticaret gibi farklı alanlarda kullanıldığı bilgisine de ula şır. Bu gibi alanlarda büyük veriyi oluşturan karmaşık bilgiler arasından ulaşılan bilgilerin müşteri müşteri memnuniyetini sağlama, satışları artırma, bilgileri değerlendirme amacıyla kullanılabilecek bilgilere dönü şebildiğini öğrenir.
+
+4\. BÖLÜM
+
+4\. Aşağıdaki bilgilerden hangisi Aybüke’nin veri madenciliği ile ilgili ulaştığı bilgileri doğrular nitelikte bir du- rumdur?
+
+A) Mahalleye yeni taşınan Kerem kayıtlı olduğu aile hekimliğini uygulama üzerinden öğrenmiştir.
+
+B) Kızına doğum günü hediyesi almak isteyen Tuğba Hanım, alışveriş uygulaması üzerinden oyuncak bebek siparişi
+
+vermiştir.
+
+C) Genel ağ üzerinden çok kez pizza siparişi veren Arda’ya 9 Şubat Dünya Pizza Günü’nde alışveriş uygulamasından
+
+“indirimli pizza” bildirimi gelmiştir.
+
+D) Zeynep Hanım, kredi kartı borcunun son ödeme tarihinin geçtiğini banka uygulamasının bildirimiyle fark etmiştir.
+
+5\. Metindeki bilgilerden hareketle aşağıdakilerin hangisinde veri madenciliğinden yararlanılmış olabilir?
+
+A) Özlem Hanım merak ettiği konuyla ilgili paylaşım yapan sosyal medya hesaplarını incelemiştir.
+
+B) Seçtiği ürünleri sepetine atan Tuğba Hanım’a “Sepetinde ürün var” bildirimi gelmiştir.
+
+C) Mehmet Bey’e fatura son ödeme tarihini bildiren kısa mesaj gelmiştir.
+
+D) Alışveriş sitesinden spor ayakkabı alan Eray Bey’e eşofman takımları önerilmiştir.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+43
+
+44Temel Eğitim Türkçe alani 3 numarali kitapçikta “Okuma” alan becerisini ölçmeyi hedefleyen sorular aşaği- da verilmiştir. 1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+SEKSEK
+
+Okul bahçesinde teneffüs zili çalınca öğrenciler hızla dışarı çıktı. Elif, yanında tebeşir getirdiğini hatırlayınca hemen beton zemine seksek çizgileri çizmeye başladı. Peşinden Ayşe ve Mehmet de ona katıldı. Üçü birlikte taş arayıp oyunu başlattılar. İlk olarak Mehmet’in taşı yanlış kareye düşse de gülüp eğlenmeye devam etti.
+
+Bahçenin köşesinde oturan Efe ise onları sessizce izliyordu. Genelde içine kapanık olduğu için oyunlara pek katılmazdı. Elif onu fark edince “İstersen bir sonraki turda sen oyna.” dedi. Efe önce tereddüt etti sonra yavaş ça yanlarına geldi.
+
+Sırası geldiğinde taşı büyük bir dikkatle çizgilere bıraktı. Taş tam doğru kareye düşünce diğerleri onu alkışla dı. Efe utanarak gülümsedi. O gün ilk kez teneffüsün bitmesini istemedi.
+
+1\. Aşağıdakilerden hangisi okuduğunuz hikâyedeki olay, yer, zaman ve şahıs kadrosu arasındaki etkileşimi doğru biçimde yansıtmaktadır?
+
+A) Okul bahçesi seksek oyunu için dar olduğundan oyuncu sayısı azdır.
+
+B) Öğrenciler okul bahçesinde oynadıkları için yere çizgi çizememişlerdir.
+
+C) Oyuncu sayısı fazla olduğu için oyunda Efe’ye sıra gelmemiştir.
+
+D) Öğrenciler teneffüste oldukları için bahçede oynayabilmişlerdir.
+
+2\. Metne göre Efe’nin oyuna katılmama sebebi aşağıdakilerden hangisidir?
+
+A) Oyunun nasıl oynandığını bilmemesi
+
+B) Arkadaşlarının onu çağırmaması
+
+C) İçe dönük bir kişiliğe sahip olması
+
+D) Başka bir oyunla meşgul olması
+
+3\. Okuduğunuz metinden hareketle aşağıdakilerden hangisine ulaşılabilir?
+
+A) Oyunlar, çocukların sosyal becerilerini geliştirir.
+
+B) Teneffüslerde oyun oynamak akademik başarıyı artırır.
+
+C) Grup oyunları açık alanda oynandığında eğlenceli hâle gelir.
+
+D) Seksek oyunu teneffüslerde diğer oyunlardan daha çok oynanır.
+
+4\. BÖLÜM
+
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+KİLİTLİ SANDIK
+
+Aynur’un kilitli bir sandığı vardı. Onu yatağının altında saklardı. Bazı zamanlarda kimse yokken sandığın kili dini açar, içindekilere bakar, sandığı tekrar kapatırdı.
+
+Bir gün kardeşi Selim, ablasını sandığın içindekilere bakarken gördü. Bu gizemli sandığın içinde ne olduğunu çok merak etti.
+
+Ablasına:
+
+“Ablacığım, o sandıkta ne saklıyorsun, bana da gösterir misin?” diye sordu.
+
+Ablası kilidi açtı ve sandıktaki eşyaları gösterdi. Sandıkta taşlar, küçük bir kırmızı kalem, midye kabukları, kartpostal gibi çeşitli şeyler vardı. Selim çok şaşırmıştı. Bunlar çok değerli şeyler değildi. Ablası neden kilitli bir sandıkta bunları saklıyordu?
+
+Ablasına:
+
+“Bunlar değerli şeyler değil. Neden bunları kilitli bir sandıkta saklıyorsun?” dedi.
+
+Aynur:
+
+“Bak, bu benim ilkokula başladığımda annemin aldığı ilk kalem. Bu, dayımın bana İstanbul’dan yolladığı kart postal. Bu da çok eğlendiğim bir tatilde topladığım taşlar ve midye kabukları. Bunların hepsinin bir anısı var. Benim için çok değerli.” diye cevap verdi.
+
+Selim, ablasının ne demek istediğini çok iyi anlamıştı. Ablasına gülümseyerek sevgiyle baktı.
+
+1\. Metinde sandığın açıldığı andan itibaren olayın gelişimi kahramanlar arasındaki ilişkiyi nasıl etkilemiştir?
+
+A) Olayın akışı yavaşlamış ve kahramanlar arasındaki iletişim kesilmiştir.
+
+B) Olayın merkezindeki gizem çözülmüş ve kardeşler arasında yakınlık oluşmuştur.
+
+C) Olayın yönü değişmiş ve kahramanların birbirine duyduğu güven azalmıştır.
+
+D) Olay sonuçlanmış ve kahramanların geçmişe dair ilgisi ortadan kalkmıştır.
+
+2\. Aynur’un sandığına yüklediği anlam aşağıdakilerden hangisiyle ilişkilidir?
+
+A) Hatıralar, üzerinden zaman geçtikçe daha değerli hâle gelmektedir.
+
+B) İnsan, hatıralarını başkalarıyla paylaştıkça yaşamın değerini daha iyi anlar.
+
+C) Değer, bazen yalnızca o eşyayı saklayan kişinin gözünde anlam kazanır.
+
+D) Paylaşılan sırlar, kişiler arasında güvensizliğe neden olabilir.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+45
+
+464.1.2. Ortaokul Matematik Dersi Örnek Sorular Temel Eğitim Matematik alani 1 numarali kitapçikta “Problem Çözme” becerisini ölçmeyi hedefleyen sorular aşağida verilmiştir.
+
+1-4. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Kozmetik Ürün Kullanımında Dikkat Edilecek Durumlar
+
+Kozmetik ürünlerinde iki farklı önemli tarih vardır:
+
+1\. Son Kullanma Tarihi (SKT)
+
+Bu tarih, ürünün daha hiç açılmadığı zamandaki ömrünü gösterir. Bu tarihe kadar ürün, en iyi ka- litede ve güvenli kullanım sınırlarında kalır. Genellikle “SKT” kısaltmasıyla veya sadece bir tarih olarak ambalajın üzerinde yazar. Bu tarihten itibaren ürünün yapısı bozulur ve içeriğindeki koru- yucu maddeler etkisini yitirir.
+
+2\. Kapak Açıldıktan Sonra Kullanım Süresi
+
+Kapağı ilk kez açılan bir ürünün hava ile teması başlar. Bu süre, genellikle ürünlerin üzerinde bir açık kavanoz sembolü içinde gösterilir.
+
+Bu sembolün içinde bir sayı ve yanında bir harf (M) bulunur. Örneğin ambalaj üzerinde “12 M” ifadesi yer alması, bu ürünün açıldıktan sonra 12 ay boyunca güvenle kullanılabileceği anlamına gelir.
+
+Bu bilgiler hem sağlığın korunması hem de ürünlerin doğru zamanda tüketilmesi açısından büyük önem taşır.
+
+1\. Ayşe’nin banyosunda bulunan üç farklı kremde şu bilgiler yer almaktadır:
+
+• Krem A: SKT 05.2026, açıldıktan sonra 12 M.
+
+• Krem B: SKT 03.2025, açıldıktan sonra 24 M.
+
+• Krem C: SKT 09.2025, açıldıktan sonra 6 M.
+
+• Krem D: SKT 07.2026, açıldıktan sonra 9 M.
+
+Ayşe bu ürünlerin hepsinin kapağını ilk kez 1 Mart 2024’te açmıştır.
+
+Buna göre Ayşe aşağıdakilerden hangisini diğer kremlerden önce kullanmayı bırakması gerekir?
+
+A) Krem A
+
+B) Krem B
+
+C) Krem C
+
+D) Krem D
+
+4\. BÖLÜM
+
+2\. Bir kozmetik ürünün üzerinde aşağıdaki ifadeler bulunmaktadır.
+
+• SKT: 01.07.2025
+
+• Açık Kavanoz Sembolü: 12 M
+
+Elif, Berk, Can ve Deniz bu ürünün güvenle kullanabileceği zaman dilimi hakkında aşağıdaki yorumları yapmışlardır.
+
+Bu dört arkadaşın söylediği aşağıdaki ifadelerden hangisi ürünün güvenle kullanılabileceği süreci ifade eden doğru ve eksiksiz yorumdur?
+
+A) Elif: “Ürünü kapağı açıldıktan sonraki 12 ay içinde kullanmalıyız.”
+
+B) Berk: “Ürünün kapağı açıldıktan sonra 01.07.2025 tarihine kadar güvenlidir.”
+
+C) Can “Ürünün kapağı açılmadığı sürece 12 ay boyunca güvenlidir.”
+
+D) Deniz: “Ürün SKT ile 12 aylık süreden hangisi önce dolarsa o tarihte bitirilmelidir.”
+
+3\. Ahmet, üzerinde “12 M” yazan bir kremi Ocak 2024’te açmıştır. Ahmet günük kullanımları sonrası ürünün kapağını tam kapatmadığı için ürünün bozulma süresi 3 ay kısalmıştır.
+
+Buna göre kremin güvenle kullanılabileceği son tarih aşağıdakilerden hangisi olabilir?
+
+A) 1 Ekim 2024
+
+B) 1 Kasım 2024
+
+C) 1 Aralık 2024
+
+D) 1 Ocak 2025
+
+4\. Aşağıdakilerden hangisi kozmetik ürünlerin güvenle kullanılabileceği son tarihi belirlemede en uygun yakla- şımdır?
+
+A) Son kullanma tarihi ile içindekiler kısmını kontrol etmek.
+
+B) Kapağı açıldıktan sonra kullanım süresini kontrol etmek
+
+C) Son kullanma tarihi ile açıldıktan sonra kullanım süresini kontrol etmek
+
+D) Ürünün nasıl, nerede ve ne sıklıkta kullanılması gerektiğini kontrol etmek
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+47
+
+48
+
+1-3.soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Tuğba, evinin çatısına bir güneş paneli sistemi kurarak kendi elektriğini birim enerji olarak üret- miştir. Ürettiği elektrikle evdeki aydınlatmaları çalıştırmak, telefon ve tabletini şarj etmek istemek- tedir. Bir güneş paneline sistem tüketimi için gerekli olan enerjinin 500 birim enerjiden fazla ol- ması gerektiği bilgisine ulaşmıştır. Sistemin her gün ne kadar enerji ürettiğini anlamak için günlük üretilen enerji miktarını kaydetmiştir. Kayıt altına aldığı veriler ile güneş panellerinin verimli çalışıp çalışmadığını değerlendirmiştir. Değerlendirme sonucunda bazı günlerde yeterli birim enerji üre- tilmediğini tespit etmiştir. Tuğba, beş gün boyunca panelin günlük enerji üretimini aşağıdaki gibi ölçmüştür.
+
+GÜNLER ENERJİ ÜRETİMİ
+
+Pazartesi 600 birim enerji
+
+Salı 550 birim enerji
+
+Çarşamba 400 birim enerji
+
+Perşembe 650 birim enerji
+
+Cuma 500 birim enerji
+
+1\. Bu durumda aşağıdakilerden hangisi Tuğba’nın cevap aradığı soruyu ifade eder?
+
+A) Güneş panelleri her gün aynı miktarda birim enerji üretir mi?
+
+B) Üretilen enerji Tuğba’nın ihtiyacını karşılar mı?
+
+C) Güneş panellerinin günlük verim miktarı yeterli midir?
+
+D) Cihazların kullanım sürelerinin azaltılması gerekir mi?
+
+2\. Güneş paneli ile ilgili verilenlerden hangisi Tuğba’nın yaşadıgı problemi yansıtmaktadır?
+
+A) Güneş paneli bazı günlerde yeterli enerji üretemediği için yetersiz kalmaktadır.
+
+B) Güneş paneli bazı günlerde fazla enerji ürettiği için sistemin gücü değişmektedir.
+
+C) Güneş paneli bazı günlerde hiç enerji üretmediği için sistem tamamen durmaktadır.
+
+D) Güneş paneli bazı günlerde eşit enerji ürettiği için sistem kararlı görünmektedir.
+
+3\. Tuğba güneş panellerinin beş gün boyunca ürettiği birim enerji miktarını göz önünde bulundurduğun- da aşağıdaki tahminlerden hangisini yapılamaz?
+
+A) Cihazların günlük yaklaşık tüketim miktarı
+
+B) Panellerin üretim miktarının tüketimden fazla olduğu gün sayısı
+
+C) Panellerin beş gün boyunca toplam üretim miktarı
+
+D) Cihazların aylık verimli çalıştığı gün sayısı
+
+4\. BÖLÜM
+
+Temel Eğitim Matematik alani 2 numarali kitapçikta “Sorgulama” becerisini ölçmeyi hedefleyen sorular aşağida verilmiştir.
+
+1\. Yapay zekâ ile ilgili yapılan bu yayının araştırma sorusu aşağıdakilerden hangisi olabilir?
+
+A) Yapay zeka kullanımının yükseköğretimdeki cinsiyet dengesi nedir?
+
+B) Türkiye’de eğitim araştırmalarında yapay zekânın etkisi nedir?
+
+C) Sınıfta yapay zekâ kullanımını artırmak için hangi çalışmalar yapılmalıdır?
+
+D) Cinsiyete ve eğitim durumuna göre bireylerin yapay zekâ kullanımı nasıldır?
+
+2\. Aşağıdakilerden hangisi bu araştırmaya göre cevaplandırabilecek soru değildir?
+
+A) Eğitim düzeyi arttıkça bireylerin yapay zekâ kullanma oranı nasıl değişmektedir?
+
+B) Kadın ve erkekler arasında yapay zekâ kullanımı açısından hangi eğitim düzeyindeki açıklık daha fazla-
+
+dır?
+
+C) Yapay zekâ kullanımı arttıkça öğrencilerin akademik başarıları nasıl değişmektedir?
+
+D) Cinsiyetlere göre yapay zekâ kullanımında eğitim düzeyleri arasındaki benzerlikler nelerdir?
+
+3\. Eğitim seviyesi arttıkça kadınların yapay zekâ kullanım oranlarının erkeklere göre 2 kat daha fazla olduğu göz- lenmiştir. şeklinde haber bir sosyal medya hesabından paylaşılmıştır. Bu paylaşımın doğru bilgi içerip içermediği sorgulanmaktadır. Buna göre aşağıdakilerden hangisi bu paylaşım üzerine belirlenmesi gereken bilgiler- den biri değildir?
+
+A) Haberi paylaşan sayfanın takipçi sayısına bakılması
+
+B) Haberin kaynağının araştırılması
+
+C) Benzer bilimsel yayınların araştırılması
+
+D) İlgili resmî raporlara ulaşılması
+
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Yapay zekâ, insan benzeri düşünme, öğrenme ve karar verme yeteneklerini bilgisayar sistemleri ara- cılığıyla taklit eden teknolojiyi ifade etmektedir, Tüik, 01 Ekim 2025 tarihinde “Yapay Zekâ İstatistikleri” adlı araştırmasını yayınlamıştır. Bu araştırmada yer alan, eğitim düzeyine göre yapay zekâ kullanımına yönelik grafik yanda verilmiştir.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+49
+
+50Temel Eğitim Matematik alani 3 numarali kitapçikta “Alan” becerisini ölçmeyi hedefleyen sorular aşağida verilmiştir.
+
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Sayı Bulmacası
+
+Sayı bulmacası kareli zemindeki kutulara ardışık doğal sayılar yerleştirilerek oynanmaktadır.
+
+Bahar, yukarıdaki sayı bulmacasında 3x3 kareli zemindeki kutulara 1’den 9’a kadar sayıların her biri birer defa kullanılarak yerleştirecektir. Satır, sütun ve köşegen doğrultusunda yerleştireceği sayıların toplamları ayrı ayrı 15’e eşit olmalıdır.
+
+1\. Aşağıdaki ifadelerden hangisi Bahar’ın sayı bulmacasındaki ilişkiyi doğru şekilde belirlediğini göster- mez?A) Her bir satır, sütun ve köşegendeki sayıların toplamının 15 olması için her kutuya belirli sayıların yazılması
+
+gerekir.
+
+B) Hem satır hem sütun hem de köşegen toplamlarını etkilediği için ortadaki kutu için doğru sayının seçilmesi
+
+gerekir.
+
+C) Soruyu doğru çözmek için köşelerdeki kutularda bulunan sayıların toplamı 15’e eşit olması gerekir
+
+D) Soruyu doğru çözmek için başlayabileceğimiz yalnız iki kutu vardır.
+
+2\. Bahar, sayı bulmacasını doğru çözdüğünde satır ve sütunlarda oluşan üç basamaklı en büyük sayı aşağıdakilerden hangisidir?
+
+A) 843
+
+B) 834
+
+C) 627
+
+D) 465
+
+4\. BÖLÜM
+
+4.1.3. Fen Bilimleri Dersi Örnek Sorular
+
+Temel Eğitim Fen Bilimleri alani 1 numarali kitapçikta “Problem Çözme” becerisini ölçmeyi hedefleyen so- rular aşağida verilmiştir.
+
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Üretilen plastiklerin yalnızca küçük bir kısmı işlenip yeniden değerlendiriliyor. Toplanan plastiklerin bir kısmı yakılıyor, bir kısmı ise açık alanlardaki çöplüklere bırakılıyor. Plastiklerin yakılması havayı kirletirken çöplüklerdeki plastiklerden sızan zararlı maddeler toprağa ve suya karışarak canlılara zarar veriyor. Plastik kirliliği sadece karalarda değil, denizlerde de ciddi bir problemdir. Rüzgâr ve nehirler karadaki plastikleri denize taşır. Her yıl milyonlarca ton plastik okyanuslara karışır. Balıklar ve deniz kuşları bu plastikleri yiyecek sanarak yutabilir, bu da onların hastalanmasına hatta ölmesine yol açabilir.
+
+1\. Plastik atıklar ile ilgili çözülmesi gereken ana problem nedir?
+
+A) Denizlerdeki rüzgârların plastikleri karaya taşıması
+
+B) Plastiklerin atıkların az bir kısmının işlenip değerlendirilmesi
+
+C) Balık ve deniz kuşlarının plastikleri yiyecek sanması
+
+D) Plastiklerin yakılarak hava kirliliğine yol açması
+
+2\. Aşağıdakilerden hangisi probleme yönelik kesin bir çözüm önerisidir?
+
+A) Nehirlerin denizlere karışmasını engellemek
+
+B) Balık hastalıklarına karşı ilaç üretmek
+
+C) Dışarıya su sızdırmaz plastik şişeler üretmek
+
+D) Plastiklerin toprak ve suya karışmasını engellemek
+
+3\. Aşağıdakilerden hangisi plastik kirliliğini azaltmak için en uygun çözüm önerisidir?
+
+A) Plastik atıkları sıkıştırmak
+
+B) Plastik atıkları geri dönüştürmek
+
+C) Plastik atıkları toprağa gömmek
+
+D) Plastik atıkların yok olmasını beklemek
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+51
+
+52
+
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Bir okulunun elektrik giderleri son dönemde artmaya başlamıştır. Okul yönetimi, çevreci yaklaşımla enerji tasarrufu sağlamak amacıyla yenilenebilir enerji kaynaklarını incelemeye karar vermiştir. Mev- cut hava durumu verilerini incelemiş ve okul çatısının güneş ışığı alma süresini gözlemlemiştir. Bu gözlemlerden hareketle güneş panellerini farklı yerleşim planlarıyla yerleştirerek en yüksek verimde enerji üretmeyi planlamaktadır. Yönetim, kurulacak sistemin çevreye ve okul bütçesine etkilerini de düşünerek kararlarının avantajlarını ve sınırlılıklarını da değerlendirmiştir.
+
+1\. Okul yönetimi, aşağıda verilen tahminlerden hangisinin sonucunda okul çatısına güneş
+
+paneli kurdurmaya karar vermiştir?
+
+A) Yenilenebilir enerji kaynağı kullanmak elektrik giderlerini azaltır.
+
+B) Okulun ışıklandırma sistemini yenilemek elektrik giderlerini azaltır.
+
+C) Enerji tasarrufu ile ilgili posterler hazırlamak elektrik giderlerini azaltır.
+
+D) Öğrencilerden enerji timleri kurmak elektrik faturasını azaltır.
+
+2\. Okul yönetimi, güneş panellerinin verimini artırmak için öğrencilerden çözüm önerileri
+
+istemiştir. Aşağıdakilerden hangisi problemin çözümüne yönelik uygun bir öneridir?
+
+A) Panellerin üzerine lambalar yerleştirmek
+
+B) Panellerin üzerine gölgelik koymak
+
+C) Panellere ısıtma sistemi eklemek
+
+D) Panelleri düzenli olarak temizlemek
+
+3\. Okul çatısına yerleştirilen güneş panelleri sayesinde elektrik üretimi başlamış ve sorunsuz de- vam etmiştir. Şirket çalışanları bir yıl sonra yaptıkları ölçümlerde daha az enerji üretildiği sonucu- nu kaydetmişlerdir. Elektrik üretiminin azalmasına ilişkin aşağıdakilerden hangisi söylene- mez?
+
+A) Havanın bulutluluk ve yağış oranı artmıştır.
+
+B) Okul çevresindeki ağaçların boyu uzamıştır.
+
+C) Bölgede kömür kullanımı artmıştır.
+
+D) Bölgede güneşli gün sayısı artmıştır.
+
+4\. BÖLÜM
+
+Fen Bilimleri alani 2 numarali kitapçikta “Sorgulama” becerisini ölçmeyi hedefleyen sorular aşağida veril- miştir.
+
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Doğa yürüyüşüne çıkan öğretmen ve öğrenciler, bazı ağaç altlarında meşe palamudu ve badem kabukları görürler. Ece “Öğretmenim, bu ağaçlar meşe ya da badem ağacı değiller ama altlarında neden bu kabuklar var?” diye sorar. Öğretmen de bu durumun nedeninin Anadolu ağaç sincapları olabileceğini söyler. Anadolu ağaç sincabı, ülkemizin ormanlık bölgelerinde yaşayan bir kemirgen türüdür. Bu sincaplar çoğunlukla ormanlarda ve dağlık alanlarda görülür ancak zaman zaman fındık ve ceviz bahçelerinde ya da park ve bahçelerde insanların yaşam alanlarını da paylaşabilir. Yuva- larını genellikle ağaç kovuklarına ya da eski ağaçkakan yuvalarına yapar. Yuvanın içini yosun, kuru yaprak, ot ve ağaç kabuğuyla döşeyerek rahat bir yaşam alanı oluşturur. Beslenmelerinde fındık, ceviz, kestane, badem, Antep fıstığı gibi tohumların yanı sıra elma, armut, kiraz, kayısı, dut gibi meyveleri de yiyebilirler. Bazı zamanlarda ormandaki kayın ve meşe ağaçlarının tohumlarını hatta çam kozalaklarını bile tüketir. Besin bulmakta zorlandıklarında böcek, kuş yumurtası ve çiçeklerle de beslenebilir. Sincaplar, ön ayaklarını tıpkı eller gibi kullanarak yiyeceklerini tutar ve kemirir. Tırnakları sayesinde ağaçlara kolayca tırmanabilir, yere inebilir ve daldan dala atlayarak orman içinde hareket edebilir.
+
+1\. Aşağıdaki ifadelerden hangisini kullanan öğrenci yanlış bir değerlendirmede bulunur?
+
+A) Dağlık bölgelerde sincaplar yaşayabilir.
+
+B) İnsan ve sincap aynı bölgede yaşayabilir.
+
+C) Sincaplar hayvan kökenli besin tüketmez.
+
+D) Sincaplar ağaç kovuklarında yaşam alanı oluşturur.
+
+2\. Ece’nin sorduğu aşağıdaki sorulardan hangisi Anadolu ağaç sincaplarının yaşam alanla-
+
+rını anlamaya yöneliktir?
+
+A) Sincaplar neden kuşlarla aynı ağaçlarda yaşar?
+
+B) Sincapların yaşadığı bölgelerde hangi ağaç türleri daha yaygındır?
+
+C) Tüm sincap türleri aynı büyüklükte midir?
+
+D) Sincaplar ormanda mı yoksa şehirde mi daha fazla görülür?
+
+3\. Sincapların tırnakları onların yaşamında nasıl bir rol oynar?
+
+A) Yalnızca yuva yapımında görev alır.
+
+B) Besinlerini tutup taşımalarını sağlar.
+
+C) Hem beslenme hem de hareket etmesinde kolaylık sağlar.
+
+D) Soğuk havalarda ağaç kabuklarına tutunarak sıcak kalmalarını sağlar.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+53
+
+54
+
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Hafta sonu pikniğe giden Ali ve ailesi eve döndüklerinde annesinin bacağına bir kene yapıştığını fark eder. Bunun üzerine Ali, keneler hakkında araştırma yapar ve bazı bilgilere ulaşır.
+
+Keneler çalı, ot ve yapraklarda yaşar. İnsan ve hayvanların kanını emerken mikrop bulaştırabilir. Kene kaynaklı hastalıklar arasında Kırım Kongo Kanamalı Ateşi (KKKA) ve Lyme hastalığı bulunur. Türkiye’de en sık görülen kene kaynaklı hastalık KKKA’dır.
+
+Bu hastalık genellikle baş ağrısı, hâlsizlik ve ateşle başlar; tedavi edilmezse daha ağır sağlık sorun- larına yol açabilir. Çoğu kene zararsız olsa da hangisinin mikrop taşıdığını anlamak mümkün değildir. Bu nedenle her kene ısırığı ciddiye alınmalıdır. Bazı kişilerde kene ısırmasından sonra hastalık geli- şirken bazılarında hiçbir belirti görülmeyebilir.
+
+1\. Ali, yaptığı araştırmalarla aşağıdaki soruların hangisine cevap veremez?
+
+A) Keneler insanlar için risk oluşturur mu?
+
+B) Keneler nerede yaşar?
+
+C) Keneler nasıl beslenir?
+
+D) Kene ısırmasının ilk belirtileri nelerdir?
+
+2\. Ali’nin yaptığı araştırma ile elde ettiği bilgileri doğrulamak için aşağıdakilerden hangisini
+
+yapması en uygundur?
+
+A) Yeşilaya başvurmak
+
+B) Sosyal medyadan araştırma yapmak
+
+C) Sağlık kuruluşuna başvurmak
+
+D) Kenenin ısırdığı birine danışmak
+
+3\. Ali, kenelerle ilgili yaptığı araştırmalar sonucunda ulaştığı bilgilerden hareketle aşağıdaki
+
+genellemelerden hangisini yapabilir?
+
+A) Keneler hayvanlara hastalık bulaştırır.
+
+B) Yalnızca insanların kanını emer.
+
+C) Her canlı için aynı riski taşır.
+
+D) Kene ısırmaları dikkatle değerlendirilmelidir.
+
+4\. BÖLÜM
+
+Temel Eğitim Fen Bilimleri alani 3 numarali kitapçikta “Bilimsel Çikarim Yapma Alan” becerisini ölçmeyi he- defleyen sorular aşağida verilmiştir.
+
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Babası Burcu’ya bir teleskop hediye etmiştir. Burcu da bir ay boyunca Ay’ı gözlemlemeye karar ver- miştir. Her gün aynı saatte Ay’ı gözlemleyerek teleskop görüntüsünün fotoğrafını çekmiştir. Burcu, Ay’ın her zaman aynı yüzünü gördüğünü fark etmiştir. Yaptığı gözlemler, çektiği fotoğraflar ve araş- tırmalarından yola çıkarak bazı sonuçlara ulaşmıştır. Ay’ın gökyüzünde farklı şekillerde görülmesinin ve yüzeyinde hep aynı kraterleri gözlemlemesinin sebebinin dönme, dolanma hareketleri ve bu ha- reketlerin süreleri ile ilgili olduğu sonucuna ulaşmıştır.
+
+1\. Burcu’nun gözlemleri dikkate alındığında aşağıdakilerden hangisi Ay’ın dönme ve dolan-
+
+ma hareketlerinin bir niteliğini tanımlar?
+
+A) Ay, Dünya etrafında dolanırken kendi ekseni etrafında da döner.
+
+B) Ay; Dünya etrafında hareket eder, kendi etrafında dönmez.
+
+C) Ay, her gece farklı bir yüzünü gösterdiği için sürekli yön değiştirir.
+
+D) Ay; gökyüzünde sabit durur, hareket eden Dünya’dır.
+
+2\. Burcu’nun elde ettiği verilerden yola çıkarak yaptığı değerlendirmelerden hangisi doğru-
+
+dur?
+
+A) Ay’ın dönme ve dolanma hareketlerinin süreleri eşittir.
+
+B) Ay, Dünya etrafında döndüğü için bize genellikle aynı yüzünü gösterir.
+
+C) Ay, Dünya’ya yakın olduğu için aynı yüzü görünür.
+
+D) Ay’ın döndüğünü kanıtlamak için karanlık bölgelerin yer değiştirmesi gerekir.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+55
+
+56
+
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Ay’daki Ayak İzleri
+
+1969 yılında Neil Armstrong ve ekibi Ay’a iniş yaptıklarında yüzeyde yürüyerek araştırmalar yap- mışlardır. Armstrong’un attığı ilk adımlar, Ay yüzeyinde belirgin izler bırakmıştır. Aradan uzun yıllar geçmesine rağmen Ay’a gönderilen uzay araçlarının çektiği fotoğraflarda bu izlerin hâlâ durduğu görülmüştür. Bilim insanları, Dünya’da bir yüzeyde oluşan izlerin zamanla kaybolduğunu ancak Ay’da bunun yaşanmadığını belirtmektedir. Bu durum Ay’ın atmosfer koşullarının Dünya’dan çok farklı ol- masından kaynaklanmaktadır. Ayrıca Ay’ın yüzeyinde gündüzlerin çok sıcak, gecelerin ise çok soğuk olduğunu gösteren ölçümler kaydedilmiştir.
+
+1\. Bu duruma göre Ay’ın özellikleriyle ilgili aşağıdaki çıkarımlardan hangisine ulaşılabilir?
+
+A) Ay’da gece ve gündüz sıcaklığı birbirine çok yakındır.
+
+B) Ay yüzeyi sürekli hareket ettiği için izler korunur.
+
+C) Ay’ın kalın bir atmosferi vardır, bu da izleri sabit tutar.
+
+D) Ay’da rüzgâr ve yağmur gibi aşındırıcı etkenler bulunmaz.
+
+2\. Ay’ın yüzeyinde gündüzlerin çok sıcak, gecelerin ise çok soğuk olduğunu gösteren öl-
+
+çümler alınmasının nedeni ne olabilir?
+
+A) Ay’da kalın bir atmosfer tabakasının bulunması
+
+B) Ay’ın kendi ekseni etrafında çok yavaş dönmesi
+
+C) Ay’da ısıyı tutacak yoğun bir atmosferin bulunmaması
+
+D) Ay yüzeyinin tamamen su ve buz tabakasıyla kaplı olması
+
+4\. BÖLÜM
+
+4.1.4. Sosyal Bilgiler Dersi Örnek Sorular
+
+Temel Eğitim Sosyal Bilgiler alani 1 numarali kitapçikta “Problem Çözme” becerisini ölçmeyi hedefleyen sorular aşağida verilmiştir.
+
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Efe’nin Gayreti
+
+Efe, dedesiyle tarlaya gitti. Tarla işlerinin çok zaman aldığını ve yorucu olduğunu duymuştu. Tarlaya ulaştıklarında her yerin çamur olduğunu gördü. Bunun üzerine dedesine bitkilerin gerçekten bu ka- dar çok suya ihtiyaç duyup duymadığını sordu. Dedesi “Hayır, bu kadar suya gerek yok.” dedi. Efe, dedesinin cevabı üzerine genel ağda sulama yöntemleri hakkında bir araştırma yaptı ve araştır- masının sonucunda aşağıdaki bilgilere ulaştı.
+
+Sulama Yöntemi Olumlu Yönleri Olumsuz Yönleri Metrekare Fiyatı (₺)
+
+Salma
+
+Su kaynaklarına yakın yerlerde kullanılır. Tarım amaçlı sulamada kullanılır.
+
+Su kaybı oldukça
+
+fazladır. 120-150
+
+Fıskiye Suyu geniş alana ya-
+
+yar. Kurulumu kolaydır.
+
+Zaman ve sensör ayarı yoktur. Suyun %50’si israf olur.
+
+150-300
+
+Akıllı
+
+%50 su tasarrufu sağlar. Bitkilerin ihtiyacı kadar sulama yapar.
+
+Kurulum maliyeti yüksektir ve teknolojik altyapı gerektirir.
+
+800–1.100
+
+Damla
+
+% 60 kadar su tasar- rufu sağlar. Suyu doğrudan bitki kökler- ine ulaştırır ve toprağın nemli kalmasını sağlar.
+
+Filtrelerin tıkanma olasılığı yüksektir. 350–550
+
+1\. Sulama yöntemleri, su tasarrufu yönünden incelendiğinde aşağıdakilerden hangisi doğrudur?
+
+A) Salma sulama, suyu verimli kullanmak için en etkili yöntemdir.
+
+B) Damla sulama, en fazla su tasarrufu sağlayan yöntemdir.
+
+C) Fıskiye sulamada su israfı, damla sulamaya göre daha azdır.
+
+D) Akıllı sulamada su israfı, damla sulamaya göre daha fazladır.
+
+2\. Efe’nin dedesi su tasarrufunu ve maliyeti dikkate aldığında tarlasını hangi yöntemle sulamalıdır?
+
+A) Salma
+
+B) Fıskiye
+
+C) Akıllı
+
+D) Damla
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+57
+
+58
+
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Öğretmenimiz “Yaşadığınız çevrede var olan bir sorunu çözmek isteseydiniz bu sorun ne olurdu?” diye sordu. Belediyenin mahallemize yaptığı bisiklet yollarına yasak olmasına rağmen komşularımızın araçlarını park ettiğini söyledim. Bu yüzden bisiklet yolunu kullanamadığımızı ve araç trafiğine ait yol- larda bisiklet sürmek zorunda kaldığımızı da dile getirdim. Arkadaşlarımın da anlattıklarıma katılması üzerine öğretmenimiz bu soruna çözüm önerileri üretmemizi istedi.
+
+1\. Aşağıdakilerden hangisi metinde verilen sorunu özetler?
+
+A) Araçların bisiklet yoluna park edilmesi
+
+B) Araç trafiğine ait yollarda bisiklet sürülmesi
+
+C) Araçların park edecek yer bulamaması
+
+D) Araç yolunun yanına bisiklet yolu yapılması
+
+2\. Öğrencilerin sorunun çözümü için aşağıdakilerden hangisini dile getirmesi uygun değildir?
+
+A) Araçlar için yeni park alanlarının yapılması
+
+B) Bisiklet yollarının daha geniş yapılması
+
+C) Bisiklet yoluna araç geçişinin engellenmesi
+
+D) Araçlar için uyarı levhalarının artırılması
+
+4\. BÖLÜM
+
+Temel Eğitim Sosyal Bilgiler alani 2 numarali kitapçikta “Sorgulama” becerisini ölçmeyi hedefleyen sorular aşağida verilmiştir.
+
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+HAKLARIMI BİLİYORUM
+
+Market müdürü ile bir müşterinin ürün değişimi hakkında konuşmalarına tanık olan Eylül, olayı ilgi- yle takip etmiştir. Müşteri, aldığı ürünü beğenmediği için değiştirmek istemiştir. Bunun üzerine müdür, müşteriden alışveriş fişini göstermesini istemiştir fakat müşteri fişi attığı için gösterememiştir. Bunun üzerine ürün değişimi yapılamamıştır. Müşteri ise ürün değişimi yapılmadığı takdirde ilgili kurumlara şikâyet edeceğini belirtmiştir. Eylül, böyle bir durumu yaşasaydı ne yapması gerektiğini düşünerek bir araştırma yapmaya karar vermiştir.
+
+1\. Eylül’ün araştırmak istediği konu hangisidir?
+
+A) Tüketici haklarının nasıl kullanılabileceği?
+
+B) Market müdürünün ürünü neden değiştirmediği?
+
+C) Müşterinin ürünü neden değiştirmek istediği?
+
+D) Hangi kurumlara şikâyette bulunulabileceği?
+
+2\. Aşağıdakilerden hangisi Eylül’ün araştırmasında cevap arayacağı sorulardan biri olamaz?
+
+A) Müşteriyi koruyan yasalar var mıdır?
+
+B) Müşteri ürünü neden beğenmemiştir?
+
+C) Müşteri alışverişten sonra fişi neden saklamalıdır?
+
+D) Müşteri ürünü iade edemezse ne yapmalıdır?
+
+3\. Eylül, yaptığı araştırmalar sonucunda mağazadan yapılan alışverişlerde yalnızca kusurlu ürünün gerekli belgeler le (satış belgesi, iade talep formu, ürünün orijinal paketi ve aksesuarları) değişim veya iadesinin yapılabi- leceği bilgisine ulaşmıştır.
+
+Eylül şahit olduğu olay ve yaptığı araştırmadan sonra aşağıdakilerden hangisine ulaşabilir?
+
+A) Ürün değişimi koşulsuz yapılmalıdır.
+
+B) Ürün değişimine satıcı karar vermelidir.
+
+C) Satıcı, ilgili kurumlara şikâyet edilmelidir.
+
+D) Müşteri, sorumluluklarını bilmelidir.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+59
+
+60
+
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Yiğit, günlük hayatta davranışlarımızı düzenleyen kuralların nasıl belirlendiğini merak etmiştir. Örneğin, mahalleye yapılacak park alanı için insanlar en uygun yer ve şartları belirlemek amacıyla fikirlerini paylaşmış ve ortak bir sonuca ulaşmışlardır. Benzer şekilde evde aile fertlerinin fikir alışver- işinde bulunarak kuralları belirlediğini, öğrenci kulüplerinde öğrencilerin ilgi ve yeteneklerine göre seçim yaptığını, vatandaşların ise dilekçe ve şikâyet haklarının bulunduğunu gözlemlemiştir.
+
+1\. Verilen bilgilere göre Yiğit’in öğrenmek istediği temel konu nedir?
+
+A) Park yerinin belirlenmesi
+
+B) Öğrenci kulüp seçimleri
+
+C) Dilekçe hakkının kullanılması
+
+D) Toplumu düzenleyen kurallar
+
+2\. Yiğit, merak ettiği konu hakkında araştırma yaparken hangi soruya odaklanmış olabilir?
+
+A) Birlikte karar almak toplum düzeni için fayda sağlar mı?
+
+B) Şikâyetlerimizin sadece dilekçe yoluyla yapılması doğru mudur?
+
+C) Sosyal alanlar yapılması için vatandaşların görüşü yeterli midir?
+
+D) Sorunlar sadece şikâyet yoluyla mı çözülmelidir?
+
+3\. Aşağıdakilerden hangisi ortak karar almayı ifade eder?
+
+A) Farklı düşünceler uzlaşmayı zorlaştırdığından kararların bir kişi tarafından alınması doğru olabilir.
+
+B) Kararların benzer fikirde olan kişiler tarafından alınması süreci kolaylaştırabilir.
+
+C) Farklı düşüncelerin bir araya gelmesiyle toplum için daha adil kararlar alınabilir.
+
+D) Ortak karar alırken çocukların düşüncelerine başvurmak sürecin uzamasına yol açabilir.
+
+4\. BÖLÜM
+
+Temel Eğitim Sosyal Bilgiler alani 3 numarali kitapçikta “Değişim ve Sürekliliği Algilama Alan” becerisini ölçmeyi hedefleyen sorular aşağida verilmiştir.
+
+1-4. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Benim köyüm Afyonkarahisar’a bağlı Ayazin’dir. Önceleri köyümüz tarım ve hayvancılık faali- yetleriyle geçimini sağlamaktaydı. Afyonkarahisar Valiliği, Belediye Başkanlığı ve Kocatepe Üniversi- tesi iş birliğiyle köyümüzde arkeolojik kazı çalışmaları başlatıldı. Kazı sonucunda Frig medeniyetine ait yaşam yerleri bulundu. Yapılan çalışmalar ile tarihî alan turizme kazandırıldı. Çok geçmeden köyümüze marketler, restoranlar, oteller yapıldı ve ziyaretçi sayısının artmasıyla köyümüzün alt- yapısı hızlıca yenilendi. Ayrıca genel ağ hizmetleri güçlendirildi, belediye otobüsleri düzenli seferler gerçekleştirmeye başladı. Yeni ortaokul açıldı, yerel ürünlere rağbet oldu ve ekonomik kazancımız çeşitlendi. Dahası, bazı ulusal film ve diziler burada çekilmeye başlandı. Buna karşın gelen turistlerin yoğunluğu çevredeki atıkların toplanmasında aksamalara yol açtı.
+
+1\. Ayazin köyünde yaşanan değişimin temel nedeni aşağıdakilerden hangisidir?
+
+A) Tarım ve hayvancılık faaliyetlerinin yerine turizm yapılması
+
+B) Tarihî mekânlarda ulusal film ve dizilerin çekilmesi
+
+C) Arkeolojik kazılar sonucunda tarihî mekânların ortaya çıkması
+
+D) Organik şekilde üretildiği için yerel ürünlere rağbetin artması
+
+2\. Aşağıdakilerden hangisi köyde yaşanan gelişmelerin etkilediği unsurlara örnek verilemez?
+
+A) Eğitim
+
+B) Çevre
+
+C) Altyapı
+
+D) Sağlık
+
+3\. Aşağıdakilerden hangisi köyde yaşanan değişimlerin etkilerinden biridir?
+
+A) Atıklar geri dönüştürülmüştür.
+
+B) Tarımsal faaliyetler artmıştır.
+
+C) Kazılar hemen tamamlanmıştır.
+
+D) İş imkânları çeşitlenmiştir.
+
+4\. Aşağıdaki neden-sonuç ilişkilerinden hangisi Ayazin köyünün değişiminden çıkarılamaz?
+
+A) Tarım ve hayvancılık faaliyetleriyle ekonomik çeşitlilik yaşanmıştır.
+
+B) Çevredeki çöplerin alınmasıyla ilgili sorunlar yaşanmıştır.
+
+C) Yaşanan nüfus artışıyla yeni eğitim kurumları yapılmıştır.
+
+D) Ulusal dizi ve filmlerin bu bölgede çekilmesi, ziyaretçi sayısını artırmıştır.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+61
+
+62
+
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Ankara, küçük ve sakin bir yerleşim yeriydi. Evlerin çoğu kerpiçten, sokaklar dar ve taş döşemeliydi. İnsanlar genellikle yürüyerek ya da at arabalarıyla ulaşım sağlardı. Şehrin çevresinde geniş tarlalar, bağlar ve bostanlar uzanırdı. Ankara’nın Türkiye’nin başkenti ilan edilmesiyle şehir hızla büyümeye başladı. Yeni yollar yapıldı ve tren istasyonu genişletildi. Farklı şehirlerden Ankara’ya göç eden in- sanlar için yeni mahalleler kuruldu. Tarlaların yerini apartmanlar aldı. Yeni okullar, hastaneler ve park- lar yapıldı. Günümüzde Ankara’da metro, otobüs ve otomobillerle ulaşım sağlanıyor. Bu gelişmeler doğal çevreyi de etkiledi. Bazı dereler kurudu ve yeşil alanlar zarar gördü. Şehirde gürültü ve hava kirliliği arttı. İnsanlar doğayı korumak için çaba gösterdi ve ağaç dikme kampanyaları düzenledi.
+
+1\. Ankara’nın hızla büyüyüp gelişmesine etki eden durum aşağıdakilerden hangisidir?
+
+A) Ankara’nın Türkiye’nin merkezi olması
+
+B) Ankara’nın ulaşım ağının genişlemesi
+
+C) Ankara’da park ve bahçelerin sayısının artması
+
+D) Ankara’da okullar ve hastaneler yapılmış olması
+
+2\. Ankara’nın büyümesiyle aşağıdakilerden hangisi doğal çevrede yaşanan bir değişimdir?
+
+A) Yeni yolların ve binaların yapılması
+
+B) Şehirdeki derelerin kuruması
+
+C) Farklı şehirlerden göçlerin artması
+
+D) Metro ve otobüs hatlarının çoğalması
+
+4\. BÖLÜM
+
+4.1.5. Temel Eğitim Din Kültürü ve Ahlak Bilgisi Dersi Örnek Sorular
+
+Temel Eğitim Din Kültürü ve Ahlak Bilgisi alani 1 numarali kitapçikta “Sorgulama” becerisini ölçmeyi hedef- leyen sorular aşağida verilmiştir.
+
+1 ve 2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Doğa Kulübü’nün düzenlediği yürüyüşe katılan Erdem; rotanın yakınında yemyeşil, hafif ıslak ve kuş seslerinin duyulduğu bir bölgeden geçer. Erdem gökyüzünde süzülen kuşları, çevresindeki ren- garenk bitkileri gözlemler ve Allah’ın evrende kurduğu düzenle ilgili aklına takılan birkaç soruyla eve döner. Hemen araştırma yapmaya başlayan Erdem, bir doğa dergisinde bataklıklarla ilgili aşağıdaki bilgilere ulaşır:
+
+Bataklıklar iklim değişikliğinin olumsuz etkilerine karşı doğamızı korurlar. Batak- lıklarda bulunan yoğun bitki örtüsü, suyu filtreleyerek akarsulara karışan suyun daha temiz olmasını sağlar.
+
+1\. Bu parçadan hareketle Erdem’in araştırdığı konu aşağıdaki ayetlerden hangisiyle ilgili
+
+olabilir?
+
+A) Gerçekten biz, her şeyi bir ölçü ve dengede yarattık. (Kamer suresi, 49. ayet)
+
+B) “… Allah onların yapmakta olduklarını eksiksiz görür.” (Bakara suresi, 96. ayet)
+
+C) “İnsanların kendi elleriyle yapıp ettikleri yüzünden karada ve denizde düzen bozuldu…” (Rum suresi, 41.
+
+ayet)
+
+D) “Yeryüzünde hiçbir canlı yoktur ki rızkı Allah’a ait olmasın…” (Hud suresi, 6. ayet)
+
+2\. Aşağıdakilerden hangisi Erdem’in aklına takılan sorulardan biri olamaz?
+
+A) Bataklıkların yaratılma amacı ne olabilir?
+
+B) Evrende yaratılan her şeyin bir amacı var mıdır?
+
+C) Bataklıklarda hangi canlılar yaşar?
+
+D) Bataklıkların çevresel düzendeki yeri nedir?
+
+Bataklıklar su akışının düzenli ve dengeli ol- masında önemli rol oynar. Yağışlı dönemlerde suyu sünger gibi emerek bulundukları bölgede sel oluşumunu önler, kurak dönemlerdeyse bu suyu yavaş yavaş bırakarak toprağın kuru- masını engellerler. Sahil bölgelerinin fırtınalara karşı korunmasında da etkilidirler.
+
+Bataklıklar sulak alanların bir türüdür. Yıl boyunca veya bazı mevsimlerde kısmen ya da tamamen sular altında kalırlar. Suyun olmadığı dönemlerde bile toprakları suya doygun yani nemli ve ıslak olur. Su seviyeleri derin değildir. Bu nedenle bitkiler dibe kök salarak su yüzeyine kadar erişebilir ve orada büyümeye devam edebilir. Bu alanlar, yağmur sularının yanı sıra yer altı sularıyla da beslenebilir. Deniz, göl, nehir gibi su kaynaklarına yakın bir konumda bulunurlar. Bu bakımdan sucul ve karasal bölgeler arasında geçiş görevi görürler.
+
+Bataklıklar; Antarktika hariç yeryüzündeki tüm kıtalarda bulunur.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+63
+
+64
+
+1-3. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Hilal, Ayşe, Burak ve Ahmet öğretmenlerinden aldıkları bir görevle şehir parkında bir gözlem yapar- lar. Görevleri, doğada karşılaştıkları düzenin izlerini keşfetmektir. Gözlemleriyle ilgili konuşma şu şekildedir:
+
+Hilal: Şu meşe ağacının yaprağına yakından baktım. Üzerindeki damarlar, sanki haritalardaki yollar gibi\! Her biri belirli bir yöne gidiyor. Bu damarlar, yaprağın en uç noktasına bile su ve besin taşıyacak şekilde düzenlenmiş.
+
+Burak: Ben de bir serçe yuvası buldum. Yuvanın altı güçlü dallarla desteklenmiş, içi ise yumu- şacık otlarla kaplı. Rüzgârda sallansa bile bozulmuyor. Düşünsene, kuşlar marangoz değil ama her yıl aynı şekilde sağlam yuvalar yapıyorlar. Acaba onlara yuva yapmayı kim öğretiyor?
+
+Ayşe: Ben de yerde büyük bir karınca yuvası buldum. Dikkat ettim, karınca yuvasının giriş kısmı rüzgârın az estiği yöne bakıyor. Karıncalar durmadan bir şeyler taşıyor. Bir belgeselde görmüştüm, yuvanın içinde de farklı bölmeler varmış. Odaları hangi amaçla yapacaklarını nere- den öğreniyorlar?
+
+Ahmet: Ben de insan vücudunun yapısını gözlemledim. Kalbimiz durmadan atıyor, nefes alıp veriyoruz, terliyoruz. Tüm bunlar biz farkında bile olmadan oluyor. Bir çoğunu biz kontrol etmiyo- ruz ama her şey kusursuz çalışıyor. Yaprağın damarları, kuşun yuvası, karıncanın evi ve bizim vücudumuz…
+
+1\. Öğrencilerin gözlem notlarında aşağıdaki bilgilerden hangisine değinilmemiştir?
+
+A) Canlılardaki sistemlerin bir amaca hizmet etmesi
+
+B) Tabiattaki düzenin matematiksel oranlara sahip olması
+
+C) Canlıların çevreye uyum sağlayacak şekilde yaratılması
+
+D) Tabiatta aksamadan devam eden bir sistemin olması
+
+2\. Öğrencilerin gözlemlerini desteklemek için aşağıdaki ayetlerden hangisi kullanılabilir?
+
+A) “İyilikle kötülük bir olmaz. Sen kötülüğü en güzel şekilde sav.” (Fussilet suresi, 34. ayet)
+
+B) “Kim zerre kadar iyilik yaparsa, onu görür.” (Zilzal suresi, 7. ayet)
+
+C) “…Güneş de kendi yörüngesinde akıp gitmektedir…” (Yasin suresi 38. ayet)
+
+D) “Mallarını Allah yolunda harcayanların durumu, yedi başak bitiren bir tohum gibidir.” (Bakara suresi, 261.
+
+ayet)
+
+3\. Bu konuşmalardan hareketle öğrencilerin ulaştığı sonuç aşağıdakilerden hangisidir?
+
+A) Doğadaki olaylar kendiliğinden meydana gelir.
+
+B) Kainattaki düzen, bir yaratıcının varlığını gösterir.
+
+C) Canlılar hayatta kalmayı deneme yanılma yoluyla öğrenir.
+
+D) Tabiattaki olaylar bilimsel verilerle açıklanır.
+
+4\. BÖLÜM
+
+Temel Eğitim Din Kültürü ve Ahlak Bilgisi alani 2 numarali kitapçikta “Özetleme” becerisini ölçmeyi hedefle- yen sorular aşağida verilmiştir.
+
+1-3. soruları aşağıdaki bilgi görseline göre birbirinden bağımsız olarak cevaplayınız.
+
+Sınıfınız, “Dijital Din Kültürü Fuarı” için “Akıllı Namaz Paneli” adlı bir proje geliştiriyor. Bu özel panel, üzerinde namazla ilgili bilgilerin ve ışıklı uyarıların olduğu interaktif bir teknoloji ürünüdür.
+
+YATSI Gecenin karanlığı
+
+Namaz, Müslüman'ın Allah'la konuşmasıdır. Günlük hayatımızda bize verilen sayısız nimet için şükür etme fırsatıdır. Ayrıca namaz, bizi kötülüklerden uzaklaştıran bir hayat rehberidir."
+
+Mutlaka Yap (Farz)
+
+Yaparsan Çok İyi (Vacip)
+
+Ekstra Sevap (Nafile)
+
+1\. Bu ışıklı panele göre namaz vakitleriyle ilgili aşağıdakilerden hangisi söylenebilir?
+
+A) İnsanların uyku ve çalışma düzenine göre belirlenmiş zamanlardır.
+
+B) Güneş’in farklı konumları esas alınarak bir düzen içinde belirlenmiştir.
+
+C) Dünyanın her yerinde vakit namazlar aynı saatte kılınır.
+
+D) Gündüz saatlerinde kılınıp geceleri ara verilen bir ibadettir.
+
+2\. Buna göre bir öğrenci kırmızı ve yeşil butonlara sırasıyla basarsa aşağıdakilerden hangisi
+
+doğru olur?
+
+A) Teravih namazı – Sabah namazı
+
+B) Bayram namazı – Cenaze namazı
+
+C) Vitir namazı – Beş vakit namaz
+
+D) Akşam namazı – Teheccüt namazı
+
+3\. Bu paneldeki sesli anlatıma aşağıdaki açıklamalardan hangisi anlamca en yakındır?
+
+A) Namaz, insanın Allah ile bağını güçlendirir ve daha iyi bir insan olmasına rehberlik eder.
+
+B) Namaz, kişinin dünya işlerini etkilemeyip ahiret hayatı için yapılan bir ibadettir.
+
+C) Namazın temel amacı, Müslümanları aynı mekânda toplayarak sosyal dayanışmayı sağlamaktır.
+
+D) Namaz, belirli zamanlarda yerine getirilmesi zorunlu olan bir ibadettir.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+AKŞAM Güneşin batışı
+
+SABAH Gecenin bitimi
+
+İKİNDİ Gölgelerin uzaması
+
+ÖĞLE Güneşin tepe noktası
+
+AKILLI NAMAZ PANELİ
+
+65
+
+66
+
+1-2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Ortaokul 5. sınıf öğrencileri, Kadir Gecesi’nde öğretmenleri ve aileleriyle birlikte mahallelerindeki ca- miye gittiler. Burada yatsı, teravih, vitir namazını beraber kıldılar ve bu önemli geceyi cemaatle ibadet ederek geçirdiler. Bu deneyim, onlara hem manevi bir atmosferi tanıma hem de cemaatle ibadet etme fırsatı sundu. Cemaatle namaz kılmanın huzurunu yaşayan öğrenciler vakit namazları için de sıklıkla camiye gitme kararı aldılar.
+
+1\. Bu parçaya göre öğrencilerin kıldığı namazlar, namazın hangi temel özelliğini göstermektedir?
+
+A) Namaz, belirli vakitlerde kılınan bir ibadettir.
+
+B) Namaz, Ramazan ayında yerine getirilir.
+
+C) Namazın kabul olması için camide kılınması gerekir.
+
+D) Namaz ibadetinden önce hazırlık gerekir.
+
+2\. Aşağıdakilerden hangisi öğrencilerin öğretmenleriyle birlikte kıldığı namaz türlerinden
+
+değildir?
+
+A) Beş vakit kılınan farz namazlar
+
+B) Ramazan ayına özgü nafile namazlar
+
+C) Cemaatle kılınması zorunlu olan namazlar
+
+D) Vakit namazlarıyla birlikte kılınan nafile namazlar
+
+4\. BÖLÜM
+
+4.1.6. Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Örnek Sorular
+
+Ortaöğretim Din Kültürü ve Ahlak Bilgisi alani 10. Sinif 1 numarali kitapçikta “Sorgulama” becerisini ölçmeyi hedefleyen sorular aşağida verilmiştir.
+
+Aşağıda bir öğrencinin din kültürü ve ahlak bilgisi dersinde hazırladığı bir öğrenme günlüğünün bazı bölümleri verilmiştir.
+
+1\. Öğrenme günlüğünün a bölümünde alınan notlara göre boş bırakılan yere yazılacak en uygun
+
+soru aşağıdakilerden hangisidir?
+
+A) İnsanın yaratılışının aşamaları nelerdir?
+
+B) Allah’ın âlemi var etmesinin hikmetleri nelerdir?
+
+C) Belirli bir düzende gerçekleşen olaylar neyin göstergesidir?
+
+D) Allah'ın evrende var ettiği düzenle ilgili örnekler nelerdir?
+
+E) Evrendeki düzende canlıların yerini gösteren örnekler nelerdir?
+
+2\. Aşağıdakilerden hangisi bu öğrenme günlüğünden çıkarılabilecek en kapsamlı yargıdır?
+
+A) Evrendeki gök cisimlerinin hareketleri, gece ile gündüzün birbirini izlemesi gibi fiziksel olaylar belirli bir
+
+sistem dâhilinde gerçekleşir.
+
+B) Canlıların varlığını sürdürmesi, evrenin genel düzeni içinde kendilerine biçilen ölçüye bağlıdır.
+
+C) Evrenin işleyişi, her bir parçasının birbiriyle uyum içinde çalıştığı bütüncül bir yapı sergiler.
+
+D) Allah’ın yaratma düzeni rastlantısal değildir, insan da bu düzenin bilinçli ve sorumlu bir parçasıdır.
+
+E) Güneş ve Ay’ın yörüngelerindeki matematiksel hassasiyet, evrenin rastlantısal olmadığının bir
+
+göstergesidir.
+
+1 ve 2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız.
+
+Öğrenme Günlüğüm Bugün Öğrendiklerim: a. ............................................................................................................................................................................................................. .............................................................................................................................................................................................................
+
+• insanın yaratılışı,
+
+• gök cisimlerinin hareketleri,
+
+• gece ile gündüzün oluşması,
+
+• bütün canlıların belli bir ölçüye göre varlığını devam ettirmesi Yüce Allah, her şeyi belirli bir amaç ve ölçüyle yaratmıştır. Hiçbir şey başıboş değildir. Aşağıdaki ayetler de bu konuya dikkat çeker. “Şüphesiz biz, her şeyi bir ölçüye göre yarattık.” (Kamer, 54:49), “Güneş ve Ay bir hesaba göre hareket etmektedir.” (Rahman 55:5) ve “Biz gökleri, yeri ve bunlar arasındakileri oyun olsun diye yaratmadık.” (Duhan, 44:38)
+
+b. İnsan, "Ben kimim, nereden geldim?" gibi sorularla yaratılış amacını arayan bir varlıktır. Biz insanlar toprak ve sudan yaratıldık ve Allah bize akıl, irade ve üstün özellikler vererek şerefli kıldı. Dünyaya bir emanet yüklenmiş olarak gönderildik. Asıl görevimiz Rabbimizi tanımak, O'na kulluk etmek ve ahiret hayatı için hazırlanmaktır. Ayrıca sosyal bir varlık olduğumuz için ailemize, çevremize ve topluma karşı da sorumluluk bilinciyle yaşamalıyız. Özetle yaratılış amacımızı bilerek hareket etmek ve güzel ahlak lı bir insan olmak en temel vazifemizdir.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+67
+
+681\. ve 2. soruları aşağıdaki bilgilere göre birbirinden bağımsız olarak cevaplayınız. Bir lise öğrencisi, yaz tatilinde İstanbul'u ziyaret eder ve şehrin tarihî mekânlarını gezmeye karar verir. İlk durağı Süleymaniye Camii olur. Burada caminin mimari düzeni ve çevresindeki yapılar dikkatini çeker. Ertesi gün Eminönü'ndeki Valide Sultan Camii'ni ziyaret ettiğinde orada da benzer şekilde camiye bağlı çarşı ve aşevi gibi birimler olduğunu gözlemler. Eyüp Sultan Camii'ne yaptığı ziyarette ise avluda üzerinde oyuk bulunan tuhaf bir taşın ne işe yaradığını merak eder. Bu gözlemlerinin ardından bir araştırma yapmaya karar verir. Yaptığı incelemeler sonucunda Süleymaniye ve Valide Sultan Cami’leri gibi yapıların aslında birer "külliye" olduğunu öğrenir. Geçmişte bu külliyeler aracılığıyla Osmanlı toplumuna camiyle birlikte eğitim, sağlık, barınma ve yemek gibi kapsamlı hizmetler sunulduğunu öğrenir. Eyüp Sultan Camii'ndeki gizemli taşla ilgili araştırması ise onu “sadaka taşı”na götürür. Sadaka taşının, yardım etmek isteyenlerle ihtiyaç sahiplerini, taraflar birbirini görmeden buluşturan bir sosyal yardım sistemi olduğunu öğrenir.
+
+1\. Bu parçadan hareketle aşağıdakilerden hangisine ulaşılabilir?
+
+A) Süleymaniye Camii dönem mimarisinin temel özelliklerini taşır.
+
+B) Osmanlı İmparatorluğu fethettiği topraklarda kalıcı izler bırakmıştır.
+
+C) Camiler ibadetle birlikte farklı işlevler için kullanılmıştır.
+
+D) Aşevleri yatılı öğrencilerin barınma ve eğitim ihtiyaçlarını karşılar.
+
+E) Sadaka taşları Osmanlı Dönemi camilerinin bölümlerindendir.
+
+2\. Bu parçaya göre aşağıdakilerden hangisi öğrencinin geziden çıkardığı sonuçlardan biridir?
+
+A) Osmanlı'daki sosyal yardım sisteminin temel hedefi, devletin gücünü sergilemektir.
+
+B) Osmanlı'da sosyal yardım faaliyetlerinde kişinin mahremiyeti ve itibarı korunmuştur.
+
+C) Osmanlı Dönemi’nde sosyal yardımlaşma kurumları devlet tarafından denetlenmiştir.
+
+D) Osmanlı toplumunda yardımlaşma bireylerin çabasına bağlı olarak gelişmiştir.
+
+E) Osmanlı’da sosyal yardım kurumları, Müslüman vatandaşlara hizmet etmek için vardır.
+
+4\. BÖLÜM
+
+Din Kültürü ve Ahlak Bilgisi alani 10. Sinif 2 numarali kitapçikta “Yorumlama” becerisini ölçmeyi hedefleyen sorular aşağida verilmiştir. 1-3. soruları aşağıdaki bilgi görseline göre birbirinden bağımsız olarak cevaplayınız.
+
+1\. Aşağıdakilerden hangisi broşürdeki ibadet anlayışının toplumsal bağları güçlendirmesine örnek
+
+verilemez?
+
+A) Mahallesindeki yardıma muhtaç bir aile için bir kişinin fitre ve zekât toplaması
+
+B) Cami cemaatinin yetimler için düzenlenen iftar programında hizmet etmesi
+
+C) Müslüman bir kişinin ramazan ayında sünnete uymak için sahura kalkması
+
+D) Bir grup gencin huzurevini ziyaret edip yaşlılara kitap okuma etkinliği düzenlemesi
+
+E) Cemaatle kılınan bayram namazı sonrasında mahallelinin birbirleriyle bayramlaşması
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+69
+
+702\. Bu broşürdeki ana düşünceye aşağıdakilerden hangisi daha uygundur? A) Mahallelinin, çevre temizliği farkındalığı oluşturmak amacıyla hep birlikte park ve sokakları temizleme etkinliği
+
+düzenlemesi
+
+B) Öğrenci velilerinin, okulun bahçe düzenlemesi için imece usulüyle yardım toplaması ve bahçe düzenlemesinde
+
+birlikte çalışması
+
+C) Komşusunun maddi sıkıntı içinde olduğunu öğrenen bir kişinin, mahallelinin de katılımıyla bir dayanışma kampan
+
+yası başlatması
+
+D) Bir grup gencin, yaşlıların alışverişlerini ve ev işlerini yapmada gönüllü olarak sırayla nöbet tutması
+
+E) Apartman sakinlerinin, yangın güvenliğini artırmak için toplanıp ortak bir güvenlik planı oluşturması
+
+3\. Aşağıdaki örneklerden hangisi broşürdeki anlayışı en bütüncül şekilde yansıtır?
+
+A) Beş vakit namazını düzenli kılan bir öğrencinin, ailesi ve komşularıyla birlikte mahallesinin parkını temizleme
+
+etkinliğine katılması
+
+B) Ramazan ayında oruç tutan bir kişinin, iftar vakti yaklaştığında hasta komşusuna yemek götürüp onunla birlikte
+
+orucunu açması
+
+C) Bir Müslümanın zekâtını, ihtiyaç sahibi komşusuna bizzat ulaştırarak komşusunun halini hatırını sorması ve onunla
+
+dostluk bağı kurması
+
+D) Hac ibadetini yerine getiren bir müminin, Arafat’ta tüm Müslümanlar için dua etmesi ve kurban kesmesi
+
+E) Cuma namazı için camiye giden bir esnafın, namaz sonrası müşterileri ve diğer esnaflarla helal kazanç ve yardım
+
+laşma üzerine sohbet etmesi
+
+4\. BÖLÜM
+
+1-2. soruları aşağıdaki gazete haberine göre birbirinden bağımsız olarak cevaplayınız.
+
+1\. Aşağıdakilerden hangisi bu parçadaki uygulamaların yaygınlaşması sonucunda toplumda meydana
+
+gelecek değişimi en kapsamlı ifade eder?
+
+A) Kültürel değerlere sahip çıkılması
+
+B) Güven ve huzur ortamının güçlenmesi
+
+C) Bireylerde sorumluluk duygusunun gelişmesi
+
+D) Geleneklerin korunmasına önem verilmesi
+
+E) Sorunların çözümünde birlikte hareket edilmesi 4 Kasım 2025 - Salı
+
+Yerel Haber Dayanışma Köşesi
+
+Gizemli Hayırsever Zimem Defterini Kapattı. İlçedeki bir mahalle bakkalında bir olay yaşandı. Kimliği açıklanmayan bir hayırsever, akşam vakitlerinde dükkâna gelerek bakkalın zimem defterindeki tüm borçları ödedi. Bakkal sahibi Mehmet Usta, “Defteri inceledi, borçları kapattı ve kimliğini gizli tutmamı istedi. ‘Allah rızası için’ dedi” sözleriyle olayı anlattı.
+
+2\. Bu haberin içeriğini örnek alan bir öğrencinin aşağıdakilerden hangisini gerçekleştirmesi beklenir?
+
+A) İhtiyaç sahiplerine verilmek üzere bağışta bulunması
+
+B) İhtiyaç sahiplerine erzak kolisi götürmesi
+
+C) Yaptığı iyiliği tüm sınıfa anlatarak öğretmeninden takdir beklemesi
+
+D) Sosyal medyada yardım faaliyetlerini paylaşması
+
+E) Arkadaşının yemek parasını ödemesi
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+71
+
+724.1.7. Ortaöğretim Matematik Dersi Örnek Sorular Matematik alani bir numarali kitapçikta “Alan” becerisini ölçmeyi hedefleyen sorular aşağida verilmiştir.
+
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+
+Aslı “Enerji Kaynaklarının Bilinçli Kullanımı ve Sürdürülebilir Çevre” adlı projesi için elektrikli ev aletlerinin ener ji tasarrufundaki yeri ve önemini araştırmaktadır. Bunun için ailesi ile yaşadığı evde kullanılan elektrikli aletle rin 1 saatte tükettiği yaklaşık elektrik değerlerini watt cinsinden bulmuş, verileri aşağıdaki tabloda sıralamıştır.
+
+Elektrikli Aletler Elektrik Tüketimi (1 SAATTE)
+
+Akkor Ampül 26 watt
+
+Led Ampül 24 watt
+
+Buzdolabı 26 watt
+
+Çamaşır Makinesi 26.102 watt
+
+Ütü 52.102 watt
+
+1\.
+
+Aslı’nın ailesi bir günde
+
+• 2 saat ütü,
+
+• 24 saat buzdolabı,
+
+• 8 saat LED ampul,
+
+• 4 saat akkor ampul,
+
+• 1 saat çamaşır makinesi kullanmıştır.
+
+Buna göre ailenin bir günlük toplam elektrik tüketimi watt/saat cinsinden aşağıdakilerden hangisidir?
+
+A) 27.26 + 110.102
+
+B) 25.26 + 112.102
+
+C) 15.27 + 114.102
+
+D) 25.27 + 114.102
+
+E) 15.27 + 112.103
+
+2\.
+
+Aslı, enerji tasarrufu konulu projesi kapsamında evdeki elektrikli aletlerin enerji tüketimlerini ölçüp ailesiyle paylaş mıştır. Önerileri doğrultusunda ailesi
+
+• Akkor ampul yerine led ampul kullanmaya başlamış,
+
+• Ütüyü gereksiz yere çalıştırmamış,
+
+• Çamaşır makinesini haftada 3 kez çalıştıracak şekilde planlama yapmıştır. Bu durumda bir ayın sonunda elektrik faturasında %25 oranında tasarruf gözlenmiştir. Buna göre aşağıdaki ifadelerden hangisi Aslı’nın bu süreçte yaşadığı deneyimleri en iyi anlatan yo- rumlardan biridir? A) "Enerji tasarrufu için en doğru çözüm tüm cihazları kapatmaktır." B) "Aldığımız önlemler sayesinde faturamızda azalma meydana geldi.” C) "Sadece ampul değiştirerek büyük bir tasarruf beklemek gerçekçi değilmiş." D) "Led ampul kullanmamıza rağmen faturada beklediğimizden az bir düşüş oldu." E) "Çamaşır makinesini daha az kullanıp ütüyü daha fazla çalıştırarak tasarrufu dengeledik.”
+
+4\. BÖLÜM
+
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+
+2.Aslı, Burak ve Can isimli üç kardeş babalarına beğendikleri bir kalemi hediye olarak almak istemektedir. Ancak her biri biriktirdikleri tüm parayı kullansalar da tek başlarına iistedikleri bu kalemi alamamaktadır. Çünkü kalemin fiyatı
+
+• Aslı’nın parasından 180 TL fazla
+
+• Burak’ın parasının 3 katı
+
+• Can’ın parasından da 150 TL fazladır. Kardeşlerden herhangi ikisi paralarını birleştirirse kalemi satın alamıyor ancak üçü tüm paralarını birleştirdi ğinde hem kalemi satın alabiliyor hem de 70 TL paraları artıyor.
+
+1.Aslı’nın parası TL cinsinden x değişkeni ile ifade edildiğinde Burak ve Can’ın biriktirdiği
+
+para ile almak istedikleri kalem fiyatının x cinsinden cebirsel ifadesi aşağıdakilerden hangi- sinde doğru verilmiştir?
+
+Burak'ın Parası Can'ın Parası Kalem Fiyatı (TL) A) 3x x + 150 x + 180
+
+B) 3x – 180 x + 150 x + 180 C) 3 x+ 180 x + 30 x + 180 D) 3 x+ 60 x + 30 x + 180 E) 3 x+ 60 x + 30 x + 150
+
+Buna göre Buna göre aşağıdakilerden hangisi kardeşlerin babalarına almak istediği kalemin fiyatıdır? A) 270 TL B) 300 TL C) 330 TL D) 360 TL E) 390 TL
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+73
+
+74Matematik alani iki numarali kitapçikta “Problem Çözme” becerisini ölçmeyi hedefleyen sorular aşağida verilmiştir.
+
+1-4. soruları aşağıdaki bilgilere göre cevaplayınız.
+
+Bir şirket, şehre yeni kurduğu dondurucu ve soğutucu bölümlerinden oluşan bir soğuk hava deposunda ürün ler saklamaktadır. Depo kontrol paneli sıcaklıkları Celsius (°C) cinsinden gösterilmektedir ve her iki bölmenin sıcaklığı aşağıda verilen aralıklarda istenilen dereceye ayarlanabilmektedir.
+
+Dondurucu bölme: −24 °C ile 0 °C Soğutucu bölme: 0 °C ile 15 °C Ürünler yalnızca kendi uygun sıcaklık aralığında saklanırsa bozulmadan korunmaktadır. Ürünlerin saklama sıcaklıkları ürün etiketlerinde Celsius (°C) cinsinden yazılmıştır. Aşağıdaki tabloda pizza, somon, yengeç, beyaz peynir, yumurta ürünlerinin en düşük ve en yüksek uygun saklama sıcaklık aralıkları verilmiştir.
+
+Ürün En Düşük Uygun Sıcaklık (°C) En Yüksek Uygun Sıcaklık (°C)
+
+Pizza −24 −8
+
+Somon −10 1
+
+Yengeç −12 −4
+
+Beyaz Peynir 0 4
+
+Yumurta 0 8
+
+1\. Depoya ürün girişi sırasında çalışanlar, her ürünün saklama koşullarını kontrol ederek ürünlerin bozulmaması için
+
+hangi bölmenin hangi sıcaklığa ayarlanması gerektiğine karar vermektedirler. Depo çalışanı dondurucu bölmede aynı anda en fazla sayıda ürünü bozulmadan saklamak istemektedir. Buna göre dondurucu bölmenin Celsius (°C) cinsinden sıcaklık ayarı aşağıdaki aralıklardan hangisinde olmalıdır? A) \[–24, –12\] B) \[–14, –8\] C) \[–10, –8\] D) \[–12, –4\] E) \[–8, 0\]
+
+2\.
+
+Tabloya göre soğuk hava deposunun her iki bölümünde de saklanabilecek ürünler aşağıdakilerden hangisidir? A) Pizza ve yengeç B) Somon ve yengeç C) Pizza, somon ve yengeç D) Beyaz peynir ve yumurta E) Somon, beyaz peynir ve yumurta
+
+4\. BÖLÜM
+
+4.3.
+
+Depoya yeni bir ürün gelmiştir. Ürün etiketinde uygun saklama sıcaklığı Fahrenheit (°F) cinsinden verilmiştir. Depo çalışanı ürünün hangi bölümde saklanması gerektiğini belirlemek istemektedir.
+
+Celsius (°C) cinsinden sıcaklık Fahrenheit (°F) cinsinden sıcaklığa °F= °C × + 32 formülü ile dönüştürülebilmektedir. Ürün etiketinde uygun saklama sıcaklıkları en düşük 10,4 °F, en yüksek 23 °F olarak belirtilmiştir.
+
+Buna göre ürünün Celsius (°C) cinsinden uygun saklama sıcaklık aralığı ve bölümü aşağıdakilerden hangisidir?
+
+Sıcaklık Aralığı (oC) Saklama Bölümü A) \[–12, –5\] Dondurucu B) \[–10, 0\] Dondurucu C) \[0, 5\] Soğutucu D) \[5, 10\] Soğutucu E) \[–20, –15\] Dondurucu
+
+Her iki bölümünde de ürünler bulunan soğuk hava deposunun sıcaklığında ısı yalıtımındaki bir hata nedeniyle istenmeyen değişimler meydana gelebilmektedir.
+
+Depoda meydana gelen bu sıcaklık değişimlerine göre aşağıdaki durumlardan hangisi gerçekleşebilir?
+
+A) Dondurucu bölümdeki ürünler sıcaklık azaldığında çözülebilir. B) Soğutucu bölümdeki ürünler sıcaklık arttığında dondurularak korunabilir. C) Dondurucu bölümdeki ürünlerin bir kısmı sıcaklık arttığında çözülmeye başlayabilir. D) Soğutucu bölümdeki ürünlerin tamamı sıcaklık azaldığında daha uzun süre taze kalabilir. E) Soğutucu bölümdeki tüm ürünler sıcaklık arttığında dondurucu bölüme taşınarak korunabilir.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+75
+
+76
+
+1.2.
+
+1-4. soruları aşağıdaki bilgilere göre cevaplayınız.
+
+Reklam ajansında görev yapan Barış, bir müşterisinin siparişi doğrultusunda belirli sayıda anahtarlık üretmeyi planlamaktadır. Üretim sürecinde kullanılacak ham madde miktarı ve üretim süresi sınırlıdır. Barış, üretimi gerçekleştirmek için atölyesinde bulunan farklı teknik özelliklere sahip M ve Q marka üç boyutlu yazıcıları kullanacaktır. Aşağıdaki tabloda yazıcıların 1 saat sonunda bastığı anahtarlık sayısı ve kullandığı ham madde bilgisi verilmiştir.
+
+Basılan anahtarlık sayısı Kullanılan ham madde (gram)
+
+M yazıcısı 2 80 gram Q yazıcısı 1 30 gram
+
+Barış'ın yazıcılarda bastığı toplam anahtarlık sayısını belirleyen temel faktör aşağıdakilerden hangisidir? A) Her bir anahtarlığın basımı için gereken süre B) Yazıcılardan birinin diğerinden daha hızlı olması C) Sahip olunan toplam zaman ve ham madde miktarı D) Atölyede bulunan toplam yazıcı sayısının az olması E) Yazıcılardan birinin daha fazla ham madde kullanması
+
+Barış'ın istenen anahtarlıkları basabilmesi için 600 gram ham maddesi ve 15 saat süresi vardır. Ancak elektrik sistemindeki bir arıza sebebiyle yazıcıların ikisi aynı anda birlikte çalıştırılamamaktadır.
+
+Bu koşullarda M yazıcı ile basılan anahtarlık sayısı x, Q yazıcısı ile basılan anahtarlık sayısı y olmak üzere verilen zamanda tüm ham maddeyi kullanarak basılan anahtarlık sayılarınıiçeren cebirsel ifadeler aşağıdakilerden hangisidir?
+
+A) 4x + 3y = 60 3x + 2y = 30 B) 4x + 3y = 60
+
+x + 2y = 30 C) x + 2y =60 4x + 3y =30 D) 3x + 4y = 60 3x + 2y = 30 E) 2x + y = 30
+
+3x + 4y = 60
+
+4\. BÖLÜM
+
+3\.
+
+4\.
+
+Barış 960 gramlık ham madde ile en kısa sürede en çok anahtarlık basabilmek için 4 senaryo belirlemiştir. Senaryolar ile ilgili bilgiler aşağıdaki tabloda verilmiştir.
+
+1\. Senaryo Sadece M yazıcısı kullanılır. 2. Senaryo Sadece Q yazıcısı kullanılır. 3. Senaryo Her iki yazıcı da kullanılır. 4. Senaryo Önce M yazıcısı 6 saat çalıştırılıp kapatılır daha sonra ham madde bitene kadar Q yazıcısı kullanılır.
+
+Buna göre her senaryo için gerekli süre ve basılan anahtar sayısı ile ilgili aşağıdaki bilgilerden hangisi yanlıştır? A) 1. senaryoya göre 12 saatte 24 adet anahtarlık basılır. B) 2. senaryoya göre 32 saatte 32 adet anahtarlık basılır. C) 3. senaryoya göre 9 saatte 26 adet anahtarlık basılır. D) 4. senaryoya göre 22 saatte 24 adet anahtarlık basılır. E) Birim zamanda en çok anahtarlık 3. senaryoda basılır.
+
+Barış daha fazla anahtar basabilmek için bir P yazıcısı satın almış ve üç yazıcı birlikte 1 saatte 6 anahtar basarken 170 gram ham madde kullanmıştır.
+
+Bu verilere göre Barış’ın üretim planına ilişkin en doğru değerlendirme aşağıdakilerden hangisidir? A) M yazıcısı en fazla ham madde harcadığı için üretim açısından en güçlü seçenektir. B) Q yazıcısı ham maddeyi en az tükettiği için üretim açısından en verimli seçenektir. C) P yazıcısı üretim hızı ve ham madde kullanımı bakımından diğerlerinden daha verimlidir. D) 1 saatte M ve Q yazıcıları birlikte çalışırsa P yazıcısından daha az ham madde harcar. E) Üç yazıcı da aynı oranda verimlidir, aralarında anlamlı bir fark yoktur.
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+77
+
+78Matematik alani 3 numarali kitapçikta “Sorgulama” becerisini ölçmeyi hedefleyen sorular aşağida verilmiş- tir.
+
+1-3. soruları aşağıdaki bilgilere göre cevaplayınız.
+
+Selin, egzersizler sırasında yaktığı kalori miktarını takip etmek için mobil uygulama kullanmaktadır. Uygulama, her eg zersiz türü için birim zamanda yakılan ortalama kalori miktarını otomatik olarak hesaplamaktadır. Selin, haftalık hedefler belirlemekte ve bu hedeflere ulaşıp ulaşmadığını kontrol etmek için aşağıdaki uygulama verilerini kullanmaktadır.
+
+• Egzersiz ve kalori yakım hedefi:
+
+• Haftalık minimum egzersiz süresi: 150 dakika
+
+• Haftalık kalori yakım hedefi: 1000 kalori
+
+• Uygulamadaki egzersiz verileri:
+
+• Yürüyüş: 1 dakikada 6 kalori yakar.
+
+• Bisiklet: 1 dakikada 8 kalori yakar.
+
+• Koşu: 1 dakikada 10 kalori yakar.
+
+1.Selin, haftalık minimum egzersiz süresi hedefine ulaştığında yaktığı toplam kalori miktarının mobil uygulamada her
+
+zaman aynı olmadığını fark etmiştir.
+
+Buna göre Selin'in yaktığı toplam kalori miktarını hesaplayabilmek için aşağıdakilerden hangisine ihtiyacı vardır? A) Farklı egzersizlerin toplam kalori yakımına olan katkısına B) Egzersiz türlerine göre birim zamanda yakılan kalori miktarına C) Tükettiği yiyeceklerin egzersizde yaktığı kalorilere olan etkisine D) Haftalık toplam egzersiz süresine ve yaktığı toplam kalori miktarına E) Toplam sürenin, farklı egzersiz türleri arasında nasıl paylaştırıldığına
+
+2\.
+
+Selin, bir egzersiz seansında toplam 40 dakika koşu ve yürüyüş yapmıştır.
+
+Selin, bu seansın toplam kalori yakımını hesaplamak için aşağıdaki sorulardan hangisini ilk olarak sor- malıdır? A) Koşu ve yürüyüş için harcadığım süreler ayrı ayrı ne kadardır? B) Yürüyüş egzersizi birim zamanda ne kadar kalori yakılmasını sağlar? C) Kaç dakika daha egzersiz yaparak haftalık hedefime ulaşmış olurum? D) Koşu ve yürüyüşün toplam süresi haftalık hedefe ulaşmak için yeterli midir? E) Koşarak ve yürüyerek yaktığım toplam kalori haftalık hedefime ne kadar yakındır?
+
+4\. BÖLÜM
+
+3\.
+
+Selin bir hafta boyunca 60 dakika yürüyüş yaptığını, 30 dakika bisiklet sürdüğünü ve 50 dakika koşu yaptı ğını not almıştır. Buna göre Selin'in mobil mobil uygulama ekranında karşılaşması muhtemel görüntü aşağı- dakilerden hangisidir? (Mobil uygulama ekranında hedefe ulaşıldığı ☺, ulaşılamadığı ☹ ile gösterilmektedir.)
+
+A) B) C)
+
+Haftalık Süre ☹
+
+Kalori Hedefi ☺
+
+Yakılan Kalori 1060
+
+D) E
+
+4.1. TYMM KAPSAMINDA BAĞLAM TEMELLİ ALANA YÖNELİK SORU ÖRNEKLERİ
+
+Haftalık Süre ☹
+
+Kalori Hedefi ☺
+
+Yakılan Kalori 1100
+
+Haftalık Süre ☺
+
+Kalori Hedefi ☺
+
+Yakılan Kalori 1100
+
+Haftalık Süre ☹
+
+Kalori Hedefi ☹
+
+Yakılan Kalori 960
+
+Haftalık Süre ☺
+
+Kalori Hedefi ☺
+
+Yakılan Kalori 1140
+
+79
+
+1-2. soruları aşağıdaki bilgilere göre cevaplayınız.
+
+80Ömer Bey, cep telefonu için aylık 40 GB genel ağ kullanımına sahip bir paket satın almıştır. Ancak bir süre sonra genel ağ paketinin beklenenden daha kısa sürede tükendiğini gözlemlemiştir. Durumun nedenini anlayabilmek için telefonunda ki internet kullanım istatistiklerini incelemiş ve aşağıdaki bilgilere ulaşmıştır. Ömer Bey’in günlük ortalama sosyal medya kullanım süresi 2 saattir ve bu uygulamalar saatte yaklaşık 800 MB veri tü ketmektedir. Ömer Bey’in günlük ortalama web tabanlı tasarım uygulamaları kullanma süresi 1 saat ve bu uygulamalar saatte yaklaşık 1400 MB internet tüketmektedir (1 GB = 1024 MB, 1ay 30 gün kabul edilir.).
+
+1.Ömer Bey’in internet paketinin erken bitmesi ile ilgili sorunu tanımlaması için aşağıdaki sorulardan
+
+hangisini sorması gerekir? A) İnternet ücretlerinin yüksek olmasının sebepleri nelerdir? B) Satın aldığım internet paketinin türü ihtiyaçlarıma uygun mu? C) Mevcut internet paketinin beklenenden daha hızlı bitmesinin sebebi nedir? D) Sosyal medya kullanım süremi sınırlandırabilir miyim? E) Web tabanlı tasarım uygulamalarına ayırdığım süreyi kontrol edebilir miyim?
+
+2\.
+
+Ömer Bey, günlük sosyal medya kullanımı süresini yarım saate düşürmüş, web tabanlı tasarım uygulamalarını da gün aşırı (iki günde bir) kullanmaya başlamıştır.
+
+Buna göre aylık genel ağ paketi ile ilgili aşağıdaki bilgilerden hangisi doğrudur? A) Paket yaklaşık 8 GB aşılmıştır. B) Paket yaklaşık 4 GB aşılmıştır. C) Paketin tamamı kullanılmıştır. D) Paketten yaklaşık 4 GB artmıştır. E) Paketten yaklaşık 8 GB artmıştır.
+
+4\. BÖLÜM
