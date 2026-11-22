@@ -41,6 +41,7 @@ Kaynak belgeler `soru-yazim/kaynak/` klasöründedir: `Fizikprg.pdf` (program), 
 - Tablet uyumu: Metinde ←, →, ⇒, ⇔ gibi özel işaretler kullanılmaz. Saydam PNG, SVG opaklığı, kesikli kenarlık ile yuvarlak köşe ve konturlu SVG metin kullanılmaz (beyaz zeminli JPG). Göndermeden önce PDF'te /SMask, /Group ve Type3 font olmadığı kontrol edilir.
 - **Canva iş akışı (2026-11-22):** Claude görseli Canva'da çizer (Canva bağlantısı çalışıyor) ve kullanıcıya Canva bağlantısını verir; kullanıcı indirip sohbete ya da Drive'a yükler; Claude sayfaya yerleştirir. Ortamın ağı `export-download.canva.com` ve `design.canva.ai` adreslerine kapalıdır ve kullanıcı açılmasını istemedi; bu yüzden Claude Canva dosyasını kendisi indirmeye çalışmaz. Kullanıcıdan görsel beyaz zeminli JPG olarak istenir.
 - Gerçekçi insan ve fotoğraf benzeri sahneler Canva'da; şekil, grafik, düzenek, araç ve kuvvet okları kodla (SVG) çizilir.
+- **Kodla (SVG) insan figürü çizilmesi gerekirse** öğretmenin onayladığı tarz kullanılır (2026-10-22): çöp adam ya da çizgi film tarzı yok; gerçekçi vücut oranları, eklemlerden bükülen kol ve bacaklar, harekete uygun doğal duruş, kıyafet ve profil yüz. Kuvvetler kalın kırmızı (#d62828) oklarla temas noktasından çizilir; etiketler italik serif. Örnek: `gorseller/kutu_iten_adam.svg` (üreten betik: `gorseller/kutu_iten_adam.py`).
 
 ## Eksik rehberler (kullanıcının talimatında adı geçiyor, depoda yok)
 
