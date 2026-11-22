@@ -29,7 +29,7 @@ Kaynak belgeler `soru-yazim/kaynak/` klasöründedir: `Fizikprg.pdf` (program), 
 - MEB 11'de olmayan konular yazılmaz: elektriksel potansiyel, potansiyel enerji, W=qV, dokunmayla yük paylaşımı. Manyetizmada yalnızca oran ("kaç B") soruları sorulur; sağ el kuralı MEB tutuşuyla verilir.
 - Programdaki terimler kullanılır: "eğik atış", "yatay atış", "düşey atış" **kullanılmaz** ("serbest düşme", "iki boyutta sabit ivmeli hareket" kullanılır).
 - Kavram yanılgısı doğuracak içerikten kaçınılır. Türk-İslam bilim insanları ve yerli projeler programdaki gibi kullanılır; biyografi ezberletilmez.
-- Aktif Fizik kullanıcının kendi kitabıdır, doğrudan kullanılabilir. Diğer yayınevlerinden yalnız kalıp alınır.
+- Aktif Fizik kullanıcının kendi kitabıdır (kullanıcı yazarlarından biri), MEB programıyla uyumlu her şeyi aynen ya da değiştirilerek kullanılabilir. **MEB ders kitabından aynen alınmaz:** soru değiştirilir (bağlam, sayılar, kurgu) ya da benzeri özgün yazılır (kullanıcı kararı, 2026-11-22). Diğer yayınevlerinden yalnız kalıp alınır.
 - Her sayısal cevap ve her yön cevabı kodla (assert) kontrol edilir.
 
 ## Çalışma şekli

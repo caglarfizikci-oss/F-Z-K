@@ -179,6 +179,7 @@ Program her ünitede şu sırayı kullanır. Konu anlatımlarımız da bu iskele
 - MEB 11'de olmayan konular yazılmaz: elektriksel potansiyel, potansiyel enerji, W=qV, dokunmayla yük paylaşımı.
 - Manyetizmada yalnızca oran ("kaç B") soruları sorulur. Lenz basit düzeydedir. Sağ el kuralı MEB'in tutuşuyla verilir: 4 parmak akım yönünde, alan avuçtan çıkar, başparmak kuvveti gösterir.
 - Aktif Fizik kullanıcının kendi kitabıdır: soruları doğrudan, değiştirilerek ya da şekli yeniden çizilerek kullanılabilir. Diğer yayınevlerinden yalnız kalıp alınır; metin, sayı düzeni ve görsel aynen alınmaz.
+- **MEB ders kitabından aynen alınmaz** (kullanıcı kararı, 2026-11-22). MEB kitabının anlatım tarzı izlenir ama soru, metin ve sayılar birebir kopyalanmaz: soru değiştirilir (bağlam, sayılar, kurgu) ya da benzeri özgün olarak yazılır.
 
 ### Görsel
 - Her sayfada şekil ya da görsel bulunur. İnsanlar gerçekçi çizilir; kıyafetler MEB kılık kıyafet yönetmeliğine uyar (başörtüsü zorunlu değildir). Bir sayfadaki şekillerin oranları tutarlıdır.
