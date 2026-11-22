@@ -1,0 +1,4057 @@
+İyi Bir Başlangıç
+
+aktif fizik
+
+AYT
+
+Ergün BULŞU - Serdar KALAYCI - Çağlar TOPKARA
+
+Copyright © Bu kitabın her hakkı yayınevine aittir.
+
+Hangi amaçla olursa olsun, bu kitabın tamamının ya da bir kısmının, kitabı yayınlayan yayınevinin önceden izni olmaksızın elektronik, mekanik, fotokopi ya da herhangi bir kayıt sistemi ile çoğaltılması, yayınlanması ve depolanması yasaktır.
+
+ISBN: 978r625r8188r06r6
+
+Genel Yayın Koordinatörü Mehmet KOÇ
+
+Basım Yeri
+
+Yazarlar Ergün BULŞU Tel: 0532 365 41 84 Serdar KALAYCI Tel: 0506 534 43 80 Çağlar TOPKARA Tel: 0532 597 60 16
+
+Dizgi
+
+Işıl Uyduran
+
+ÖN SÖZ
+
+ÖNSÖZ
+
+Fizik dersi tüm öğreciler için anlaşılması zor bir ders olarak kabul edilebir lir. Bu durumun oluşmasında çoğu zaman öğrencilerin hazır bulunuşluk seviyelerine uymayan ya da güncellenmemiş yayınlarla çalışmaları etkili olmaktadır. Aktif Fizik AYT kitabımızı hazırlarken yazarlar olarak fizik dersinin kazanımlarını tek tek inceledik ve kitabı hazırlarken kolaydan zora, basitten karmaşığa doğru bir sıra izledik. Öğrencilerimizin kitaptan maksimum düzeyde faydalanması için kitap üç bölümden oluşturuldu.
+
+1\. Kavrama bölümü
+
+2\. Uygulama bölümü
+
+3\. Ünite sonu konu testleri
+
+Bu bölümlerden, uygulama bölümü ve ünite sonu konu testlerinin ayrınr tılı bir şekilde video çözümleri yapıldı.
+
+Aktif öğrenme modeline göre hazırlanan kitabımız AYT sınavlarına uyr gundur. Tüm öğrencilerimize başarılar diliyoruz.
+
+Yazar Ergün BULŞU
+
+Yazar Serdar KALAYCI
+
+Yazar Çağlar TOPKARA
+
+3 Basamaklı Aktif Öğrenme Modeli
+
+Kavrama Bölümü
+
+Bu bölüm öğrenme içer
+
+riğini etkin bir biçimde öğrenmenizi sağlayacak
+
+bilgiler, basit yollar ve formüllerden oluşmaktar
+
+dır. Bu basamak öğrenr me uygulamasının temer
+
+lini oluşturmaktadır.
+
+BAŞARI
+
+Pekiştirme Bölümü
+
+Kavrama ve Uygulama Bölümü’nde elde edir
+
+len kazanımların her ünite sonunda pekişr
+
+tirilerek kalıcı öğrenr menin amaçlandığı
+
+basamaktır. Pekiştirme Bölümü’nde tercih edir
+
+len sorular kolaydan zora doğru sıralanarak
+
+oluşturulmaktadır.
+
+Uygulama Bölümü
+
+Bu bölüm kavrama bölür münde öğrenilen bilgir
+
+lerin tekrarı ile konular rın uygulamalı olarak
+
+öğrenilmesini sağlar. Kavrama Bölümü’nde
+
+elde edilen kazanımlar burada uygulanarak
+
+daha etkili ve kalıcı bir öğrenme gerçekleştirilr
+
+mektedir.
+
+ORGANIZASYON ŞEMASI
+
+Konu Adı Fizik Bilimine Giriş
+
+FİZİK BİLİMİNE GİRİŞ
+
+KONU ANLATIM KUTUSU Konu mantığının anlatıldığı ve kesinlikle bilinmesi gereken noktaların verildiği bölümdür. Konunun önemli özellikleri açıklanır.
+
+Bu bölümde konu anlatım kutusu, özellik kutusu ve örnekler bulunr maktadır. Konunun temel bilgilerir nin verildiği bu bölümde temel fizik mantığı oluşturma hedeflenmiştir.
+
+Örnek :1 Konuların en temel örnekleri ve belirli soru kalıpları kolaydan zora doğru sıralanmışr tır. Konunun anlaşılması için örneklerin çok dikkatli çözülmesi gerekmektedir. Bu bölüm öğrenciye kılavuzluk etmektedir.
+
+Çözüm : Örneğin detaylı çözümü burada verilmiştir.
+
+Bu bölümde sorular bulunmaktadır.
+
+Kavrama Bölümü Uygulama Bölümü
+
+Soru :1 Yandaki örneğin eşdeğeri olan sorular bu bölümde yer almaktadır. Bu bölüm yandaki örnekten hareketle soruları çözebileceğiniz ve anlayabileceğiniz bir alandır.
+
+Bu bölümde cevap anahtarı
+
+bulunmaktadır.
+
+Soru 1/ E Soru 2/ D
+
+Konu Adı Test numarası
+
+FIZIK BILIMINE GIRIŞ Konu Testi 1 Ünite içerisinde öğrendiklerimizi pekiştirebileceğimiz bölümdür.
+
+IÇINDEKILER
+
+ÜNİTE 1 ............Vektör Kuvvet ‑ Denge 7
+
+ÜNİTE 2 ............Tork ‑ Denge 33
+
+ÜNİTE 3 ............Kütle Merkezi 53
+
+ÜNİTE 4 ............Basit Makineler 67
+
+ÜNİTE 5 ............Bağıl Hareket 81
+
+ÜNİTE 6 ............Doğrusal Hareket 91
+
+ÜNİTE 7 ............Dinamik 113
+
+ÜNİTE 8 ............Atış Hareketleri 137
+
+ÜNİTE 9 ............İş ‑ Güç ‑ Enerji 165
+
+ÜNİTE 10 ..........İtme ‑ Momentum 191
+
+ÜNİTE 11 ..........Düzgün Çembersel Hareket 213
+
+ÜNİTE 12 ..........Basit Harmonik Hareket 241
+
+ÜNİTE 13 ..........Elektriksel Kuvvet 255
+
+ÜNİTE 14 ..........Sığaçlar 279
+
+ÜNİTE 15 ..........Manyetizma 287
+
+ÜNİTE 16 ..........Alternatif Akım ve Transformatör 317
+
+ÜNİTE 17 ..........Dalgalar 331
+
+ÜNİTE 18 ..........Işık Teorileri 341
+
+ÜNİTE 19 ..........Modern Fizik 355
+
+ÜNİTE 20 ..........Atom Fiziği 373
+
+ÜNİTE 21 ..........Modern Fiziğin Uygulama Alanları 393
+
+VEKTÖR KUVVET - DENGE 1.
+
+ÜNİTE VEKTÖRLER VE ÖZELLIKLERI
+
+Sayı ve birimlerin yanı sıra yön bilgisini de içeren büyüklüklere vektörel büyüklük denir. Vektörler yön- lendirilmiş doğru parçalarıdır. Her vektörün başlan- gıç noktası, bitiş noktası, büyüklüğü doğrultusu ve yönü vardır.
+
+Büyüklük
+
+doğrultu (d)
+
+L
+
+K
+
+ÂA
+
+L Bitiş
+
+K Başlangıç
+
+noktasınoktası
+
+Vektörün yönü ise K noktasından L noktasına doğru gösterilmiştir.
+
+IKI VEKTÖRÜN EŞITLIĞI
+
+İki vektörün eşit olabilmesi için yönleri ve büyüklük- leri aynı olmalıdır.
+
+ÂA
+
+ÂCÂB ÂD
+
+ÂA = ÂB ÂC = ÂD
+
+VEKTÖRÜN TERSI
+
+Yönleri zıt büyüklükleri eşit olan vektörlerdir.
+
+ÂA
+
+ÂB
+
+7 ÂCÂD
+
+ÂA = –ÂB ya da ÂB = –ÂA
+
+ÂC = –ÂD ya da ÂD = –ÂC
+
+VEKTÖRÜN BIR SKALERLE ÇARPIMI
+
+Bir vektör skaler bir büyüklükle çarpılırsa bu vek- törün büyüklüğü, yönü değişebilir ama doğrultusu değişmez.
+
+ÂA
+
+2ÂA
+
+–2ÂA
+
+BIR VEKTÖRÜN IKI VE ÜÇ BOYUTLU KOORDINAT SISTEMINDE GÖSTERIMI
+
+Vektörlerin başlangıç noktasını orijin olarak kabul edelim. Bu durumda ÂA vektörü
+
+y 1
+
+ÂA(3, 1)
+
+01 2 3 x iki boyutta şekildeki gibi çizilmiş olur.
+
+Örneğin kütle (m) skaler, yer çekimi ivmesi (Âg) vek- töreldir. Bu durumda cismin ağırlığı (ÂG) ÂG = m . Âg olarak modellenir. Kütle pozitif olduğu için Âg ile ÂG aynı yönlü iki vektör olarak gözlenir.
+
+AKTİF NOT
+
+Üç boyutlu koordinat sisteminde ÂB vektörü şekildeki gibi çizilirse
+
+y
+
+y
+
+ÂB
+
+0 x x z
+
+z
+
+bu durumda vektörün bitiş noktası koordinat noktalarını belirler. B(x, y, z) şeklinde gösterilir.
+
+VEKTÖRLERIN BILEŞKESI
+
+Birden çok vektörün toplanması ile elde edilen vek- töre bileşke vektör denir. ÂR sembolü ile gösterilir. Farklı yöntemler kullanılarak bulunabilir.
+
+Uç Uca Ekleme Yöntemi Vektör oklarının doğrultu, yön ve büyüklüğünü değiştirmeden birinin başlangıç noktası diğerinin bitiş noktasına taşınır. Daha sonra açıkta kalan uçlar birleştirilir.
+
+ÂA
+
+ÂB ÂA
+
+ÂR = ÂA + ÂB
+
+ÂR ÂB ÂA vektörünün bitiş noktasına ÂB vektörünün başlan- gıç noktası taşınır. Daha sonra ÂA vektörünün baş- langıcını ÂB vektörünün bitiş noktasına birleştiren ÂR vekötürünü çizeriz. NOT: ÂR bileşke vektörünü çizmek için ÂB vektörün- den de başlanabilir.
+
+Paralel Kenar Yöntemi Bu yönteme göre vektörlerin başlangıç noktası çakı- şacak biçimde şekildeki gibi yeniden çizeriz.
+
+ÂA
+
+ÂB
+
+ÂR = ÂA + ÂB
+
+ÂA ÂR
+
+ÂB
+
+Vektörlerin bitiş noktalarından birbirlerine paralel çiz- giler çekeriz. Daha sonra paralel kenarın karşı köşe- sine bir vektör çizerek bileşke vektörü elde ederiz.
+
+8
+
+α = 0 ise1 br ÂA 1 br
+
+ÂA
+
+ÂB 1 br ÂB ÂR Bileşke vektörün büyüklüğü vektörlerin skaler top- lamına eşittir. α = 60° ise
+
+1 br
+
+ÂR
+
+Bileşke vektörün büyüklüğü
+
+R2 = A2 + B2 + 2AB . cos60° bağıntısından R2 = 12 + (cos60° = ÂA
+
+ÂA1 br1 br
+
+1 br
+
+12 + 1 2 )
+
+1 br
+
+2 br
+
+60° ÂB
+
+30°30° ÂB
+
+2 . 1 . 1 . 1 2 = R = ñ3 bulunur.
+
+EŞIT BÜYÜKLÜKTEKI VEKTÖRLERIN BILEŞKESI
+
+1\. İki vektörün arasındaki açı θ ise bileşke vektörün
+
+büyüklüğünü hesaplamak için
+
+ÂA
+
+ÂR
+
+ÂB
+
+θ
+
+R2 = A2 + B2 + 2AB . cosθ bağıntısı kullanılır. (Cosinüs Teoremi)
+
+2\. Şekildeki gibi verilen ABC dik üçgeninde a ve b dik kenarlar, c hipotenüs ve α açısı da dar bir açı olmak üzere;
+
+c
+
+a
+
+b
+
+sinα = a c cosα = b c şeklinde hesaplanır.
+
+tanα = b
+
+a α
+
+AKTİF NOT
+
+α = 90° ise
+
+ÂA
+
+ÂR
+
+1 br
+
+1 br ÂBR2 = A2 + B2 + 2AB . 123
+
+cos90° (cos90° = 0) 0 R2 = 12 + 12 ⇒ R2 = 2 ⇒ R = ñ2 bulunur.
+
+α = 120° ise
+
+1 br
+
+ÂR ÂA
+
+60°
+
+60° 1 br
+
+ÂB
+
+R2 = A2 + B2 + 2AB . cos120° 123
+
+(cos120° = – 1 2 ) – 1 2
+
+R2 R2 = = 12 12 + 12 + 2 . 1 . 1 . (– ⇒ R = 1 bulunur.
+
+1 2 )
+
+α = 180° iseÂA ÂB
+
+ÂA ve ÂB vektörleri arasındaki açı 180° ise bu vektörler zıttır. R2 ke = 12 vektörü + 12 sıfırdır. + 2 . 1 . 1 . cos180° 123 –1
+
+bu durumda bileş-
+
+R = 0 (cos180° = –1)
+
+VEKTÖRLERDE ÇIKARMA
+
+Vektörlerde çıkarma işlemi, toplama işlemine ben- zetilerek yapılır. İşlem yapacağımız vektörler ÂA ve ÂB olsun. ÂA – ÂB işleminde ÂA vektörü ÂB vektörünün negatifi olan –ÂB ile toplanır. O hâlde, bu işlemi ÂA + (–ÂB) şeklinde düşünmek mümkündür.
+
+ÂA ÂBÂA ÂA – ÂB –ÂB
+
+–ÂB
+
+Ya da;
+
+ÂA
+
+ÂA ile ÂB vektörlerinin başlangıç ÂA – ÂB
+
+noktaları birleştirilir. ÂB vektörünün bitiş noktasından ÂA vekötürünün bitiş noktasına bir vektör çizilir. ÂB
+
+Görüldüğü gibi iki farklı yolda da aynı sonuca ulaşılır.
+
+9
+
+KUVVET
+
+Bir cismin hareket edip edemeyeceği, hareket eder- se yönünün ne olabileceği etkisinde kaldığı kuvvet ile ilgilidir. Cisme birden fazla kuvvet etki edebilir. Birden fazla kuvvetin yaptığı etkiyi tek başına yapa- bilen kuvvete ise net kuvvet denir. Kuvvetlerin bileş- kesi terilir. alınarak Birimi SI’da bulunur. Newton’dur. ÂFNet ya da Kuvvet ÂR sembolü dinamometre ile gös-
+
+ile ölçülür ve türetilmiş bir büyüklüktür.
+
+ÂF1 ÂF2ÂF3
+
+ÂF4
+
+ÂR = ÂF1 + ÂF2 + ÂF3 + ÂF4
+
+0
+
+Kuvvetler uç uca eklenerek bileş- ke kuvvet bulunur.
+
+VEKTÖRLERIN BILEŞENLERINE AYRILMASI
+
+Bileşke vektörü bulmak için kullanılan her bir vektöre bileşke vektörün bişelenleri denir.
+
+y
+
+Ay
+
+ÂA
+
+Ax
+
+x
+
+cosα =
+
+Ax = A . cosα
+
+Ay = A . sinα
+
+ÂA vektörü dik koordinat sistemine yerleştirildikten sonra bitiş noktasından eksenlere dikmeler çizilir
+
+α 0
+
+ve eksenler boyunca olan bişelenler Ax ve Ay bulu- -------- AA
+
+x nur.
+
+ÂA = ÂAx + ÂAy şeklinde ifade edilir.
+
+sinα = -------- AA
+
+y A2 = Ax2 + Ay2 ile ÂA vektö- rünün büyüklüğü hesap- lanır.
+
+Bir vektör farklı doğrultularda bileşenlerine ayrılabilir. Bunun için aşağıdaki durumları incelersek,
+
+ÂA
+
+d1
+
+d2
+
+ÂA d1 d2
+
+ÂA = ÂA1 + ÂA2 ÂA = ÂA1ı + ÂA2ı vektörün paraleller ÂA1 0 ÂA2 ÂA1ı 0
+
+ÂA2ı
+
+bitiş çizerek noktasından bileşenlere d1 ulaşabiliriz. ve d2 doğrultularına Eksenler arasındaki açı büyürse bileşenler de büyümektedir.
+
+AKTİF NOT
+
+Kavrama Bölümü Uygulama Bölümü
+
+KESIŞEN KUVVETLERIN DENGESI
+
+Bir cismin hareketsizliğinin sebebi bu cisim üzerine herhangi bir kuvvet uygulanmaması ya da uygulanan kuvvet- lerin vektörel toplamının sıfır olmasıdır.
+
+ÂF2
+
+θ3 –ÂF3
+
+ÂF1 ÂR = ÂF1 + ÂF2 + ÂF3 = 0
+
+θ1 θ2
+
+Üç kuvvetin cismi dengede tutması hâlinde kuvvetlerden herhangi biri diğerlerinin bileş- kesine zıt yönde ve eşit büyüklükte olmalıdır.
+
+ÂF3
+
+Lami Teoremi
+
+ÂF1, ÂF2 ve ÂF3 daki bağıntı kuvvetleri etkisinde kalan noktasal bir cisim dengede ise bu kuvvetlerin büyüklükleri ve açılar arasın-
+
+F1 sinθ1 = F2
+
+sinθ2 = F3
+
+sinθ3 Soru : 1
+
+Aynı düzlemde bulunan ÂK, ÂL, ÂM, ÂN ve ÂP vektörleri şekil- deki gibi veriliyor.
+
+ÂK şeklinde modellenir. Bu bağıntıya Lami teoremi denir.
+
+Açılar arasında θ1 \> θ2 \> θ3 ilişkisi varsa kuvvetler arasında da F3 \> F2 \> F1 ilişkisi vardır. Küçük açı karşında büyük kuvvet bulunur.
+
+Örnek : 1 Aynı düzlemde bulunan ÂA, ÂB, ÂC ve ÂD vektörleri şekildeki gibi veriliyor.
+
+ÂA ÂC
+
+ÂB
+
+ÂD
+
+Buna göre, I. ÂA = –ÂD II. ÂB + 2ÂC = ÂB – ÂC III. ÂA + ÂC + ÂD = ÂC yargılarından hangileri doğrudur?
+
+A) Yalnız I B) I ve II C) I ve III
+
+D) II ve III E) I, II ve III
+
+Çözüm ÂA ve ÂD vektörleri zıt yönlü ve eşit büyüklükte olduğu için ÂA = – ÂD ifadesi doğrudur.
+
+ÂK
+
+ÂL
+
+ÂP ÂM
+
+ÂN
+
+Buna göre,
+
+I. ÂK + ÂL + ÂM = –ÂN II. ÂP + ÂM + ÂN = 0 III. ÂP – ÂL = ÂK yargılarından hangileri doğrudur?
+
+A) Yalnız II B) I ve II C) I ve III
+
+ÂB ve ÂC vektörlerin-
+
+D) II ve III E) I, II ve III
+
+den elde edilen II. yargıdaki vektörlerin sadece büyüklükleri eşittir. |ÂK |= |ÂL | II. yargı yanlıştır. III. yargıdaki ÂA + ÂD + ÂC ifadesindeki ÂA + ÂD vektörünün sonucu da sıfırdır. Bu durumda ÂA + ÂD + ÂC = ÂC’dir. Cevap: C
+
+0
+
+–ÂC
+
+ÂB
+
+2ÂC ÂL
+
+ÂB
+
+ÂB + 2ÂC = ÂK
+
+ÂB – ÂC = ÂL
+
+10 Soru 1/ E
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 2
+
+Soru : 2
+
+y
+
+Kartezyen koordinat
+
+ÂA ve ÂB vektörleri x, y koordinat düzlemi üzerine şekilde- 4sistemi üzerinde gös-
+
+ki gibi yerleştiriyor.terilen ÂK ve ÂL vektörle- 3ri şekildeki gibidir.
+
+21
+
+y
+
+ÂK vektörünün başlan- 4ÂK ÂL gıç noktası O nokta- sında olacak biçimde 3taşındıktan sonra ÂL 2O 1
+
+2 3 4 x
+
+vektörü ile toplanyor.
+
+1
+
+ÂA ÂB
+
+Buna göre, ÂK + ÂL vektörünün bitiş ucunun koordi- natı nedir?
+
+O 1
+
+2 3 4 x
+
+Çözüm
+
+ÂA + ÂB = ÂK , ÂA – ÂB = ÂL 4y
+
+ÂK + ÂL 3olduğuna göre, ÂK ve ÂL vektörlerinin büyüklükleri
+
+oranı K L kaçtır?
+
+A) 5 B) 4 C) 3 D) 2 E) 1 21
+
+ÂK
+
+O 1
+
+2 3 4 x
+
+Soru : 3
+
+Birim, karelere ayrılmış bir düzlem üzerine 2ÂA ve –ÂB vektörleri şekildeki gibi yerleştirilmiştir.
+
+–ÂB
+
+52ÂA 4 3 2 1
+
+Buna göre, ÂA + ÂB vektörü aşağıdakilerden hangi- sidir?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+11 Soru 2/ E Soru 3/ B Vektörler şekildeki gibi toplanır.
+
+ÂL
+
+Bu durumda ÂK + ÂL vektörünün koordinatı (3, 4) olarak bulunur.
+
+Cevap: (3, 4)
+
+Örnek : 3
+
+ÂX – ÂY
+
+Birim karelere ayrılmış bir ÂX + ÂY
+
+düzlem üzerinde ÂX + ÂY ve ÂX – ÂY vektörleri şekildeki gibi gösterilmiştir. Buna göre, ÂY vektörü nedir?
+
+Çözüm
+
+–(ÂX – ÂY) Y vektörüne ulaşmak için
+
+(ÂX + ÂY) vektöründen (ÂX – ÂY) vektörü çıkarılır. Bu durumda 2ÂY
+
+ÂX – ÂY (ÂX + ÂY) – (ÂX – ÂY) = 2ÂY vektörüne ulaşılır. Bu işle- mi vektörel olarak yapar- sak Buna göre, ÂY vektörü
+
+ÂY
+
+şekildeki gibi elde edilir.
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 4
+
+Soru : 4a Birim karelere ayrılmış bir düzlem üzerine ÂK, ÂL, ÂM ve ÂN
+
+Birim karelere ayrılmış bir düzlem üzerine ÂX, ÂY ve ÂZ vektörleri şekildeki gibi yerleştirilmiştir.
+
+vektörleri şekildeki gibi yerleştirilmiştir.
+
+ÂK ÂN
+
+ÂL
+
+ÂX
+
+ÂM
+
+ÂZ
+
+ÂL vektörünün büyüklüğü 1 br olduğuna göre,
+
+I. ÂK II. ÂK – ÂN III. ÂM + 2ÂL vektörlerinden hangilerinin büyüklüğü 5 br’dir?
+
+Çözüm I, II ve III’te verilen vektörleri incelersek;
+
+I. ÂK
+
+1 br
+
+3
+
+12 Soru 4a/ E Soru 4b/ A
+
+ÂY
+
+Bölmeler 1 br uzunluğunda olduğuna göre, ÂX + ÂY + ÂZ vektörünün büyüklüğü kaç br’dir?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+K vektörünün büyüklü-
+
+4
+
+ğü K = 3 2 + 4 2 K = 5 birimdir.
+
+II. ÂK
+
+ÂK – ÂN vektöründe büyüklüğü 5 birimdir.
+
+Soru : 4b
+
+Birim karelere ayrılmış bir düzlem üzerinde ÂK, ÂL ve ÂM vektörleri şekildeki gibi yerleştirilmiştir.
+
+ÂK – ÂN
+
+ÂK
+
+III.
+
+ÂM
+
+2ÂL
+
+ÂM + 2ÂL
+
+–ÂN
+
+3
+
+4
+
+ÂL
+
+ÂM M + 2ÂL vektörünün
+
+büyüklüğü 2 2 + 2 2 eşitli- ğinden 2ñ2 birimdir.
+
+Buna göre, ÂK + ÂL vektörü ile ÂK + ÂM vektörünün büyüklükleri oranı kaçtır?
+
+Cevap: I ve II
+
+A) 1 B) 3 2C) 2 D) 3 E) 4
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 5
+
+Soru : 5 Birim karelere ayrılmış bir düzlem üzerine ÂA ve ÂA + ÂB
+
+Birim karelere ayrılmış bir düzlem üzerine ÂA ve ÂA – ÂB vektörleri şekildeki gibi yerleştirilmiştir.
+
+vektörleri şekildeki gibi yerleştirilmiştir. ÂA
+
+ÂA ÂA – ÂB
+
+ÂA + ÂB
+
+Buna göre ÂB vektörü aşağıdakilerden hangisidir?
+
+Buna göre, ÂB vektörü nedir?
+
+A) B)
+
+Çözüm B vektörünü bulabilmek için ÂA + ÂB vektöründen, ÂA vek- törünü çıkarmalıyız. (ÂA + ÂB) - (ÂA) = ÂB olur.
+
+ÂA
+
+D) E)
+
+ÂB
+
+ÂA + ÂB
+
+13 Soru 5/ A Soru 6/ C
+
+C)
+
+Bu işlemi vektörlerle yapalım. Bunun için, çıkardığımız vek- törün (ÂA), ucundan diğerinin (ÂA + ÂB) ucuna doğru çizilir.
+
+Örnek : 6
+
+ÂK
+
+ÂL
+
+Birim karelere ayrılmış bir düzlem üzerine ÂK ve ÂL vek- törleri şekildeki gibi yerleş- tirilmiştir.
+
+ÂK + ÂL vektörünün büyük- lüğü x, ÂK – ÂL vektörünün büyüklüğü y olduğuna göre, x yoranı kaçtır?
+
+Çözüm
+
+ÂK
+
+x
+
+Soru : 6
+
+Birim karelere ayrılmış bir düzlem üzerinde ÂK ve ÂL vek- törleri şekildeki gibi yerleştirilmiştir.
+
+ÂK
+
+ÂL
+
+Uç uca ekleyerek x vektörü 2 br bulunur.
+
+ÂL
+
+ÂK ve ÂL’nin başkangıç noktalarını bir- leştirip ÂL’nin ucundan ÂK’nin ucuna çizilen vektör y’yi verir. ÂK
+
+y = 4 birim
+
+ÂK + ÂL vektörünün büyüklüğü x, ÂK – ÂL vektörünün y
+
+O hâlde, x
+
+y= 2
+
+4=
+
+21 büyüklüğü y olduğuna göre, x yoranı kaçtır?
+
+ÂL
+
+A) 1 4B) 1 2C) 1 D) 2 E) 4
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 7
+
+Soru : 7a Merkezi O noktası olan çember düzlemine ÂK, ÂL, ÂM ve ÂN
+
+Merkezi O, yarıçapı r olan çembersel bir bölgede bulu- vektörleri şekildeki gibi verilmiştir.
+
+nan ÂK, ÂL ve ÂM vektörleri şekildeki gibidir.
+
+ÂK ÂLÂK
+
+ÂL
+
+ÂM
+
+O
+
+ÂN r O r
+
+ÂM
+
+Buna göre,
+
+I. ÂK + ÂL = ÂN II. ÂK + ÂN + ÂM = 0
+
+Buna göre ÂK, ÂL ve ÂM vektörlerinin bileşkesinin büyüklüğü kaç r’dir?
+
+III. |ÂK| = |ÂM|
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+yargılarından hangileri doğrudur?
+
+Çözüm
+
+I.
+
+ÂK ÂLÂK ve ÂL vektörleri uç uca eklenmiş olduğu için ÂN vek-
+
+O
+
+ÂN törü ÂK + ÂL’dir.
+
+(I. yargı doğrudur.)
+
+II.
+
+ÂN
+
+ÂK + ÂN vektörü ÂM vektörü ile aynı büyüklükte olmadığı
+
+ÂK
+
+için ÂK + ÂN + ÂM vektörel toplamı sıfır olmaz. (II. yargı
+
+ÂM O
+
+yanlıştır).
+
+Soru : 7b
+
+Merkezi O, yarıçapı r olan bir çemberin üzerine ÂX, ÂY ve
+
+III. ÂK ve ÂM vektörlerinin büyüklükleri çemberin yarıça-
+
+ÂZ vektörleri şekildeki gibi yerleştiriliyor.
+
+pına eşittir. Bu nedenle |ÂK| = |ÂM|’dir. (III. yargı doğrudur.)
+
+Cevap: I ve III
+
+ÂX ÂY
+
+O r
+
+ÂZ
+
+Buna göre ÂX, ÂY ve ÂZ vektörlerinin bileşkesi kaç r büyüklüktedir?
+
+A) 1 B) ñ2 C) 3 2D) 2 E) 4
+
+14 Soru 7a/ B Soru 7b/ D
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 8
+
+Soru : 8a Büyüklükleri 4 N, 7 N ve 10 N olan üç kuvvet aynı düz-
+
+Aynı düzlemde bulunan kuvvetler Şekil I ve II’deki gibi lem üzerine şekildeki gibi yerleştiriliyor.
+
+birbirlerine eklenmiştir.
+
+10 N
+
+4 N
+
+7 N
+
+4 N
+
+5 N
+
+7 N
+
+4 N
+
+Buna göre,
+
+I. Kuvvetlerin bileşkesi 14 N büyüklüktedir.
+
+3 N 5 NII. 7 N büyüklüğündeki kuvvet zıt yönde uygulanırsa
+
+Şekil I (R1) Şekil I (R2) bileşke kuvvet sıfır olur. III. 4 N büyüklüğündeki kuvvet zıt yönde uygulanırsa
+
+bileşke kuvvet 20 N büyüklükte olur.
+
+Şekil I ve Şekil II’deki kuvvetlerin bileşkesi sırası ile R1 ve R2 olduğuna göre, bu kuvvetlerin büyüklükleri aşağıdakilerin hangisine doğru olarak verilmiştir? yargılarından hangileri doğrudur?
+
+Çözüm
+
+R1 (N) R2 (N)
+
+10 N
+
+A) 3 5 B) 4 5 C) 6 7 4 N D) 6 14
+
+14 N
+
+E) 10 14 7 N
+
+Soru : 8b
+
+Büyüklükleri 6 N, 8 N ve 10 N olan üç kuvvet yatay bir düzlem üzerine şekildeki gibi yerleştirildiğinde bileşke kuvvet sıfır oluyor.8 N
+
+10 N
+
+6 N
+
+Buna göre, 10 N büyüklüğündeki kuvvet zıt yönde uygulanırsa bileşke kuvvet kaç N büyüklüğünde olur?
+
+A) 6 B) 8 C) 10 D) 16 E) 20
+
+15 Soru 8a/ D Soru 8b/ E 7 N
+
+Kuvvetlerin bileşkesinin büyük- lüğü 14 N olarak hesaplanır. (I. yargı doğrudur.)
+
+10 N
+
+7 N 4 N
+
+7 N kuvvetinin yönü değiştirilirse kuvvetlerin bileşkesi sıfır olur. (II. yargı doğrudur.)
+
+20 N10 N
+
+10 N
+
+4 N
+
+7 N
+
+4 N büyüklüğündeki kuvvetin yönü değişirse bileşke kuvvetin büyüklüğü 20 N olur. (III. yargı doğrudur.)
+
+Cevap: I, II ve III
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 9
+
+Soru : 9 Aynı düzlemde bulunan 2ñ3 N büyüklüğündeki kuv-
+
+Aynı düzlemde bulunan 4 N, 16 N, 16 N ve 20 N büyük- vetler Şekil I, F büyüklüğündeki kuvvetler ise Şekil lüğündeki kuvvetler şekildeki gibidir.II’deki gibi uygulandıklarında bileşkeleri eşit büyüklükte olmaktadır.
+
+16 N
+
+2ñ3 N
+
+F
+
+60°
+
+120° 2ñ3 N
+
+F
+
+20 N 60°
+
+4 N 60°
+
+Şekil I Şekil II
+
+Buna göre, F kuvveti kaç N büyüklüktedir?
+
+16 N
+
+A) 2 B) 3 C) 4 D) 5 E) 6
+
+Buna göre, bu kuvvetlerin bileşkesi kaç N büyüklük-
+
+ÇözümR
+
+Eşit büyüklükteki kuvvetler ara-
+
+tedir? d sin 60 ° = 3 2, cos 60 ° = 21 n 2ñ3 Nsındaki açı 60° ise bileşke kuv-
+
+A) 0 B) 2 C) 4 D) 6 E) 10 60°
+
+vet diğer kuvvetlerin ñ3 katına
+
+2ñ3 N
+
+eşittir. Bu uduruöda bileşke kuvvet R = (2ñ3)ñ3 = 6 N’dir.
+
+F
+
+R = F Eğer açı 120° ise bileşke kuvvet
+
+120°
+
+diğer kuvvetlerle eşit büyüklük-
+
+F
+
+tedir.
+
+O hâlde, F ile 6 N bileşke değerleri birbirine eşit ise F = 6N’dir.
+
+Örnek : 10
+
+Cevap: E Soru : 10 Aynı düzlemde bulunan 7 N, 4 N ve 3 N büyüklüğünde- ki kuvvetler bir cisme şekildeki gibi uygulanıyor.
+
+Aynı düzlemde bulunan 10 N büyüklükteki kuvvetler bir cisme şekildeki gibi uygulanıyor..
+
+7 N
+
+4 N
+
+30°
+
+yatay
+
+10 N 30°
+
+3 N
+
+4 N
+
+düşeyBuna göre, bu kuvvetlerin bileşkesi kaç N büyük- lüktedir? Çözüm Önce düşey, sonra diğer kuvvetlerin bileşkesini bulalım.
+
+7 N 4 N
+
+3 N
+
+16 Soru 9/ A Soru 10/ E
+
+10 N
+
+10 N 45° 45°
+
+Düşey
+
+Buna göre, bu kuvvetlerin bileşkesi kaç N büyüklük-
+
+tedir? d sin 45 ° = cos 45 ° = 22 n
+
+A) 6 B) 8 C) 10 D) 10ñ2 E) 10ñ3
+
+4 N
+
+4 N
+
+4 N
+
+120°
+
+4 N daha sonra
+
+4 N R
+
+⇒ R = 4ñ2 N bulunur.
+
+Cevap: 4ñ2 N
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 11
+
+Soru : 11 Koordinat sisteminde şekildeki gibi gösterilen 30 N büyüklüğündeki ÂF kuvvetinin x, y eksenleri üzerindeki
+
+Koordinat sisteminde verilen ÂF1, ÂF2 ve ÂF3 kuvvetleri şekil- deki gibi gösterilmiştir. bileşenleri sırası ile Fx ve Fy’dir.
+
+y
+
+ÂF2 = 20 N ÂF1 = 40 N 30 N
+
+0
+
+–x 53° 0 53°
+
+x ÂF3 = 20 N
+
+Buna göre, Fx ve Fy kuvvetleri kaç N büyüklüktedir.
+
+–y
+
+(sin53° = 0,8 ve cos53° = 0,6)
+
+Çözüm ÂF kuvvetinin x ve y eksenlerine paralel doğrular çizile- rek Fx ve Fy elde edilir.
+
+y
+
+53°x Fx
+
+17 Soru 11/ D Soru 12/ D
+
+37° x Buna göre, kuvvetlerin bileşkesi kaç N büyüklükte- dir? (sin37° = 0,6 , cos37° = 0,8)
+
+A) 10 B) 10ñ2 C) 20 D) 20ñ2 E) 30
+
+Dik üçgendeki açı-kenar ilişki- ÂF = 30 N
+
+leri kullanılırsa; Fx = F . cos53° = 30 · 0,8 = 18 N Fy = F . sin53° = 30 . 0,8 = 24 N 0 olarak bulunur. Örnek : 12
+
+Cevap: FFx y = 18 N = 25 N
+
+Soru : 12 Eşit bölmelere ayrılmış bir düzlem üzerinde bulunan noktasal bir uygulandığında cisme cisme ÂF1, etki ÂF2 ve eden ÂF3 bileşke kuvvetleri kuvvet şekildeki ÂR oluyor. gibi
+
+ÂFdeki 1 ve gibi ÂF2 yerleştiriliyor.
+
+kuvvetleri kartezyen koordinat sistemine şekil-
+
+y
+
+y
+
+ÂF1
+
+1 N
+
+ÂF1
+
+–x x –x
+
+0
+
+x
+
+ÂF2
+
+ÂF2
+
+–y
+
+–yBuna göre, ÂR kuvvetinin x ve y bileşenlerinin büyük- lükleri nedir?
+
+Çözüm Kuvvetleri uç uca ekleyerek önce ÂR kuvvetini bulalım.
+
+ÂF1
+
+ÂF3
+
+1 N
+
+0 ÂF3
+
+Buna göre, bu kuvvetlerin bileşkesi ÂR’nin x ve y eksenleri göre,
+
+üzerindeki bileşenleri ÂRx ve ÂRy olduğuna
+
+I. ÂR = ÂRx + ÂRy II. ÂRx = 0
+
+y
+
+III. ÂRy = –ÂR karşılaştırmalarından hangileri doğrudur?
+
+A) Yalnız I B) Yalnız II C) Yalnız III
+
+D) I ve II E) II ve III
+
+0
+
+x y ÂF2
+
+ÂR
+
+ÂRy
+
+ÂR
+
+ÂRx
+
+0 x ÂR kuvvetinin ucundan, eksenlere paralel doğrular çizilir- se Rx ve Ry bileşenleri şekildeki gibi elde edilir.
+
+Cevap: Rx = 1 N, Ry = 2N
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 13
+
+Soru : 13a Yatay sürtünmesiz bir düzlemde durgun hâlde bulunan
+
+Sürtünmesiz yatay düzlemde durmakta olan noktasal bir O noktasal cismine ÂF1, ÂF2 ve ÂF3 kuvvetleri şekildeki gibi aynı anda uygulanıyor.
+
+cisme ÂF1 ve ÂF2 kuvvetleri şekildeki gibi etki etmektedir.
+
+y
+
+ÂF1
+
+O
+
+x ÂF2
+
+ÂF2
+
+ÂF1
+
+V
+
+IV–x
+
+ÂF3
+
+III
+
+III Cisim harekete geçtikten bir süre sonra I, II, III, IV –y
+
+ve V nolu kuvvetlerden hangisi cisme uygulanırsa Buna göre, cisim serbest bırakılırsa hareket yönü
+
+cisim aynı yönde hareketine devam edebilir? için ne söylenebilir?
+
+A) I B) II C) III D) IV E) V
+
+Çözüm I. yol: Cisim serbest bırakıldığında bileşke kuvvet yönünde harekete geçer. Bileşke kuvvetin yönünü bul- mak için bu kuvvetleri uç uca ekleriz.
+
+ÂF1
+
+ÂRO
+
+ÂF3 ÂF2
+
+Soru : 13b
+
+Sürtünmesiz yatay düzlemde durgun hâlde bulunan noktasal bir cisme büyüklüğü F olan kuvvetler ile büyüklüğü 2F olan kuvvetler aynı anda şekildeki gibi uygulanıyor.
+
+\+y
+
+F +x
+
+–y
+
+18 Soru 13a/ C Soru 13b/ C Bu durumda bileşke kuvvet ÂR ile aynı yönlü olur ve cisim ÂF1 yönün- de harekete geçer.
+
+II. yol: Kuvvetler dik bileşenlerine ayrılır ve aşağıdaki durum elde edilir.
+
+ÂF1y
+
+ÂF1
+
+ÂF1x
+
+ÂF2y
+
+ÂF1y
+
+ÂF2xÂF3
+
+O
+
+ÂF2x
+
+ÂF3
+
+O
+
+ÂR
+
+ÂF1x
+
+ÂF2
+
+ÂF2y
+
+Cevap: ÂF1 yönünde harekete geçer.
+
+30°–x F
+
+60°
+
+2F
+
+2F
+
+Buna göre, cisme etki eden net kuvvet kaç F büyük- lüğünde olur ve cisim hangi yönde harekete geçer?
+
+Net kuvvet Hareket yönü
+
+A) ñ3 +y yönünde B) 2 +x yönünde
+
+C) ñ7 +x ile –y arasında
+
+D) 2ñ3 +x ile –y arasında E) 3 –x ile +y arasında
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 14
+
+Soru : 14a
+
+Aynı düzlemde bulunan ÂF1, ÂF2 ve ÂF3 kuvvetleri birim
+
+Sürtünmesi önemsiz yatay düzlemde bulunan noktasal kareler üzerine şekildeki gibi yerleştiriliyor.
+
+bir cisme ÂF1 ve ÂF2 kuvvetleri şekildeki gibi uygulanıyor.
+
+ÂF2 ÂF3
+
+y
+
+ÂF2 ÂKx ÂF1
+
+ÂR ÂLBu kuvvetlerin bileşkesinin ÂR olması için aşağıdaki işlemlerden hangisi yapılmalıdır?
+
+ÂF1
+
+ÂM
+
+A) ÂF3 kuvvetini kaldırmak
+
+Bu kuvvetlerle birlikte uygulanacak olan ÂF3 kuvveti, B) ÂF1 kuvvetini kaldırmak
+
+I. ÂK ise cisim +y yönünde hareket eder.
+
+C) ÂF2 kuvvetini ters çevirmek
+
+II. ÂL ise hareketsiz olabilir. D) ÂF3 ve ÂF2 kuvvetlerinin yarısını almak
+
+III. ÂM ise +x yönünde hareket eder.
+
+E) ÂF1 kuvvetini ters çevirip ÂF3 kuvvetini kaldırmak
+
+yargılarından hangileri doğrudur?
+
+Çözüm
+
+A) Yalnız I B) Yalnız II C) Yalnız III Bileşkenin ÂR olması için ÂF2 kuvvetinin ters çevrilmesi yeterlidir. Bu durumda
+
+D) I ve II E) II ve III
+
+ÂF3
+
+ÂF3 – ÂF2 + ÂF1 = ÂR elde edilir. ÂR
+
+ÂF1
+
+Cevap: C
+
+Soru : 14b Eşit bölmeli kuvvetlerinin –ÂF2
+
+yatay düzlemde bulunan başlangıç noktası Şekil I’deki F1, Fgibi 2, F3 O ve nok- F4 tasıdır.
+
+ÂF2 ÂF1 ÂF3
+
+19 Soru 14a/ D Soru 14b/ A
+
+2 1 OÂR 3
+
+4 5
+
+Şekil I
+
+Şekil II
+
+Bu vektörlerin bileşkesinin ÂR olabilmesi için ÂF4 kuvveti Şekil II’de verilen numaralandırılmış vektör- lerden hangisidir?
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 15
+
+Soru : 15a G ağırlığındaki bir cisim iple tavana asılıyor ve 15 N
+
+Bir ipe asılı G ağırlığındaki cisme yatay F kuvveti uygu- büyüklüğündeki yatay bir kuvvetle yana doğru çekildi-
+
+landığında cisim şekildeki gibi dengede kalırken ipte ğinde şekildeki gibi dengede kalıyor.
+
+gerilme kuvveti T oluyor.tavan
+
+37°
+
+G
+
+30°
+
+F = 15 N
+
+Buna göre, ipte oluşan gerilme kuvveti ile cismin ağırlığı kaç N büyüklüktedir?
+
+Çözüm53°
+
+ÂG
+
+20 Soru 15a/ C Soru 15b/ A
+
+tavan ÂT
+
+ÂG
+
+ÂF
+
+Buna göre ÂG, ÂF ve ÂT kuvvetlerinin büyüklükleri ara-
+
+sındaki ilişki nasıldır? (sin30° = 21 , cos30° = 23 )
+
+Önce cisme etki eden kuvvetleri
+
+A) T = F = G B) T \> F = G C) T \> G \> F sistem üzerinde gösterelim.
+
+D) G \> F \> T E) T \> F \> G ÂT ÂF
+
+y TTyKuvvetleri x, y koordinat sis- temine taşıyarak denge şartını
+
+Tx 53°
+
+15 N x
+
+yazalım.
+
+GI) Yatayda Tx = 15 N II) Düşeyde Ty = G dir. sin53° = cos37° = 0,8 cos53° = sin37° = 0,6 I) Tx = T . cos53° = 15 N ise T = 15
+
+cos53° T = 0,6 15 = 25 N’dir. II) Ty = T . sin53° = G ise G = 25 . sin53°
+
+G = 25 . 0,8 = 20 N’dir.
+
+Pratik Çözüm
+
+15 N 53°
+
+T37°
+
+Soru : 15b
+
+G ağırlığındaki cisim, yatay F kuvveti uygulandığında şekildeki gibi dengede kalıyor.
+
+α
+
+tavan ÂT
+
+ÂG
+
+ÂF
+
+Buradaki kuvvetleri bir dik üçge-
+
+Buna göre, α açısı arttırılarak yeniden dengede sağ- nin kenarlarına taşıyabiliriz. Bu
+
+landığında ipteki T ve F kuvvetinin büyüklüğü nasıl durumda 37° açının karşısındaki
+
+değişir? kuvvet 15 N ise 53° açının karşısı 20 N, 90° açının karşısı ise 25 N
+
+T F olarak hesaplanabilir.
+
+A) Artar Artar
+
+3k
+
+B) Artar Azalır 53°
+
+C) Değişmez Artar
+
+5k37°
+
+D) Azalır Değişmez E) Değişmez Değişmez G
+
+3k
+
+4kolduğu unutulmamalıdır.
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 16
+
+Soru : 16a Ağırlığı G olan türdeş bir cisim ipler yardımı ile tavana
+
+Özdeş cisimler şekildeki gibi dengelendiğinde iplerde asılarak şekildeki gibi dengeleniyor.
+
+T1, T2 ve T3 büyüklüğünde kuvvetler oluşuyor.
+
+T1 30° 30°
+
+T2 T1 60°T1 G Iplerde oluşan gerilme kuvvetleri T1 ve T2 büyüklü- ğünde olduğuna göre T1, T2 ve G arasındaki ilişki nedir?
+
+Çözüm I. yol Önce denge hâlinde olan cisme etki eden kuvvetleri gösterelim.
+
+T1 30° 30° T2 G
+
+21 Soru 16a/ A Soru 16b/ E
+
+T2 T2
+
+G
+
+T3 120°
+
+T3
+
+GDengede olan sistem için kuvvet- lerin bileşkesi sıfır olmalıdır.
+
+Buna rin göre hangisinde T1, Tdoğru 2 ve T3 olarak arasındaki gösterilmiştir?
+
+ilişki aşağıdakile-
+
+Bu durumda kuvvetleri uç uca ekleyerek bileşke kuvveti şekilde- ki gibi sıfır yapabiliriz.
+
+A) T3 \> T2 \> T1 C) T2 \> T3 \> T1 B) T1 \> T2 \> T3 D) T3 \> T1 \> T2
+
+E) T3 \> T1 = T2
+
+T2
+
+30°60° 60° 30° G
+
+T1 60°
+
+T260° 60° T1
+
+Oluşan eşkenar üçgen olduğuna göre kuvvetler de eşit büyüklükte olmalıdır. Bu durumda kuvvetlerin büyüklükleri eşittir. II. yol
+
+G
+
+Soru : 16b
+
+G
+
+Bir öğrenci barfiks çekmek için kollarını açarak Şekil 1 ve Şekil 2’deki gibi dengede kalıyor.
+
+60°
+
+60° 70° 70°
+
+T2 T1
+
+Kuvvetler bileşenlerine ayrılarak 30°
+
+30° yatay ve düşey bileşenlerin denge
+
+koşulları oluşturulursa;
+
+T1x = T2x ve T1y + T2y = G
+
+Şekil 1 Şekil 2 olmalıdır.
+
+T1 . cos30 = T2 . cos30 olduğundan T1 = T2 bulunur. T1 . sin30 + T2 . sin30 = G T 1 . 1
+
+2+ T 2 . 1
+
+2= G olacağından T1 = T2 = G bulunur.
+
+Cevap: G = T1 = T2
+
+Buna göre,
+
+I. Şekil 1 ve Şekil 2’de öğrencinin kollarında oluşan
+
+gerilme kuvvetlerinin büyüklükleri eşittir. II. Şekil 1 ve Şekil 2’de, öğrencinin kollarındaki gerilme
+
+kuvvetlerinin bileşkesi eşit büyüklüktedir. III. Şekil 1’de öğrencinin kollarında oluşan gerilme kuv-
+
+veti, Şekil 2’dekinden daha büyüktür. yargılarından hangileri doğrudur?
+
+A) Yalnız I B) Yalnız II C) I ve II
+
+D) I ve III E) II ve III
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 17
+
+Soru : 17a Ağırlığı 100 N olan cisim iki iple bir tavana asıldığında
+
+P ağırlıklı bir cisim tavana asıldığında şekildeki gibi den- şekildeki gibi dengede kalmaktadır.
+
+gede kalmaktadır.
+
+60° 30° T2 T1
+
+tavan 37°
+
+53° T1
+
+T2P 100 N
+
+Buna göre, iplerde oluşan lerinin büyüklükleri nedir?
+
+T1 ve T2 gerilme kuvvet-
+
+Çözüm Kuvvetleri şekildeki gibi gösterdikten sonra aralarındaki açılardan yararlanarak Lami teoremini uygularsak
+
+T2
+
+T1 G = 100 N
+
+22 Soru 17a/ C Soru 17b/ B
+
+tavan
+
+Iplerde T1, T2 büyüklüğünde gerilme kuvvetleri oluş- tuğuna göre P, T1 ve T2 arasındaki ilişki aşağıdakile- rin hangisinde doğru olarak gösterilmiştir?
+
+A) P = T1 = T2 B) P \> T1 = T2 C) P \> T1 \> T2 D) T1 \> T2 \> P E) T2 \> P \> T1
+
+37°
+
+53°
+
+127°
+
+143°
+
+G sin 90 ° = sin T 1 127 ° = sin
+
+T 143 2 °
+
+eşitliği elde edilir.
+
+Burada sin127° = sin53°
+
+sin143° = 37°
+
+Soru : 17b
+
+sin90° = 1’dir. Bu durumda
+
+P ağırlıklı bir cisim iplerle asıldığında şekildeki gibi den- gede kalmaktadır.
+
+G sin 90 ° = sin
+
+T 53 1 G sin 90 ° = sin
+
+T
+
+37 2 T2
+
+T3 °
+
+, T1 = G . sin53° = 100 . 0,8
+
+T1 = 80 N
+
+°
+
+, T2 = G . sin37° = 100 . 0,6
+
+T2 = 60 N
+
+Cevap: T
+
+80 N, T 60
+
+NT1
+
+40° 50°
+
+P 1 2
+
+yatay
+
+Buna ilişki nedir?
+
+göre; T1, T2 ve T3 gerilme kuvvetleri arasındaki
+
+A) T3 \> T1 \> T2 B) T3 \> T2 \> T1
+
+C) T2 \> T1 \> T3 D) T1 \> T2 \> T3
+
+E) T1 = T2 = T3
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 18
+
+Soru : 18a 30 N ağırlığındaki bir küre sürtünmesiz eğik düzlem
+
+Ağırlığı P olan küre sürtünmesiz bir eğik düzlem üzerin- üzerinde yatay F kuvvetiyle şekildeki gibi dengede
+
+de şekildeki gibi bir ip yardımı ile dengededir. tutulmaktadır.
+
+yatay F O
+
+O T
+
+53°
+
+30° Buna göre, eğik düzlemin tepkisi (N) ile yatay F kuvveti kaç N büyüklüktedir?
+
+Buna göre, ipte oluşan gerilme kuvvetinin büyüklü-
+
+Çözüm Eğik düzlem üzerinde bulunan bu küreye üç kuvvet
+
+ğü T kaç P’dir? (sin30° = 21 , cos30° = 23 )
+
+etki etmektedir. Bu kuvvetler F, G ve yüzey tepki kuv- A) 2 veti N’dir. Bu kuvvetleri cisim üzerinde şekildeki gibi
+
+B) 33 C) 3 2D) 23 E) 21
+
+gösteririz.N
+
+(Yüzey tepkisini
+
+yatay F
+
+O
+
+yüzeye dik doğrultu- da gösteririz.)
+
+53° G
+
+Soru : 18b
+
+Ağırlığı P olan türdeş bir küre şekildeki gibi dengelendi- Bu kuvvetlerin bileşikesi sıfır olacağına göre, bu kuvvet-
+
+ğinde ipteki gerilme kuvveti T yüzey tepkisi N büyüklü- leri dik üçgen üzerine aşağıdaki gibi taşıyalım.
+
+ğünde oluyor.
+
+N
+
+O
+
+F
+
+αT
+
+53°
+
+N O
+
+Buna göre, α açısı azaltılırsa N ve T için ne söyle- nebilir?
+
+N T
+
+A) Artar Artar
+
+B) Artar Azalır
+
+C) Azalır Artar
+
+D) Azalır Azalır
+
+E) Azalır Değişmez
+
+23 Soru 18a/ B Soru 18b/ D F = 4k
+
+37° 53°
+
+5k = N G = 3k = 30 N
+
+G
+
+3k = 30 N ise 4k = 40 N, 5k = 50 N’dir.
+
+Cevap: F = 40 N, N = 50 N
+
+Kavrama Bölümü Vektör Kuvvet - Denge Uygulama Bölümü Örnek : 19
+
+Soru : 19a Ağırlığı 24 N olan bir küre sürtünmesiz
+
+80 N ağırlığındaki bir küre sürtünmesiz eğik düzlem
+
+37°
+
+duvara bir iple bağlanarak şekildeki
+
+üzerinde yatay F kuvvetiyle dengede tutulmaktadır. ip
+
+gibi dengede tutuluyor. Buna göre, ipteki gerilme kuvveti ile duvar tepkisi kaç N büyüklüktedir?
+
+F O
+
+O
+
+(sin37° = 0,6 , cos37° = 0,8, sin53° = 0,8, cos53° = 0,6)
+
+Çözüm
+
+37°
+
+Küresel cisme etki eden üç kuvvet bulunmaktadır.
+
+Buna göre, eğik düzlemin tepkisi (N) ile F kuvveti Bunlar cismin ağırlığı ipteki gerilme ve yüzey tepkisidir.
+
+kaç N büyüklüğündedir? Öncelikle bu kuvvetleri gösterelim.
+
+A) F = 60 N
+
+B) F = 80 N N = 100 N
+
+N = 100 N
+
+N
+
+G
+
+24 Soru 19a/ A Soru 19b/ B
+
+C) F = 100 N
+
+T
+
+N = 80 N
+
+D) F = 100 N
+
+N = 60 N
+
+Bu kuvvetleri x, y koordinat sistemine yerleştirirsek aşa- ğıdaki durum oluşur.
+
+Ty
+
+53° TxGE) F = 60 N N = 80 N
+
+T
+
+x
+
+Soru : 19b
+
+G ağırlığındaki bir küre sürtünmesiz eğik düzlem üze- rinde, eğik düzleme paralel iple şekildeki gibi dengede tutulmaktadır.
+
+N
+
+y
+
+F
+
+O Denge koşullarını kullanırsak;
+
+I) Tx = N II) Ty = G dir. Bu durumda Ty = T . sin53° = G, T . 0,8 = 24 ise T = 30 N Tx = T . cos53° = N, 30 . 0,6 = 18 ise N = 18 N
+
+Cevap: T = 30 N, N = 18 N
+
+T
+
+37°
+
+Ipte oluşan gerilme kuvveti (T) 60 N olduğuna göre, kürenin ağırlığı (G) ve eğik düzlemin tepkisi (N) kaç N büyüklüğündedir?
+
+G N
+
+A) 80 100 B) 100 80 C) 60 80 D) 100 60 E) 60 100
+
+Konu VEKTÖR KUVVET - DENGE Testi 1
+
+1\. Aşağıda verilenlerden hangileri vektörel büyük-
+
+4\. ÂX, ÂY, ÂZ ve ÂT vektörleri koordinat düzlemine şekil- lüktür?
+
+deki gibi yerleştirilmiştir.
+
+A) Zaman B) Kütle C) Isı
+
+y 4D) Özkütle E) Kuvvet
+
+3ÂX
+
+ÂY ÂZ 21ÂT
+
+0 1 2 3 4 x
+
+Buna göre, ÂX + ÂY + ÂZ + ÂT işleminin sonucu aşa- ğıdakilerden hangisidir? 2. I. Bankadan alınan altının ölçüm niceliği
+
+II. Oda sıcaklığının ölçüm niceliği
+
+A) –T B) ÂY C) 2ÂY D) 2T E) Sıfır
+
+III. Suyun içindeki cisme uyguladığı kuvvetin öl-
+
+çüm niceliği
+
+Yukarıda verilen değerlerden hangileri skaler niceliktir?
+
+A) Yalnız I B) Yalnız II C) Yalnız III
+
+D) I ve II E) II ve III
+
+5\. Dört vektör dikdörtgenin üzerine şekildeki gibi yer-
+
+leştirilmiştir.
+
+Âa
+
+Âd
+
+Âb Âc
+
+3\. Birim kareler üzerine yerleştirilen ÂK, ÂL, ÂM ve ÂN vek-
+
+törleri şekildeki gibidir.
+
+Buna göre, bu vektörlerle yapılan Âa + Âb + Âc + Âd işleminin sonucu aşağıdakilerden hangisidir?
+
+ÂK ÂL
+
+A) Sıfır B) 2Âd C) –Âd D) 2Âc E) 2Âa
+
+ÂM
+
+ÂN
+
+Buna göre, hangi vektörlerin büyüklükleri bir- birine eşittir?
+
+6\. Büyüklükleri 4, 7 ve 10 Newton olan kuvvetle-
+
+A) ÂK ve ÂL B) ÂL ve ÂN C) ÂK, ÂL ve ÂM
+
+rin bileşkesinin büyüklüğü en az kaç N’dur?
+
+D) ÂK, ÂL ve ÂN E) ÂK, ÂL, ÂM ve ÂN
+
+A) 0 B) 1 C) 2 D) 3 E) 4
+
+Soru 1/ E Soru 2/ D Soru 3/ A
+
+25
+
+Soru 4/ C Soru 5/ B Soru 6/ A
+
+Konu VEKTÖR KUVVET - DENGE Testi 1
+
+7\. Birim kareler üzerine yerleştirilen Âx + Ây ve Âx – Ây
+
+10\. Şekilde gösterilen ÂF1, ÂF2 ve ÂF3 kuvvetlerinin her bi- vektörleri şekildeki gibidir.
+
+rinin değeri 10 N’dur.
+
+Âx + Ây Âx – Ây
+
+x
+
+Buna göre, 2Âx + Ây vektörü aşağıdakilerden han- gisinde doğru çizilmiştir?
+
+A) B)
+
+C) D) E)
+
+8\. ÂA ve ÂB vektörlerinin koordinat sistemindeki tanımı
+
+aşağıdaki gibi verilmiştir.
+
+ÂA(1, 3) ve ÂB(–4, 1)
+
+Buna göre, bu vektörlerin bileşkesinin koordi- natı ve büyüklüğü için aşağıdakilerden hangi- si söylenebilir?
+
+Koordinat Büyüklüğü
+
+A) (4, –3) 5
+
+B) (3 , 3) 3ñ2
+
+C) (4, 4) 4ñ2 D) (–3, 4) 5 E) (4, 3) 5
+
+9\. Aynı düzlemde bulunan ÂF1 ve ÂF1 – ÂF2 vektörleri Şe-
+
+kil I’deki gibidir.
+
+ÂF1
+
+ÂF1
+
+–x
+
+II
+
+ÂF1 – ÂF2 IŞekil ISoru 7/ E Soru 8/ D Soru 9/ B
+
+Soru 10/ B Soru 11/ C 120° ÂF2
+
+ÂF3
+
+Buna göre,
+
+I. ÂF1 ve ÂF3 kuvvetlerinin bileşkesi 10 N büyüklük-
+
+tedir.
+
+II. ÂF2 ve ÂF3 kuvvetlerinin bileşkesi 10ñ2 N büyük-
+
+lüktedir.
+
+III. ÂF1 + ÂF2 kuvveti –y yönündedir. ifadelerinden hangileri doğrudur? (sin30° = 21 , cos30° = 23 )
+
+A) Yalnız I B) Yalnız II C) I ve II
+
+D) II ve III E) I, II ve III
+
+11\. Aynı düzlemde bulunan ve büyüklükleri sıra- sıyla 2 N, 3 N ve 6 N olan ÂF1, ÂF2 ve ÂF3 kuvvet- leri aşağıdakilerden hangisindeki gibi verilirse bileşkesi sıfır olur?
+
+A)
+
+y
+
+B)
+
+y ÂF1
+
+30° 30°
+
+x x
+
+60° 60° ÂF2
+
+ÂF1 ÂF2
+
+2ÂF2
+
+3ÂF1
+
+ÂF3
+
+ÂF3
+
+C)
+
+y
+
+D)
+
+y
+
+60° 60°
+
+x 45° 45° x ÂF1 ÂF2
+
+ÂF3
+
+2ÂF2
+
+III IV
+
+2ÂF1
+
+V
+
+Şekil II
+
+Buna göre, ÂF1 + ÂF2 vektörü Şekil II’de göste- rilenlerden hangisidir? (Birim kareler özdeştir.)
+
+A) I B) II C) III D) IV E) V
+
+ÂF3
+
+ÂF3
+
+E)
+
+y
+
+120°x 120° 120° 26
+
+ÂL VEKTÖR KUVVET - DENGE Konu Testi 2 1
+
+1\. Birim kareler üzerine yerleştirilen ÂK, ÂL, ÂM ve ÂN vek-
+
+3\. Aynı düzlemdeki ÂK, ÂL ve ÂM vektörlerinin bileşkesi törleri şekildeki gibidir.
+
+d doğrusu üzerindedir.
+
+ÂK
+
+d ÂL
+
+II III ÂM
+
+Buna göre, bu vektörlerin bileşkesinin büyük- lüğü kaç birimdir?
+
+A) 9 B) 10 C) 12 D) 13 E) 13ñ2Soru 1/ D Soru 2/ C Soru 3/ B Soru 4/ C Soru 5/ E ÂK ÂM
+
+ÂN
+
+Buna göre,
+
+ÂK ve ÂL vektörleri şekilde gösterildiği gibi oldu-
+
+I. ÂM + ÂN ve ÂL vektörleri eşit büyüklüktedir.
+
+ğuna göre, ÂM; I, II ve III okları ile gösterilenler- den hangileri olabilir? II. ÂL, ÂN ve –ÂM vektörlerinin bileşkesi sıfırdır.
+
+III. ÂK ve ÂN vektörlerinin bileşkesi ile ÂL vektörü eşit
+
+A) Yalnız I B) Yalnız II C) Yalnız III
+
+büyüklüktedir.
+
+D) I ve II E) II ve III ifadelerinden hangileri doğrudur?
+
+A) Yalnız I B) Yalnız II C) Yalnız III
+
+D) I ve II E) II ve III
+
+4\. ÂK vektörünün M1 ve M2 eksenleri üzerindeki bile-
+
+şenleri ÂM1 ve ÂM2 dir.
+
+M1 ÂK 2. Aynı düzlemde bulunan ÂA ve ÂA + ÂB vektörleri şe-
+
+kildeki gibidir.y
+
+x
+
+ÂL
+
+I
+
+M2
+
+Buna göre, bileşenlerin büyüklükleri oranı kaçtır?
+
+ÂA + ÂB
+
+A) 1 2B) 1 C) ñ2 D) 2 E) 4
+
+ÂA
+
+5\. Dikdörtgenler prizması içine şekildeki gibi yerleş- tirilen ÂK, ÂL ve ÂM vektörlerinin büyüklükleri sırasıy- la 5, 12 ve 13 birimdir.
+
+ÂA vektörünün yönü değiştirilmeden büyüklüğü artırılırsa ÂA + ÂB vektörünün büyüklüğü için ne söylenebilir?
+
+13 12 A) Değişmez
+
+ÂK 5 B) Azalır
+
+C) Artar
+
+D) Önce artar sonra azalır
+
+E) Önce azalır sonra artar
+
+27
+
+2 VEKTÖR KUVVET - DENGE Konu Testi 1
+
+6\. Sürtünmesi önemsiz yatay düzlemde durmakta
+
+8\. Büyüklükleri F1, F2 ve F3 olan kuvvetler şekilde ve- olan noktasal P cismine aynı düzlemde bulunan
+
+rilen I, II ve III durumlarındaki bileşke kuvvetler eşit ve büyüklükleri F1, F2, F3 ve F4 olan kuvvetler şe-
+
+büyüklüktedir. kildeki gibi uygulanıyor.+y
+
+F1
+
+F2
+
+ÂF1
+
+ÂF4
+
+P ÂF3
+
+\+x 45°I F2
+
+II
+
+ÂF2
+
+60°
+
+Buna göre, P cismine hangi iki kuvvet birlik-
+
+III te uygulandığında cisim +x yönünde hareket edebilir?
+
+Buna göre F1, F2 ve F3 arasındaki ilişki nedir?
+
+A) F1 ve F2 B) F1 ve F4 C) F3 ve F2
+
+D) F3 ve F4 E) F1 ve F3
+
+A) F3 \> F2 \> F1 B) F3 \> F1 \> F2
+
+C) F1 \> F2 \> F3 D) F2 \> F1 \> F3
+
+E) F1 \> F3 \> F2 9. Yatay sürtünmesiz bir düzlemde noktasal bir cisim
+
+\+y yönünde şekildeki gibi hareket etmektedir.
+
+\+y
+
+\+x
+
+7\. Sürtünmesiz yatay düzlemde durmakta olan K, L ve M noktasal cisimlerine aynı düzlemde bulunan eşit büyüklükteki üç kuvvet şekildeki etki etmektedir.
+
+Bu cisme, ÂF1 ve ÂF2 kuvvetleri aşağıdaki gibi ayrı
+
+y
+
+ayrı tek başına uygulanıyor.
+
+I. +y K x ÂF1 +x Soru 6/ D Soru 7/ E
+
+Soru 8/ B Soru 9/ D F3 F1
+
+F3
+
+y
+
+L x y
+
+M x Buna göre, cisimlerden hangileri hareketsiz kalabilir?
+
+A) Yalnız K B) Yalnız L C) Yalnız M
+
+D) K ve L E) L ve M
+
+II. +y ÂF1
+
+\+x ÂF2
+
+III.
+
+\+y +x
+
+ÂF2
+
+ÂF2
+
+ÂF1
+
+Buna göre, hangi durumda cismin hareket doğ- rultusu değişmez?
+
+A) Yalnız I B) Yalnız II C) Yalnız III
+
+D) I ve II E) II ve III
+
+28
+
+3 VEKTÖR KUVVET - DENGE Konu Testi 1.
+
+Aynı düzlem-
+
+4\. M kütleli bir cisim, sürtünmesiz bir masa üzerinde de bulunan
+
+üç farklı kuvvetin etkisi altında Âv sabit hızıyla şekil-
+
+ÂK
+
+ÂL
+
+ÂK, ÂL ve ÂM
+
+de gösterilen doğrultuda hareket etmektedir. Cis- vektörleri şe-
+
+me etki eden kuvvetlerden iki tanesi, koordinat sis- ÂM
+
+kildeki gibidir.
+
+teminde ÂF1 ve ÂF2 vektörleriyle gösterilmiştir.
+
+Buna göre, ÂK + ÂL – ÂM = ÂX eşitliğini sağlayan X vektörü aşağıdakilerden hangisidir?
+
+A) 0 B) –ÂL C) ÂM D) –ÂM E) 2ÂK
+
+2\.
+
+Aynı düzlemde bulunan X,
+
+ÂY ÂZ
+
+Y ve Z vektörleri birim kare- lerin üzerine şekildeki gibi yerleştiriliyor. ÂX
+
+Buna göre, ÂX + ÂY – ÂZ vektörü aşağıdakilerin hangisinde doğru gösterilmiştir?
+
+A)B)
+
+C)
+
+D) E)3. Aynı düzlemde bulunan ÂA, ÂB ve ÂC vektörleri birim karelerin üzerine şekildeki gibi yerleştiriliyor.
+
+ÂB
+
+ÂC
+
+Soru 1/ A Soru 2/ E Soru 3/ B
+
+Soru 4/ D Soru 5/ C Buna göre koordinat sisteminin merkezinde yer alan cisme uygulanan üçüncü kuvvet vektörü- nün bitiş noktasının koordinatı, (x,y) aşağıda- kilerden hangisidir?
+
+A) (0,3) B) (0,4) C) (3,1) D) (–3,0) E) (–4,0)
+
+(LYS 2017)
+
+5\. Noktasal O cismine etki eden aynı düzlemdeki üç kuvvetin bileşkesi ÂR'dir. Bu kuvvetlerden ÂF1 şekil- deki gibidir.
+
+1
+
+3 4
+
+ÂA
+
+2
+
+ÂR
+
+5
+
+O
+
+ÂF1
+
+Buna göre, bu vektörlerle yapılan aşağıdaki işlemlerden hangisi doğru olarak verilmiştir?
+
+Birim kareler özdeş olduğuna göre, diğer iki kuvvet kesikli oklarla gösterilenlerden hangi-
+
+A) ÂA + ÂB = ÂC B) ÂA – ÂB = –ÂC
+
+si olabilir?
+
+C) ÂA – C = ÂB D) ÂB + ÂC = –ÂA
+
+A) 1 ve 2 B) 3 ve 4 C) 2 ve 4
+
+E) ÂA + 2ÂB = –2ÂC
+
+D) 1 ve 5 E) 3 ve 5
+
+29
+
+Konu VEKTÖR KUVVET - DENGE Testi 3
+
+6\. Durmakta olan K noktasal cismine aynı düzlemde
+
+8\.
+
+F1 = 5 N
+
+y
+
+Aynı düzlemde bulu- bulunan ÂF1, ÂF2 ve ÂF3 kuvvetleri şekildeki gibi uygu-
+
+nan ve noktasal bir cis- landığında cisim +x yönünde harekete geçmekte- dir.
+
+4
+
+3 2
+
+53°
+
+37°
+
+me etki eden ÂF1, ÂF2 ve x ÂF3 kuvvetleri şekildeki F3 = 5 N
+
+gibidir.
+
+1ÂF1
+
+F2 = 5 N
+
+5
+
+Kx
+
+Bu kuvvetlerin bileşkesinin yatay ve düşey bile- şenlerinin büyüklükleri sırası ile Rx ve Ry oldu- ğuna göre bu kuvvetler kaçar N büyüklüktedir? (sin53° = cos37° = 0,8 ve sin37° = cos53° = 0,6)
+
+ÂF2
+
+Rx (N) Ry (N) ÂF1 ve ÂF2 şekildeki gibi gösterildiğine göre, gös-
+
+A) 3 3 terilmeyen ÂF3 kuvveti kesikli oklarla gösterilen-
+
+B) 3 4 lerden hangisidir?
+
+C) 3 3 (Sürtünme yok, düzlem sürtünmesizdir.)
+
+D) 5 4
+
+A) 1 B) 2 C) 3 D) 4 E) 5
+
+E) 2 1
+
+9\. Aynı düzlemde bulunan ÂF1, ÂF2 ve ÂF3 kuvvetleri bir 7. Sürtünmesi önemsiz yatay düzlemde bulunan nok-
+
+cisme şekildeki gibi etki etmektedir.
+
+tasal O cismine üç kuvvet şekildeki gibi etki ediyor.
+
+F1 = 10 N 12 353°
+
+F3 = 16 N
+
+5 4 Soru 6/ A Soru 7/ B
+
+Soru 8/ E Soru 9/ E y ÂF1
+
+F2 = 12 x
+
+N
+
+O
+
+ÂF3
+
+Bu kuvvetlerden ÂF1 ve ÂF2 nin bileşkesi ÂR1, ÂF2 ve ÂF3 kuvvetlerinin bileşkesi ise ÂR2 dir. ÂF2
+
+Buna göre, ÂR1 ve ÂR2 vektörlerinin büyüklükleri Buna göre, cismin harekete geçmesini engel- leyecek olan dördüncü kuvvet kesikli oklarla
+
+oranı
+
+R1 kaçtır? (sin53° = 0,8 ve cos53° = 0,6) gösterilenlerden hangisidir? R2A) 1 B) 2 C) 3 D) 4 E) 5
+
+A) 3 B) 2 C) 23 D) 1 E) 21
+
+30
+
+Konu VEKTÖR KUVVET - DENGE Testi 1
+
+Soru 1/ A Soru 2/ E Soru 3/ C
+
+Soru 4/ A Soru 5/ E 4 1. Ağırlıkları PK, PL ve PM olan cisimler iplerle tavana asıldıklarında şekildeki gibi dengede kalmaktadır.
+
+T
+
+° 03T T 60° T T T 4. P cismi ve ağırlıksız iplerden oluşan şekildeki sis- tem dengededir. T1 gerilme kuvvetine sahip olan
+
+tavan
+
+ip K noktasından sökülerek boyu uzatılmakta ve L noktasına bağlanmaktadır. Bu işlem sırasında O noktasının yeri değişmemektedir.
+
+PK K PL L PM M Iplerdeki gerilme kuvvetleri eşit büyüklükte ol- duğuna göre, cisimlerin ağırlıkları arasında- ki ilişki aşağıdakilerin hangisinde doğru ola-
+
+O
+
+rak verilmiştir?
+
+A) PK \> PL \> PM B) PL \> PK \> PM
+
+C) PM \> PK \> PL D) PK = PL \> PM
+
+E) PM \> PK \> PL
+
+2\. Ağırlığı P olan bir cisim üç ayrı şekilde dengeleniyor.
+
+X Y
+
+P
+
+120°
+
+LM T2
+
+K T1
+
+P
+
+Buna göre, yeni denge durumunda T1 ve T2 ip gerilmeleri için aşağıdakilerden hangisi doğ- rudur?
+
+T1 T2 A) Azalır Azalır
+
+Z
+
+B) Artar Azalır C) Azalır Artar D) Artar Artar
+
+P P
+
+E) Azalır Değişmez
+
+(LYS 2016)
+
+Buna göre X, Y ve Z iplerinin hangilerinde olu- şan gerilme kuvveti cismin ağırlığına eşit bü- yüklüktedir?
+
+A) Yalnız X B) X ve Z C) X ve Y
+
+D) Y ve Z E) X, Y ve Z
+
+3\. Özdeş cisimler iplerle duvarlara bağlanarak sür- tünmesi önemsenmeyen düzeneklerde K, L, M ip-
+
+5\. Ağırlığı P olan bir cisim iplerle tavana asılarak şe-
+
+leriyle şekildeki gibi dengeleniyor.
+
+kildeki gibi dengeleniyor.
+
+K
+
+P
+
+30° 60°
+
+tavan L
+
+M P
+
+X TX α
+
+Duvar
+
+Duvar P
+
+α
+
+yatay
+
+P = 100 N
+
+Buna göre, hangi iplerde oluşan gerilme kuv- vetleri cismin ağırlığından küçüktür?
+
+Cismin ağırlığı 100 N büyüklükte olduğuna gö- re, X ipinde oluşan gerilme kuvveti TX kaç N bü-
+
+A) Yalnız K B) Yalnız L C) Yalnız M
+
+yüklüktedir? (sin60° = 3 2, sin30° = 21 )
+
+D) K ve L E) L ve M
+
+A) 20 B) 30 C) 40 D) 50 E) 50ñ3
+
+31
+
+4 VEKTÖR KUVVET - DENGE Konu Testi 1
+
+6\. T 37°P = 24 N
+
+Ağırlığı 24 N büyüklükte olan bir küre merkezinden geçiri-
+
+9\.
+
+P ağırlıklı türdeş bir küre iple
+
+T
+
+düşey duvara asıldığında şe- len bir iple düşey bir duvara
+
+kildeki gibi dengede kalıyor. Oasıldığında şekildeki gibi
+
+Duvarın küreye uyguladığı dengede kalmaktadır.
+
+N
+
+O
+
+tepki kuvveti N, ipte oluşan
+
+Buna göre, ipte oluşan gerilme kuvveti (T) ve duvarın küreye uyguladığı tepki kuvveti (N) ka- çar newtondur? (sin37° = 0,6 , cos37° = 0,8)
+
+gerilme kuvveti T büyüklük-
+
+Duvar
+
+te olduğuna göre, ipin bo- yu uzaltığında N ile T için ne söylenebilir?
+
+T (N) N (N)
+
+T N A) 12 6
+
+A) Değişmez Değişmez B) 18 20
+
+B) Azalır Azalır C) 18 30
+
+C) Azalır Artar D) 30 18
+
+D) Artar Azalır E) 48 36
+
+E) Artar Artar
+
+7\. Ağırlığı P olan türdeş bir küre sürtünmesiz eğik düzlem üzerinde yatay F kuvvetiyle şekildeki gibi dengededir.
+
+(P)
+
+F O
+
+53°
+
+F kuvveti 40 N büyüklükte olduğuna göre, kü- re ağırlığı kaç N büyüklüktedir? (sin53° = 0,8 ve cos53° = 0,6)
+
+10\. P ağırlıklı türdeş küre K ve L düzlemleri arasında şekildeki gibi dengede iken düzlem tepki kuvvet- A) 24 B) 30 C) 40 D) 50 E) 60
+
+leri NK, NL büyüklüğünde olmaktadır.K 8. 20 N ağırlığındaki türdeş bir küre merkezinden ge- çen bir iple düşey bir duvara asıldığında şekildeki gibi dengede kalmaktadır.
+
+NK
+
+L
+
+α
+
+yatay
+
+R
+
+Soru 6/ D Soru 7/ B Soru 8/ E
+
+Soru 9/ B Soru 10/ C NL ip
+
+37° Buna göre, L düzlemi ok yönünde bir miktar
+
+O
+
+Pdöndürüldüğünde NK ve NL için ne söylenebilir?
+
+NK NL A) Değişmez Artar P noktasındaki tepki kuvveti 9 N büyüklükte ol-
+
+B) Artar Azalır duğuna göre, R noktasındaki tepki kuvveti kaç
+
+C) Azalır Azalır N büyüklüktedir? (sin37° = 0,6 , cos37° = 0,8)
+
+D) Değişmez Azalır
+
+A) 16 B) 15 C) 12 D) 10 E) 8
+
+E) Azalır Değişmez
+
+32
+
+TORK
+
+Kuvvetin döndürme etkisine tork denir. Tork vektörel bir büyüklüktür. τ ile gösterilir ve birimi N . m’dir. Kendisi ya da uzantısı dönme noktasından geçen kuvvetin torku sıfırdır. Tork hesaplanırken kuvvet ile kuvvetin dönme noktasına olan dik uzaklığı çarpılır.
+
+τ0 = F . d ÂF
+
+DENGE KOŞULLARI
+
+Dönme yönü
+
+d
+
+Torkun yönü bulunurken sağ el kuralı kullanılır. Çubuk saat yönünde dönüyorsa torkun yönü sayfa düzlemine dik ve içeriye yönlüdür. Bir vektör sayfa düzlemine dik içeri yönlü ise şeklinde, dışarı yönlü ise şeklinde gösterilir. Kuvvetlerin herhangi bir doğrultuda uygulanabileceğini de dikkate alırsak F yerine çubuğa dik bileşenini almamız gerekir.
+
+d
+
+Fcosθ
+
+Oθ Fsinθ
+
+dı = dsinθ ÂF
+
+τ0 = (Fsinθ) . d bağıntısı yazılır.
+
+F
+
+d
+
+O
+
+θ Ya da F kuvvetinin sından dik çekilen ddoğrultusu ı uzaklığı uzatılır. hesaplanır. Bu doğrultuya Sonra F ile ddönme ı nokta-
+
+çarpılır.
+
+τ0 = F . dı τ0 = Fd(sinθ)
+
+1\) Cisme etki eden dış kuvvetlerin bileşkesi sıfır olmalıdır (ΣÂF = 0) 2) Cisme etki eden kuvvetlerin herhangi bir noktaya göre (toplam dönme yönüne dikkat edilerek) torku sıfır
+
+olmalıdır. (ΣÂτ = 0)
+
+Döndürme etkisi olan bir kuvvet doğrultusu üzerinde hareket ettirilirse dönme noktasına göre olan torkunun şiddeti değişmez.
+
+TORK-DENGE 2. ÜNİTE AKTİF NOT
+
+33
+
+Kavrama Bölümü Tork-Denge Uygulama Bölümü Örnek : 1
+
+Soru : 1
+
+O noktası etrafında dönebilen bir çubuğa F1, F2, F3 ve
+
+O noktası etrafında dönebilen eşit bölmeli bir çubuğa F4 kuvvetleri şekildeki gibi uygulanmaktadır.
+
+aynı büyüklükteki kuvvetler şekildeki gibi uygulanmak-
+
+ÂF4
+
+tadır.
+
+O
+
+ÂF3
+
+F1
+
+ÂF1
+
+F4
+
+ÂF2
+
+O
+
+Buna göre, hangi kuvvetlerin döndürme etkisi vardır?
+
+F2 F3
+
+A) Yalnız F1 B) Yalnız F2 C) F2 ve F4
+
+D) F2 ve F3 E) F1, F2 ve F4
+
+Çözüm Uzantısı dönme noktasından geçen kuvvetlerin torku sıfırdır. Çubuk O noktası etrafında dönebildiğine göre F3 kuvveti çubuğu döndüremez. Bu durumda F1, F2 ve F4 kuvvetleri çubuğu döndürmektedir.
+
+Cevap: E
+
+Örnek : 2 O merkezli türdeş bir küre şekildeki basamaktan kuvvet uygulanarak çıkarılmak isteniyor.
+
+ÂF1
+
+34 Soru 1/ D Soru 2/ C
+
+F5
+
+Buna göre, hangi kuvvetin O noktasında göre dön- dürme etkisi en büyüktür?
+
+A) F1 B) F2 C) F3 D) F4 E) F5
+
+Soru : 2
+
+O nokrası etrafında dönebilen X, Y ve Z levhalarına F büyüklüğündeki kuvvetler şekildeki gibi uygulanıyor.
+
+ÂF3 ÂF4
+
+ÂF2O
+
+F
+
+Basamak
+
+Buna göre ÂF1, ÂF2, ÂF3 ve ÂF4 kuvvetlerinden hangileri tek başına uygulanırsa küreyi basamaktan çıkara- bilir?
+
+A) Yalnız F1 B) Yalnız F2 C) Yalnız F3
+
+D) F2 ve F4 E) F3 ve F4
+
+Çözüm Kürenin basamaktan çıkabilmesi için basamağa değdi- ği nokta etrafında dönmesi gerekir. F1 ve F3 kuvvetleri- nin uzantısı dönme noktasından geçtiğine göre küreyi basamaktan çıkaramaz. Bu durumda F2 ve F4 kuvvetleri küreyi basamaktan çıkarabilir.
+
+Cevap: D
+
+X Y Z
+
+F F
+
+F
+
+O O O
+
+F F
+
+Buna göre X, Y ve Z levhalarından hangileri dönme hareketi yapamaz?
+
+A) Yalnız X B) Yalnız Y C) Yalnız Z
+
+D) X ve Z E) Y ve Z
+
+Kavrama Bölümü Tork-Denge Uygulama Bölümü Örnek : 3
+
+Soru : 3a O noktası etrafında serbestçe dönebilen eşit bölmeli bir
+
+O noktası etrafında serbestçe dönebilen eşit bölmeli çubuğa ÂF1, ÂF2 ve ÂF3 kuvvetleri şekildeki gibi ayrı ayrı uygulanıyor.
+
+bir çubuğa ÂF1, ÂF2 ve ÂF3 kuvvetleri şekildeki gibi ayrı ayrı uygulandığında O noktasına göre tork büyüklükleri
+
+ÂF3
+
+birbirine eşit olmaktadır.
+
+O
+
+30° yatay
+
+ÂF1 ÂF2
+
+O Fbüyüklükleri 1, F2 ve F3 eşit kuvvetlerinin olduğuna O göre, noktasına bu göre tork kuvvetlerin büyüklükleri arasındaki ilişki nedir? (sin30° = 21 ) A) F1 \> F2 = F3 B) F1 = F2 \> F3
+
+C) F2 = F3 \> F1 D) F1 \> F2 \> F3
+
+E) F2 \> F3 \> F1
+
+Çözüm Bu kuvvetlerin O noktasına göre tork büyüklüklerini yazarsak
+
+O
+
+ÂF1 ÂF2
+
+35 Soru 3a/B Soru 3b/ A
+
+ÂFÂF1 2 α α yatay Buna arasındaki göre ilişki F1, Fnedir?
+
+2 ve F3 kuvvetlerinin büyüklükleri
+
+A) F1 = F2 = F3 B) F1 = F3 \> F2
+
+C) F2 \> F1 = F3 D) F1 \> F2 \> F3
+
+E) F3 \> F2 \> F1
+
+Soru : 3b
+
+O noktası etrafında serbestçe dönebilen bir levhaya ÂF1, ÂF2 ve ÂF3 kuvvetleri şekildeki gibi ayrı ayrı uygulandığın- da levha dengede kalmaktadır.
+
+O 2d ÂF3
+
+ÂF2 ÂF1d
+
+Bu kuvvetlerin O noktasına göre tork büyüklükleri τaşağıdakilerin 1, τ2 ve τ3 olduğuna hangisinde göre, doğru bunlar olarak arasındaki verilmiştir? ilişki
+
+A) τ1 = τ2 = τ3 B) τ1 \> τ2 \> τ3 C) τ3 \> τ2 \> τ1 D) τ2 \> τ3 \> τ1
+
+E) τ2 \> τ1 \> τ3
+
+ÂF3
+
+F3sin30°
+
+d d d d 30° F3cos30° τ = F1d , τ = F22d , ( sinF 3
+
+30 °) 4 d 1 2ÂF3 x = \\ $ Bu durumda; F 1 = x d , F 2 = 2
+
+x d , F
+
+3 = F $ x 1 2$
+
+4 d = 2 x d bulunur.
+
+Cevap: A
+
+Kavrama Bölümü Tork-Denge Uygulama Bölümü Örnek : 4
+
+Soru : 4a Bir bölmesi d uzunluğunda olan eşit bölmeli bir çubuk
+
+O noktası etrafında serbestçe dönebilen bir levhaya yatay sürtünmesiz bir düzlemde O noktası etrafında
+
+büyüklükleri F ve 2F olan kuvvetler şekildeki gibi uygu- serbestçe dönebilmektedir.
+
+lanmaktadır. F aOd d d
+
+yatay
+
+b 2F 3F
+
+Bu çubuğa F, 2F ve 3F büyüklüğündeki kuvvetler şekildeki gibi uygulandığına göre, bu çubuk O nok- tasına göre kaç F . d büyüklüğündeki tork ile hangi
+
+F yönde döner?
+
+Tork büyüklüğü Dönme yönü
+
+A) 6 Fd a yönünde B) 6 Fd b yönünde C) 3 Fd b yönünde D) 3 Fd a yönünde E) 9 Fd b yönünde
+
+Çözüm Öncelikle kuvvetlerin O noktasına göre dönme yönlerini ve tork büyüklüklerini belirleyelim.
+
+O
+
+36 Soru 4a/ B Soru 4b/ B
+
+2F
+
+3d
+
+O 4d Buna göre, bu kuvvetlerin O noktasına göre torku hangi yönde kaç F . d olur? ( : Sayfa düzlemine dik, içeri doğru , : Sayfa düzlemine dik, dışarı doğru)
+
+A) 2F . d B) 2F . d C) 4F . d
+
+D) 4F . d E) 10F . d
+
+Fd F d d d
+
+ab 2F 3F
+
+Soru : 4b 2Fd 3F . 2 . d = 6FdEşit bölmeli yatay bir düzlemde bulunan F kuvveti O
+
+a yönündeki toplam tork Fd + 2Fd = 3Fd
+
+noktasına şekildeki gibi uygulanıyor.
+
+b yönündeki tork ise 6Fd büyülüğündedir. Bu durumda bileşke tork büyüklüğü 6Fd – 3Fd = 3Fd olarak hesaplanır. Çubuk 3Fd büyüklüğünde tork ile b yönünde döner.
+
+Cevap: C
+
+O M
+
+L
+
+K ÂF
+
+Buna göre, ÂF kuvvetinin K, L ve M noktasına göre tork büyüklükleri arasındaki ilişki nasıldır?
+
+A) τL \> τK \> τM B) τM \> τK \> τL C) τM \> τL \> τK D) τK \> τM \> τL
+
+E) τM = τK \> τL
+
+Kavrama Bölümü Tork-Denge Uygulama Bölümü Örnek : 5
+
+Soru : 5a Uzunluğu 5 m olan ve O noktası etrafında serbestçe
+
+O noktası etrafında dönebilen kütlesi önemsiz bir çubu- dönebilen bir çubuğa aynı düzlemli 4 N ve 3 N büyüklü- ğündeki kuvvetler şekildeki gibi uygulanmaktadır.
+
+F1 = 4 N 37°
+
+yatay ğa ÂF1, ÂF2 ve ÂF3 kuvvetleri şekildeki gibi ugulanmaktadır.
+
+F1 = 5 N 3 m 2 m
+
+F2 = 4 N
+
+F2 = 3 N
+
+Kuvvetlerin büyüklükleri sırası ile 5 N, 4 N ve 15 N olduğuna göre, çubuğa etki eden toplam tork kaç Buna göre, bu kuvvetlerin O noktasına göre toplam
+
+N . m’dir? (sin53° = 0,8 ve cos53° = 0,6) torkun yönü ve büyüklüğü nedir? (sin37° = 0,6 ve cos37° = 0,8)
+
+A) 2 B) 3 C) 4 D) 5 E) 6
+
+Yön Büyüklük (N . m)
+
+A) 12
+
+B) 12
+
+C) 6
+
+D) 10
+
+E) 6
+
+Çözüm
+
+F1 ve F2 kuvvetlerinin O noktasına göre tork vektörleri zıt yönlüdür. F1 ve F2 kuvvetlerinin büyüklükleri;
+
+F1
+
+d1
+
+d2
+
+Soru : 5b
+
+Yatay sürtünmesiz bir masada bulunan ve O noktası etrafında dönebilen bir çubuğa F büyüklüğündeki kuv- vetler şekildeki gibi uygulanıyor.
+
+F F
+
+37 Soru 5a/ A Soru 5b/ A
+
+yatay -------52 m -------5 2 mdüşey
+
+O yatay
+
+F3 = 15 N 53°
+
+τ1 = F1 . d1 yönünde
+
+37°
+
+τ2 = F2 . d2 yönünde ------- 52 F2
+
+\------- 52
+
+şeklinde yazılır.
+
+53°
+
+d 1 = 5 $
+
+sin\\0 , 37 6 °
+
+O
+
+sin
+
+° =
+
+3
+
+m
+
+d 2 = 5 2$
+
+\\
+
+0 ,
+
+53 8
+
+\=
+
+2
+
+m
+
+Bu durumda τ1 = 4 . 3 = 12 N . m, τ2 = 3 . 2 = 6 N . m bulunur. Toplam tork ise τ1 – τ2 den Στ = 12 – 6 = 6 N . m’dir.
+
+Cevap: E
+
+F
+
+O
+
+Her bölmenin uzunluğu L olduğuna göre, bu kuvvet- lerin O’ya göre toplam tork büyüklüğü nedir?
+
+A) Sıfır B) FL2 C) FL D) 3 FL2E) 2FL
+
+Kavrama Bölümü Tork-Denge Uygulama Bölümü Örnek : 6 Kütlesi önemsenmeyen 5 metre uzunluğundaki bir mer- diven üst ucu yerden 4 metre yükseklikte olacak şekilde duvara dayalıdır.
+
+4 m
+
+53°
+
+yer
+
+Ağırlığı 600 N olan bir adam merdivenin üzerinde şekildeki gibi dururken duvarın ve yerin merdivene uyguladığı tepki kuvvetleri kaç N büyüklükte olur? (Yer sürtünmeli, duvar sürtünmesizdir ; cos53° = 0,6)
+
+Duvarın tepki kuvveti (N)
+
+38 Soru 6a/ C Soru 6b/ A Yerin tepki kuvveti (N) A) 100 200 B) 180 400 C) 270 600 D) 600 270 E) 600 600
+
+Çözüm Önce dengede olan sistemde çubuğa etki eden kuv- vetleri gösterelim.
+
+N1
+
+4 m
+
+N2 Y = 3 m G
+
+Fs
+
+yer x 53°Denge koşullarını yazarsak;
+
+I) N1 = Fs II) N2 = G’dir. Bu durumda N2 = 600 N’dir.
+
+Çubuğun yere değme noktasına göre tork dengesini de yazarsak; G . x = N1 . 4 eşitliğine ulaşır ve N 1 = G $ x4 sonucuna ulaşırız. x uzunluğunu ise şeklin geometrisini kullana- rak aşağıdaki gibi buluruz. x = 3 . cos53° , x = 3 . 0,6 = 1,8 metre Bu durumda N = $ , 4
+
+\= N ’dir.
+
+N
+
+1 600 1 8 270 N 1 270 $
+
+N 2 600
+
+N
+
+Cevap: C
+
+Soru : 6a
+
+Türdeş çubuk şekildeki gibi dengedeyken, çubuğa duvarın uyguladığı kuvvet N1, yerin uyguladığı dik kuv- vet N2 ve sürtünme kuvveti fs dir.
+
+N1
+
+N2
+
+α
+
+fs
+
+Buna göre, α açısı azaltılırsa N1, N2 ve fs nasıl değişir? (Düşey duvar sürtünmesizdir.)
+
+N1 N2 fs A) Artar Artar Artar B) Azalır Değişmez Azalır C) Artar Değişmez Artar D) Artar Azalır Artar E) Azalır Artar Değişmez
+
+Soru : 6b
+
+Ağırlığı G olan türdeş çubuk sürtünmesiz düşey duvar- da şekildeki gibi dengededir.
+
+N2
+
+N1
+
+α
+
+fs
+
+Buna göre,
+
+I. Duvarın tepki kuvvetinin büyüklüğü sürtünme kuvvetinin (fs) büyüklüğüne (Neşittir.
+
+2), yerdeki
+
+II. Cismin eşittir.
+
+ağırlığı (G), yerin uyguladığı N1 kuvvetine
+
+III. α açısı artarsa, N1 artar. yargılarından hangileri doğrudur?
+
+A) Yalnınz I B) Yalnız II C) I ve II
+
+D) I ve III E) II ve III
+
+Kavrama Bölümü Tork-Denge Uygulama Bölümü Örnek : 7
+
+Soru : 7a Kütlesi önemsenmeyen 90 cm uzunluğundaki eşit böl-
+
+Kütlesi önemsenmeyen eşit bölmeli bir çubuğa P, 2P meli bir çubuğun uçlarına 20 N ve 40 N ağırlığında iki
+
+ve 3P ağırlığındaki cisimler asılıyor. cisim asılıyor.
+
+K 90 cm L
+
+K L M
+
+N R yatay yatay
+
+P 2P 3P
+
+20 N 40 N
+
+Çubuğun şekildeki gibi dengede kalması için çubuk
+
+Buna göre, çubuğun yatay olarak dengede kalabilme-
+
+hangi noktadan bir iple tavana asılmalıdır?
+
+si için K noktasından kaç cm öteden asılması gerekir
+
+A) K B) L C) M D) N E) R ve çubuk dengelendiğinde ipte oluşan gerilme kuvveti kaç N büyüklükte olmalıdır?
+
+K noktasına uzaklık (cm)
+
+Soru : 7b
+
+Ağırlığı P olan eşit bölmeli türdeş bir çubuk G, 2P ve 3P ağırlıklı cisimlerle K noktasından bir iple tavana asıldı- ğında şekildeki gibi dengede kalıyor.
+
+K yatay G 3P 2P
+
+Buna göre, G ağırlığı kaç P’dir?
+
+A) 6 B) 5 C) 4 D) 3 E) 2
+
+39 Soru 7a/ C Soru 7b/ A İpte oluşan gerilme (N) A) 20 40 B) 40 40 C) 50 60 D) 60 60 E) 80 60
+
+Çözüm Çubuğun kütlesi önemsenmediğine göre çubuğa etki eden iki kuvvet bulunmaktadır.
+
+K L
+
+yatay
+
+x
+
+(90 – x) Askı 20 N noktası
+
+40 N
+
+Askı noktasına göre tork dengesi şartını kullanırsak;
+
+20 $ x = 40 2 ( 90
+
+\-
+
+x
+
+)
+
+x = 2 ( 90
+
+\-
+
+x
+
+)
+
+x = 180 -
+
+2
+
+x
+
+3 x = 180 ve x =
+
+60
+
+cm olur
+
+.
+
+İpte oluşan gerilme kuvveti ise T = 20 + 40 = 60 N büyüklüktedir.
+
+Cevap: D
+
+Kavrama Bölümü Tork-Denge Uygulama Bölümü Örnek : 8
+
+Soru : 8a Kütlesi önemsiz eşit bölmeli bir çubuk üzerine asılı PX,
+
+Kütlesi önemsiz eşit bölmeli bir çubuk P ağırlıklı cisimler- PY ağırlıklı X ve Y cisimleri ile şekildeki gibi dengelen-
+
+le şekildeki gibi dengededir. miştir.
+
+yatay yatay
+
+P P X Y
+
+40 Soru 8a/ B Soru 8b/ E
+
+tavan tavan
+
+S1 S2S1, S2 iplerinde oluşan gerilme lükte olduğuna göre, PX PYkuvvetleri eşit büyük-
+
+oranı kaçtır?
+
+S1 ve S2 iplerinde oluşan gerilme kuvvetleri T1 ve T2 büyüklüğünde olduğuna göre, T1 T2A) 4 B) 3 C) 2 D) 23 oranı kaçtır?
+
+E) 1
+
+A) 4 B) 3 C) 2 D) 1 E) 1 2Çözüm İplerde oluşan gerilme kuvvetleri birbirine eşit büyük- lükte olduğuna göre, bileşkenin uygulama noktası iplerin tam ortasından gösterilir.
+
+PX Bileşke doğrultusu
+
+3
+
+PY Soru : 8b
+
+Kütlesi önemsiz eşit bölmeli bir çubuk şekildeki gibi dengededir.
+
+yatay
+
+20 N
+
+S1 S2
+
+T 2T
+
+1
+
+T
+
+Bu na göre durumda tork büyüklükleri PX ve PY ağırlıklarının, birbirine eşit bileşke olmalıdır.
+
+doğrultusu-
+
+PX . 1 = PY . 3 P X PY= 3
+
+bulunur.
+
+Cevap: B
+
+tavan
+
+10 N 10 N
+
+Buna T2 kaç göre, Newton’dur?
+
+iplerde oluşan gerilme kuvvetleri T1 ve
+
+A) T1 = 0
+
+T2 = 40
+
+T1 T2
+
+B) T1 = 30 T2 = 10
+
+C) T1 = 10 T2 = 30
+
+D) T1 = 20 T2 = 20
+
+E) T1 = 40
+
+T2 = 0
+
+Kavrama Bölümü Tork-Denge Uygulama Bölümü Örnek : 9
+
+Soru : 9a Kütlesi önemsenmeyen eşit bölmeli bir çubuk ağırlıkları
+
+Ağırlığı 3P olan X cismi ile ağırlığı bilinmeyen Y cismi PX ve PY olan X ve Y cisimleri ile şekildeki gibi denge-
+
+kütlesi önemsenmeyen eşit bölmeli bir çubuk yardımı dedir.
+
+ile şekildeki gibi dengeleniyor.
+
+tavan
+
+X
+
+(3P)
+
+yatay
+
+X
+
+Sürtünmeler önemsenmediğine göre,
+
+I. PX \> PY dir. II. (S) ipindeki gerilme kuvveti (T), Y cisminin ağırlığından
+
+büyüktür. III. X cisminin ağırlığı S ipindeki gerilme kuvettine eşit
+
+büyüklüktedir. yargılarından hangileri doğrudur?
+
+A) Yalnız I B) Yalnız II C) Yalnız III
+
+D) I ve II E) II ve III
+
+Çözüm Önce çubuğa etki eden kuvvetleri gösterelim.
+
+PX
+
+41 Soru 9a/ C Soru 9b/ C
+
+yatay S ipi
+
+YT Y
+
+S ipi
+
+S ipindeki gerilme kuvveti 2P büyüklüğünde oldu- ğuna göre, Y cisminin ağırlığı aşağıdakilerden han- gisinde doğru verilmiştir?
+
+A) 2P B) 3P C) 4P D) 5P E) 6P
+
+T Tı
+
+Denge koşuluna göre; (I) Soru : 9b tork alırsak (II) T . 1 = 3Tı O noktası etrafında dönebilen eşit bölmeli düzgün türdeş bir çubuk F kuvvetleri yardımı ile şekildeki gibi dengelen- miştir.
+
+F
+
+O
+
+yatay
+
+düşey T + Tı = PX tir. X cismine göre bulunur.
+
+TY cismini incelersek; (Y) (III) T = PY + Tı dür.
+
+PY Tı
+
+(I) nolu eşitlikte T yerine 3Tı yazarsak, 4Tı = PX dir. (II) nolu eşitlikte T yerine 3Tı yazarsak, 3Tı = PY + Tı
+
+2Tı = PY dir. Bu durumda PX \> PY dir. (II) nolu eşitlikten de T \> PY dir. Böylelikye PX \> T \> PY sonucuna ulaşırız.
+
+Cevap: D
+
+F
+
+Çubuğun ağırlığı P büyüklükte olduğuna göre, F kaç P’dir?
+
+A) 1 4B) 1 3C) 1 2D) 1 E) 2
+
+Kavrama Bölümü Tork-Denge Uygulama Bölümü Örnek : 10
+
+Soru : 10a
+
+Düzgün bir çubuk üzerinde bulunan bir çocuk ile birlikte
+
+T1 T2
+
+şekildeki gibi dengededir.
+
+T1
+
+Ağırlığı P olan eşit bölmeli türdeş bir çubuk ve bilye
+
+yatay
+
+şekildeki gibi dengelendiğinde iplerde T1 ve T2 büyük-
+
+T2 lüğünde gerilme kuvveti oluşuyor.
+
+Bilye ok yönünde 1 bölme ilerlediğinde T1 ve T2 için
+
+Çocuk ok yönünde hareket ederse çubuğun denge- ne söylenebilir?
+
+de rinin kaldığı büyüklükleri süre içerisinde için ne söylenebilir?
+
+T1 ve T2 gerilme kuvvetle-
+
+Çözüm
+
+T1 T2
+
+T1
+
+A) Artar Artar B) Artar Azalır C) Azalır Azalır D) Azalır Artar
+
+G
+
+E) Değişmez Azalır
+
+azalır
+
+Soru : 10b
+
+Kütlesi önemsiz bir çubuk üzerinde bulunan bir bilye ile birlikte şekildeki gibi dengelendiğinde iplerde T3 büyüklüğünde gerilme kuvveti oluşuyor.
+
+42 Soru 10a/ A Soru 10b/ C T2
+
+P
+
+T2 ipine göre tork alalım. G . 6 + P . 3 = T1 . 4
+
+değişmez
+
+Bilye ok yönünde ilerlediğinde torku azalır, P’nin torku değişmez. O hâde T1 azalır.
+
+T1
+
+T2
+
+G P
+
+T1, T2 ve Düşeydeki kuvvetlerin dengesini yazarsak G + P = T1 + T2 G + P toplamı sabit olduğuna göre T1 azalırsa T2 artar.
+
+T1 T3
+
+T2 yatay Bilye ok yönünde ilerlerken denge bozulmadığı sürece T1, T2 ve T3 için ne söylenebilir?
+
+T1 T2 T3 A) Artar Artar Artar B) Artar Azalır Artar C) Azalır Artar Artar D) Değişmez Artar Artar E) Artar Değişmez Azalır
+
+Kavrama Bölümü Tork-Denge Uygulama Bölümü Örnek : 11 Ağırlığı 32 N olan eşit bölmeli türdeş bir çubuk şekildeki gibi dengededir.
+
+O Soru : 11a
+
+Kütlesi önemsenmeyen eşit bölmeli bir çubuk şekildeki gibi dengededir. Tip
+
+53°
+
+yatay
+
+O ip
+
+P 53°
+
+yatay
+
+Buna göre, ipte oluşan gerilme kuvveti kaç N büyük-
+
+İpteki gerilme kuvveti 24 N büyüklükte olduğuna lüktedir? (sin53° = 0,8 , cos53° = 0,6)
+
+göre, P cisminin ağırlığı kaç N büyüklüktedir?
+
+A) 6 B) 12 C) 18 D) 20 E) 32
+
+(cos53° = 0,6)
+
+Çözüm
+
+A) 16 B) 18 C) 20 D) 24 E) 30
+
+Önce çubuğa etki eden kuvvetleri gösterelim.
+
+T
+
+xO y
+
+53°
+
+32 N = P
+
+O noktasına göre toplam tork sıfır olacağı için T . x = P . y eşitliği yazılır. Çubuğun geometrisini kulla- nılırsa;
+
+xy = = 4 2 $$
+
+sin\\cos \\ 0 0 ,53 , 86 53 ° ° = =
+
+3 1 , , 2 2 \_bb\`bb aSoru : 11b
+
+O noktası etrafında serbestçe dönebilen düzgün tür- deş bir kalas K ve L ipleriyle şekildeki gibi dengede tutuluyor.
+
+53° O
+
+43 Soru 11a/ C Soru 11b/ D bulunur
+
+.
+
+Bu durumda; T . 3,2 = 32 . 1,2 ⇒ T = 12 N
+
+Cevap: B
+
+K L
+
+yer
+
+Bu durumda K ipinde oluşan gerilme kuvveti 50 N büyüklükte olduğuna göre, L ipinde oluşan gerilme kuvveti kaç N büyüklükte olur? (cos53° = 0,6)
+
+A) 20 B) 40 C) 50 D) 60 E) 80
+
+Kavrama Bölümü Tork-Denge Uygulama Bölümü Örnek : 12a
+
+Soru : 12a Kütlesi önemsenmeyen eşit bölmeli bir çubuk uçlarına P
+
+Kütlesi önemsenmeyen eşit bölmeli bir çubuk üzerine yükleri asılı iken şekildeki gibi dengededir.
+
+asılı 60 N ağırlığındaki bir cisimle şekildeki gibi denge- tavandedir.
+
+ipT
+
+yatay
+
+yatay
+
+N1
+
+60 N N2 P P
+
+Destek tepki kuvvetleri sırası ile N1 ve N2 büyüklükte Buna göre, ipte oluşan gerilme kuvveti (T) kaç P’dir?
+
+olduğuna göre, aşağıdakilerden hangisi doğrudur?
+
+A) 31 B) 2 3C) 1 D) 3 2E) 2
+
+N1 (N) N2 (N)
+
+Çözüm Önce çubuğa etki eden kuvvetleri gösterelim.
+
+A) 10 20 B) 20 10 C) 30 30 N
+
+3
+
+T D) 40 20 E) 20 40 P 2 4
+
+P
+
+Destek noktası
+
+Sonra da destek noktasına göre toplam torku sıfıra eşitleyelim. P . 2 + T . 3 = P . 4 ⇒ 3T = 2P ⇒ Örnek : 12b
+
+44 Soru 12a/ D Soru 12b/ A T = 2 3PCevap: bulunur. B
+
+Ağırlığı P olan eşit bölmeleri türdeş bir çubuk X ve Y cisimleri ile şekildeki gibi dengededir.
+
+tavanK
+
+L yatay
+
+X = 2P Y
+
+X’in ağırlığı 2P olduğuna göre, Y’nin alabileceği en küçük ve en büyük P değeri kaçtır?
+
+Çözüm Çubuğa etki eden kuvvetleri şekildeki gibi gösterdikten sonra
+
+K L
+
+–
+
+2P P Y +K ve L iplerine göre ayrı ayrı tork alırız.
+
+K’ye göre; P . 1 + 4 . Y = 2P . 2 ⇒ Y = 3 P4L’ye göre; P . 2 + 2P . 5 = Y . 1 ⇒ Y = 12P
+
+Cevap: Ymin = 3 P4, Ymax = 12P
+
+Soru : 12b
+
+Kütlesi önemsenmeyen eşit bölmeli çubuk şekildeki gibi dengededir.
+
+yatay
+
+X
+
+tavan
+
+10 N
+
+Buna göre, X cisminin ağırlığı en fazla kaç Newton olabilir?
+
+A) 15 B) 20 C) 25 D) 30 E) 35
+
+Kavrama Bölümü Tork-Denge Uygulama Bölümü Örnek : 13
+
+Soru : 13a Eşit bölmeli türdeş KL çubuğu ile çubuk üzerindeki
+
+Eşit bölmeli türdeş bir çubuk K ve L ipleri ile tavana çocuğun ağırlığı eşit ve P kadardır.
+
+asılarak şekildeki gibi dengeleniyor.
+
+K L yatay
+
+D2
+
+45 Soru 13a/ C Soru 13b/ B tavanK L
+
+R S
+
+yatay
+
+D1
+
+L ipi bir bölme sağa kaydırılarak çubuk yeniden dengelendiğinde K ve L iplerinde oluşan gerilme
+
+R noktasında bulunan çocuk S noktasına gelirse
+
+kuvvetleri için ne söylenebilir?
+
+desteklerinin lenebilir?
+
+K L
+
+A) Değişmez Artar B) Artar Değişmez C) Artar Azalır D) Azalır Artar E) Değişmez Değişmez
+
+Soru : 13b
+
+Ağırlığı 2P olan eşit bölmeli türdeş bir çubuk ağırlıkları sırasıyla P, P ve 2P olan x, y ve z cisimleri ile şekildeki gibi dengededir.
+
+X = P Y = P Z = 2 P
+
+I II
+
+Buna göre, çubuktan Y ve Z cisimleri birlikte alındı- ğına söylenebilir?
+
+göre, desteklerin tepki kuvvetleri N1, N2 için ne
+
+N1 N2 A) Azalır Azalır B) Değişmez Azalır C) Azalır Değişmez D) Artar Artar E) Değişmez Artar tepki kuvvetleri N1 ve N2 için ne söy-
+
+N1 N2 A) P/2 kadar artar P/2 kadar azalır B) P kadar azalır 2P kadar artar C) 2P kadar azalır P kadar artar D) P kadar azalır P kadar artar E) 2P kadar artar 2P kadar azalır
+
+Çözüm Çocuk R noktasında iken çubuğa etki eden kuvvetler aşağıdaki gibidir.
+
+K N1 N2
+
+L
+
+R
+
+P + P = 2P
+
+Bu durumda N1 ve N2 nin R’ye göre torku alınırsa; Nolduğundan 1 = N2 olur. Denge koşuluna N1 = N2 = P’dir.
+
+göre N1 + N2 = 2P
+
+P P
+
+S
+
+K N1ı N2ı
+
+L
+
+S
+
+Çocuk S noktasına geldiğinde P kuvvetlerinin bileşkesi- nin uygulama noktası N1ı = O olmalıdır.
+
+D2 desteği üzerinde olacağı için
+
+Bu durumda N2ı = 2P’dir.
+
+Cevap: D
+
+Kavrama Bölümü Tork-Denge Uygulama Bölümü Örnek : 14
+
+Soru : 14a
+
+r = 10 cm
+
+Basamak O r r = 10 cm
+
+Yatay
+
+2 cm
+
+Ağırlığı 60 N olan türdeş bir küreyi şekildeki basamaktan çıkarabilecek en küçük kuvvet kaç Newton’dur?
+
+A) 24 B) 30 C) 40 D) 50 E) 60
+
+Soru : 14b
+
+Basamak
+
+Yatay
+
+46 Soru 14a/ C Soru 14b/ E
+
+4 cm
+
+basamak
+
+yatay
+
+Ağırlığı P olan türdeş bir küreyi şekildek basamak- tan çıkarabilecek en küçük kuvvet kaç P büyüklük- tedir?
+
+A) 103 B) 1 5C) 21 D) 2 3E) 4 5Çözüm Küreyi basamaktan çıkarabilecek en küçük kuvvet, dönme noktasına en uzaktan şekildeki gibi uygulan- malıdır.
+
+r
+
+O r = 10 Fmin
+
+8
+
+Dönme noktası 6
+
+P
+
+Denge koşulu uygulanırsa dönme noktasına göre ağır- lık ve Fmin kuvvetinin torkları eşit büyüklükte olmalıdır.
+
+. .
+
+.
+
+2 cm
+
+F min
+
+20 =P
+
+6
+
+F min
+
+\=620P
+
+F min
+
+\=
+
+3 10P olur
+
+Cevap: A
+
+F1
+
+F3
+
+F2
+
+Türdeş bir küre, şekildeki gibi F2, F3 kuvvetleri ile basamaktan ayrı ayrı çıkarılacaktır.
+
+uygulanan F1,
+
+Buna en küçük göre; değerler F1, F2 ve arasındaki F3 kuvvetlerinin ilişki nasıldır?
+
+alabilecekleri
+
+A) F1 \> F2 \> F3 B) F1 = F2 = F3
+
+C) F2 \> F1 \> F3 D) F2 \> F3 \> F1
+
+E) F3 \> F2 \> F1
+
+Konu TORK-DENGE Testi 1
+
+1\. P noktasından geçen bir mil etrafında sürtünmesiz yata düzlemde kolayca dönebilen, eşit bölmelen- dirilmiş ve ağırlığı ihmal edilen katı çubuk, şekilde gösterildiği gibi, kendisine dik olarak uygulanan FK ve FL kuvvetlerinin etkisiyle dengede durmak- tadır.
+
+FK kuvvetinin P noktasına göre çubuğa uygula- dığı torkun büyüklüğü t olduğuna göre, FL kuv- vetinin P noktasına göre çubuğa uyguladığı tor- kun büyüklüğü kaç t’dur?
+
+A) 1 3B) 2 3C) 3 2D) 3 E) 1 (AYT 2018)
+
+2\. Eşit bölmelere ayrılmış bir düzlemde ÂF1 ve ÂF2 kuv-
+
+vetleri şekildeki gibi uygulanmaktadır.
+
+ÂF2
+
+ÂF1
+
+O
+
+Kuvvetlerin O noktasına göre tork büyüklükleri
+
+τ1 ve τ2 olduğuna göre,
+
+x 1x2oranı kaçtır?
+
+A) 3 B) 2 C) 5 2D) 3 2E) 1
+
+Soru 1/ E Soru 2/ A
+
+Soru 3/ C Soru 4/ C Soru 5/ C
+
+47
+
+3\. Bir öğrenci P ağırlığındaki türdeş eşit bölmeli bir çubuğa ÂF1 ve ÂF2 kuvvetlerini uyguladığında çubuk şekildeki gibi yatay olarak dengede kalıyor.
+
+O
+
+ÂF1
+
+ÂF2
+
+yatay
+
+Çubuk O noktası etrafında dönebildiğine göre,
+
+I. F1 ve F2 kuvvetlerinin O noktasına göre tork
+
+büyüklükleri birbirine eşittir.
+
+II. F1 ve F2 kuvvetleri eşit büyüklüktedir. III. O noktasında çubuğa etki eden kuvvet ile F2
+
+kuvveti eşit büyüklüktedir.
+
+yargılarından hangileri doğrudur?
+
+A) Yalnız I B) Yalnız II C) Yalnız III
+
+D) I ve II E) II ve III
+
+4\. Fizik öğretmeni denge konusunu anlatabilmek için sürtünmesiz yatay düzlemde eşit bölmeli K, L ve M çubuklarını tahtada çizdikten sonra onlara etki eden kuvvetleri şekildeki gibi gösteriyor.
+
+F
+
+F
+
+F
+
+K α
+
+F
+
+F
+
+M
+
+F
+
+LF
+
+2F
+
+Buna göre, bu çubuklardan hangileri dengede kalabilmektedir?
+
+A) Yalnız K B) Yalnız L C) Yalnız M
+
+D) K ve L E) L ve N
+
+5\. O noktası etrafında serbestçe dönebilen eşit böl- meli türdeş çubuk şekildeki gibi dengededir.
+
+T
+
+O
+
+x = 4P
+
+Çubuğun ve X cisminin ağırlığı sırası ile 2P ve 4P olduğuna göre, O noktasından çubuğa etki eden kuvvet kaç P büyüklüktedir?
+
+A) 21 B) 1 C) 3 2D) 2 E) 3
+
+6\. Sürtünmelerin ihmal edildiği bir ortamda Ayşe ve Ali bir mağazadan geçiş yapabilmek için şekildeki gibi kütlesi ihmal edilen bir döner kapıya girmiştir. O ekseni etrafında serbestçe dönebilen özdeş ka- natların üzerinde K, L, M ve P kulpları bulunmakta- dır. L ve M kulplarının O eksenine uzaklığı 50 cm, K ve P kulplarının ise 100 cm’dir.
+
+Buna göre aynı anda;
+
+I. Ayşe L’den iterek 10 N’lik, Ali M’den çekerek
+
+10 N’lik,
+
+II. Ayşe L’den çekerek 20 N’lik, Ali P’den çekerek
+
+10 N’lik,
+
+III. Ayşe K’den iterek 20 N’lik, Ali P’den iterek 10 N’lik kuvvetleri kapı yüzeyine dik olacak şekilde
+
+uygularsa hangi durumlarda kapı O ekseni et- rafında döner?
+
+A) Yalnız I B) Yalnız II C) I ve III
+
+D) II ve III E) I, II ve III
+
+(AYT 2023)
+
+7\. F
+
+F
+
+Ortasında geçen dik eksen etrafında döne- bilen bir aracın direk- siyonuna büyüklükleri eşit olan paralel F kuv- vetleri şekildeki gibi uygulanmaktadır.
+
+Buna göre,
+
+I. Direksiyon dönmeyeceği için aracın yönü de-
+
+ğişmez.
+
+II. Kuvvetlerin bileşkesi sıfır olduğu için aracın yö-
+
+nü değişmez.
+
+III. Direksiyon saat yönünde döner.
+
+yargılarından hangileri doğrudur?
+
+A) Yalnız I B) Yalnız II C) Yalnız III
+
+D) I ve II E) II ve III
+
+Konu TORK-DENGE Testi 1
+
+8\. 2FF
+
+Soru 6/ C Soru 7/ C
+
+Soru 8/ C Soru 9/ D Yatay bir düzlemde O nokta- sı etrafında serbestçe döne- bilen eşit bölmeli bir çubuğa F, 2F ve 3F büyüklüklüğünde- ki kuvvetler şekildeki gibi uy- gulanmaktadır.
+
+Bu çubuğun dengede kalması için hangi kuv- vetler tek başına kaldırılmalıdır?
+
+A) Yalnız F B) Yalnız 2F C) Yalnız 3F
+
+D) F ve 2F E) 2F ve 3F
+
+9\. Efe, tekerleği O noktası etrafında rahatlıkla döne- bilen bir el arabasını, aynı noktadan düşey doğ- rultulu sabit büyüklükte farklı kuvvetler uygulaya- rak Şekil I ve Şekil II’deki gibi dengede tutmaktadır. Şekil II’de karpuzun ağırlık merkezi ile O noktası aynı düşey doğrultu üzerindedir.
+
+Şekil II’deki denge durumunda, Şekil I’deki den- ge durumuna göre;
+
+I. Efe’nin el arabasını dengede tutmak için uygu-
+
+ladığı kuvvet,
+
+II. Efe’nin el arabasına uyguladığı kuvvetin O nok-
+
+tasına göre torku,
+
+III. el arabasına etki eden net tork
+
+niceliklerinden hangileri azalmıştır?
+
+A) Yalnız I B) Yalnız II C) Yalnız III
+
+D) I ve II E) I ve III
+
+(AYT 2021)
+
+48
+
+O
+
+3F
+
+Konu TORK-DENGE Testi 1
+
+Soru 1/ A Soru 2/ D
+
+Soru 3/ A Soru 4/ A 2 1. Ayşe’nin elinde aynı uzunlukta ve renkleri birbirin- den farklı üç makas vardır. Bu üç makasın bıçak- larının uzunlukları ve destek noktasının bıçakların ucuna olan uzaklıkları farklıdır.
+
+Ayşe şekillerde kesit alanı görülen bir teli bu üç makastan biriyle, kaydırmadan kesmek istemek- tedir. Bu işlem, makas seçiminin ve telin makas bıçağı üzerindeki konumunun özdeş kareler üze- rinde ölçeklendirilerek bir arada verildiği düzlem- lerde yapılmaktadır.
+
+Buna göre Ayşe tutma yerlerinden var gücüyle düşey doğrultuda kuvvet uygulayarak teli kes- meye çalışırken makasın tek bir bıçağı ile tele uygulanan kuvvetin büyüklüğü aşağıdaki du- rumların hangisinde en fazla olur?
+
+A) B)
+
+C) D)
+
+E)
+
+(AYT 2022)
+
+2\. tavan
+
+ip
+
+O
+
+Kemal düzgün ve türdeş bir çubuğu bir iple tava- na asarak şekildeki gibi dengeliyor.
+
+Bu durumda ipte oluşan 60° yer
+
+gerilme kuvvetinin bü- yüklüğü T, çubuk ağırlı- ğının O noktasına göre tork büyüklüğü τ oluyor.
+
+Kemal ipin boyunu uzatıyor ve çubuğun yatayla yaptığı açıyı 30° olacak biçimde çubuğu yeniden aynı şekilde dengeliyor. Buna göre, T ve τ değerleri için ne söylenebilir?
+
+T τ
+
+A) Değişmez Değişmez
+
+B) Artar Azalır C) Azalır Artar D) Değişmez Artar E) Artar Değişmez
+
+49
+
+3\. O noktası etrafında dönebilen türdeş bir çubuk ÂF1, ÂF2 ve ÂF3 kuvvetleri yardımı ile üç ayrı biçimde şe- kildeki gibi dengelenmiştir.
+
+ÂF1 O Yatay
+
+O
+
+45°
+
+ÂF2
+
+Yatay
+
+O
+
+45°
+
+ÂF3
+
+Bu kuvvetlerin O noktasına göre tork büyüklük- leri sırası ile τ1, τ2 ve τ3 olduğuna göre, bun- lar arasındaki ilişki aşağıdakilerden hangisin- de doğru verilmiştir? (sin45° = cos45° = 22 ) A) τ1 \> τ2 = τ3 B) τ3 \> τ1 = τ2 C) τ2 \> τ1 = τ3 D) τ2 \> τ3 \> τ1 E) τ1 \> τ3 \> τ2
+
+4\. Ağırlıkları sırasıyla PX, PY ve PZ olan X, Y ve Z ci- simleri eşit bölmeli türdeş çubuğa asılarak şekil- deki gibi dengelenmiştir.Tavan
+
+Yatay
+
+X Y Z Buna göre,
+
+I. PX = PZ II. PY \> PZ III. PX = PY karşılaştırmalarından hangileri kesinlikle yan- lıştır?
+
+A) Yalnız I B) Yalnız II C) Yalnız III
+
+D) I ve II E) II ve III
+
+Konu TORK-DENGE Testi 1
+
+Soru 5/ B Soru 6/ D Soru 7/ E Soru 8/ D
+
+2
+
+5\. O noktası etrafında dönebilen türdeş bir çubuk, üzerine asılı olan X cismi ile birlikte F kuvveti yar- dımı ile şekildeki gibi dengeleniyor.
+
+O
+
+duvar30° düşey
+
+7\. Kütlesi önemsiz bir çubuğa K, L ve M cisimleri asıl- dıktan sonra çubuk bir ipe tavana bağlandığında şekildeki gibi dengede kalıyor.
+
+ip
+
+tavan
+
+yatay
+
+F = 30 N
+
+LK M X
+
+Buna göre,
+
+X cismi ile çubuğun ağırlıkları eşit olup F kuvve-
+
+I. K ve L cisimlerinin ağırlıkları eşit M cisminin ti 30 N büyüklükte olduğuna göre, çubuk ağır-
+
+ağırlığı onlardan büyüktür. lığı kaç N büyüklüktedir?
+
+II. L ve M cisimlerinin ağırlıkları eşit ve K cisminin (sin30° = 21 , cos30° = 23 )
+
+ağırlığından büyüktür.
+
+III. İpte oluşan gerilme kuvvetinin büyüklüğü K, L A) 50 B) 40 C) 30 D) 25 E) 20
+
+ve M cisimlerinin ağırlıklarının toplamına eşittir.
+
+yargılarından hangileri doğru olabilir?
+
+A) Yalnız II B) Yalnız III C) I ve II
+
+D) II ve III E) I, II ve III
+
+8\. Ağırlığı P olan bir cisim kütlesi önemsiz bir çubuk kullanılarak üç ayrı biçimde F1, F2 ve F3 büyüklü- ğünde kuvvetler kullanılarak dengeleniyor.
+
+6\. Kütlesi önemsenmeyen eşit bölmeli bir çubuk üze-
+
+F1
+
+rine asılı X, Y ve Z cisimleri ile şekildeki gibi iki ayrı
+
+P biçimde dengelenmiştir.
+
+ip Yatay
+
+X
+
+ZY F2
+
+yatay
+
+P
+
+(I)
+
+yatay
+
+(II)
+
+ip
+
+yatay
+
+P
+
+F3 (III)
+
+YX
+
+Z Buna göre,
+
+Cisimlerin ağırlıkları PX, PY ve PZ olduğuna gö-
+
+I. F1 \> P re, aralarındaki ilişki aşağıdakilerin hangisinde doğru olarak verilmiştir?
+
+II. F2 \> F3 III. F3 \> P A) PX = PY = PZ B) PZ \> PX \> PY
+
+yargılarından hangileri doğrudur?
+
+C) PY \> PX \> PZ D) PX \> PY = PZ
+
+A) Yalnız I B) Yalnız II C) Yalnız III
+
+E) PZ \> PX = PY
+
+D) I ve III E) II ve III
+
+50
