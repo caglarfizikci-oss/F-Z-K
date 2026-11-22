@@ -1,0 +1,34 @@
+# 1. Genel çalışma kuralları
+
+## Kiminle çalışıyoruz?
+- Çağlar bir **lise fizik öğretmeni**. Hazırlanan içerik lise öğrencisine yöneliktir.
+- Yazışmalar ve kitap metni **Türkçe**, sade ve lise öğrencisinin rahatça anlayacağı dilde olmalı.
+- Önceki çalışmalar bu depoda: `animasyonlar/` (Manim ile eğik atış ve menzil animasyonları).
+
+## Telif kuralı (en önemli kural)
+Kaynağa göre kural değişir (22 Kasım 2026'da Çağlar belirledi):
+
+| Kaynak | Ne yapılır? |
+|---|---|
+| **Aktif Fizik** (Çağlar kitabın yazarlarından biri) | MEB programıyla uyumlu olan her şey (metin, soru, örnek, şekil) **aynen ya da değiştirilerek** alınabilir. |
+| **MEB ders kitabı** | **Aynen alınmaz.** Soru değiştirilir (bağlam, sayılar, kurgu) ya da benzeri özgün olarak yazılır. |
+| **Diğer kaynaklar** (başka yayınevleri vb.) | Soru, metin, şekil ve sayı kalıbı birebir kopyalanmaz; yalnızca tarz, kalıp ve fikir alınır. |
+
+- Aktif Fizik'ten alınan içerik önce **programa uyum** açısından kontrol edilir; kapsam dışına taşan bir şey varsa Çağlar'a sorulur.
+- Aktif Fizik'ten alınırken incelemede bulunan **hatalar düzeltilerek** alınır (ör. atış grafiğinde tepe noktası etiketi "x" değil h_max; h_max = V₀ᵧ·t_ç/2; cisim adları eksen adlarıyla karışmasın diye X, Y, Z yerine K, L, M).
+- MEB ve diğer kaynaklarda içerik her zaman özgün yazılır, şekiller yeniden çizilir.
+- Tasarım (renk, şerit, kutu düzeni) örnek alınabilir; metin, soru ve şekil özgün kalır.
+- Bir kaynaktaki bilgi kullanılacaksa önce fiziksel doğruluğu kontrol edilir (bazı kaynaklarda hata bulundu, bkz. [05](05-kaynaklardan-cikan-sonuclar.md)).
+
+## Claude nasıl davranmalı?
+- **İstenmeden içerik üretilmez.** Çağlar kaynak yüklediğinde Claude yalnızca inceler ve not tutar. Konu anlatımı, soru, çalışma kâğıdı gibi içerikler ancak Çağlar açıkça istediğinde ve onunla birlikte hazırlanır.
+  - *Neden:* 2 Kasım 2026'da kaynak yüklerken Claude kendiliğinden konu anlatımı hazırladı; Çağlar bunu istemediğini, "konu anlatımını sonra birlikte hazırlayacağız" dediğini belirtti.
+- Talimatsız bir dosya yüklendiğinde: önce incele, sonra ne yapılacağını sor.
+- **Konu testi** Çağlar istemeden hazırlanmaz ("Konu testini şimdi hazırlama", 2 Kasım 2026).
+- Çağlar bir bölümü çıkardıysa (ör. öz değerlendirme tablosu, tekrar eden konu kutusu) **geri konmaz.**
+- Claude'a verilen yazım rehberleri ("bu konu nasıl ilerliyor" gibi plan yazıları) **kitaba yazılmaz**; onlar yalnızca yazarken uyulacak kurallardır.
+- PDF teslim edilir (Çağlar HTML ya da başka biçimleri açamadı; "ilk gönderdiğin gibi PDF olarak gönder").
+
+## Ortam kısıtları
+- Çalışma ortamı `meb.gov.tr` sitesinden dosya indiremiyor; resmi MEB PDF'lerini Çağlar yüklemeli.
+- Canva ile ilgili kısıtlar için bkz. [06-araclar-ve-dosyalar.md](06-araclar-ve-dosyalar.md).
