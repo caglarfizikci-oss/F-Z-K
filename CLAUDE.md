@@ -7,10 +7,11 @@ Kullanıcı lise fizik öğretmenidir. Kullanıcıyla **Türkçe** ve lise öğr
 Token tasarrufu için rehberlerin hepsi her işten önce okunmaz. Bu dosyadaki değişmez kurallar her zaman geçerlidir. Rehberler yalnız **kullanıcı söylediğinde** ya da iş o rehberin içeriğini **gerçekten gerektirdiğinde** açılır. Açılırken de **yalnız ilgili bölüm** okunur (grep ile başlık bulunup o kısım okunur, dosyanın tamamı okunmaz). Ne yapılacağı kullanıcı tarafından söylenir. Emin olunamazsa dosya okumak yerine kullanıcıya kısaca sorulur.
 
 1. `soru-yazim/tymm-2026-fizik-programi-genel-kurallar.md`: **ANA ŞABLON.** TYMM 2026 programının genel esasları, öncelik sırası, çıktı fiili ile soru türü eşlemesi, ünite ünite kritik sınırlar ve kullanıcının bütün materyal kuralları burada. Yeni materyal yazılırken yalnız ilgili ünitenin kısmı okunur.
-2. `soru-yazim/tymm-2026-fizik-ciktilar-tum-siniflar.md` (145 KB, büyük): 9-12. sınıfların 106 öğrenme çıktısı ve "kaçınılır" / "sınırlı kalınır" notları. **Asla tamamı okunmaz**; yalnız çalışılan sınıfın ilgili ünitesi okunur (başlıklar: "## 11. Sınıf 2. Ünite: ..." biçiminde).
-3. `soru-yazim/tymm-baglam-temelli-soru-yazim-kurallari.md`: Bağlam temelli soru yazım kuralları. Yalnız bağlam (Örnek + 2-3 soru) yazılırken.
-4. `soru-yazim/stil-rehberi-aktif-ayt.md`: Aktif Fizik AYT'nin sayfa düzeni, soru türleri ve TYMM ile çelişen noktaları. Yalnız gerektiğinde.
-5. `soru-yazim/sayfa-tasarim-sablonu-aktif.md`: **Bütün sayfalar bu tasarımla yapılır** (kullanıcı kararı, 2026-11-22). Renk kodları, yazı tipleri, ölçüler burada. Yalnız sayfa (PDF) üretilirken ya da tasarım düzeltilirken okunur; aynı oturumda bir kez okunduysa yeniden okunmaz.
+2. `soru-yazim/tymm-baglam-temelli-soru-yazim-kurallari.md`: Bağlam temelli soru yazım kuralları. Yalnız bağlam (Örnek + 2-3 soru) yazılırken.
+3. `soru-yazim/stil-rehberi-aktif-ayt.md`: Aktif Fizik AYT'nin sayfa düzeni, soru türleri ve TYMM ile çelişen noktaları. Yalnız gerektiğinde.
+4. `soru-yazim/sayfa-tasarim-sablonu-aktif.md`: **Bütün sayfalar bu tasarımla yapılır** (kullanıcı kararı, 2026-11-22). Renk kodları, yazı tipleri, ölçüler burada. Yalnız sayfa (PDF) üretilirken ya da tasarım düzeltilirken okunur; aynı oturumda bir kez okunduysa yeniden okunmaz.
+
+Tüm sınıfların çıktı listesi dosyası (`tymm-2026-fizik-ciktilar-tum-siniflar.md`) kullanıcı kararıyla silindi (2026-11-23); git geçmişinde duruyor. Çıktı bilgisi gerekirse kullanıcı ne yapılacağını söyler.
 
 Ek tasarruf: Aynı dosya aynı oturumda tekrar okunmaz. Büyük PDF'ler ve görüntüler gerekmedikçe açılmaz; açılırsa yalnız gereken sayfalar okunur.
 

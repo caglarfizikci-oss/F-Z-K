@@ -1,7 +1,6 @@
 # TYMM 2026 Fizik Dersi Öğretim Programı: Genel Kurallar (ANA ŞABLON)
 
-Bu dosya her sohbette, her soru, konu anlatımı ya da materyal hazırlanmadan **önce** okunur.
-Tüm sınıfların çıktıları, bileşenleri ve çıktı bazındaki sınırlar: `soru-yazim/tymm-2026-fizik-ciktilar-tum-siniflar.md`
+Bu dosya yalnız kullanıcı söylediğinde ya da iş gerektirdiğinde, yalnız ilgili bölümü okunur (hafif okuma kuralı, 2026-11-23).
 Programın kendisi: `soru-yazim/kaynak/Fizikprg.pdf` (104 sayfa), düz metni: `soru-yazim/kaynak/Fizikprg-tam-metin.txt`
 (Drive'daki adı: Fizikprg.pdf. Programın tam adı: Ortaöğretim Fizik Dersi Öğretim Programı, 9, 10, 11 ve 12. Sınıflar, Türkiye Yüzyılı Maarif Modeli 2026.)
 
